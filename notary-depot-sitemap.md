@@ -2202,7 +2202,7 @@
   - [Notary Public in Linden, CA: Anna Bell](https://www.notarydepot.com/abell)
   - [Notary Public in Abilene, TX: Bob Herndon](https://www.notarydepot.com/abibob)
   - [Notary Public in Dunnellon, FL: Betty B. Douglas](https://www.notarydepot.com/abigail)
-  - [Notary Public in Phoenix, AZ: Abigail A Petty](https://www.notarydepot.com/abigailpetty)
+  - [Notary Public in Phoenix, AZ: Abigail A Petty-Kuntz](https://www.notarydepot.com/abigailpetty)
   - [Notary Public in Abingdon, MD: Yolanda Bevans](https://www.notarydepot.com/abingdonltp)
   - [Notary Public in Charlotte, NC: Tangie M. Able](https://www.notarydepot.com/ablenotary)
   - [Notary Public in La Mirada, CA: Amber L Bailey](https://www.notarydepot.com/ablmobilenotary)
@@ -2901,7 +2901,6 @@
   - [Notary Public in Jasper, FL: Cheryl Young](https://www.notarydepot.com/cherylyoung)
   - [Notary Public in Chicago, IL: Carrie Rivera, CNSA](https://www.notarydepot.com/chicagonotaryservices)
   - [Notary Public in Chicago, IL: Carrie Rivera](https://www.notarydepot.com/chicagoparalegalnotaryservices)
-  - [Notary Public in Redlands, CA: Maria Galvez](https://www.notarydepot.com/chichona)
   - [Notary Public in Auburn, ME: Donald Robbins](https://www.notarydepot.com/chiefdon)
   - [Notary Public in Palmdale, CA: Chirnese Liverpool](https://www.notarydepot.com/chirnese_liverpool)
   - [Notary Public in Bolingbrook, IL: Thesia Ralston](https://www.notarydepot.com/chitownnotary)
@@ -7506,4 +7505,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-10-23T18:39:02Z
+Updated at 2017-10-23T18:59:02Z
