@@ -3709,7 +3709,6 @@
   - [Notary Public in Albany, OR: Laura J Goodwin](https://www.notarydepot.com/goodwinlj)
   - [Notary Public in Ocala, FL: Patrick G. Rodriguez](https://www.notarydepot.com/googoomuck01)
   - [Notary Public in Norfolk, VA: Leigh Mendoza](https://www.notarydepot.com/gopheru)
-  - [Notary Public in Sacramento, CA: Gloria Pacheco-Torres](https://www.notarydepot.com/gpacheco7)
   - [Notary Public in Murrieta, CA: Christine Allies](https://www.notarydepot.com/gr8brit)
   - [Notary Public in Stuart, FL: Jg](https://www.notarydepot.com/grabenmj)
   - [Notary Public in Tioga, LA: Sandra C. Lindstrom](https://www.notarydepot.com/gracehelpsnotary)
@@ -7505,4 +7504,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-10-23T21:19:03Z
+Updated at 2017-10-23T21:39:02Z
