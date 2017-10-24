@@ -6180,6 +6180,7 @@
   - [Notary Public in Lake Forest, CA: Cheryl Childers](https://www.notarydepot.com/signer)
   - [Notary Public in Chino, CA: Eilene L. Olson](https://www.notarydepot.com/signer4u)
   - [Notary Public in Sacramento, CA: Patricia Noren](https://www.notarydepot.com/signhere)
+  - [Notary Public in San Antonio, TX: Signature Here Notary Group LLC](https://www.notarydepot.com/signhere1)
   - [Notary Public in Pass Christian, MS: Gayle Allen](https://www.notarydepot.com/signing4u)
   - [Notary Public in Alabaster, AL: Kimberly DeFilippis](https://www.notarydepot.com/signingagent2002)
   - [Notary Public in Beverly Hills, FL: Jamie Block](https://www.notarydepot.com/signingagent4you)
@@ -7504,4 +7505,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-10-23T23:59:01Z
+Updated at 2017-10-24T00:19:02Z
