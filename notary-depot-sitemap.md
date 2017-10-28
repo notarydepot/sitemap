@@ -772,7 +772,6 @@
     - [Notary Public in Caldwell, ID](https://www.notarydepot.com/notary-near-me/Idaho/Caldwell)
     - [Notary Public in Hayden, ID](https://www.notarydepot.com/notary-near-me/Idaho/Hayden)
     - [Notary Public in Idaho Falls, ID](https://www.notarydepot.com/notary-near-me/Idaho/Idaho-Falls)
-    - [Notary Public in Kuna, ID](https://www.notarydepot.com/notary-near-me/Idaho/Kuna)
     - [Notary Public in Lewiston, ID](https://www.notarydepot.com/notary-near-me/Idaho/Lewiston)
     - [Notary Public in Meridian, ID](https://www.notarydepot.com/notary-near-me/Idaho/Meridian)
     - [Notary Public in Nampa, ID](https://www.notarydepot.com/notary-near-me/Idaho/Nampa)
@@ -2466,7 +2465,6 @@
   - [Notary Public in Dallas, TX: Saheed Aiyeojenku](https://www.notarydepot.com/asaheed)
   - [Notary Public in Atlanta, GA: Eric McLean](https://www.notarydepot.com/asapnote)
   - [Notary Public in Stone Mountain, GA: Asap Professional Services](https://www.notarydepot.com/asapproservices)
-  - [Notary Public in Kuna, ID: adfar](https://www.notarydepot.com/asdfasd)
   - [Notary Public in West Palm Beach, FL: Ashley carpenter](https://www.notarydepot.com/ashleyagent)
   - [Notary Public in Vancouver, WA: Angela Arnett](https://www.notarydepot.com/ashleyarnett)
   - [Notary Public in Mobile, AL: Ashley Atkinson, CSA](https://www.notarydepot.com/ashleyatkinson)
@@ -7506,4 +7504,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-10-28T04:19:04Z
+Updated at 2017-10-28T04:39:05Z
