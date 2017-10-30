@@ -2766,6 +2766,7 @@
   - [Notary Public in Milton, FL: Terry &amp; Chyril Zale](https://www.notarydepot.com/caileenz49)
   - [Notary Public in Palm Bay, FL: Jean A. Caldwell](https://www.notarydepot.com/caldwell1002)
   - [Notary Public in Pontiac, MI: Shayla Caldwell](https://www.notarydepot.com/caldwellprocessing)
+  - [Notary Public in Oklahoma City, OK: Caleb Dickenson ](https://www.notarydepot.com/calebthenotary)
   - [Notary Public in Murrieta, CA: Marie Armenta](https://www.notarydepot.com/caligirlz111)
   - [Notary Public in Louisville, KY: Callie Baker](https://www.notarydepot.com/calliebaker)
   - [Notary Public in Dexter, MO: Camie Jelinek](https://www.notarydepot.com/camiejelinek)
@@ -7505,4 +7506,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-10-30T22:00:03Z
+Updated at 2017-10-30T22:20:03Z
