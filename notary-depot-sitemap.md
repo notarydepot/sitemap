@@ -1351,6 +1351,7 @@
     - [Notary Public in Fishkill, NY](https://www.notarydepot.com/notary-near-me/New-York/Fishkill)
     - [Notary Public in Fort Edward, NY](https://www.notarydepot.com/notary-near-me/New-York/Fort-Edward)
     - [Notary Public in Freeport, NY](https://www.notarydepot.com/notary-near-me/New-York/Freeport)
+    - [Notary Public in Fulton, NY](https://www.notarydepot.com/notary-near-me/New-York/Fulton)
     - [Notary Public in Geneva, NY](https://www.notarydepot.com/notary-near-me/New-York/Geneva)
     - [Notary Public in Glenham, NY](https://www.notarydepot.com/notary-near-me/New-York/Glenham)
     - [Notary Public in Gloversville, NY](https://www.notarydepot.com/notary-near-me/New-York/Gloversville)
@@ -5226,6 +5227,7 @@
   - [Notary Public in Smyrna, GA: Meg Stocks](https://www.notarydepot.com/mstocks)
   - [Notary Public in Donna, TX: Maria J. Sustaita](https://www.notarydepot.com/msustaita)
   - [Notary Public in Fredericksburg, VA: Yvette D Fowler](https://www.notarydepot.com/mswells1)
+  - [Notary Public in Fulton, NY: Theresa M. Clark-Switzer](https://www.notarydepot.com/mswitze1)
   - [Notary Public in St. Augustine, FL: Michael K Tippit](https://www.notarydepot.com/mtippit)
   - [Notary Public in Pearland, TX: Margie Thompson](https://www.notarydepot.com/mtlcclosingservices)
   - [Notary Public in Osseo, MN: Mark T. Mazzitello](https://www.notarydepot.com/mtmazzitello)
@@ -7506,4 +7508,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-10-31T14:40:01Z
+Updated at 2017-10-31T15:00:02Z
