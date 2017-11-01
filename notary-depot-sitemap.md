@@ -2677,7 +2677,7 @@
   - [Notary Public in Corpus Christi, TX: Urvana Ornelas Zamora](https://www.notarydepot.com/bonnie)
   - [Notary Public in Redmond, OR: Bonnie Anne Nixon](https://www.notarydepot.com/bonnienixon)
   - [Notary Public in Sanger, CA: Chuck Goff](https://www.notarydepot.com/boomer)
-  - [Notary Public in Hemet, CA: Roland Kuehling](https://www.notarydepot.com/boomerdocs)
+  - [Notary Public in Visalia, CA: Roland Lee Kuehling](https://www.notarydepot.com/boomerdocs)
   - [Notary Public in Ocala, FL: Diana Schmidt](https://www.notarydepot.com/boopster)
   - [Notary Public in Riverside, CA: Cindy D. Hamilton](https://www.notarydepot.com/bootrell)
   - [Notary Public in Deltona, FL: Sarina Kelly](https://www.notarydepot.com/bosslady)
@@ -7504,4 +7504,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-01T21:40:02Z
+Updated at 2017-11-01T22:00:01Z
