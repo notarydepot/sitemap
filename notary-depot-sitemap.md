@@ -80,7 +80,6 @@
     - [Notary Public in Chandler, AZ](https://www.notarydepot.com/notary-near-me/Arizona/Chandler)
     - [Notary Public in Chino Valley, AZ](https://www.notarydepot.com/notary-near-me/Arizona/Chino-Valley)
     - [Notary Public in Clarkdale, AZ](https://www.notarydepot.com/notary-near-me/Arizona/Clarkdale)
-    - [Notary Public in Cottonwood, AZ](https://www.notarydepot.com/notary-near-me/Arizona/Cottonwood)
     - [Notary Public in Flagstaff, AZ](https://www.notarydepot.com/notary-near-me/Arizona/Flagstaff)
     - [Notary Public in Fort Mohave, AZ](https://www.notarydepot.com/notary-near-me/Arizona/Fort-Mohave)
     - [Notary Public in Gilbert, AZ](https://www.notarydepot.com/notary-near-me/Arizona/Gilbert)
@@ -2427,7 +2426,6 @@
   - [Notary Public in Jonesboro, GA: Angeline Williams](https://www.notarydepot.com/anwilliams)
   - [Notary Public in Bradenton, FL: Amanda Ortega](https://www.notarydepot.com/aortega1)
   - [Notary Public in Albuquerque, NM: Matt Powell](https://www.notarydepot.com/ap7notary)
-  - [Notary Public in Cottonwood, AZ: Margaret Paddock](https://www.notarydepot.com/apaloosa)
   - [Notary Public in Benicia, CA: Amanda Pangelina](https://www.notarydepot.com/apangelina)
   - [Notary Public in Summerville, SC: Vernida Gaillard Hill](https://www.notarydepot.com/apenneysaved)
   - [Notary Public in Richmond, TX: Aslam Jamal](https://www.notarydepot.com/apjamal)
@@ -7506,4 +7504,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-01T17:00:02Z
+Updated at 2017-11-01T17:20:06Z
