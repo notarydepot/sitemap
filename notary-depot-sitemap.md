@@ -621,7 +621,6 @@
     - [Notary Public in Margate, FL](https://www.notarydepot.com/notary-near-me/Florida/Margate)
     - [Notary Public in Marianna, FL](https://www.notarydepot.com/notary-near-me/Florida/Marianna)
     - [Notary Public in Mary Esther, FL](https://www.notarydepot.com/notary-near-me/Florida/Mary-Esther)
-    - [Notary Public in Mascotte, FL](https://www.notarydepot.com/notary-near-me/Florida/Mascotte)
     - [Notary Public in Melbourne, FL](https://www.notarydepot.com/notary-near-me/Florida/Melbourne)
     - [Notary Public in Miami, FL](https://www.notarydepot.com/notary-near-me/Florida/Miami)
     - [Notary Public in Miami Beach, FL](https://www.notarydepot.com/notary-near-me/Florida/Miami-Beach)
@@ -5575,7 +5574,6 @@
   - [Notary Public in Rockledge, FL: Jacob J. Roland, Paralegal](https://www.notarydepot.com/paralegal4u)
   - [Notary Public in Jacksonville, FL: Elizabeth A. Bowen](https://www.notarydepot.com/paralegaletc)
   - [Notary Public in Orange, CA: Paramount Global Enterprises](https://www.notarydepot.com/paramo17)
-  - [Notary Public in Mascotte, FL: Sandra Hernandez](https://www.notarydepot.com/paranotary)
   - [Notary Public in Miami, FL: Marlene Gonzalez Pardo](https://www.notarydepot.com/pardwulf11)
   - [Notary Public in Orlando, FL: Angela Parker-Smith](https://www.notarydepot.com/parkertaxes)
   - [Notary Public in Houston, TX: Patrice](https://www.notarydepot.com/pascully)
@@ -7508,4 +7506,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-01T16:20:03Z
+Updated at 2017-11-01T16:40:02Z
