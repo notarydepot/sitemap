@@ -3848,6 +3848,7 @@
   - [Notary Public in Moreno Valley, CA: Irene Anderson](https://www.notarydepot.com/ianders411)
   - [Notary Public in Urbandale, IA: Julie Sleep](https://www.notarydepot.com/ianotary)
   - [Notary Public in Boise, ID: Tamara Scott](https://www.notarydepot.com/idahonotary)
+  - [Notary Public in West New York, NJ: Idania Lorenti](https://www.notarydepot.com/idania)
   - [Notary Public in Baytown, TX: Imelda Donaldson](https://www.notarydepot.com/idonaldson58)
   - [Notary Public in Riverside, CA: Irene Estrada](https://www.notarydepot.com/iestrada)
   - [Notary Public in Orlando, FL: Ingrid Gordon](https://www.notarydepot.com/igordonrelief)
@@ -7505,4 +7506,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-02T19:20:02Z
+Updated at 2017-11-02T19:40:02Z
