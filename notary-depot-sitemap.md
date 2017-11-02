@@ -2196,6 +2196,7 @@
   - [Notary Public in Oviedo, FL: Gerry Stewart](https://www.notarydepot.com/abby)
   - [Notary Public in Austin, TX: Abby Bryce](https://www.notarydepot.com/abbybryce)
   - [Notary Public in Arlington, TX: Abigail Wood](https://www.notarydepot.com/abbywood)
+  - [Notary Public in Coos Bay, OR: Amy Murphy ](https://www.notarydepot.com/abcnownotary)
   - [Notary Public in Capitol Heights, MD: Ashli Beasley](https://www.notarydepot.com/abeasley5)
   - [Notary Public in Rockville, MD: Anna Behnam](https://www.notarydepot.com/abehnam)
   - [Notary Public in Linden, CA: Anna Bell](https://www.notarydepot.com/abell)
@@ -7508,4 +7509,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-02T22:40:03Z
+Updated at 2017-11-02T23:00:02Z
