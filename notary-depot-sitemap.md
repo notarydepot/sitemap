@@ -5985,6 +5985,7 @@
   - [Notary Public in Carrollton, TX: saba Chaudhry](https://www.notarydepot.com/sabanotary)
   - [Notary Public in Los Angeles, CA: Sabrina D. Machado](https://www.notarydepot.com/sabrinamachado)
   - [Notary Public in Santa Clara, CA: Kelby Olson](https://www.notarydepot.com/sac22)
+  - [Notary Public in Floresville, TX: Chi Hung Loo](https://www.notarydepot.com/sacnotary)
   - [Notary Public in Alcolu, SC: Mary Johnson](https://www.notarydepot.com/sade110)
   - [Notary Public in Middletown, NY: David Green](https://www.notarydepot.com/safenotary)
   - [Notary Public in Jacksonville, FL: Sagitta Woodie](https://www.notarydepot.com/sagitta35)
@@ -7504,4 +7505,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-02T18:20:01Z
+Updated at 2017-11-02T18:40:04Z
