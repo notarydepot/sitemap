@@ -1973,6 +1973,7 @@
     - [Notary Public in Burke, VA](https://www.notarydepot.com/notary-near-me/Virginia/Burke)
     - [Notary Public in Centreville, VA](https://www.notarydepot.com/notary-near-me/Virginia/Centreville)
     - [Notary Public in Chantilly, VA](https://www.notarydepot.com/notary-near-me/Virginia/Chantilly)
+    - [Notary Public in Charlottesville, VA](https://www.notarydepot.com/notary-near-me/Virginia/Charlottesville)
     - [Notary Public in Chesapeake, VA](https://www.notarydepot.com/notary-near-me/Virginia/Chesapeake)
     - [Notary Public in Chester, VA](https://www.notarydepot.com/notary-near-me/Virginia/Chester)
     - [Notary Public in Chesterfield, VA](https://www.notarydepot.com/notary-near-me/Virginia/Chesterfield)
@@ -6323,6 +6324,7 @@
   - [Notary Public in Americus, GA: Stacy Edge](https://www.notarydepot.com/stacyedge)
   - [Notary Public in Hacienda Heights, CA: Stacy Ov](https://www.notarydepot.com/stacyov)
   - [Notary Public in Southampton, NY: Stacy Dimon](https://www.notarydepot.com/stacy_dimon)
+  - [Notary Public in Charlottesville, VA: Tytecha Holliday-Maupin ](https://www.notarydepot.com/staffing2go)
   - [Notary Public in Bakersfield, CA: Donna D. Nelson](https://www.notarydepot.com/stampgirl)
   - [Notary Public in Columbia, MO: Glen Stancil](https://www.notarydepot.com/stancilg)
   - [Notary Public in Oakland, CA: Sandra Tarango](https://www.notarydepot.com/starango)
@@ -7510,4 +7512,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-03T05:00:02Z
+Updated at 2017-11-03T05:20:02Z
