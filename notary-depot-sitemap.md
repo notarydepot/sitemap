@@ -121,6 +121,7 @@
     - [Notary Public in Jacksonville, AR](https://www.notarydepot.com/notary-near-me/Arkansas/Jacksonville)
     - [Notary Public in Jonesboro, AR](https://www.notarydepot.com/notary-near-me/Arkansas/Jonesboro)
     - [Notary Public in Lowell, AR](https://www.notarydepot.com/notary-near-me/Arkansas/Lowell)
+    - [Notary Public in Malvern, AR](https://www.notarydepot.com/notary-near-me/Arkansas/Malvern)
     - [Notary Public in Maumelle, AR](https://www.notarydepot.com/notary-near-me/Arkansas/Maumelle)
     - [Notary Public in North Little Rock, AR](https://www.notarydepot.com/notary-near-me/Arkansas/North-Little-Rock)
     - [Notary Public in Pangburn, AR](https://www.notarydepot.com/notary-near-me/Arkansas/Pangburn)
@@ -5461,6 +5462,7 @@
   - [Notary Public in Gardendale, AL: Christian Chapman ](https://www.notarydepot.com/notaryprossouth)
   - [Notary Public in Anaheim, CA: mariam](https://www.notarydepot.com/notarypublic)
   - [Notary Public in Eastpointe, MI: Angelique](https://www.notarydepot.com/notarypublic4)
+  - [Notary Public in Malvern, AR: Laquila Dupree-Lewis](https://www.notarydepot.com/notarypublic72104)
   - [Notary Public in NY: Darlene Thomas](https://www.notarydepot.com/notarypublicdthomas)
   - [Notary Public in Knoxville, TN: Kurt Gross](https://www.notarydepot.com/notarypublictn)
   - [Notary Public in Los Angeles, CA: Powell Okpara](https://www.notarydepot.com/notarypublic_ronaldreganbuilding)
@@ -7512,4 +7514,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-03T05:20:02Z
+Updated at 2017-11-03T05:40:02Z
