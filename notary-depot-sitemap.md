@@ -2135,6 +2135,7 @@
     - [Notary Public in River Falls, WI](https://www.notarydepot.com/notary-near-me/Wisconsin/River-Falls)
     - [Notary Public in Sheboygan, WI](https://www.notarydepot.com/notary-near-me/Wisconsin/Sheboygan)
     - [Notary Public in Stevens Point, WI](https://www.notarydepot.com/notary-near-me/Wisconsin/Stevens-Point)
+    - [Notary Public in Sun Prairie, WI](https://www.notarydepot.com/notary-near-me/Wisconsin/Sun-Prairie)
     - [Notary Public in Waukesha, WI](https://www.notarydepot.com/notary-near-me/Wisconsin/Waukesha)
     - [Notary Public in Wausau, WI](https://www.notarydepot.com/notary-near-me/Wisconsin/Wausau)
     - [Notary Public in West Salem, WI](https://www.notarydepot.com/notary-near-me/Wisconsin/West-Salem)
@@ -3410,6 +3411,7 @@
   - [Notary Public in Fayette, MS: Earlene Harrison](https://www.notarydepot.com/earlene)
   - [Notary Public in Clementon, NJ: Anita Braun](https://www.notarydepot.com/earlgreylady)
   - [Notary Public in Winchester, CA: Colette Tariqi](https://www.notarydepot.com/easydocs)
+  - [Notary Public in Sun Prairie, WI: Michael Tazelaar](https://www.notarydepot.com/easynotaryservice)
   - [Notary Public in Bronxville, NY: Elizabeth Betrand](https://www.notarydepot.com/ebetrand)
   - [Notary Public in Fayette, MS: Jaharah Muhammad](https://www.notarydepot.com/ebonyice79)
   - [Notary Public in Killeen, TX: Ella R. Boyd](https://www.notarydepot.com/eboyd52136)
@@ -7514,4 +7516,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-03T09:40:02Z
+Updated at 2017-11-03T10:00:02Z
