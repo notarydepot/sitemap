@@ -823,6 +823,7 @@
     - [Notary Public in Murphysboro, IL](https://www.notarydepot.com/notary-near-me/Illinois/Murphysboro)
     - [Notary Public in Naperville, IL](https://www.notarydepot.com/notary-near-me/Illinois/Naperville)
     - [Notary Public in New Lenox, IL](https://www.notarydepot.com/notary-near-me/Illinois/New-Lenox)
+    - [Notary Public in North Aurora, IL](https://www.notarydepot.com/notary-near-me/Illinois/North-Aurora)
     - [Notary Public in Northbrook, IL](https://www.notarydepot.com/notary-near-me/Illinois/Northbrook)
     - [Notary Public in Oak Forest, IL](https://www.notarydepot.com/notary-near-me/Illinois/Oak-Forest)
     - [Notary Public in Oak Lawn, IL](https://www.notarydepot.com/notary-near-me/Illinois/Oak-Lawn)
@@ -3116,7 +3117,7 @@
   - [Notary Public in Westbury, NY: Daniel C. Jaipaul](https://www.notarydepot.com/danita46)
   - [Notary Public in Mahopac, NY: Dan Pearsall](https://www.notarydepot.com/danpearsall)
   - [Notary Public in Las Vegas, NV: Dante Thompson](https://www.notarydepot.com/dantethompson)
-  - [Notary Public in San Antonio, TX: Deborah Ann Otero](https://www.notarydepot.com/daotero)
+  - [Notary Public in North Aurora, IL: Deborah Ann Otero](https://www.notarydepot.com/daotero)
   - [Notary Public in Fenton, MO: Deborah A Petersen](https://www.notarydepot.com/dar273)
   - [Notary Public in La Vergne, TN: Angelique](https://www.notarydepot.com/darkangel75)
   - [Notary Public in Pomona, CA: Darla J. Hernandez](https://www.notarydepot.com/darlahernandez)
@@ -7516,4 +7517,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-03T16:40:02Z
+Updated at 2017-11-03T17:02:05Z
