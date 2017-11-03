@@ -4723,6 +4723,7 @@
   - [Notary Public in Byram, MS: Linda Mccune](https://www.notarydepot.com/lmccune)
   - [Notary Public in Raleigh, NC: Lisa M. Dahlquist](https://www.notarydepot.com/lmdahlquist)
   - [Notary Public in Battle Ground, WA: Lesley Metscher](https://www.notarydepot.com/lmetscher)
+  - [Notary Public in Las Vegas, NV: LISA M GAGLIO](https://www.notarydepot.com/lmgsigningservices)
   - [Notary Public in Atascadero, CA: Linda Mintey](https://www.notarydepot.com/lmintey123)
   - [Notary Public in Cloverdale, CA: Linda Welch](https://www.notarydepot.com/lndwelch)
   - [Notary Public in Downingtown, PA: Lauren Peluso](https://www.notarydepot.com/lnpeluso)
@@ -7509,4 +7510,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-03T01:40:02Z
+Updated at 2017-11-03T02:00:03Z
