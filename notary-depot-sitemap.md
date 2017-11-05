@@ -4757,7 +4757,7 @@
   - [Notary Public in Los Angeles, CA: La Notary](https://www.notarydepot.com/losangelesnotarynow)
   - [Notary Public in CA: Louise Olin](https://www.notarydepot.com/louiseolin)
   - [Notary Public in Grand Prairie, TX: Lourae Crichton](https://www.notarydepot.com/lourae)
-  - [Notary Public in Lake Wales, FL: luis toro](https://www.notarydepot.com/lousnotaryservices)
+  - [Notary Public in Lake Wales, FL: Luis Toro](https://www.notarydepot.com/lousnotaryservices)
   - [Notary Public in Belle Chasse, LA: Lara Lovas](https://www.notarydepot.com/lovasl)
   - [Notary Public in Carrollton, TX: Martha Aleman](https://www.notarydepot.com/lovi0803)
   - [Notary Public in Dallas, TX: Sharon Davis](https://www.notarydepot.com/lovie2009)
@@ -7521,4 +7521,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-05T01:22:02Z
+Updated at 2017-11-05T01:42:02Z
