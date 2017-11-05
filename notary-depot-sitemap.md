@@ -4648,6 +4648,7 @@
   - [Notary Public in Pomona, CA: Gloria Delfin](https://www.notarydepot.com/leti5050)
   - [Notary Public in Summerville, SC: Leverne Palmer ](https://www.notarydepot.com/levernepalmer)
   - [Notary Public in Saint Martinville, LA: Lisa](https://www.notarydepot.com/lgeorge)
+  - [Notary Public in Long Beach, CA: Leticia Gutièrrez](https://www.notarydepot.com/lgmobile26)
   - [Notary Public in Phoenix, AZ: Maria Goins](https://www.notarydepot.com/lgoins)
   - [Notary Public in Dayton, OH: Linda Golson](https://www.notarydepot.com/lgolson)
   - [Notary Public in Matthews, NC: Lynne T Guist](https://www.notarydepot.com/lguist)
@@ -7521,4 +7522,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-05T16:02:02Z
+Updated at 2017-11-05T16:22:03Z
