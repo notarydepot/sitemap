@@ -4186,7 +4186,7 @@
   - [Notary Public in Harrisburg, PA: Joel Vargas](https://www.notarydepot.com/joelvargaspanotary)
   - [Notary Public in San Ramon, CA: Joseph Noon](https://www.notarydepot.com/joenoon)
   - [Notary Public in Anaheim, CA: Johanna DeWitt](https://www.notarydepot.com/johannadewitt)
-  - [Notary Public in Sacramento, CA: John L Savage Jr](https://www.notarydepot.com/johannes05)
+  - [Notary Public in Orangevale, CA: John L Savage](https://www.notarydepot.com/johannes6)
   - [Notary Public in Macon, GA: Johnny Mullis](https://www.notarydepot.com/johnboy1983)
   - [Notary Public in Missouri City, TX: Johnnie Moutra Jr](https://www.notarydepot.com/johnclutch222)
   - [Notary Public in Suffield, CT: John B. Cown, &quot;Seals-On-Wheels&quot; (tm)](https://www.notarydepot.com/johncown)
@@ -6224,6 +6224,7 @@
   - [Notary Public in Mary Esther, FL: Maureen Siron](https://www.notarydepot.com/sironme)
   - [Notary Public in Vicksburg, MS: Sylvester Davis](https://www.notarydepot.com/sivads)
   - [Notary Public in Melrose Park, IL: Sandra Jones](https://www.notarydepot.com/sjjaka3gmailcom)
+  - [Notary Public in Melrose Park, IL: Sandra Jones](https://www.notarydepot.com/sjjakamn)
   - [Notary Public in Levelland, TX: Subrina J McClendon](https://www.notarydepot.com/sjmcclendon)
   - [Notary Public in Fairfield, CA: Stephen Mitchell, Professional Engineer](https://www.notarydepot.com/sjmitchell)
   - [Notary Public in Westville, NJ: Angela Whittaker](https://www.notarydepot.com/sjmobilenotary)
@@ -7522,4 +7523,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-07T16:22:02Z
+Updated at 2017-11-07T16:42:02Z
