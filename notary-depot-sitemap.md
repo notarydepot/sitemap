@@ -4500,7 +4500,6 @@
   - [Notary Public in Littleton, NC: Kristin L. Moore](https://www.notarydepot.com/kristinlmoore)
   - [Notary Public in Littleton, NC: Kristin Moore](https://www.notarydepot.com/kristinlmoore16)
   - [Notary Public in Fountain Valley, CA: Kristy Alvarado](https://www.notarydepot.com/kristy2011)
-  - [Notary Public in Dallas, TX: Kristy Billings](https://www.notarydepot.com/kristybillings)
   - [Notary Public in San Francisco, CA: Kristina Guzman](https://www.notarydepot.com/kristyg)
   - [Notary Public in Fountain Valley, CA: Kristy Alvarado](https://www.notarydepot.com/kristyja2000)
   - [Notary Public in Williamsburg, VA: Kristy Smith](https://www.notarydepot.com/kristynsmith)
@@ -7523,4 +7522,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-07T04:02:02Z
+Updated at 2017-11-07T04:22:03Z
