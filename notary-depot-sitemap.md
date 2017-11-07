@@ -3193,6 +3193,7 @@
   - [Notary Public in Philadelphia, PA: Deborah V Rockingham](https://www.notarydepot.com/deborahnsa)
   - [Notary Public in Green Cove Springs, FL: Debra Brock](https://www.notarydepot.com/debrabrock)
   - [Notary Public in Redondo Beach, CA: Debra Gralik - 7 days- Beach Cities, Southbay &amp; L A areas](https://www.notarydepot.com/debragralik)
+  - [Notary Public in Redondo Beach, CA: Debra ](https://www.notarydepot.com/debragralik12)
   - [Notary Public in Hayward, CA: Debra Lee Parker](https://www.notarydepot.com/debraleeparker)
   - [Notary Public in Prescott, AZ: Debra Watson](https://www.notarydepot.com/debrawatson)
   - [Notary Public in Broken Arrow, OK: Deborah Richardson](https://www.notarydepot.com/debrich59)
@@ -7523,4 +7524,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-07T19:22:04Z
+Updated at 2017-11-07T19:42:04Z
