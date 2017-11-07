@@ -444,7 +444,6 @@
     - [Notary Public in Upland, CA](https://www.notarydepot.com/notary-near-me/California/Upland)
     - [Notary Public in Vacaville, CA](https://www.notarydepot.com/notary-near-me/California/Vacaville)
     - [Notary Public in Vallejo, CA](https://www.notarydepot.com/notary-near-me/California/Vallejo)
-    - [Notary Public in Valley Springs, CA](https://www.notarydepot.com/notary-near-me/California/Valley-Springs)
     - [Notary Public in Ventura, CA](https://www.notarydepot.com/notary-near-me/California/Ventura)
     - [Notary Public in Victorville, CA](https://www.notarydepot.com/notary-near-me/California/Victorville)
     - [Notary Public in Villa Park, CA](https://www.notarydepot.com/notary-near-me/California/Villa-Park)
@@ -6417,7 +6416,6 @@
   - [Notary Public in Abingdon, VA: Kl](https://www.notarydepot.com/swvanotary2)
   - [Notary Public in Los Angeles, CA: Syed A. Ali](https://www.notarydepot.com/syedarshadali)
   - [Notary Public in Fillmore, CA: Sylvia E. Garibay](https://www.notarydepot.com/sylgaribay)
-  - [Notary Public in Valley Springs, CA: sylvia hurth](https://www.notarydepot.com/sylvie)
   - [Notary Public in Santa Ana, CA: Sonya S. Zuniga](https://www.notarydepot.com/szuniga50)
   - [Notary Public in San Diego, CA: Silvia Bobadilla](https://www.notarydepot.com/s_bobadilla25)
   - [Notary Public in Carson, CA: Kiko Lee](https://www.notarydepot.com/tababy)
@@ -7524,4 +7522,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-07T20:22:05Z
+Updated at 2017-11-07T20:42:02Z
