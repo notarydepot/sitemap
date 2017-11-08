@@ -5963,6 +5963,7 @@
   - [Notary Public in Dallas, TX: Roxanne Hollingsworth](https://www.notarydepot.com/roxienotary)
   - [Notary Public in Bethany, MO: Roxann Rickey](https://www.notarydepot.com/roxierickey)
   - [Notary Public in Calumet City, IL: Renee A Washington](https://www.notarydepot.com/roxy101)
+  - [Notary Public in Houston, TX: Datronaye Jones](https://www.notarydepot.com/royaltax)
   - [Notary Public in Los Angeles, CA: Roy Dubos](https://www.notarydepot.com/roydubos)
   - [Notary Public in Chicago, IL: Geraldine Green](https://www.notarydepot.com/roylt222)
   - [Notary Public in Clarks Summit, PA: Ryan P. Campbell, Esq.](https://www.notarydepot.com/rpcampbell99)
@@ -7526,4 +7527,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-08T03:02:03Z
+Updated at 2017-11-08T03:22:02Z
