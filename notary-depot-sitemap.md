@@ -2531,7 +2531,6 @@
   - [Notary Public in Quincy, MA: Warren Baker](https://www.notarydepot.com/bakerbraverman)
   - [Notary Public in Whitmore Lake, MI: Suzie C. Baker](https://www.notarydepot.com/bakertitle)
   - [Notary Public in Seattle, WA: Nancy Pyanowski](https://www.notarydepot.com/ballardnancy)
-  - [Notary Public in Fort Lauderdale, FL: Cesar Ballerini](https://www.notarydepot.com/ballerini)
   - [Notary Public in Arab, AL: James C. Martin](https://www.notarydepot.com/bamanotary1)
   - [Notary Public in San Francisco, CA: Kevin L. Nichols](https://www.notarydepot.com/bamss)
   - [Notary Public in North Little Rock, AR: Barbara Philmon](https://www.notarydepot.com/baphilmon)
@@ -7527,4 +7526,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-08T17:22:02Z
+Updated at 2017-11-08T17:42:02Z
