@@ -6137,6 +6137,7 @@
   - [Notary Public in McAlester, OK: Sharell Collins](https://www.notarydepot.com/sharelllarae)
   - [Notary Public in Elora, TN: Shari Hayden Eliff](https://www.notarydepot.com/sharihayden)
   - [Notary Public in Puyallup, WA: Mark](https://www.notarydepot.com/sharkmon)
+  - [Notary Public in Houston, TX: Sharnele](https://www.notarydepot.com/sharnelemack17)
   - [Notary Public in Lawrenceburg, IN: Sharon McClure](https://www.notarydepot.com/sharonmcclure)
   - [Notary Public in Pensacola, FL: Sharon Miller](https://www.notarydepot.com/sharonmiller)
   - [Notary Public in Toms River, NJ: Sharon Palombi](https://www.notarydepot.com/sharonp)
@@ -7526,4 +7527,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-08T20:02:02Z
+Updated at 2017-11-08T20:22:03Z
