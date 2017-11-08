@@ -638,6 +638,7 @@
     - [Notary Public in Niceville, FL](https://www.notarydepot.com/notary-near-me/Florida/Niceville)
     - [Notary Public in North Fort Myers, FL](https://www.notarydepot.com/notary-near-me/Florida/North-Fort-Myers)
     - [Notary Public in North Lauderdale, FL](https://www.notarydepot.com/notary-near-me/Florida/North-Lauderdale)
+    - [Notary Public in North Miami, FL](https://www.notarydepot.com/notary-near-me/Florida/North-Miami)
     - [Notary Public in North Miami Beach, FL](https://www.notarydepot.com/notary-near-me/Florida/North-Miami-Beach)
     - [Notary Public in North Port, FL](https://www.notarydepot.com/notary-near-me/Florida/North-Port)
     - [Notary Public in Ocala, FL](https://www.notarydepot.com/notary-near-me/Florida/Ocala)
@@ -6030,6 +6031,7 @@
   - [Notary Public in Walnut, CA: Sandra Torres](https://www.notarydepot.com/sandra5758)
   - [Notary Public in Irvine, CA: Sandra Norby](https://www.notarydepot.com/sandraca)
   - [Notary Public in Palmyra, VA: Sandra Clark](https://www.notarydepot.com/sandraclark12)
+  - [Notary Public in North Miami, FL: Sandra Ellington](https://www.notarydepot.com/sandraellington)
   - [Notary Public in Clermont, FL: Sandra Hernandez](https://www.notarydepot.com/sandrahernandez)
   - [Notary Public in Salinas, CA: Sandra Lemos](https://www.notarydepot.com/sandralemos)
   - [Notary Public in Hearne, TX: Sandra Moten](https://www.notarydepot.com/sandram)
@@ -7522,4 +7524,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-08T00:22:04Z
+Updated at 2017-11-08T00:42:02Z
