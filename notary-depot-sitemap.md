@@ -1634,6 +1634,7 @@
     - [Notary Public in Charleroi, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Charleroi)
     - [Notary Public in Clarks Summit, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Clarks-Summit)
     - [Notary Public in Clifton Heights, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Clifton-Heights)
+    - [Notary Public in Clymer, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Clymer)
     - [Notary Public in Coatesville, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Coatesville)
     - [Notary Public in Cochranton, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Cochranton)
     - [Notary Public in Collegeville, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Collegeville)
@@ -5606,6 +5607,7 @@
   - [Notary Public in Murrieta, CA: Paula Mayers](https://www.notarydepot.com/paula)
   - [Notary Public in Reading, PA: Paula M Marks](https://www.notarydepot.com/paula21)
   - [Notary Public in Butler, NJ: Paula Jones](https://www.notarydepot.com/paulajones30)
+  - [Notary Public in Clymer, PA: Paula Shilling](https://www.notarydepot.com/paulashilling)
   - [Notary Public in Washington, DC: Paul Weiss](https://www.notarydepot.com/pauldc)
   - [Notary Public in Huntersville, NC: Paul Gomez](https://www.notarydepot.com/paulgnotary2)
   - [Notary Public in Bayonne, NJ: Paul Rodriguez](https://www.notarydepot.com/paulie)
@@ -7524,4 +7526,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-08T02:42:02Z
+Updated at 2017-11-08T03:02:03Z
