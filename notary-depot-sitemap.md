@@ -3845,7 +3845,6 @@
   - [Notary Public in Bay City, MI: Shirley Houston](https://www.notarydepot.com/houston55)
   - [Notary Public in Ledyard, CT: Howard J. Craig, Jr.](https://www.notarydepot.com/howie35ct)
   - [Notary Public in Escondido, CA: Heather Reinhold](https://www.notarydepot.com/hreinhold)
-  - [Notary Public in NY: Cheryl Poccia](https://www.notarydepot.com/hrmobilenotary)
   - [Notary Public in White Pine, TN: Jonathan W Stewart](https://www.notarydepot.com/hscomp)
   - [Notary Public in Hayward, CA: Fay Hudson](https://www.notarydepot.com/hudsonbay)
   - [Notary Public in Los Angeles, CA: Cheryl](https://www.notarydepot.com/hufford68)
@@ -6600,6 +6599,7 @@
   - [Notary Public in Ashburn, VA: Antoinette Kitchen](https://www.notarydepot.com/tonikitchen)
   - [Notary Public in Houston, TX: Toni Long](https://www.notarydepot.com/tonilong1124)
   - [Notary Public in Frankfort, IN: Toni Pugh](https://www.notarydepot.com/tonipugh)
+  - [Notary Public in Silver Spring, MD: Maryland Mobile Notary](https://www.notarydepot.com/tonserio)
   - [Notary Public in Springville, AL: Tonya L. Grimes](https://www.notarydepot.com/tonyagrimes)
   - [Notary Public in Cleveland, OH: tony mannarino](https://www.notarydepot.com/tonymannarino)
   - [Notary Public in CA: Tony Thomassian](https://www.notarydepot.com/tonythomassian)
@@ -7527,4 +7527,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-08T17:02:02Z
+Updated at 2017-11-08T17:22:02Z
