@@ -1051,6 +1051,7 @@
     - [Notary Public in Ann Arbor, MI](https://www.notarydepot.com/notary-near-me/Michigan/Ann-Arbor)
     - [Notary Public in Bay City, MI](https://www.notarydepot.com/notary-near-me/Michigan/Bay-City)
     - [Notary Public in Benton Harbor, MI](https://www.notarydepot.com/notary-near-me/Michigan/Benton-Harbor)
+    - [Notary Public in Berkley, MI](https://www.notarydepot.com/notary-near-me/Michigan/Berkley)
     - [Notary Public in Birmingham, MI](https://www.notarydepot.com/notary-near-me/Michigan/Birmingham)
     - [Notary Public in Blissfield, MI](https://www.notarydepot.com/notary-near-me/Michigan/Blissfield)
     - [Notary Public in Bronson, MI](https://www.notarydepot.com/notary-near-me/Michigan/Bronson)
@@ -6343,6 +6344,7 @@
   - [Notary Public in Bakersfield, CA: Donna D. Nelson](https://www.notarydepot.com/stampgirl)
   - [Notary Public in Columbia, MO: Glen Stancil](https://www.notarydepot.com/stancilg)
   - [Notary Public in Oakland, CA: Sandra Tarango](https://www.notarydepot.com/starango)
+  - [Notary Public in Berkley, MI: Wanda Faye Tolbert](https://www.notarydepot.com/starnotary)
   - [Notary Public in Hercules, CA: Claudia Horton](https://www.notarydepot.com/starservicenotary)
   - [Notary Public in Oklahoma City, OK: Peggy Brown](https://www.notarydepot.com/starz)
   - [Notary Public in Morgantown, PA: Kelly Starzmann](https://www.notarydepot.com/starzmannsnotary)
@@ -7527,4 +7529,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-09T20:42:11Z
+Updated at 2017-11-09T21:02:03Z
