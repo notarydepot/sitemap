@@ -5103,6 +5103,7 @@
   - [Notary Public in Belle Vernon, PA: Michael P. Karolewics](https://www.notarydepot.com/mkarolewics)
   - [Notary Public in Port St. Lucie, FL: Michelle Kinch](https://www.notarydepot.com/mkinch)
   - [Notary Public in El Monte, CA: Mary Dam](https://www.notarydepot.com/mksummar)
+  - [Notary Public in Antelope, CA: Michelle Lane](https://www.notarydepot.com/mlanenotary)
   - [Notary Public in Beaverton, OR: Michael LasCano](https://www.notarydepot.com/mlascano)
   - [Notary Public in Orinda, CA: Mark Likos](https://www.notarydepot.com/mlikos)
   - [Notary Public in El Centro, CA: Maria Munoz](https://www.notarydepot.com/mlizarrag)
@@ -7529,4 +7530,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-11T21:04:03Z
+Updated at 2017-11-11T21:24:02Z
