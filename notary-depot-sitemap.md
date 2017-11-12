@@ -5191,7 +5191,6 @@
   - [Notary Public in Mount Dora, FL: Brenda Jo Collier](https://www.notarydepot.com/mountdoranotary)
   - [Notary Public in Clearwater, FL: Donna J Moore, CNSA](https://www.notarydepot.com/mouseketeer53)
   - [Notary Public in Fort Washington, MD: Maggie O. Westfield](https://www.notarydepot.com/mowest)
-  - [Notary Public in Greenville, NC: Mary L Staton](https://www.notarydepot.com/mpettaway1017)
   - [Notary Public in Towanda, PA: Mary Pierce](https://www.notarydepot.com/mpiercenotary)
   - [Notary Public in Kingston, NY: Francis Smith](https://www.notarydepot.com/mpismith)
   - [Notary Public in Geneva, IL: Heather Smith](https://www.notarydepot.com/mpoppins)
@@ -7530,4 +7529,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-12T16:44:03Z
+Updated at 2017-11-12T17:04:03Z
