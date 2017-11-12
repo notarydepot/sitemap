@@ -6743,7 +6743,6 @@
   - [Notary Public in Spartanburg, SC: Virginia Adams](https://www.notarydepot.com/vewatson)
   - [Notary Public in Mayfield, KY: Amy Pember](https://www.notarydepot.com/vexxtra)
   - [Notary Public in Middletown, NJ: Hudson&#39;s Notary Service](https://www.notarydepot.com/vhudson)
-  - [Notary Public in Easton, PA: Monica B. Voloshin](https://www.notarydepot.com/viassistant)
   - [Notary Public in Douglasville, GA: Vicki Acker](https://www.notarydepot.com/vickack)
   - [Notary Public in Los Angeles, CA: Victoria Blackwood](https://www.notarydepot.com/vickie)
   - [Notary Public in San Diego, CA: Vicki Sedano](https://www.notarydepot.com/vickonian)
@@ -7531,4 +7530,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-12T02:04:03Z
+Updated at 2017-11-12T02:24:02Z
