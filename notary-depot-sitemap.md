@@ -6027,6 +6027,7 @@
   - [Notary Public in San Jose, CA: Sheila Meinecke](https://www.notarydepot.com/samri)
   - [Notary Public in Exton, PA: Nora Sanchez-Prado](https://www.notarydepot.com/sanchen)
   - [Notary Public in Lynwood, CA: Vanessa Sanchez](https://www.notarydepot.com/sanchez1829)
+  - [Notary Public in Warminster, PA: Janine Sanders](https://www.notarydepot.com/sandersmobilenotary)
   - [Notary Public in Carlsbad, CA: Ilima Kam Martinez](https://www.notarydepot.com/sandiegonotary)
   - [Notary Public in San Diego, CA: San Diego Notary Now](https://www.notarydepot.com/sandiegonotarynow)
   - [Notary Public in La Mesa, CA: Patrick A Hall](https://www.notarydepot.com/sandiegonotaryservice)
@@ -7530,4 +7531,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-12T01:24:03Z
+Updated at 2017-11-12T01:44:04Z
