@@ -436,6 +436,7 @@
     - [Notary Public in Temple City, CA](https://www.notarydepot.com/notary-near-me/California/Temple-City)
     - [Notary Public in Thermal, CA](https://www.notarydepot.com/notary-near-me/California/Thermal)
     - [Notary Public in Thousand Oaks, CA](https://www.notarydepot.com/notary-near-me/California/Thousand-Oaks)
+    - [Notary Public in Torrance, CA](https://www.notarydepot.com/notary-near-me/California/Torrance)
     - [Notary Public in Trabuco Canyon, CA](https://www.notarydepot.com/notary-near-me/California/Trabuco-Canyon)
     - [Notary Public in Tracy, CA](https://www.notarydepot.com/notary-near-me/California/Tracy)
     - [Notary Public in Tustin, CA](https://www.notarydepot.com/notary-near-me/California/Tustin)
@@ -6297,6 +6298,7 @@
   - [Notary Public in San Diego, CA: Sophia Sanchez](https://www.notarydepot.com/sophiasan)
   - [Notary Public in Burlington, NJ: Yvette Ray](https://www.notarydepot.com/sotdl04)
   - [Notary Public in Schwenksville, PA: Source One Auto Group, LLC](https://www.notarydepot.com/sourceoneautogroup)
+  - [Notary Public in Torrance, CA: Steven robledo](https://www.notarydepot.com/southbay_notary)
   - [Notary Public in Tampa, FL: Peter Cavalli, Mpa](https://www.notarydepot.com/southtampanotary)
   - [Notary Public in San Antonio, TX: Jessie Calderon](https://www.notarydepot.com/southtexasnotary)
   - [Notary Public in Westbrook, ME: Carol Waterhouse](https://www.notarydepot.com/sox101957)
@@ -7531,4 +7533,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-13T18:04:02Z
+Updated at 2017-11-13T18:24:03Z
