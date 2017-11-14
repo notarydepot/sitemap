@@ -3260,6 +3260,7 @@
   - [Notary Public in Hilmar, CA: Delia Hidalgo](https://www.notarydepot.com/dhidalgo)
   - [Notary Public in Lorain, OH: Devon Hinds](https://www.notarydepot.com/dhinds)
   - [Notary Public in Orlando, FL: Dionne Holloway (Eclosings)](https://www.notarydepot.com/dholloway)
+  - [Notary Public in Lake Forest, CA: Lauren Saunders](https://www.notarydepot.com/dialanotary)
   - [Notary Public in Bend, OR: Katherine Hollister](https://www.notarydepot.com/diamondad)
   - [Notary Public in Fresno, CA: Albert Avedissian](https://www.notarydepot.com/diamondnotary)
   - [Notary Public in Bella Vista, AR: Diana Massey](https://www.notarydepot.com/dianadmassey)
@@ -7531,4 +7532,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-14T22:24:03Z
+Updated at 2017-11-14T22:44:02Z
