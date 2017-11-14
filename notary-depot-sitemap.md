@@ -1698,7 +1698,6 @@
     - [Notary Public in Phoenixville, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Phoenixville)
     - [Notary Public in Pittsburgh, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Pittsburgh)
     - [Notary Public in Pittston, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Pittston)
-    - [Notary Public in Plymouth Meeting, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Plymouth-Meeting)
     - [Notary Public in Pottstown, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Pottstown)
     - [Notary Public in Quakertown, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Quakertown)
     - [Notary Public in Reading, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Reading)
@@ -5842,7 +5841,6 @@
   - [Notary Public in Cornelius, OR: Renee Bellrose Cootz](https://www.notarydepot.com/reneebellrose)
   - [Notary Public in Fullerton, CA: Renee Ghafoori](https://www.notarydepot.com/reneeg)
   - [Notary Public in Los Angeles, CA: Rene Jones](https://www.notarydepot.com/renejones)
-  - [Notary Public in Plymouth Meeting, PA: Ronald M. Shore](https://www.notarydepot.com/repoman)
   - [Notary Public in Fontana, CA: Elisa Rister](https://www.notarydepot.com/rerister)
   - [Notary Public in Satsuma, AL: Caril L Schultz](https://www.notarydepot.com/res2246)
   - [Notary Public in Murrieta, CA: John C. Villegas](https://www.notarydepot.com/resdive1972)
@@ -7533,4 +7531,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-14T07:04:02Z
+Updated at 2017-11-14T07:24:02Z
