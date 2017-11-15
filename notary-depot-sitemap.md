@@ -3731,6 +3731,7 @@
   - [Notary Public in Pompano Beach, FL: GEORGIANNE SYKES](https://www.notarydepot.com/grandaz)
   - [Notary Public in Savannah, GA: Kindall Grant](https://www.notarydepot.com/grantlawgroup)
   - [Notary Public in Vista, CA: Grant Siracusa](https://www.notarydepot.com/grant_s)
+  - [Notary Public in Easton, PA: Monica B. Voloshin](https://www.notarydepot.com/greaterlehighvalleynotary)
   - [Notary Public in Glendale, CA: Goren G Tatarian](https://www.notarydepot.com/greatimingnotary)
   - [Notary Public in Mooresville, NC: Greg Atkinson](https://www.notarydepot.com/gregatkinson)
   - [Notary Public in Long Beach, CA: Greg Brown](https://www.notarydepot.com/gregb)
@@ -7532,4 +7533,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-15T15:25:02Z
+Updated at 2017-11-15T15:45:03Z
