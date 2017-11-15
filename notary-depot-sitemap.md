@@ -669,6 +669,7 @@
     - [Notary Public in Port Orange, FL](https://www.notarydepot.com/notary-near-me/Florida/Port-Orange)
     - [Notary Public in Port Richey, FL](https://www.notarydepot.com/notary-near-me/Florida/Port-Richey)
     - [Notary Public in Port St. Lucie, FL](https://www.notarydepot.com/notary-near-me/Florida/Port-St-Lucie)
+    - [Notary Public in Punta Gorda, FL](https://www.notarydepot.com/notary-near-me/Florida/Punta-Gorda)
     - [Notary Public in Quincy, FL](https://www.notarydepot.com/notary-near-me/Florida/Quincy)
     - [Notary Public in Riverview, FL](https://www.notarydepot.com/notary-near-me/Florida/Riverview)
     - [Notary Public in Rockledge, FL](https://www.notarydepot.com/notary-near-me/Florida/Rockledge)
@@ -5281,7 +5282,7 @@
   - [Notary Public in Worcester, MA: Notary Now !](https://www.notarydepot.com/nancyflash)
   - [Notary Public in Bushkill, PA: Nancy Korb](https://www.notarydepot.com/nancykorb)
   - [Notary Public in Bowie, MD: Nancy McKinney](https://www.notarydepot.com/nancymckinney60gmailcom)
-  - [Notary Public in Spring Hill, FL: Nancy A. Grochowski](https://www.notarydepot.com/nancyrose22)
+  - [Notary Public in Punta Gorda, FL: Nancy A. Slattery](https://www.notarydepot.com/nancyrose22)
   - [Notary Public in Santa Monica, CA: Nancy](https://www.notarydepot.com/nancythenotary)
   - [Notary Public in Walnut Creek, CA: Nancy Thomas](https://www.notarydepot.com/nancythomas)
   - [Notary Public in Dixon, CA: Natalie Angelman](https://www.notarydepot.com/nangelman)
@@ -7533,4 +7534,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-15T20:26:02Z
+Updated at 2017-11-15T20:46:02Z
