@@ -3566,6 +3566,7 @@
   - [Notary Public in Bella Vista, AR: Faith C Christopher-Clem](https://www.notarydepot.com/fccclem888)
   - [Notary Public in Jacksonville, FL: Karen Wassmer](https://www.notarydepot.com/fcsskaren)
   - [Notary Public in Houston, TX: Fermeda Johnson](https://www.notarydepot.com/fdj1018)
+  - [Notary Public in St. Louis, MO: Cameron Fearn](https://www.notarydepot.com/fearnc)
   - [Notary Public in Trenton, NJ: Felicia Brittingham](https://www.notarydepot.com/feliciab)
   - [Notary Public in Hawaiian Gardens, CA: Notary Public](https://www.notarydepot.com/felipe)
   - [Notary Public in Fredericksburg, VA: Geri Gribben](https://www.notarydepot.com/felix123)
@@ -7537,4 +7538,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-16T20:27:02Z
+Updated at 2017-11-16T20:47:03Z
