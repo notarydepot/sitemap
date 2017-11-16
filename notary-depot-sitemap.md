@@ -3108,6 +3108,7 @@
   - [Notary Public in Loxahatchee, FL: Dalia Isr](https://www.notarydepot.com/dalia)
   - [Notary Public in Dayton, TX: Dalita D. Farris](https://www.notarydepot.com/dalitaf)
   - [Notary Public in Manteca, CA: Veronica Ajayi](https://www.notarydepot.com/dalola28)
+  - [Notary Public in Washington, DC: David Minniefield](https://www.notarydepot.com/daminniefield)
   - [Notary Public in Tipton, IN: Dana M Kirby](https://www.notarydepot.com/danamkirby)
   - [Notary Public in Aurora, CO: Dana Robinson](https://www.notarydepot.com/danar220)
   - [Notary Public in Santa Maria, CA: Dan Gebhart](https://www.notarydepot.com/dangebhart)
@@ -7538,4 +7539,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-16T23:07:03Z
+Updated at 2017-11-16T23:27:03Z
