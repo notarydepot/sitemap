@@ -3850,6 +3850,7 @@
   - [Notary Public in Bay City, MI: Shirley Houston](https://www.notarydepot.com/houston55)
   - [Notary Public in Ledyard, CT: Howard J. Craig, Jr.](https://www.notarydepot.com/howie35ct)
   - [Notary Public in Escondido, CA: Heather Reinhold](https://www.notarydepot.com/hreinhold)
+  - [Notary Public in NY: Cheryl Poccia](https://www.notarydepot.com/hrmobilenotary)
   - [Notary Public in White Pine, TN: Jonathan W Stewart](https://www.notarydepot.com/hscomp)
   - [Notary Public in Hayward, CA: Fay Hudson](https://www.notarydepot.com/hudsonbay)
   - [Notary Public in Los Angeles, CA: Cheryl](https://www.notarydepot.com/hufford68)
@@ -5401,6 +5402,7 @@
   - [Notary Public in Fontana, CA: Debra A. Stewart](https://www.notarydepot.com/notary2yourdoor)
   - [Notary Public in Georgetown, TX: Sandra K. Collins](https://www.notarydepot.com/notary3040)
   - [Notary Public in Stockton, CA: Luis Castaneda](https://www.notarydepot.com/notary3122)
+  - [Notary Public in Orlando, FL: Frances Garcia](https://www.notarydepot.com/notary32824)
   - [Notary Public in Troy, MI: D McCaskill](https://www.notarydepot.com/notary365)
   - [Notary Public in NY: Nyc Traveling Notary &amp; Apostille Service](https://www.notarydepot.com/notary4bp)
   - [Notary Public in Peoria, IL: Camille White](https://www.notarydepot.com/notary6260)
@@ -7535,4 +7537,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-16T17:07:02Z
+Updated at 2017-11-16T17:27:02Z
