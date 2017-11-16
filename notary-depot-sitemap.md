@@ -6704,7 +6704,7 @@
   - [Notary Public in Petaluma, CA: Ups Store 0995](https://www.notarydepot.com/upsstore0995)
   - [Notary Public in Greenville, SC: Bethinina Gary, Upstate Mobile Notaries](https://www.notarydepot.com/upstatenotaries)
   - [Notary Public in Phoenixville, PA: Pamela Knight](https://www.notarydepot.com/urban)
-  - [Notary Public in Boca Raton, FL: Daniel Lee](https://www.notarydepot.com/us1notary)
+  - [Notary Public in Boca Raton, FL: Daniel Lee ,NSA](https://www.notarydepot.com/us1notary)
   - [Notary Public in Pennsauken Township, NJ: Carmen Jimenez](https://www.notarydepot.com/user126257)
   - [Notary Public in Orem, UT: Clark Veylupek](https://www.notarydepot.com/utahclark)
   - [Notary Public in Salt Lake City, UT: Matt Lloyd](https://www.notarydepot.com/utahnotary)
@@ -7537,4 +7537,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-16T17:47:03Z
+Updated at 2017-11-16T18:07:03Z
