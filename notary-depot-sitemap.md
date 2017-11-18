@@ -4200,6 +4200,7 @@
   - [Notary Public in Suffield, CT: John B. Cown, &quot;Seals-On-Wheels&quot; (tm)](https://www.notarydepot.com/johncown)
   - [Notary Public in Hialeah, FL: Isis Traveling/Mobile Notary Services](https://www.notarydepot.com/johnisis)
   - [Notary Public in Las Vegas, NV: John Bobé](https://www.notarydepot.com/johnlv)
+  - [Notary Public in Tampa, FL: John Victor Teixido](https://www.notarydepot.com/johnnytuxedo)
   - [Notary Public in NY: John Odocha](https://www.notarydepot.com/johnodocha)
   - [Notary Public in Eastpointe, MI: John Karabacz](https://www.notarydepot.com/johnpioneer)
   - [Notary Public in Cape Coral, FL: Jacklin Johns, Licensed Title Producer](https://www.notarydepot.com/johns)
@@ -7537,4 +7538,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-18T19:07:02Z
+Updated at 2017-11-18T19:27:03Z
