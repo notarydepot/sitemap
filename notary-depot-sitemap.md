@@ -832,6 +832,7 @@
     - [Notary Public in Oak Lawn, IL](https://www.notarydepot.com/notary-near-me/Illinois/Oak-Lawn)
     - [Notary Public in Oak Park, IL](https://www.notarydepot.com/notary-near-me/Illinois/Oak-Park)
     - [Notary Public in Orland Park, IL](https://www.notarydepot.com/notary-near-me/Illinois/Orland-Park)
+    - [Notary Public in Park Ridge, IL](https://www.notarydepot.com/notary-near-me/Illinois/Park-Ridge)
     - [Notary Public in Peoria, IL](https://www.notarydepot.com/notary-near-me/Illinois/Peoria)
     - [Notary Public in Princeton, IL](https://www.notarydepot.com/notary-near-me/Illinois/Princeton)
     - [Notary Public in Rockford, IL](https://www.notarydepot.com/notary-near-me/Illinois/Rockford)
@@ -5434,6 +5435,7 @@
   - [Notary Public in Broomfield, CO: Art R. Romero](https://www.notarydepot.com/notarydepot1tme)
   - [Notary Public in Washington, DC: Brandon Freeman-johnson - NotaryDMV (dc/md/va)](https://www.notarydepot.com/notarydmv)
   - [Notary Public in Shreveport, LA: Jefferson Mobile Notary Service](https://www.notarydepot.com/notaryejefferson)
+  - [Notary Public in Park Ridge, IL: Shawn Tolu](https://www.notarydepot.com/notaryexpress)
   - [Notary Public in Jacksonville, FL: Rebecca Staples](https://www.notarydepot.com/notaryfast)
   - [Notary Public in Los Angeles, CA: Susanna Turner](https://www.notarydepot.com/notaryforall)
   - [Notary Public in High Point, NC: Frank Modica (10 yrs experience!)](https://www.notarydepot.com/notaryfrank)
@@ -7538,4 +7540,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-19T04:47:03Z
+Updated at 2017-11-19T05:07:03Z
