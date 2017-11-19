@@ -1073,6 +1073,7 @@
     - [Notary Public in Freeland, MI](https://www.notarydepot.com/notary-near-me/Michigan/Freeland)
     - [Notary Public in Gobles, MI](https://www.notarydepot.com/notary-near-me/Michigan/Gobles)
     - [Notary Public in Grand Rapids, MI](https://www.notarydepot.com/notary-near-me/Michigan/Grand-Rapids)
+    - [Notary Public in Grosse Pointe, MI](https://www.notarydepot.com/notary-near-me/Michigan/Grosse-Pointe)
     - [Notary Public in Hillsdale, MI](https://www.notarydepot.com/notary-near-me/Michigan/Hillsdale)
     - [Notary Public in Holland, MI](https://www.notarydepot.com/notary-near-me/Michigan/Holland)
     - [Notary Public in Holly, MI](https://www.notarydepot.com/notary-near-me/Michigan/Holly)
@@ -4376,6 +4377,7 @@
   - [Notary Public in Eagle Point, OR: Kayla Renfro](https://www.notarydepot.com/kayrenfro)
   - [Notary Public in Philadelphia, PA: Kirk Ayzenberg](https://www.notarydepot.com/kayzenberg)
   - [Notary Public in Lake Havasu City, AZ: Kelly August](https://www.notarydepot.com/kba)
+  - [Notary Public in Grosse Pointe, MI: Kari Basacchi](https://www.notarydepot.com/kbasacchi)
   - [Notary Public in Miami Lakes, FL: Karina Baranda](https://www.notarydepot.com/kbcgroup12)
   - [Notary Public in Rome, NY: Kibmerly A. Galinski](https://www.notarydepot.com/kberlyny)
   - [Notary Public in Carson, IA: Karen Biggs](https://www.notarydepot.com/kbiggs12)
@@ -7540,4 +7542,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-19T13:07:05Z
+Updated at 2017-11-19T13:27:04Z
