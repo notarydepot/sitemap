@@ -4766,7 +4766,7 @@
   - [Notary Public in Sarasota, FL: Lorna Sammoury](https://www.notarydepot.com/lornaaline)
   - [Notary Public in New York, NY: Lorraine Tom](https://www.notarydepot.com/lorrainetom)
   - [Notary Public in Fremont, CA: Lorraine VanDeGraaf](https://www.notarydepot.com/lorrainevandegraaf)
-  - [Notary Public in Los Angeles, CA: La Notary](https://www.notarydepot.com/losangelesnotarynow)
+  - [Notary Public in Los Angeles, CA: La Notary Now](https://www.notarydepot.com/losangelesnotarynow)
   - [Notary Public in CA: Louise Olin](https://www.notarydepot.com/louiseolin)
   - [Notary Public in Grand Prairie, TX: Lourae Crichton](https://www.notarydepot.com/lourae)
   - [Notary Public in Lake Wales, FL: Luis Toro](https://www.notarydepot.com/lousnotaryservices)
@@ -7542,4 +7542,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-20T16:27:02Z
+Updated at 2017-11-20T16:47:02Z
