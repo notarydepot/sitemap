@@ -3349,6 +3349,7 @@
   - [Notary Public in RI: Donna A. Greene](https://www.notarydepot.com/donnag)
   - [Notary Public in Windham, ME: Donna Grass](https://www.notarydepot.com/donnagrass)
   - [Notary Public in Coos Bay, OR: Donna Croswell](https://www.notarydepot.com/donnajean)
+  - [Notary Public in Rochester, NY: Donna Leonardo](https://www.notarydepot.com/donnaleonardo)
   - [Notary Public in Lafayette, LA: Donna Pourcio](https://www.notarydepot.com/donnanotary1954)
   - [Notary Public in Meadville, PA: Donna Sadwick](https://www.notarydepot.com/donnas)
   - [Notary Public in St. Louis, MO: Donna &amp; John Wolf](https://www.notarydepot.com/donnawolf)
@@ -7542,4 +7543,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-20T16:47:02Z
+Updated at 2017-11-20T17:07:02Z
