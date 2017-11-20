@@ -1856,6 +1856,7 @@
     - [Notary Public in Fort Stockton, TX](https://www.notarydepot.com/notary-near-me/Texas/Fort-Stockton)
     - [Notary Public in Fort Worth, TX](https://www.notarydepot.com/notary-near-me/Texas/Fort-Worth)
     - [Notary Public in Fresno, TX](https://www.notarydepot.com/notary-near-me/Texas/Fresno)
+    - [Notary Public in Frisco, TX](https://www.notarydepot.com/notary-near-me/Texas/Frisco)
     - [Notary Public in Garland, TX](https://www.notarydepot.com/notary-near-me/Texas/Garland)
     - [Notary Public in Gatesville, TX](https://www.notarydepot.com/notary-near-me/Texas/Gatesville)
     - [Notary Public in Georgetown, TX](https://www.notarydepot.com/notary-near-me/Texas/Georgetown)
@@ -5496,6 +5497,7 @@
   - [Notary Public in Savannah, GA: Tia Hughes](https://www.notarydepot.com/notarysav)
   - [Notary Public in Orlando, FL: Cheryl Burres](https://www.notarydepot.com/notarysavvy)
   - [Notary Public in Pompano Beach, FL: Notary Services of Pompano Beach 24/7 &amp; Mobile](https://www.notarydepot.com/notaryservicesofpompano)
+  - [Notary Public in Frisco, TX: Shonda Ward](https://www.notarydepot.com/notaryshonda)
   - [Notary Public in Fredericksburg, VA: Sat.tech LLC](https://www.notarydepot.com/notaryslater)
   - [Notary Public in Daytona Beach, FL: Sheri Smith](https://www.notarydepot.com/notarysmith50)
   - [Notary Public in Stevensburg, VA: Tammy S. Kelly](https://www.notarydepot.com/notarytammykelly)
@@ -7543,4 +7545,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-20T21:07:02Z
+Updated at 2017-11-20T21:27:02Z
