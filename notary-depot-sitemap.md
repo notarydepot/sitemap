@@ -1303,6 +1303,7 @@
     - [Notary Public in Princeton, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Princeton)
     - [Notary Public in Rahway, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Rahway)
     - [Notary Public in Randolph, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Randolph)
+    - [Notary Public in Rochelle Park, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Rochelle-Park)
     - [Notary Public in Roselle, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Roselle)
     - [Notary Public in Roxbury Township, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Roxbury-Township)
     - [Notary Public in Rumson, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Rumson)
@@ -6519,6 +6520,7 @@
   - [Notary Public in Tampa, FL: Telli Griffin](https://www.notarydepot.com/tgriffin49)
   - [Notary Public in New London, MO: Sarah Hathaway](https://www.notarydepot.com/the4hathawaysgmailcom)
   - [Notary Public in CA: Debra Perkins](https://www.notarydepot.com/the75bug)
+  - [Notary Public in Rochelle Park, NJ: Diane Nissen](https://www.notarydepot.com/thealexandritegroup)
   - [Notary Public in Philadelphia, PA: Tonya Respes](https://www.notarydepot.com/thebest_pa)
   - [Notary Public in Los Angeles, CA: Steve Snyder](https://www.notarydepot.com/thecloser101)
   - [Notary Public in St. Louis, MO: Leonard Hines](https://www.notarydepot.com/theeye)
@@ -7544,4 +7546,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-21T20:47:02Z
+Updated at 2017-11-21T21:07:02Z
