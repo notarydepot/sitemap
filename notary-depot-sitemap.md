@@ -4130,6 +4130,7 @@
   - [Notary Public in Nashua, NH: James Brown](https://www.notarydepot.com/jimmyb)
   - [Notary Public in Campbell, CA: Qi Jing](https://www.notarydepot.com/jingqi)
   - [Notary Public in Newberg, OR: Nancy Jiosa](https://www.notarydepot.com/jiosa02)
+  - [Notary Public in Port Charlotte, FL: Jennifer L Abel](https://www.notarydepot.com/jjbigbear)
   - [Notary Public in Indio, CA: James Kerekes](https://www.notarydepot.com/jjknotary)
   - [Notary Public in Sacramento, CA: Jandy Jorgensen](https://www.notarydepot.com/jjorgensen1)
   - [Notary Public in Ballwin, MO: Irvin Z. Bremler](https://www.notarydepot.com/jjsdad)
@@ -7543,4 +7544,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-21T18:07:03Z
+Updated at 2017-11-21T18:27:02Z
