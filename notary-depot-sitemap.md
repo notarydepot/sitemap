@@ -997,6 +997,7 @@
     - [Notary Public in Catonsville, MD](https://www.notarydepot.com/notary-near-me/Maryland/Catonsville)
     - [Notary Public in Clinton, MD](https://www.notarydepot.com/notary-near-me/Maryland/Clinton)
     - [Notary Public in Columbia, MD](https://www.notarydepot.com/notary-near-me/Maryland/Columbia)
+    - [Notary Public in Crisfield, MD](https://www.notarydepot.com/notary-near-me/Maryland/Crisfield)
     - [Notary Public in Damascus, MD](https://www.notarydepot.com/notary-near-me/Maryland/Damascus)
     - [Notary Public in Elkton, MD](https://www.notarydepot.com/notary-near-me/Maryland/Elkton)
     - [Notary Public in Fort Washington, MD](https://www.notarydepot.com/notary-near-me/Maryland/Fort-Washington)
@@ -1013,7 +1014,6 @@
     - [Notary Public in Oxon Hill, MD](https://www.notarydepot.com/notary-near-me/Maryland/Oxon-Hill)
     - [Notary Public in Parkville, MD](https://www.notarydepot.com/notary-near-me/Maryland/Parkville)
     - [Notary Public in Pikesville, MD](https://www.notarydepot.com/notary-near-me/Maryland/Pikesville)
-    - [Notary Public in Pocomoke City, MD](https://www.notarydepot.com/notary-near-me/Maryland/Pocomoke-City)
     - [Notary Public in Prince Frederick, MD](https://www.notarydepot.com/notary-near-me/Maryland/Prince-Frederick)
     - [Notary Public in Reisterstown, MD](https://www.notarydepot.com/notary-near-me/Maryland/Reisterstown)
     - [Notary Public in Riva, MD](https://www.notarydepot.com/notary-near-me/Maryland/Riva)
@@ -3289,7 +3289,7 @@
   - [Notary Public in Philadelphia, PA: Dee](https://www.notarydepot.com/divadee)
   - [Notary Public in Hampton, VA: Kellya hartless thomas](https://www.notarydepot.com/divanotary)
   - [Notary Public in Seal Beach, CA: Cecilia M. Salisbury](https://www.notarydepot.com/divawannabe)
-  - [Notary Public in Pocomoke City, MD: Alexis Carter](https://www.notarydepot.com/divinenotary)
+  - [Notary Public in Crisfield, MD: Alexis Carter](https://www.notarydepot.com/divinenotary)
   - [Notary Public in Pearland, TX: Dana Pitts](https://www.notarydepot.com/dixonpitts)
   - [Notary Public in Arlington, TX: Donna Bara](https://www.notarydepot.com/djbara)
   - [Notary Public in Sarasota, FL: Dan Crowley](https://www.notarydepot.com/djcnotary)
@@ -7546,4 +7546,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-21T22:47:02Z
+Updated at 2017-11-21T23:07:02Z
