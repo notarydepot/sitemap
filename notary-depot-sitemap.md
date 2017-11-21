@@ -2464,7 +2464,6 @@
   - [Notary Public in Lake Mary, FL: Arilee Rivera](https://www.notarydepot.com/arilee)
   - [Notary Public in Sapulpa, OK: Arlanda F. Smith](https://www.notarydepot.com/arlandasmith)
   - [Notary Public in Massapequa Park, NY: Arlene Mazzola](https://www.notarydepot.com/armazz)
-  - [Notary Public in Philadelphia, PA: Arneta Sanders](https://www.notarydepot.com/arneta2000)
   - [Notary Public in Floresville, TX: Faye Taylor](https://www.notarydepot.com/arnionmobile)
   - [Notary Public in Richmond, VA: Lora L. Worsley](https://www.notarydepot.com/arolmyk)
   - [Notary Public in Sanborn, IA: Heather Simons](https://www.notarydepot.com/aroundtheclocknotary)
@@ -7545,4 +7544,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-21T06:07:02Z
+Updated at 2017-11-21T06:27:02Z
