@@ -2443,7 +2443,6 @@
   - [Notary Public in Summerville, SC: Vernida Gaillard Hill](https://www.notarydepot.com/apenneysaved)
   - [Notary Public in Richmond, TX: Aslam Jamal](https://www.notarydepot.com/apjamal)
   - [Notary Public in Costa Mesa, CA: apostille](https://www.notarydepot.com/apostilleservice)
-  - [Notary Public in Huntingtown, MD: April M. Bauman](https://www.notarydepot.com/april)
   - [Notary Public in Modesto, CA: April C. Stearns](https://www.notarydepot.com/aprilstearnsmailcom)
   - [Notary Public in Yucaipa, CA: April S. Espinoza](https://www.notarydepot.com/aprilsyournotary)
   - [Notary Public in Saint Petersburg, FL: April M Thaxton](https://www.notarydepot.com/aprilthaxton)
@@ -7544,4 +7543,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-21T06:27:02Z
+Updated at 2017-11-21T06:47:02Z
