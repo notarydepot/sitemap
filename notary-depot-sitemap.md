@@ -1456,6 +1456,7 @@
     - [Notary Public in Garner, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Garner)
     - [Notary Public in Gastonia, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Gastonia)
     - [Notary Public in Goldsboro, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Goldsboro)
+    - [Notary Public in Graham, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Graham)
     - [Notary Public in Granite Falls, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Granite-Falls)
     - [Notary Public in Greensboro, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Greensboro)
     - [Notary Public in Greenville, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Greenville)
@@ -1570,7 +1571,6 @@
     - [Notary Public in Wickliffe, OH](https://www.notarydepot.com/notary-near-me/Ohio/Wickliffe)
     - [Notary Public in Willowick, OH](https://www.notarydepot.com/notary-near-me/Ohio/Willowick)
   - [Notaries Public in Oklahoma](https://www.notarydepot.com/notary-near-me/Oklahoma)
-    - [Notary Public in Altus, OK](https://www.notarydepot.com/notary-near-me/Oklahoma/Altus)
     - [Notary Public in Atoka, OK](https://www.notarydepot.com/notary-near-me/Oklahoma/Atoka)
     - [Notary Public in Broken Arrow, OK](https://www.notarydepot.com/notary-near-me/Oklahoma/Broken-Arrow)
     - [Notary Public in Elgin, OK](https://www.notarydepot.com/notary-near-me/Oklahoma/Elgin)
@@ -2551,7 +2551,7 @@
   - [Notary Public in Byron, CA: Barbara Trujillo](https://www.notarydepot.com/barbtrujillo)
   - [Notary Public in Bellingham, WA: Irene Reynolds](https://www.notarydepot.com/barefootinthesand)
   - [Notary Public in Trinidad, CO: Carol Brimmeier](https://www.notarydepot.com/barney)
-  - [Notary Public in Altus, OK: Carole D Barrow](https://www.notarydepot.com/barrowsign)
+  - [Notary Public in Graham, NC: Carole Barrow](https://www.notarydepot.com/barrowsign)
   - [Notary Public in Charlotte, NC: Barry Muse](https://www.notarydepot.com/barrycarpeytc2012)
   - [Notary Public in Cape Coral, FL: Anita Foster](https://www.notarydepot.com/bassfoster)
   - [Notary Public in Batavia, OH: Angela Bender](https://www.notarydepot.com/batavianotary)
@@ -7547,4 +7547,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-22T21:47:02Z
+Updated at 2017-11-22T22:07:02Z
