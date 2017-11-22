@@ -2701,7 +2701,7 @@
   - [Notary Public in Chicago, IL: Brandi Davis ](https://www.notarydepot.com/brandibits)
   - [Notary Public in Camp Hill, PA: Brandie Glass](https://www.notarydepot.com/brandieglass9683gmailcom)
   - [Notary Public in Port Angeles, WA: Brandi G. Shepherd](https://www.notarydepot.com/brandishepherd72)
-  - [Notary Public in Chicago, IL: Brandon Moragne](https://www.notarydepot.com/brandonm)
+  - [Notary Public in Chicago, IL: Chicago Prime Notary](https://www.notarydepot.com/brandonm)
   - [Notary Public in Columbia, TN: Brandon Sprowl](https://www.notarydepot.com/brandonsprowl)
   - [Notary Public in Newport Beach, CA: Brandon Bustamante](https://www.notarydepot.com/brandon_oc)
   - [Notary Public in Stow, OH: Brandy Money](https://www.notarydepot.com/brandymny)
@@ -7547,4 +7547,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-22T20:27:02Z
+Updated at 2017-11-22T20:47:02Z
