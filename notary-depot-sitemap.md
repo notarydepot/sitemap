@@ -2796,7 +2796,7 @@
   - [Notary Public in Pomeroy, IA: Cara S. Rungo](https://www.notarydepot.com/cararungo)
   - [Notary Public in San Diego, CA: John Tennant](https://www.notarydepot.com/carboss)
   - [Notary Public in Kemp, TX: Carl Ferguson](https://www.notarydepot.com/carl)
-  - [Notary Public in Elizabeth, NJ: carla](https://www.notarydepot.com/carlam25)
+  - [Notary Public in Norcross, GA: carla](https://www.notarydepot.com/carlam25)
   - [Notary Public in Trabuco Canyon, CA: Carlos Montoya](https://www.notarydepot.com/carlosmontoya)
   - [Notary Public in Paramount, CA: Carlos A. Angel](https://www.notarydepot.com/carlosnotary)
   - [Notary Public in NY: Carlos M. Davila](https://www.notarydepot.com/carlosnyc)
@@ -5146,6 +5146,7 @@
   - [Notary Public in Elk Grove, CA: Bianca Towns](https://www.notarydepot.com/mobilenotary2me)
   - [Notary Public in Fallon, NV: Gregory R Anderson](https://www.notarydepot.com/mobilenotarygreg)
   - [Notary Public in San Diego, CA: ronald link](https://www.notarydepot.com/mobilenotaryguy)
+  - [Notary Public in Mount Airy, NC: Davee Daughenbaugh ](https://www.notarydepot.com/mobilenotaryondemand)
   - [Notary Public in Boynton Beach, FL: Mobile Notary Service](https://www.notarydepot.com/mobilenotarypbc)
   - [Notary Public in Glendale, AZ: Shawna Smith](https://www.notarydepot.com/mobilenotaryphx)
   - [Notary Public in Fort Stockton, TX: Michael Luna](https://www.notarydepot.com/mobilenotarypublic)
@@ -7546,4 +7547,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-22T16:27:02Z
+Updated at 2017-11-22T16:47:02Z
