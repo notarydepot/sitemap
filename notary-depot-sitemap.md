@@ -3688,6 +3688,7 @@
   - [Notary Public in San Ramon, CA: Govind Gopal](https://www.notarydepot.com/ggrajan)
   - [Notary Public in Winchester, TN: Gayle Graves](https://www.notarydepot.com/ggraves)
   - [Notary Public in Spring Grove, IL: Abigail H. Grunst](https://www.notarydepot.com/ggrunst)
+  - [Notary Public in Winter Garden, FL: Glory Ann Harnois](https://www.notarydepot.com/gharnois)
   - [Notary Public in Fort Smith, AR: Gwendolyn Holloway](https://www.notarydepot.com/ghollow)
   - [Notary Public in Houston, TX: Gigi Aguilar](https://www.notarydepot.com/gigi0522)
   - [Notary Public in Arcata, CA: Julie Gilbride](https://www.notarydepot.com/gilbride1)
@@ -7547,4 +7548,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-23T15:47:04Z
+Updated at 2017-11-23T16:07:03Z
