@@ -6286,6 +6286,7 @@
   - [Notary Public in Ridgeland, MS: Taunya Smith ](https://www.notarydepot.com/smithtaxprep)
   - [Notary Public in Vancouver, WA: A Notary Service](https://www.notarydepot.com/smitty)
   - [Notary Public in Albany, NY: Leslie P. Robinson](https://www.notarydepot.com/smplythbest1)
+  - [Notary Public in Buena Park, CA: Sonja M Rule](https://www.notarydepot.com/smrules1)
   - [Notary Public in Tampa, FL: Sharon M Niblack](https://www.notarydepot.com/smstarkes)
   - [Notary Public in Bakersfield, CA: Susan M Johnson](https://www.notarydepot.com/smuirbiggs)
   - [Notary Public in Huntington, WV: Shannon Wiley](https://www.notarydepot.com/smwiley)
@@ -7548,4 +7549,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-24T19:27:03Z
+Updated at 2017-11-24T19:47:03Z
