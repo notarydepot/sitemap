@@ -5145,7 +5145,7 @@
   - [Notary Public in CA: Deborah O. Prideaux](https://www.notarydepot.com/mobilenotary)
   - [Notary Public in Corona, CA: Julia Ortiz, Mobile Notary/Loan Signing Specialist](https://www.notarydepot.com/mobilenotary247)
   - [Notary Public in Elk Grove, CA: Bianca Towns](https://www.notarydepot.com/mobilenotary2me)
-  - [Notary Public in Fallon, NV: Gregory R Anderson](https://www.notarydepot.com/mobilenotarygreg)
+  - [Notary Public in Fallon, NV: Greg Anderson](https://www.notarydepot.com/mobilenotarygreg)
   - [Notary Public in San Diego, CA: ronald link](https://www.notarydepot.com/mobilenotaryguy)
   - [Notary Public in Mount Airy, NC: Davee Daughenbaugh ](https://www.notarydepot.com/mobilenotaryondemand)
   - [Notary Public in Boynton Beach, FL: Mobile Notary Service](https://www.notarydepot.com/mobilenotarypbc)
@@ -7548,4 +7548,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-24T01:27:03Z
+Updated at 2017-11-24T01:47:03Z
