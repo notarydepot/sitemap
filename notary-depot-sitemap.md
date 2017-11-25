@@ -2796,7 +2796,7 @@
   - [Notary Public in Pomeroy, IA: Cara S. Rungo](https://www.notarydepot.com/cararungo)
   - [Notary Public in San Diego, CA: John Tennant](https://www.notarydepot.com/carboss)
   - [Notary Public in Kemp, TX: Carl Ferguson](https://www.notarydepot.com/carl)
-  - [Notary Public in Norcross, GA: carla](https://www.notarydepot.com/carlam25)
+  - [Notary Public in Norcross, GA: Carla](https://www.notarydepot.com/carlam25)
   - [Notary Public in Trabuco Canyon, CA: Carlos Montoya](https://www.notarydepot.com/carlosmontoya)
   - [Notary Public in Paramount, CA: Carlos A. Angel](https://www.notarydepot.com/carlosnotary)
   - [Notary Public in NY: Carlos M. Davila](https://www.notarydepot.com/carlosnyc)
@@ -7551,4 +7551,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-25T04:47:03Z
+Updated at 2017-11-25T05:07:01Z
