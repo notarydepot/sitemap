@@ -6930,6 +6930,7 @@
   - [Notary Public in Greenville, NC: Zack Taft](https://www.notarydepot.com/ztaft)
   - [Notary Public in Fayetteville, NC: Ze Surratt Ii](https://www.notarydepot.com/ztalsii)
   - [Notary Public in Wayne, NJ: Steve Zuckerman](https://www.notarydepot.com/zuckie)
+  - [Notary Public in Islamorada, FL: Patricia Zuluaga](https://www.notarydepot.com/zulu)
   - [Notary Public in Columbia, SC: Zakiyyah Jones](https://www.notarydepot.com/zzjones02)
   - [Notary Public in Salinas, CA: Shirley Brown](https://www.notarydepot.com/zzzeltoid)
 - [Notary Forum](https://www.notarydepot.com/forums)
@@ -7549,4 +7550,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-25T02:47:04Z
+Updated at 2017-11-25T03:07:05Z
