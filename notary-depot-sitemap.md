@@ -6498,6 +6498,7 @@
   - [Notary Public in Jackson, MS: Terrence R. Spears](https://www.notarydepot.com/teespears)
   - [Notary Public in Amarillo, TX: Teffny Clark-Houtchens](https://www.notarydepot.com/teffny11)
   - [Notary Public in Apex, NC: Tela Jones](https://www.notarydepot.com/telajones)
+  - [Notary Public in Houston, TX: Temecka C Johnson](https://www.notarydepot.com/temeckajohnson)
   - [Notary Public in Murrieta, CA: Darlynn Sandefer](https://www.notarydepot.com/temeculanotary)
   - [Notary Public in Orlando, FL: David ODonnell](https://www.notarydepot.com/ten24seven)
   - [Notary Public in Beverly Hills, CA: Tenia R. Muhammad](https://www.notarydepot.com/tenianotary1)
@@ -7550,4 +7551,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-25T04:27:02Z
+Updated at 2017-11-25T04:47:03Z
