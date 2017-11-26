@@ -5812,6 +5812,7 @@
   - [Notary Public in Brentwood, CA: Rosa Cardenas](https://www.notarydepot.com/rcardenasnotary)
   - [Notary Public in Delano, CA: Richelle C. Carino](https://www.notarydepot.com/rccarino)
   - [Notary Public in Federal Way, WA: Ricardo Campbell Jr.](https://www.notarydepot.com/rcfw2002)
+  - [Notary Public in Rancho Cucamonga, CA: Ronald Castaneda](https://www.notarydepot.com/rcnotary)
   - [Notary Public in Antelope, CA: Rosalind Garner](https://www.notarydepot.com/rdgcompany)
   - [Notary Public in Vancouver, WA: Richard Kurth](https://www.notarydepot.com/rdkurh)
   - [Notary Public in Crimora, VA: Rita D. Dunn](https://www.notarydepot.com/rdldunn)
@@ -7551,4 +7552,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-26T00:47:02Z
+Updated at 2017-11-26T01:07:02Z
