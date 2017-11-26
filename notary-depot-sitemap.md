@@ -5217,6 +5217,7 @@
   - [Notary Public in Danese, WV: Mary R. Carroll](https://www.notarydepot.com/mrcarroll)
   - [Notary Public in Murfreesboro, TN: Matt Deckard](https://www.notarydepot.com/mrdeckard)
   - [Notary Public in Pensacola, FL: Marsha Glazier](https://www.notarydepot.com/mrglazier)
+  - [Notary Public in Houston, TX: Marie Guidry](https://www.notarydepot.com/mrguidry)
   - [Notary Public in Atlanta, GA: Dayle A Hazel](https://www.notarydepot.com/mrhazel)
   - [Notary Public in Glendale, AZ: Mary Riley](https://www.notarydepot.com/mriley55)
   - [Notary Public in Miami Gardens, FL: Marcus Johnson](https://www.notarydepot.com/mrjohnson88)
@@ -7550,4 +7551,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-26T07:27:03Z
+Updated at 2017-11-26T07:47:02Z
