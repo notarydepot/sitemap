@@ -5198,6 +5198,7 @@
   - [Notary Public in Gastonia, NC: Ray D. Morgan](https://www.notarydepot.com/morgan1344)
   - [Notary Public in Coatesville, PA: Janet E. Mitchell](https://www.notarydepot.com/morganamber)
   - [Notary Public in Coatesville, PA: Janet E. Mitchell](https://www.notarydepot.com/morganamber2)
+  - [Notary Public in Los Angeles, CA: Michelle Morgan](https://www.notarydepot.com/morgannotary)
   - [Notary Public in Vallejo, CA: Detra Morgan](https://www.notarydepot.com/morgansfind)
   - [Notary Public in Ballwin, MO: Stu Schankman](https://www.notarydepot.com/mornflt)
   - [Notary Public in Santa Monica, CA: Moshe Steinberg](https://www.notarydepot.com/moshesteinberg)
@@ -7551,4 +7552,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-27T00:47:02Z
+Updated at 2017-11-27T01:07:02Z
