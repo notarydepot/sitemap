@@ -6057,6 +6057,7 @@
   - [Notary Public in Salinas, CA: Sandra Lemos](https://www.notarydepot.com/sandralemos)
   - [Notary Public in Hearne, TX: Sandra Moten](https://www.notarydepot.com/sandram)
   - [Notary Public in Hearne, TX: Sandra Butler](https://www.notarydepot.com/sandramoten)
+  - [Notary Public in Flint, MI: Sandra Schroeder](https://www.notarydepot.com/sandy5349)
   - [Notary Public in Apopka, FL: Sandra (Sandy) Algarin](https://www.notarydepot.com/sandyal)
   - [Notary Public in Glen Burnie, MD: Sandra Harvey](https://www.notarydepot.com/sandyharvey)
   - [Notary Public in Langhorne, PA: Sandra J. Pugliese](https://www.notarydepot.com/sandypa)
@@ -7552,4 +7553,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-27T01:07:02Z
+Updated at 2017-11-27T01:27:03Z
