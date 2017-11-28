@@ -4688,7 +4688,7 @@
   - [Notary Public in Chino Hills, CA: Linda J. Carroll](https://www.notarydepot.com/linda)
   - [Notary Public in Seattle, WA: Linda Anton-Vargas](https://www.notarydepot.com/lindaantonvargas)
   - [Notary Public in Holyoke, MA: Atty.Linda Audet](https://www.notarydepot.com/lindaaudet)
-  - [Notary Public in Meridian, ID: Linda Burt](https://www.notarydepot.com/lindaburt)
+  - [Notary Public in Meridian, ID: Linda S. Burt](https://www.notarydepot.com/lindaburt)
   - [Notary Public in Fort Collins, CO: Linda Castell](https://www.notarydepot.com/lindacastell)
   - [Notary Public in Bell Gardens, CA: Linda Contreras](https://www.notarydepot.com/lindacontreras)
   - [Notary Public in Fort White, FL: Linda J. Hubbell](https://www.notarydepot.com/lindah)
@@ -7553,4 +7553,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-28T00:07:03Z
+Updated at 2017-11-28T00:27:02Z
