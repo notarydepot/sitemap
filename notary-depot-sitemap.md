@@ -6230,6 +6230,7 @@
   - [Notary Public in CA: Kelly Robertson](https://www.notarydepot.com/signingagentcoach)
   - [Notary Public in Bethlehem, PA: Christine M Thierry](https://www.notarydepot.com/signingagentpa)
   - [Notary Public in Atlanta, GA: Georgia Attorney Closers](https://www.notarydepot.com/signingatlanta)
+  - [Notary Public in Irvine, CA: Bosha Dorman](https://www.notarydepot.com/signingpros)
   - [Notary Public in Oklahoma City, OK: Diana Bishop](https://www.notarydepot.com/signings)
   - [Notary Public in Nederland, TX: Pamela Lemell](https://www.notarydepot.com/signingsetx)
   - [Notary Public in West Hartford, CT: Twila McKinney](https://www.notarydepot.com/signmeup)
@@ -7556,4 +7557,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-28T19:08:02Z
+Updated at 2017-11-28T19:28:04Z
