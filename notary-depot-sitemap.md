@@ -1341,7 +1341,6 @@
     - [Notary Public in Albany, NY](https://www.notarydepot.com/notary-near-me/New-York/Albany)
     - [Notary Public in Altamont, NY](https://www.notarydepot.com/notary-near-me/New-York/Altamont)
     - [Notary Public in Amsterdam, NY](https://www.notarydepot.com/notary-near-me/New-York/Amsterdam)
-    - [Notary Public in Auburn, NY](https://www.notarydepot.com/notary-near-me/New-York/Auburn)
     - [Notary Public in Baldwin, NY](https://www.notarydepot.com/notary-near-me/New-York/Baldwin)
     - [Notary Public in Baldwinsville, NY](https://www.notarydepot.com/notary-near-me/New-York/Baldwinsville)
     - [Notary Public in Bay Shore, NY](https://www.notarydepot.com/notary-near-me/New-York/Bay-Shore)
@@ -2951,7 +2950,6 @@
   - [Notary Public in Williamson, NY: Cindy K. Thompson](https://www.notarydepot.com/cinsignsny)
   - [Notary Public in Chester, VA: Faith Blackwood](https://www.notarydepot.com/citynotary)
   - [Notary Public in Newport Beach, CA: Christopher Caputo, CPA](https://www.notarydepot.com/cjcaputo13)
-  - [Notary Public in Auburn, NY: Christa Centolella](https://www.notarydepot.com/cjcparalegal)
   - [Notary Public in Palm Coast, FL: Cynthia Mallicote](https://www.notarydepot.com/cjmthebestmobilenotary)
   - [Notary Public in Agoura Hills, CA: Jenny Siegel](https://www.notarydepot.com/cjsiegel)
   - [Notary Public in Hawaiian Gardens, CA: Celia Centeno](https://www.notarydepot.com/ckcnotaryservices)
@@ -7557,4 +7555,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-28T20:08:09Z
+Updated at 2017-11-28T20:28:04Z
