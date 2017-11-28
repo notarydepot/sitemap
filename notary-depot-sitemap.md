@@ -4538,6 +4538,7 @@
   - [Notary Public in Greensboro, NC: Kim W Case](https://www.notarydepot.com/kwcase)
   - [Notary Public in Port Orange, FL: Kathleen Wendorf](https://www.notarydepot.com/kwendorf)
   - [Notary Public in Richmond, VA: Kimberly H. Farmer](https://www.notarydepot.com/kwfarmer)
+  - [Notary Public in Weatherford, TX: Kasey Wicks](https://www.notarydepot.com/kwicksnotary)
   - [Notary Public in Atlanta, GA: Tiffany Jones](https://www.notarydepot.com/kwikkeyz)
   - [Notary Public in League City, TX: Katie Woodside](https://www.notarydepot.com/kwoodside)
   - [Notary Public in Beaumont, TX: Kris Whitmire](https://www.notarydepot.com/kwwhitmire80)
@@ -7555,4 +7556,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-28T13:28:04Z
+Updated at 2017-11-28T13:48:04Z
