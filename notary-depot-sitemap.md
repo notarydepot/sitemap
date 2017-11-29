@@ -6357,7 +6357,7 @@
   - [Notary Public in Santa Ana, CA: Sasha Lopez](https://www.notarydepot.com/ssl0123)
   - [Notary Public in Southfield, MI: Sharon Smith](https://www.notarydepot.com/ssmith)
   - [Notary Public in Los Angeles, CA: Stacey Robinson](https://www.notarydepot.com/stace123)
-  - [Notary Public in Vienna, VA: Stacey Frechette](https://www.notarydepot.com/staceylf)
+  - [Notary Public in Fincastle, VA: Stacey Frechette](https://www.notarydepot.com/staceylf)
   - [Notary Public in MA: Stacey Elin Rossi, Esq.](https://www.notarydepot.com/staceyrossi)
   - [Notary Public in Palm Desert, CA: Staci Kolbeck](https://www.notarydepot.com/stacikolbeck)
   - [Notary Public in Americus, GA: Stacy Edge](https://www.notarydepot.com/stacyedge)
@@ -7555,4 +7555,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-29T18:52:03Z
+Updated at 2017-11-29T19:12:02Z
