@@ -6653,6 +6653,7 @@
   - [Notary Public in Peoria, AZ: Juan Chioye &amp; Travis Swanson](https://www.notarydepot.com/travis_juan)
   - [Notary Public in Corona, CA: Kim Kidd](https://www.notarydepot.com/trcnotary)
   - [Notary Public in Maywood, CA: Tre Salinas](https://www.notarydepot.com/trefmo)
+  - [Notary Public in San Diego, CA: Tom Reilly](https://www.notarydepot.com/treilly)
   - [Notary Public in Cleveland, OH: Tiarra S. Turk](https://www.notarydepot.com/trenedy3)
   - [Notary Public in Naperville, IL: Janett C. Klimek](https://www.notarydepot.com/treytrey)
   - [Notary Public in Vacaville, CA: Patrice Palomares](https://www.notarydepot.com/tricepal)
@@ -7555,4 +7556,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-30T15:32:03Z
+Updated at 2017-11-30T15:52:02Z
