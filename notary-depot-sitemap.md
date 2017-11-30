@@ -1303,6 +1303,7 @@
     - [Notary Public in Princeton, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Princeton)
     - [Notary Public in Rahway, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Rahway)
     - [Notary Public in Randolph, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Randolph)
+    - [Notary Public in Robbinsville, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Robbinsville)
     - [Notary Public in Rochelle Park, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Rochelle-Park)
     - [Notary Public in Roselle, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Roselle)
     - [Notary Public in Roxbury Township, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Roxbury-Township)
@@ -6619,7 +6620,7 @@
   - [Notary Public in Dover, NH: Corey M. Harnish](https://www.notarydepot.com/tommilynn51)
   - [Notary Public in Burlington, NC: Tom Allegretto](https://www.notarydepot.com/tommya)
   - [Notary Public in Trenton, NJ: Thomas M Zucchetti](https://www.notarydepot.com/tommyz)
-  - [Notary Public in Trenton, NJ: Thomas M Zucchetti](https://www.notarydepot.com/tommyz1954)
+  - [Notary Public in Robbinsville, NJ: Thomas M Zucchetti](https://www.notarydepot.com/tommyz1954)
   - [Notary Public in Middleburg, FL: Thomas J. Smith](https://www.notarydepot.com/tomsmith)
   - [Notary Public in Charles City, IA: Tonia Knighten](https://www.notarydepot.com/tonia1979)
   - [Notary Public in Honolulu, HI: Toni Cross](https://www.notarydepot.com/tonicross)
@@ -7556,4 +7557,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-30T17:32:02Z
+Updated at 2017-11-30T17:52:02Z
