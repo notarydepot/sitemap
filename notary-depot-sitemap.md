@@ -564,7 +564,6 @@
     - [Notary Public in Cocoa, FL](https://www.notarydepot.com/notary-near-me/Florida/Cocoa)
     - [Notary Public in Crawfordville, FL](https://www.notarydepot.com/notary-near-me/Florida/Crawfordville)
     - [Notary Public in Crestview, FL](https://www.notarydepot.com/notary-near-me/Florida/Crestview)
-    - [Notary Public in Crystal River, FL](https://www.notarydepot.com/notary-near-me/Florida/Crystal-River)
     - [Notary Public in Dade City, FL](https://www.notarydepot.com/notary-near-me/Florida/Dade-City)
     - [Notary Public in Dania Beach, FL](https://www.notarydepot.com/notary-near-me/Florida/Dania-Beach)
     - [Notary Public in Davenport, FL](https://www.notarydepot.com/notary-near-me/Florida/Davenport)
@@ -608,6 +607,7 @@
     - [Notary Public in Lady Lake, FL](https://www.notarydepot.com/notary-near-me/Florida/Lady-Lake)
     - [Notary Public in Lake City, FL](https://www.notarydepot.com/notary-near-me/Florida/Lake-City)
     - [Notary Public in Lake Mary, FL](https://www.notarydepot.com/notary-near-me/Florida/Lake-Mary)
+    - [Notary Public in Lake Placid, FL](https://www.notarydepot.com/notary-near-me/Florida/Lake-Placid)
     - [Notary Public in Lake Wales, FL](https://www.notarydepot.com/notary-near-me/Florida/Lake-Wales)
     - [Notary Public in Lake Worth, FL](https://www.notarydepot.com/notary-near-me/Florida/Lake-Worth)
     - [Notary Public in Lakeland, FL](https://www.notarydepot.com/notary-near-me/Florida/Lakeland)
@@ -6420,7 +6420,7 @@
   - [Notary Public in Santa Fe, NM: Susan Billings](https://www.notarydepot.com/susanb)
   - [Notary Public in Webb City, MO: Susan Bryant](https://www.notarydepot.com/susanbryant)
   - [Notary Public in Simpsonville, SC: Susan Gray](https://www.notarydepot.com/susangray)
-  - [Notary Public in Crystal River, FL: Susan L Paramore](https://www.notarydepot.com/susiet57)
+  - [Notary Public in Lake Placid, FL: Susan L Paramore](https://www.notarydepot.com/susiet57)
   - [Notary Public in NY, NY: Simon Utrera](https://www.notarydepot.com/sutrera)
   - [Notary Public in Whittier, CA: Suzette Cano](https://www.notarydepot.com/suzette)
   - [Notary Public in Bakersfield, CA: Suzanne Cooper](https://www.notarydepot.com/suziec)
@@ -7556,4 +7556,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-11-30T16:32:03Z
+Updated at 2017-11-30T16:52:02Z
