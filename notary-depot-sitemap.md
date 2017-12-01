@@ -2468,6 +2468,7 @@
   - [Notary Public in Sapulpa, OK: Arlanda F. Smith](https://www.notarydepot.com/arlandasmith)
   - [Notary Public in Massapequa Park, NY: Arlene Mazzola](https://www.notarydepot.com/armazz)
   - [Notary Public in Floresville, TX: Faye Taylor](https://www.notarydepot.com/arnionmobile)
+  - [Notary Public in La Mirada, CA: Alma Rosales](https://www.notarydepot.com/arnotary77)
   - [Notary Public in Richmond, VA: Lora L. Worsley](https://www.notarydepot.com/arolmyk)
   - [Notary Public in Sanborn, IA: Heather Simons](https://www.notarydepot.com/aroundtheclocknotary)
   - [Notary Public in Pompano Beach, FL: Ann Sedrish](https://www.notarydepot.com/arsedrish)
@@ -7564,4 +7565,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-12-01T22:12:02Z
+Updated at 2017-12-01T22:32:03Z
