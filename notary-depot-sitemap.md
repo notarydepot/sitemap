@@ -1579,6 +1579,7 @@
     - [Notary Public in Lawton, OK](https://www.notarydepot.com/notary-near-me/Oklahoma/Lawton)
     - [Notary Public in McAlester, OK](https://www.notarydepot.com/notary-near-me/Oklahoma/McAlester)
     - [Notary Public in Oklahoma City, OK](https://www.notarydepot.com/notary-near-me/Oklahoma/Oklahoma-City)
+    - [Notary Public in Pauls Valley, OK](https://www.notarydepot.com/notary-near-me/Oklahoma/Pauls-Valley)
     - [Notary Public in Pawhuska, OK](https://www.notarydepot.com/notary-near-me/Oklahoma/Pawhuska)
     - [Notary Public in Ponca City, OK](https://www.notarydepot.com/notary-near-me/Oklahoma/Ponca-City)
     - [Notary Public in Sapulpa, OK](https://www.notarydepot.com/notary-near-me/Oklahoma/Sapulpa)
@@ -6307,6 +6308,7 @@
   - [Notary Public in Maple Heights, OH: Sharon Nunley](https://www.notarydepot.com/snunley25)
   - [Notary Public in Rancho Cucamonga, CA: Dana Mayer](https://www.notarydepot.com/socalnana)
   - [Notary Public in San Dimas, CA: lisa bittner](https://www.notarydepot.com/socalsignings)
+  - [Notary Public in Pauls Valley, OK: Tracy Lewis](https://www.notarydepot.com/socs)
   - [Notary Public in Spring Valley, CA: Sheree&#39; Caesar](https://www.notarydepot.com/softtailbabie)
   - [Notary Public in Bluffton, IN: Malihe Soheil](https://www.notarydepot.com/soheilnotary)
   - [Notary Public in San Jacinto, CA: Michelle Soliz-Rozell](https://www.notarydepot.com/solizrozell)
@@ -7559,4 +7561,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-12-01T19:12:03Z
+Updated at 2017-12-01T19:32:03Z
