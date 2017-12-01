@@ -1832,6 +1832,7 @@
     - [Notary Public in Carrollton, TX](https://www.notarydepot.com/notary-near-me/Texas/Carrollton)
     - [Notary Public in Cedar Hill, TX](https://www.notarydepot.com/notary-near-me/Texas/Cedar-Hill)
     - [Notary Public in Cedar Park, TX](https://www.notarydepot.com/notary-near-me/Texas/Cedar-Park)
+    - [Notary Public in Channelview, TX](https://www.notarydepot.com/notary-near-me/Texas/Channelview)
     - [Notary Public in Cleburne, TX](https://www.notarydepot.com/notary-near-me/Texas/Cleburne)
     - [Notary Public in Cleveland, TX](https://www.notarydepot.com/notary-near-me/Texas/Cleveland)
     - [Notary Public in Clute, TX](https://www.notarydepot.com/notary-near-me/Texas/Clute)
@@ -6697,6 +6698,7 @@
   - [Notary Public in Rio Rancho, NM: Misty L. Olson](https://www.notarydepot.com/twoopy)
   - [Notary Public in Winston-Salem, NC: Melissa &amp; Melynda Waller](https://www.notarydepot.com/twosistersnotary)
   - [Notary Public in Houston, TX: Dee Whitaker](https://www.notarydepot.com/tx247notary)
+  - [Notary Public in Channelview, TX: Estelle Senion](https://www.notarydepot.com/txmobilenotary)
   - [Notary Public in Austin, TX: Henry Garcia](https://www.notarydepot.com/txnotary1)
   - [Notary Public in Humble, TX: Vernesia Voltz](https://www.notarydepot.com/txsignsrv13)
   - [Notary Public in KY: Tyler Reiser](https://www.notarydepot.com/tylerreiser)
@@ -7557,4 +7559,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-12-01T03:32:01Z
+Updated at 2017-12-01T03:52:02Z
