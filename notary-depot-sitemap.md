@@ -1255,6 +1255,7 @@
     - [Notary Public in Bridgewater, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Bridgewater)
     - [Notary Public in Burlington, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Burlington)
     - [Notary Public in Butler, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Butler)
+    - [Notary Public in Camden, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Camden)
     - [Notary Public in Cherry Hill, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Cherry-Hill)
     - [Notary Public in Chester, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Chester)
     - [Notary Public in Clementon, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Clementon)
@@ -5873,6 +5874,7 @@
   - [Notary Public in Alamosa, CO: John Bianca](https://www.notarydepot.com/retiredkop)
   - [Notary Public in Chino Valley, AZ: Renee Eubanks](https://www.notarydepot.com/reubanks)
   - [Notary Public in Los Angeles, CA: Reuben Zadeh](https://www.notarydepot.com/reubenzadeh)
+  - [Notary Public in Camden, NJ: Levi](https://www.notarydepot.com/revlc3notary)
   - [Notary Public in Whittier, CA: Monica Reyes](https://www.notarydepot.com/reyesfam2la)
   - [Notary Public in Lake Worth, FL: Rodger F. Bratvogel](https://www.notarydepot.com/rfbnotary)
   - [Notary Public in Jacksonville, FL: Russell V. Franklin](https://www.notarydepot.com/rfranklin)
@@ -7567,4 +7569,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-12-02T04:52:03Z
+Updated at 2017-12-02T05:12:02Z
