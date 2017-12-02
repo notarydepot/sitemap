@@ -796,6 +796,7 @@
     - [Notary Public in Caledonia, IL](https://www.notarydepot.com/notary-near-me/Illinois/Caledonia)
     - [Notary Public in Calumet City, IL](https://www.notarydepot.com/notary-near-me/Illinois/Calumet-City)
     - [Notary Public in Carol Stream, IL](https://www.notarydepot.com/notary-near-me/Illinois/Carol-Stream)
+    - [Notary Public in Carpentersville, IL](https://www.notarydepot.com/notary-near-me/Illinois/Carpentersville)
     - [Notary Public in Cary, IL](https://www.notarydepot.com/notary-near-me/Illinois/Cary)
     - [Notary Public in Channahon, IL](https://www.notarydepot.com/notary-near-me/Illinois/Channahon)
     - [Notary Public in Chicago, IL](https://www.notarydepot.com/notary-near-me/Illinois/Chicago)
@@ -5734,6 +5735,7 @@
   - [Notary Public in Temecula, CA: Letty A. Marquez](https://www.notarydepot.com/prevantsy)
   - [Notary Public in West Palm Beach, FL: Penny Price Payne](https://www.notarydepot.com/pricepayne)
   - [Notary Public in Miami, FL: Patricia V. Richardson](https://www.notarydepot.com/prichar270)
+  - [Notary Public in Carpentersville, IL: Susan Barucca](https://www.notarydepot.com/primer1)
   - [Notary Public in Orting, WA: Krista Smith](https://www.notarydepot.com/princesskm)
   - [Notary Public in Simi Valley, CA: Les Jarrin](https://www.notarydepot.com/printer)
   - [Notary Public in Yonkers, NY: Andre Hatchett](https://www.notarydepot.com/prioritynotaryinc)
@@ -7565,4 +7567,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-12-02T01:52:02Z
+Updated at 2017-12-02T02:12:03Z
