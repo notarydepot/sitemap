@@ -2616,6 +2616,7 @@
   - [Notary Public in Cape Coral, FL: B. L. Devlin](https://www.notarydepot.com/bettdev)
   - [Notary Public in NJ: Sw Notary Services LLC](https://www.notarydepot.com/betterdays)
   - [Notary Public in Orlando, FL: Liz Leon](https://www.notarydepot.com/betty07)
+  - [Notary Public in Los Angeles, CA: Joanne Beverly](https://www.notarydepot.com/beverlyenterprises)
   - [Notary Public in Los Angeles, CA: Joanne Beverly](https://www.notarydepot.com/beverlyllc)
   - [Notary Public in Andalusia, AL: Beverly Grisham](https://www.notarydepot.com/bevgrisham)
   - [Notary Public in Boonville, IN: Scott Watson](https://www.notarydepot.com/bfd110)
@@ -7572,4 +7573,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-12-04T16:52:02Z
+Updated at 2017-12-04T17:12:06Z
