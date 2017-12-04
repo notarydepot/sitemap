@@ -545,6 +545,7 @@
     - [Notary Public in Alva, FL](https://www.notarydepot.com/notary-near-me/Florida/Alva)
     - [Notary Public in Apollo Beach, FL](https://www.notarydepot.com/notary-near-me/Florida/Apollo-Beach)
     - [Notary Public in Apopka, FL](https://www.notarydepot.com/notary-near-me/Florida/Apopka)
+    - [Notary Public in Arcadia, FL](https://www.notarydepot.com/notary-near-me/Florida/Arcadia)
     - [Notary Public in Atlantic Beach, FL](https://www.notarydepot.com/notary-near-me/Florida/Atlantic-Beach)
     - [Notary Public in Auburndale, FL](https://www.notarydepot.com/notary-near-me/Florida/Auburndale)
     - [Notary Public in Beverly Hills, FL](https://www.notarydepot.com/notary-near-me/Florida/Beverly-Hills)
@@ -5817,6 +5818,7 @@
   - [Notary Public in Robertsdale, AL: Rosemary Gandy](https://www.notarydepot.com/rasbilling)
   - [Notary Public in Blissfield, MI: E-z-1 Notary Public/ Closing Agent](https://www.notarydepot.com/rasin)
   - [Notary Public in Waimea, HI: Rasquel Featheran](https://www.notarydepot.com/rasquel)
+  - [Notary Public in Arcadia, FL: Stacy Jacobson](https://www.notarydepot.com/ravholette)
   - [Notary Public in CA: Ravinder Pilson, Certified Notary Signing Agent](https://www.notarydepot.com/ravinder)
   - [Notary Public in Bellflower, CA: Ray Muldrow](https://www.notarydepot.com/ray)
   - [Notary Public in London, OH: Robert Banhagel](https://www.notarydepot.com/rbanhagel)
@@ -7573,4 +7575,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-12-04T22:52:02Z
+Updated at 2017-12-04T23:12:02Z
