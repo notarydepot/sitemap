@@ -4847,7 +4847,6 @@
   - [Notary Public in Raleigh, NC: Lynn Lowry](https://www.notarydepot.com/lynnnc)
   - [Notary Public in Twentynine Palms, CA: Magdalene Itsuokor](https://www.notarydepot.com/lynnsylou)
   - [Notary Public in Newberry, FL: M. Lynn Mulholland](https://www.notarydepot.com/lynn_mulholland)
-  - [Notary Public in Upper Marlboro, MD: Linda Porter](https://www.notarydepot.com/lynporter)
   - [Notary Public in Seattle, WA: Diane Haugsvar](https://www.notarydepot.com/lynsvar)
   - [Notary Public in Elko, NV: R. A. Lyons](https://www.notarydepot.com/lyonsent)
   - [Notary Public in San Fernando, CA: Maria Diaz](https://www.notarydepot.com/m1970da)
@@ -7573,4 +7572,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-12-04T14:52:03Z
+Updated at 2017-12-04T15:12:03Z
