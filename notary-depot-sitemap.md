@@ -3340,6 +3340,7 @@
   - [Notary Public in Santa Rosa, CA: Sergio Musetti](https://www.notarydepot.com/dmteam02)
   - [Notary Public in Charlotte, NC: Daniel Nance](https://www.notarydepot.com/dnance01)
   - [Notary Public in Chicago, IL: Dawn Brim](https://www.notarydepot.com/dnb79)
+  - [Notary Public in Fernley, NV: David Morrow](https://www.notarydepot.com/dnl)
   - [Notary Public in Chicago, IL: Dorothy McKinnie](https://www.notarydepot.com/dnmnotary)
   - [Notary Public in Glendale, AZ: Jeffrey](https://www.notarydepot.com/docdrj77)
   - [Notary Public in Phelan, CA: Melinda S. Schumacher](https://www.notarydepot.com/docittome)
@@ -7575,4 +7576,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-12-05T19:12:05Z
+Updated at 2017-12-05T19:32:06Z
