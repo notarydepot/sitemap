@@ -6165,6 +6165,7 @@
   - [Notary Public in Miami Gardens, FL: shania hall](https://www.notarydepot.com/shaniajam)
   - [Notary Public in Woodbridge, VA: Shanitra Johnson](https://www.notarydepot.com/shanitra_johnson)
   - [Notary Public in West Bloomfield Township, MI: Shannel Konja](https://www.notarydepot.com/shannel307)
+  - [Notary Public in West Bloomfield Township, MI: shannel konja ](https://www.notarydepot.com/shannelkonja)
   - [Notary Public in Troy, MO: Shannon Hayes](https://www.notarydepot.com/shannon123)
   - [Notary Public in Beaumont, CA: Shannon Anglin](https://www.notarydepot.com/shannonanglin)
   - [Notary Public in Fairhope, AL: Shannon W Gorman](https://www.notarydepot.com/shannoniginz)
@@ -7576,4 +7577,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-12-06T02:52:02Z
+Updated at 2017-12-06T03:12:02Z
