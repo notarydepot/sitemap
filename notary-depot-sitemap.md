@@ -5166,6 +5166,7 @@
   - [Notary Public in Montgomery, AL: Shirley T. Nelson](https://www.notarydepot.com/mobilesigneralabama)
   - [Notary Public in Dallas, TX: Vicky Roberts](https://www.notarydepot.com/mobilesigninglady)
   - [Notary Public in Wylie, TX: Melanie Kennedy](https://www.notarydepot.com/mobilewylietx)
+  - [Notary Public in Buckeye, AZ: Richard A Crichton](https://www.notarydepot.com/mobilnotary)
   - [Notary Public in St. Louis, MO: Mary Vance](https://www.notarydepot.com/mobnotnotary)
   - [Notary Public in Hampton, VA: Felicia Johnson](https://www.notarydepot.com/modestnotaryllc)
   - [Notary Public in Lee&#39;s Summit, MO: Marsha Love-Waldron](https://www.notarydepot.com/mokansasnotary)
@@ -7575,4 +7576,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-12-07T22:12:03Z
+Updated at 2017-12-07T22:32:03Z
