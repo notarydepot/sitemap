@@ -6086,7 +6086,7 @@
   - [Notary Public in Schertz, TX: Sarah H. Permenter](https://www.notarydepot.com/sarahhp)
   - [Notary Public in Temple City, CA: Sarah Spina](https://www.notarydepot.com/sarahjohn11)
   - [Notary Public in Mount Vernon, NY: Sarah Rushing](https://www.notarydepot.com/sarahrus)
-  - [Notary Public in Minneapolis, MN: Sara shaw](https://www.notarydepot.com/sarashaw)
+  - [Notary Public in Minneapolis, MN: Sara Shaw](https://www.notarydepot.com/sarashaw)
   - [Notary Public in Charlotte, NC: Sara Goethals](https://www.notarydepot.com/sarasignsnc)
   - [Notary Public in Fayetteville, NC: Sarah Sanders](https://www.notarydepot.com/sarken333)
   - [Notary Public in Greencastle, PA: Sally A. Rowe](https://www.notarydepot.com/sarowe)
@@ -7575,4 +7575,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-12-07T20:12:04Z
+Updated at 2017-12-07T20:32:04Z
