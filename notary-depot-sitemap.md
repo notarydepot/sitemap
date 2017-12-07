@@ -5179,7 +5179,6 @@
   - [Notary Public in Chula Vista, CA: Anne Bryant](https://www.notarydepot.com/mommy7328)
   - [Notary Public in Antelope, CA: Monica L. Oliver](https://www.notarydepot.com/momo)
   - [Notary Public in Olympia, WA: Betsy Borgacz &amp; Kerry Hayes](https://www.notarydepot.com/momsonthego)
-  - [Notary Public in Thousand Oaks, CA: Michelle Mussetter Certified Signing Agent](https://www.notarydepot.com/momussetter)
   - [Notary Public in Riverton, WY: Laura Harrington](https://www.notarydepot.com/mom_3m)
   - [Notary Public in Evans, GA: Mona Stokes](https://www.notarydepot.com/monastokes)
   - [Notary Public in Freeland, MI: Tommy W Simpkins](https://www.notarydepot.com/moneytommy)
@@ -6164,7 +6163,7 @@
   - [Notary Public in Miami Gardens, FL: shania hall](https://www.notarydepot.com/shaniajam)
   - [Notary Public in Woodbridge, VA: Shanitra Johnson](https://www.notarydepot.com/shanitra_johnson)
   - [Notary Public in West Bloomfield Township, MI: Shannel Konja](https://www.notarydepot.com/shannel307)
-  - [Notary Public in West Bloomfield Township, MI: shannel konja ](https://www.notarydepot.com/shannelkonja)
+  - [Notary Public in West Bloomfield Township, MI: Shannel Konja ](https://www.notarydepot.com/shannelkonja)
   - [Notary Public in Troy, MO: Shannon Hayes](https://www.notarydepot.com/shannon123)
   - [Notary Public in Beaumont, CA: Shannon Anglin](https://www.notarydepot.com/shannonanglin)
   - [Notary Public in Fairhope, AL: Shannon W Gorman](https://www.notarydepot.com/shannoniginz)
@@ -7576,4 +7575,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-12-07T19:52:02Z
+Updated at 2017-12-07T20:12:04Z
