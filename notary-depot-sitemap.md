@@ -3935,6 +3935,7 @@
   - [Notary Public in Cool, CA: Jack Stephens](https://www.notarydepot.com/jackpar71)
   - [Notary Public in Lancaster, CA: Tammie](https://www.notarydepot.com/jacksonmobilenotary)
   - [Notary Public in Columbus, OH: Jaclyn L. Nelson](https://www.notarydepot.com/jackvince)
+  - [Notary Public in Sarasota, FL: Jaclyn Schaffer](https://www.notarydepot.com/jaclynschaffer)
   - [Notary Public in Portsmouth, VA: Jacory Aldridge](https://www.notarydepot.com/jacorya)
   - [Notary Public in CA: Jacqueline M. Newman](https://www.notarydepot.com/jacqueemac)
   - [Notary Public in Levittown, PA: jacqueline graham](https://www.notarydepot.com/jacquelineg)
@@ -7576,4 +7577,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-12-08T01:12:02Z
+Updated at 2017-12-08T01:32:03Z
