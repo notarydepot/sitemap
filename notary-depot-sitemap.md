@@ -5404,6 +5404,7 @@
   - [Notary Public in Granger, IN: Thomas J. Clemans](https://www.notarydepot.com/northernindiananotary)
   - [Notary Public in Culpeper, VA: Notary on Demand](https://www.notarydepot.com/not1826)
   - [Notary Public in Lakeland, FL: Michelle Myers](https://www.notarydepot.com/notablenotaryservices)
+  - [Notary Public in Land O&#39; Lakes, FL: Charles ](https://www.notarydepot.com/notariesdepot)
   - [Notary Public in Palm Coast, FL: Notariestogo](https://www.notarydepot.com/notariestogo)
   - [Notary Public in San Marcos, TX: Donald G. Dickey](https://www.notarydepot.com/notarize4u)
   - [Notary Public in Cochranton, PA: Daisylynn M. Tafoya](https://www.notarydepot.com/notarizeit)
@@ -7577,4 +7578,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-12-11T18:35:03Z
+Updated at 2017-12-11T18:55:03Z
