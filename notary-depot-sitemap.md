@@ -1614,6 +1614,7 @@
     - [Notary Public in Jefferson, OR](https://www.notarydepot.com/notary-near-me/Oregon/Jefferson)
     - [Notary Public in Lake Oswego, OR](https://www.notarydepot.com/notary-near-me/Oregon/Lake-Oswego)
     - [Notary Public in Lebanon, OR](https://www.notarydepot.com/notary-near-me/Oregon/Lebanon)
+    - [Notary Public in Medford, OR](https://www.notarydepot.com/notary-near-me/Oregon/Medford)
     - [Notary Public in Molalla, OR](https://www.notarydepot.com/notary-near-me/Oregon/Molalla)
     - [Notary Public in Myrtle Creek, OR](https://www.notarydepot.com/notary-near-me/Oregon/Myrtle-Creek)
     - [Notary Public in Newberg, OR](https://www.notarydepot.com/notary-near-me/Oregon/Newberg)
@@ -3809,6 +3810,7 @@
   - [Notary Public in Anaheim, CA: Hatice Emanet](https://www.notarydepot.com/hattie)
   - [Notary Public in Cleveland, MO: Theresa Hawkins](https://www.notarydepot.com/hawkins)
   - [Notary Public in Plainfield, NJ: Clarissa Hawkins](https://www.notarydepot.com/hawkinsnotary)
+  - [Notary Public in Medford, OR: Hilda Pantoja](https://www.notarydepot.com/hbpantoja)
   - [Notary Public in Palm Beach Gardens, FL: Humberto Velasco](https://www.notarydepot.com/hbtousa)
   - [Notary Public in Cantonment, FL: Beverly Nichols](https://www.notarydepot.com/hcampers)
   - [Notary Public in Cedar Park, TX: Carlene Foley](https://www.notarydepot.com/hcnotary)
@@ -7578,4 +7580,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-12-12T23:55:02Z
+Updated at 2017-12-13T00:15:02Z
