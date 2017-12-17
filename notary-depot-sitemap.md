@@ -2160,6 +2160,7 @@
     - [Notary Public in West Salem, WI](https://www.notarydepot.com/notary-near-me/Wisconsin/West-Salem)
   - [Notaries Public in Wyoming](https://www.notarydepot.com/notary-near-me/Wyoming)
     - [Notary Public in Casper, WY](https://www.notarydepot.com/notary-near-me/Wyoming/Casper)
+    - [Notary Public in Cheyenne, WY](https://www.notarydepot.com/notary-near-me/Wyoming/Cheyenne)
     - [Notary Public in Cody, WY](https://www.notarydepot.com/notary-near-me/Wyoming/Cody)
     - [Notary Public in Riverton, WY](https://www.notarydepot.com/notary-near-me/Wyoming/Riverton)
     - [Notary Public in Story, WY](https://www.notarydepot.com/notary-near-me/Wyoming/Story)
@@ -4207,7 +4208,6 @@
   - [Notary Public in Lakeland, FL: Joseph D. Federico](https://www.notarydepot.com/joefederico)
   - [Notary Public in Gulf Breeze, FL: Joe Hulsey](https://www.notarydepot.com/joehulc)
   - [Notary Public in Bath, PA: Joseph Light](https://www.notarydepot.com/joel9948)
-  - [Notary Public in Oakland, CA: Joel Klutch](https://www.notarydepot.com/joelk)
   - [Notary Public in Oakland, CA: Joel Klutch](https://www.notarydepot.com/joelklutch)
   - [Notary Public in Canby, OR: Jennie Schroder](https://www.notarydepot.com/joelle98)
   - [Notary Public in Harrisburg, PA: Joel Vargas](https://www.notarydepot.com/joelvargaspanotary)
@@ -6543,6 +6543,7 @@
   - [Notary Public in Jacksonville, FL: Terri Poster-Taylor](https://www.notarydepot.com/terrilee)
   - [Notary Public in Cherokee Village, AR: Terri Bennett](https://www.notarydepot.com/terrilynn68)
   - [Notary Public in Marysville, WA: Terry N. Turner](https://www.notarydepot.com/terrynturner)
+  - [Notary Public in Cheyenne, WY: Test](https://www.notarydepot.com/test123a)
   - [Notary Public in North East, MD: Cynthia Helsel](https://www.notarydepot.com/texacat)
   - [Notary Public in Warminster, PA: Trina Flack](https://www.notarydepot.com/tflack755)
   - [Notary Public in Brooksville, FL: E.j. Fumia](https://www.notarydepot.com/tfumia)
@@ -7582,4 +7583,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-12-17T20:35:02Z
+Updated at 2017-12-17T20:55:03Z
