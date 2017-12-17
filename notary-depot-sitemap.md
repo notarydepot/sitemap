@@ -1783,6 +1783,7 @@
     - [Notary Public in Wakonda, SD](https://www.notarydepot.com/notary-near-me/South-Dakota/Wakonda)
   - [Notaries Public in Tennessee](https://www.notarydepot.com/notary-near-me/Tennessee)
     - [Notary Public in Arlington, TN](https://www.notarydepot.com/notary-near-me/Tennessee/Arlington)
+    - [Notary Public in Bartlett, TN](https://www.notarydepot.com/notary-near-me/Tennessee/Bartlett)
     - [Notary Public in Bluff City, TN](https://www.notarydepot.com/notary-near-me/Tennessee/Bluff-City)
     - [Notary Public in Brentwood, TN](https://www.notarydepot.com/notary-near-me/Tennessee/Brentwood)
     - [Notary Public in Bristol, TN](https://www.notarydepot.com/notary-near-me/Tennessee/Bristol)
@@ -5033,6 +5034,7 @@
   - [Notary Public in Arroyo Grande, CA: Melissa Giovanazzi](https://www.notarydepot.com/melvel29)
   - [Notary Public in DeLand, FL: Patricia Bartolucci](https://www.notarydepot.com/memas4)
   - [Notary Public in Buena Park, CA: Guillermo Espinoza](https://www.notarydepot.com/memogza911)
+  - [Notary Public in Bartlett, TN: Donald Lowry](https://www.notarydepot.com/memphisnotary)
   - [Notary Public in Camarillo, CA: Luis Mendez Ii](https://www.notarydepot.com/mendez)
   - [Notary Public in Summerville, SC: Mercedes Aikens](https://www.notarydepot.com/mercedesa)
   - [Notary Public in Flint, MI: Marilyn Pitts](https://www.notarydepot.com/merlgirl)
@@ -7580,4 +7582,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-12-17T17:35:03Z
+Updated at 2017-12-17T17:55:03Z
