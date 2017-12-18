@@ -4701,6 +4701,7 @@
   - [Notary Public in Jacksonville, FL: Patrice Cummings](https://www.notarydepot.com/liltrice80)
   - [Notary Public in Fort Morgan, CO: Erin N Widener](https://www.notarydepot.com/limitlessbailbonds)
   - [Notary Public in Tucson, AZ: Linda Montani](https://www.notarydepot.com/lin9502)
+  - [Notary Public in Lincoln, CA: Joseph Gleason](https://www.notarydepot.com/lincoln_notary)
   - [Notary Public in Chino Hills, CA: Linda J. Carroll](https://www.notarydepot.com/linda)
   - [Notary Public in Seattle, WA: Linda Anton-Vargas](https://www.notarydepot.com/lindaantonvargas)
   - [Notary Public in Holyoke, MA: Atty.Linda Audet](https://www.notarydepot.com/lindaaudet)
@@ -7583,4 +7584,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-12-18T15:55:03Z
+Updated at 2017-12-18T16:15:02Z
