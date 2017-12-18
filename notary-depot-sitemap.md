@@ -5775,6 +5775,7 @@
   - [Notary Public in Lakeland, FL: Patricia Bryan](https://www.notarydepot.com/ptaylor11421)
   - [Notary Public in Woodbridge, VA: Patrick Thomas](https://www.notarydepot.com/ptfromnj)
   - [Notary Public in Schertz, TX: Phyllis E. Traylor](https://www.notarydepot.com/ptraylor)
+  - [Notary Public in Houston, TX: Ojay Grace](https://www.notarydepot.com/ptsouthwest)
   - [Notary Public in Las Vegas, NV: Patricia Love](https://www.notarydepot.com/pttylv)
   - [Notary Public in Henderson, KY: Robin Pugh](https://www.notarydepot.com/pughy2003)
   - [Notary Public in Victorville, CA: Barbara Engen](https://www.notarydepot.com/pumpkin)
@@ -7584,4 +7585,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-12-18T21:35:04Z
+Updated at 2017-12-18T21:55:02Z
