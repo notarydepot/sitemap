@@ -2572,7 +2572,6 @@
   - [Notary Public in Cape Canaveral, FL: peter cost*](https://www.notarydepot.com/bbeach22)
   - [Notary Public in Pompano Beach, FL: Barbara Bodner](https://www.notarydepot.com/bbodner)
   - [Notary Public in Brighton, CO: Brenda Bolton](https://www.notarydepot.com/bbolton)
-  - [Notary Public in Metairie, LA: Ben Brainis](https://www.notarydepot.com/bbrainis)
   - [Notary Public in Homestead, FL: V. Brandt Brantley](https://www.notarydepot.com/bbrantley)
   - [Notary Public in Renton, WA: Huong Thanh Nguyen](https://www.notarydepot.com/bbtac)
   - [Notary Public in Pompano Beach, FL: Brenda Bungo](https://www.notarydepot.com/bbungo)
@@ -7583,4 +7582,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-12-18T14:35:03Z
+Updated at 2017-12-18T14:55:02Z
