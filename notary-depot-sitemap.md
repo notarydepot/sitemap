@@ -5204,7 +5204,6 @@
   - [Notary Public in Blue Springs, MO: Roy C McCallop](https://www.notarydepot.com/monotary)
   - [Notary Public in Cleveland, OH: Monique Strange](https://www.notarydepot.com/monotary211)
   - [Notary Public in Chino, CA: Monti Johnson](https://www.notarydepot.com/montij)
-  - [Notary Public in Las Vegas, NV: Ericka C. Davis](https://www.notarydepot.com/moodykat)
   - [Notary Public in Claremont, CA: R. Ivery](https://www.notarydepot.com/moonisha)
   - [Notary Public in San Marcos, CA: Julie Miller](https://www.notarydepot.com/moonlight)
   - [Notary Public in Tallahassee, FL: K. Moore](https://www.notarydepot.com/moore2591)
@@ -7585,4 +7584,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-12-19T19:15:02Z
+Updated at 2017-12-19T19:35:03Z
