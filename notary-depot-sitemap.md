@@ -1509,7 +1509,6 @@
     - [Notary Public in Thomasville, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Thomasville)
     - [Notary Public in Waxhaw, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Waxhaw)
     - [Notary Public in Weaverville, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Weaverville)
-    - [Notary Public in West Jefferson, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/West-Jefferson)
     - [Notary Public in Wilmington, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Wilmington)
     - [Notary Public in Winston Salem, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Winston-Salem)
     - [Notary Public in Winterville, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Winterville)
@@ -2466,7 +2465,7 @@
   - [Notary Public in Tracy, CA: Alicia Ramirez](https://www.notarydepot.com/aramirez)
   - [Notary Public in Duncanville, TX: Angelita Haddock](https://www.notarydepot.com/arecoleh)
   - [Notary Public in Downey, CA: Robert Pryor](https://www.notarydepot.com/aredubb)
-  - [Notary Public in West Jefferson, NC: Bob Taylor](https://www.notarydepot.com/arernotary)
+  - [Notary Public in Granite Falls, NC: Bob Taylor](https://www.notarydepot.com/arernotary)
   - [Notary Public in Nipomo, CA: Obdulia Arevalo](https://www.notarydepot.com/arevalo)
   - [Notary Public in Olympia, WA: Aric Coolbaugh](https://www.notarydepot.com/aric)
   - [Notary Public in NY: Zameena Salim-Rasheed](https://www.notarydepot.com/arif)
@@ -7585,4 +7584,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-12-20T15:55:02Z
+Updated at 2017-12-20T16:15:02Z
