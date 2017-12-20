@@ -4252,7 +4252,6 @@
   - [Notary Public in Bryan, TX: Joyce Soliz](https://www.notarydepot.com/joysol)
   - [Notary Public in Lutz, FL: Jaquie Pena](https://www.notarydepot.com/jpena)
   - [Notary Public in Layton, UT: Jim Pettingill](https://www.notarydepot.com/jpettingill)
-  - [Notary Public in Falls Church, VA: James Pham](https://www.notarydepot.com/jpham9)
   - [Notary Public in Bogota, NJ: Joie Polimeda](https://www.notarydepot.com/jplynn10)
   - [Notary Public in Manchester, NH: Myra Anne Mullen](https://www.notarydepot.com/jpmyra)
   - [Notary Public in Napa, CA: Jim Pettis](https://www.notarydepot.com/jpnotary)
@@ -7585,4 +7584,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-12-20T22:55:02Z
+Updated at 2017-12-20T23:15:02Z
