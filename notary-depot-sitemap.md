@@ -5339,6 +5339,7 @@
   - [Notary Public in San Diego, CA: Nathan Driskill](https://www.notarydepot.com/ndriskill)
   - [Notary Public in Thousand Oaks, CA: Nicole DuFrene,Certified Loan Signing Agent &amp; Mobile Notary Public](https://www.notarydepot.com/ndufrene)
   - [Notary Public in Tuskegee, AL: Debbie Neal](https://www.notarydepot.com/neald7)
+  - [Notary Public in Sandston, VA: Julia Holmes-Clemmons](https://www.notarydepot.com/nearbynotary)
   - [Notary Public in Grant, AL: Anita Pollard](https://www.notarydepot.com/neatsigningagent)
   - [Notary Public in Bellevue, NE: Michele Madison](https://www.notarydepot.com/neb1notary)
   - [Notary Public in Largo, FL: D. Schmitt](https://www.notarydepot.com/necrogue)
@@ -7584,4 +7585,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-12-20T05:55:03Z
+Updated at 2017-12-20T06:15:03Z
