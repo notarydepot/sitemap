@@ -3521,6 +3521,7 @@
   - [Notary Public in NY: Elisa Pickel](https://www.notarydepot.com/ep2boys)
   - [Notary Public in Upper Marlboro, MD: Edward R. Bowles](https://www.notarydepot.com/erbowles1955)
   - [Notary Public in Owensboro, KY: J. Eric Spence](https://www.notarydepot.com/eric2oo2)
+  - [Notary Public in Bremerton, WA: Eric Hall](https://www.notarydepot.com/eric30fnp)
   - [Notary Public in Sanger, CA: Erica Quintero](https://www.notarydepot.com/ericaq)
   - [Notary Public in Springfield, MO: Adam and Erica Shaw](https://www.notarydepot.com/ericashaw)
   - [Notary Public in Brandon, FL: Eric D Eatman, Notary](https://www.notarydepot.com/ericeatman)
@@ -7584,4 +7585,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-12-21T19:55:03Z
+Updated at 2017-12-21T20:15:03Z
