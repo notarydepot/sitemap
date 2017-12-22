@@ -5015,7 +5015,7 @@
   - [Notary Public in Vero Beach, FL: Jackie Hyde](https://www.notarydepot.com/meganmae1)
   - [Notary Public in Newburgh, NY: Nancy Higgins](https://www.notarydepot.com/meganriley)
   - [Notary Public in Bakersfield, CA: Megan Carter](https://www.notarydepot.com/meggera)
-  - [Notary Public in CA: Molly Gerber](https://www.notarydepot.com/megmobilenotary)
+  - [Notary Public in Santa Clarita, CA: Molly Gerber](https://www.notarydepot.com/megmobilenotary)
   - [Notary Public in Hicksville, NY: Darshan Mehta](https://www.notarydepot.com/mehtadarshan)
   - [Notary Public in Goose Creek, SC: Mark Johnson](https://www.notarydepot.com/mej42000)
   - [Notary Public in Jacksonville, FL: Melinda Rellford](https://www.notarydepot.com/mel4610)
@@ -7585,4 +7585,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-12-22T04:15:03Z
+Updated at 2017-12-22T04:35:04Z
