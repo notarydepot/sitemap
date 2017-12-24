@@ -5073,6 +5073,7 @@
   - [Notary Public in Los Angeles, CA: Michael Yamamoto](https://www.notarydepot.com/michaely69)
   - [Notary Public in Citrus Heights, CA: Michele Avila](https://www.notarydepot.com/micheleavila)
   - [Notary Public in Sharon, CT: Michele W. Pastre](https://www.notarydepot.com/michelect)
+  - [Notary Public in Greencastle, PA: Michele Ellis](https://www.notarydepot.com/micheleellis)
   - [Notary Public in Moss Beach, CA: Irina Bates](https://www.notarydepot.com/michelle)
   - [Notary Public in Hammonton, NJ: Michelle Morris](https://www.notarydepot.com/michelle9120)
   - [Notary Public in Salem, NH: Michelle E Montemorra](https://www.notarydepot.com/michelleelise)
@@ -7585,4 +7586,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-12-24T08:55:03Z
+Updated at 2017-12-24T09:15:02Z
