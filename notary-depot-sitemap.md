@@ -6105,6 +6105,7 @@
   - [Notary Public in Cincinnati, OH: satar](https://www.notarydepot.com/satarba)
   - [Notary Public in Saucier, MS: Brenda R Palmer](https://www.notarydepot.com/sauciernotary)
   - [Notary Public in Eastlake, OH: Betty Brown](https://www.notarydepot.com/savcash)
+  - [Notary Public in Highland, NY: Tracee Smythe](https://www.notarydepot.com/savvynotary)
   - [Notary Public in Orangevale, CA: Katherine M Sayre](https://www.notarydepot.com/sayrek)
   - [Notary Public in White Plains, NY: Shana](https://www.notarydepot.com/sbeckford)
   - [Notary Public in Terry, MS: Sabrina L. Benson](https://www.notarydepot.com/sbenson1985)
@@ -7586,4 +7587,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-12-25T02:55:05Z
+Updated at 2017-12-25T03:15:02Z
