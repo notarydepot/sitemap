@@ -2741,7 +2741,7 @@
   - [Notary Public in Watsonville, CA: Brooke Squyres](https://www.notarydepot.com/brookeca)
   - [Notary Public in Rigby, ID: Brooke Peebles](https://www.notarydepot.com/brookepeebles)
   - [Notary Public in Pompano Beach, FL: Teressa Ellison](https://www.notarydepot.com/browardnotaryservice)
-  - [Notary Public in Greenville, SC: Lateefiah Bryant-Brown](https://www.notarydepot.com/brown36)
+  - [Notary Public in Greenville, SC: Lateefiah Bryant-Brown](https://www.notarydepot.com/brown38)
   - [Notary Public in Indio, CA: Justin Spinks](https://www.notarydepot.com/browncap24)
   - [Notary Public in El Paso, TX: Bruce Engels](https://www.notarydepot.com/bruce)
   - [Notary Public in Cañon City, CO: Bruce M. Buffington](https://www.notarydepot.com/brucebuffington)
@@ -7585,4 +7585,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-12-26T21:36:02Z
+Updated at 2017-12-26T21:56:02Z
