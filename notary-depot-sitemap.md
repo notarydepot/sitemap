@@ -4105,6 +4105,7 @@
   - [Notary Public in Altamonte Springs, FL: Gerardo Martinez](https://www.notarydepot.com/jerry18)
   - [Notary Public in Altamonte Springs, FL: Gerardo Martinez](https://www.notarydepot.com/jerry2000)
   - [Notary Public in Lawton, OK: Jerry E. Kinsey Jr.](https://www.notarydepot.com/jerry957)
+  - [Notary Public in Palm Coast, FL: Gerald Fuller](https://www.notarydepot.com/jerryfuller_1)
   - [Notary Public in Hawk Point, MO: Jerry O Thompson](https://www.notarydepot.com/jerryothompsonreagancom)
   - [Notary Public in Sarasota, FL: Jerry Hoey](https://www.notarydepot.com/jerry_hoey)
   - [Notary Public in Kingsville, TX: Diana C. Miller](https://www.notarydepot.com/jesamlee)
@@ -7587,4 +7588,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-12-27T16:56:02Z
+Updated at 2017-12-27T17:16:02Z
