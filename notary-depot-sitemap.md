@@ -3407,6 +3407,7 @@
   - [Notary Public in Ramona, CA: Douglas Graham Stout](https://www.notarydepot.com/dstout)
   - [Notary Public in Marietta, GA: David Strube](https://www.notarydepot.com/dstrube)
   - [Notary Public in Newburgh, IN: Dennis W. Sullivan](https://www.notarydepot.com/dsullivan)
+  - [Notary Public in Charlotte, NC: Donald J. Sumpter](https://www.notarydepot.com/dsumpter)
   - [Notary Public in Leander, TX: Debra Talley](https://www.notarydepot.com/dtalleynotaryservices)
   - [Notary Public in Fort Worth, TX: Demartis Cowart](https://www.notarydepot.com/dtcnotary97)
   - [Notary Public in Jackson, NJ: Diane Thomore](https://www.notarydepot.com/dthomore)
@@ -7586,4 +7587,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-12-27T15:36:03Z
+Updated at 2017-12-27T15:56:02Z
