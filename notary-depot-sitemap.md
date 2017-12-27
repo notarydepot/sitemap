@@ -2492,6 +2492,7 @@
   - [Notary Public in Castleton, VT: Gerard Ashton](https://www.notarydepot.com/ashtongjcomcastnet)
   - [Notary Public in Columbia, MS: Angela Simon](https://www.notarydepot.com/asimon31)
   - [Notary Public in Bakersfield, CA: Angela M. Sinks](https://www.notarydepot.com/asinks)
+  - [Notary Public in Charlotte, NC: Amanda Smith](https://www.notarydepot.com/asmith4u)
   - [Notary Public in Lake Elsinore, CA: Avyril Snell](https://www.notarydepot.com/asnotary)
   - [Notary Public in Bridgewater, NJ: Addolorata Spinola](https://www.notarydepot.com/aspinola)
   - [Notary Public in Malibu, CA: Assia Balsamo](https://www.notarydepot.com/assiabalsamo)
@@ -7585,4 +7586,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-12-27T04:56:02Z
+Updated at 2017-12-27T05:16:02Z
