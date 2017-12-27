@@ -2710,7 +2710,6 @@
   - [Notary Public in San Francisco, CA: Brahim mahmoudi](https://www.notarydepot.com/brahim67)
   - [Notary Public in Egg Harbor Township, NJ: Hilton C. Braithwaite](https://www.notarydepot.com/braith)
   - [Notary Public in Chicago, IL: Brandi Davis ](https://www.notarydepot.com/brandibits)
-  - [Notary Public in Camp Hill, PA: Brandie Glass](https://www.notarydepot.com/brandieglass9683gmailcom)
   - [Notary Public in Port Angeles, WA: Brandi G. Shepherd](https://www.notarydepot.com/brandishepherd72)
   - [Notary Public in Chicago, IL: Chicago Prime Notary](https://www.notarydepot.com/brandonm)
   - [Notary Public in Columbia, TN: Brandon Sprowl](https://www.notarydepot.com/brandonsprowl)
@@ -3297,6 +3296,7 @@
   - [Notary Public in Jackson, NJ: Dineen M Iannice](https://www.notarydepot.com/dineen001)
   - [Notary Public in Brentwood, TN: Sorin Diosan](https://www.notarydepot.com/diotec)
   - [Notary Public in Denison, TX: Diane Ramey](https://www.notarydepot.com/diramey)
+  - [Notary Public in Camp Hill, PA: Brandie Glass](https://www.notarydepot.com/distinguishednotarygmailcom)
   - [Notary Public in Philadelphia, PA: Dee](https://www.notarydepot.com/divadee)
   - [Notary Public in Hampton, VA: Kellya hartless thomas](https://www.notarydepot.com/divanotary)
   - [Notary Public in Seal Beach, CA: Cecilia M. Salisbury](https://www.notarydepot.com/divawannabe)
@@ -7588,4 +7588,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-12-27T19:56:03Z
+Updated at 2017-12-27T20:16:03Z
