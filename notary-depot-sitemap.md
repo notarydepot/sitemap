@@ -2490,6 +2490,7 @@
   - [Notary Public in Mobile, AL: Ashley Atkinson, CSA](https://www.notarydepot.com/ashleyatkinson)
   - [Notary Public in Lake Elsinore, CA: Ashley Johnson](https://www.notarydepot.com/ashleyjohnson)
   - [Notary Public in Madera, CA: Ashley Martinez](https://www.notarydepot.com/ashleym1)
+  - [Notary Public in Long Beach, CA: Ashley H. Oraguzie ](https://www.notarydepot.com/ashleyoraguzienotary)
   - [Notary Public in Castleton, VT: Gerard Ashton](https://www.notarydepot.com/ashtongjcomcastnet)
   - [Notary Public in Columbia, MS: Angela Simon](https://www.notarydepot.com/asimon31)
   - [Notary Public in Bakersfield, CA: Angela M. Sinks](https://www.notarydepot.com/asinks)
@@ -7590,4 +7591,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-12-28T09:36:03Z
+Updated at 2017-12-28T09:56:02Z
