@@ -33,6 +33,7 @@
     - [Notary Public in Brownsboro, AL](https://www.notarydepot.com/notary-near-me/Alabama/Brownsboro)
     - [Notary Public in Centre, AL](https://www.notarydepot.com/notary-near-me/Alabama/Centre)
     - [Notary Public in Childersburg, AL](https://www.notarydepot.com/notary-near-me/Alabama/Childersburg)
+    - [Notary Public in Daphne, AL](https://www.notarydepot.com/notary-near-me/Alabama/Daphne)
     - [Notary Public in Decatur, AL](https://www.notarydepot.com/notary-near-me/Alabama/Decatur)
     - [Notary Public in Dothan, AL](https://www.notarydepot.com/notary-near-me/Alabama/Dothan)
     - [Notary Public in Elba, AL](https://www.notarydepot.com/notary-near-me/Alabama/Elba)
@@ -4608,6 +4609,7 @@
   - [Notary Public in Portola, CA: Laura Ross](https://www.notarydepot.com/laura0957)
   - [Notary Public in Brisbane, CA: laura e allenby](https://www.notarydepot.com/lauraa16)
   - [Notary Public in Modesto, CA: Laura J Biewer](https://www.notarydepot.com/laurab)
+  - [Notary Public in Daphne, AL: Laura Barnes](https://www.notarydepot.com/laurabarnes)
   - [Notary Public in Rumson, NJ: Laura Ferrara](https://www.notarydepot.com/lauraferrara)
   - [Notary Public in Carmel, NY: Laura](https://www.notarydepot.com/lauraj)
   - [Notary Public in Fort Lauderdale, FL: Laurie Morgan](https://www.notarydepot.com/lauramae17)
@@ -7588,4 +7590,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-12-28T01:16:02Z
+Updated at 2017-12-28T01:36:03Z
