@@ -1734,7 +1734,6 @@
     - [Notary Public in Wellsboro, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Wellsboro)
     - [Notary Public in Westfield, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Westfield)
     - [Notary Public in Willow Grove, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Willow-Grove)
-    - [Notary Public in Wilmerding, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Wilmerding)
     - [Notary Public in York, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/York)
   - [Notaries Public in Rhode Island](https://www.notarydepot.com/notary-near-me/Rhode-Island)
     - [Notary Public in Providence, RI](https://www.notarydepot.com/notary-near-me/Rhode-Island/Providence)
@@ -3270,7 +3269,6 @@
   - [Notary Public in Pittston, PA: Donna Marie Graham](https://www.notarydepot.com/dgraham)
   - [Notary Public in Scappoose, OR: Robin Wilson](https://www.notarydepot.com/dgsdesigns)
   - [Notary Public in Gambier, OH: Deborah Hart](https://www.notarydepot.com/dhart72)
-  - [Notary Public in Wilmerding, PA: Doreen Hartley](https://www.notarydepot.com/dhart999)
   - [Notary Public in Vista, CA: David Hendron](https://www.notarydepot.com/dhendron)
   - [Notary Public in Hilmar, CA: Delia Hidalgo](https://www.notarydepot.com/dhidalgo)
   - [Notary Public in Lorain, OH: Devon Hinds](https://www.notarydepot.com/dhinds)
@@ -7593,4 +7591,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-12-29T19:56:02Z
+Updated at 2017-12-29T20:16:03Z
