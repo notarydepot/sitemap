@@ -5319,6 +5319,7 @@
   - [Notary Public in Dixon, CA: Natalie Angelman](https://www.notarydepot.com/nangelman)
   - [Notary Public in NJ: Nancy Paolillo](https://www.notarydepot.com/nannypao)
   - [Notary Public in Los Angeles, CA: Naomi Williams](https://www.notarydepot.com/naomiew)
+  - [Notary Public in Napa, CA: Marcus Hamilton Perry](https://www.notarydepot.com/napanotary)
   - [Notary Public in Naples, FL: Lisa Prestegard](https://www.notarydepot.com/naplesnsa)
   - [Notary Public in Homestead, FL: Naecovia Davis](https://www.notarydepot.com/naranjanotary)
   - [Notary Public in Chester, VA: Betty Raymond](https://www.notarydepot.com/nascar20186)
@@ -7591,4 +7592,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2017-12-31T16:16:03Z
+Updated at 2017-12-31T16:36:03Z
