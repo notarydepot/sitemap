@@ -4270,6 +4270,7 @@
   - [Notary Public in Tenafly, NJ: Jack Roditi](https://www.notarydepot.com/jroditi)
   - [Notary Public in New Philadelphia, OH: Jason Rose](https://www.notarydepot.com/jrose77)
   - [Notary Public in Garland, TX: James Rose](https://www.notarydepot.com/jrose862)
+  - [Notary Public in Denver, CO: JR Ridings](https://www.notarydepot.com/jrridings)
   - [Notary Public in Anaheim, CA: Jr](https://www.notarydepot.com/jrs)
   - [Notary Public in Wayne, NJ: James Sadur](https://www.notarydepot.com/jsadur)
   - [Notary Public in Wayne, NJ: James Sadur](https://www.notarydepot.com/jsadur1)
@@ -7592,4 +7593,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-01-01T22:16:02Z
+Updated at 2018-01-01T22:36:02Z
