@@ -1572,6 +1572,7 @@
     - [Notary Public in Toledo, OH](https://www.notarydepot.com/notary-near-me/Ohio/Toledo)
     - [Notary Public in Troy, OH](https://www.notarydepot.com/notary-near-me/Ohio/Troy)
     - [Notary Public in Washington Court House, OH](https://www.notarydepot.com/notary-near-me/Ohio/Washington-Court-House)
+    - [Notary Public in West Harrison, OH](https://www.notarydepot.com/notary-near-me/Ohio/West-Harrison)
     - [Notary Public in Wickliffe, OH](https://www.notarydepot.com/notary-near-me/Ohio/Wickliffe)
     - [Notary Public in Willowick, OH](https://www.notarydepot.com/notary-near-me/Ohio/Willowick)
   - [Notaries Public in Oklahoma](https://www.notarydepot.com/notary-near-me/Oklahoma)
@@ -3386,6 +3387,7 @@
   - [Notary Public in Sterling Heights, MI: Daniel Piotrowski](https://www.notarydepot.com/dpiotr)
   - [Notary Public in Oxnard, CA: Dale Morris](https://www.notarydepot.com/dpknotary)
   - [Notary Public in Midvale, UT: Dian D Pollard](https://www.notarydepot.com/dpollard)
+  - [Notary Public in West Harrison, OH: Timothy Turner](https://www.notarydepot.com/dracer377m)
   - [Notary Public in Middletown, DE: LaShawn Draper](https://www.notarydepot.com/drapernotary)
   - [Notary Public in Sun City, AZ: Debra Edwards](https://www.notarydepot.com/dreamnotary)
   - [Notary Public in West Palm Beach, FL: Andrew Wilson](https://www.notarydepot.com/drewcity)
@@ -7593,4 +7595,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-01-02T07:16:02Z
+Updated at 2018-01-02T07:36:02Z
