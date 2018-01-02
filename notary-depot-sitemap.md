@@ -1445,6 +1445,7 @@
     - [Notary Public in Burlington, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Burlington)
     - [Notary Public in Carolina Beach, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Carolina-Beach)
     - [Notary Public in Cary, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Cary)
+    - [Notary Public in Chapel Hill, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Chapel-Hill)
     - [Notary Public in Charlotte, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Charlotte)
     - [Notary Public in Clarendon, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Clarendon)
     - [Notary Public in Concord, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Concord)
@@ -6435,6 +6436,7 @@
   - [Notary Public in Lodi, CA: Don Parker](https://www.notarydepot.com/store5901)
   - [Notary Public in Pahrump, NV: Rhonda Stout](https://www.notarydepot.com/stout_nv2)
   - [Notary Public in Toledo, OH: Sheri Galloway](https://www.notarydepot.com/strictlybusiness)
+  - [Notary Public in Chapel Hill, NC: La-Eula](https://www.notarydepot.com/strictlybzness)
   - [Notary Public in Lansing, MI: Shanna M. Strouse](https://www.notarydepot.com/strouse19461)
   - [Notary Public in South El Monte, CA: Susan Tusing](https://www.notarydepot.com/stusing)
   - [Notary Public in Tahoe City, CA: Vincent E. Alfano](https://www.notarydepot.com/stvincent)
@@ -7597,4 +7599,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-01-02T22:36:02Z
+Updated at 2018-01-02T22:56:02Z
