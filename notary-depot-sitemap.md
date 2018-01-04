@@ -482,7 +482,6 @@
     - [Notary Public in Cañon City, CO](https://www.notarydepot.com/notary-near-me/Colorado/Ca-on-City)
     - [Notary Public in Colorado Springs, CO](https://www.notarydepot.com/notary-near-me/Colorado/Colorado-Springs)
     - [Notary Public in Conifer, CO](https://www.notarydepot.com/notary-near-me/Colorado/Conifer)
-    - [Notary Public in Craig, CO](https://www.notarydepot.com/notary-near-me/Colorado/Craig)
     - [Notary Public in Denver, CO](https://www.notarydepot.com/notary-near-me/Colorado/Denver)
     - [Notary Public in Englewood, CO](https://www.notarydepot.com/notary-near-me/Colorado/Englewood)
     - [Notary Public in Florence, CO](https://www.notarydepot.com/notary-near-me/Colorado/Florence)
@@ -5999,7 +5998,7 @@
   - [Notary Public in Raleigh, NC: Ronda Rudd](https://www.notarydepot.com/ronda35)
   - [Notary Public in San Leandro, CA: Ronza M. Bargas](https://www.notarydepot.com/ronica)
   - [Notary Public in Durham, NC: Rhonda Nails](https://www.notarydepot.com/ronnieceo)
-  - [Notary Public in Craig, CO: Ron R. Garcia](https://www.notarydepot.com/ronrgarcia)
+  - [Notary Public in NY: Ron R. Garcia](https://www.notarydepot.com/ronrgarcia)
   - [Notary Public in Ludlow, CA: Ron Moore](https://www.notarydepot.com/ronsmobileotary)
   - [Notary Public in Pelham, AL: Rosa Lateef](https://www.notarydepot.com/rosalateef)
   - [Notary Public in Berwyn, IL: kimberly Rosales](https://www.notarydepot.com/rosalesk)
@@ -7603,4 +7602,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-01-04T19:16:02Z
+Updated at 2018-01-04T19:36:02Z
