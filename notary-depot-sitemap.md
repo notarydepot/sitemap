@@ -2517,6 +2517,7 @@
   - [Notary Public in Washington, DC: Tonya Butler-Truesdale](https://www.notarydepot.com/attytmbt)
   - [Notary Public in Grain Valley, MO: Anita Aubuchon](https://www.notarydepot.com/aubychon)
   - [Notary Public in FL: Audrey Davis](https://www.notarydepot.com/audreydavis)
+  - [Notary Public in Aurora, CO: Denetria Walker](https://www.notarydepot.com/auroramobilenotaryservicesgmailcom)
   - [Notary Public in Austin, TX: www.MobileAustinNotary.com](https://www.notarydepot.com/austintexasnotary)
   - [Notary Public in South Berwick, ME: Amanda M. Valli](https://www.notarydepot.com/avalli7)
   - [Notary Public in Lula, GA: Alyssa Vaughn](https://www.notarydepot.com/avaughn)
@@ -7602,4 +7603,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-01-04T06:56:02Z
+Updated at 2018-01-04T07:16:02Z
