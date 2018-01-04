@@ -488,7 +488,6 @@
     - [Notary Public in Fort Collins, CO](https://www.notarydepot.com/notary-near-me/Colorado/Fort-Collins)
     - [Notary Public in Fort Morgan, CO](https://www.notarydepot.com/notary-near-me/Colorado/Fort-Morgan)
     - [Notary Public in Frisco, CO](https://www.notarydepot.com/notary-near-me/Colorado/Frisco)
-    - [Notary Public in Fruita, CO](https://www.notarydepot.com/notary-near-me/Colorado/Fruita)
     - [Notary Public in Grand Junction, CO](https://www.notarydepot.com/notary-near-me/Colorado/Grand-Junction)
     - [Notary Public in Greeley, CO](https://www.notarydepot.com/notary-near-me/Colorado/Greeley)
     - [Notary Public in Larkspur, CO](https://www.notarydepot.com/notary-near-me/Colorado/Larkspur)
@@ -6552,7 +6551,6 @@
   - [Notary Public in Beverly Hills, CA: Tenia R. Muhammad](https://www.notarydepot.com/tenianotary1)
   - [Notary Public in Charlotte, NC: Teresa E Samaniego](https://www.notarydepot.com/teresa2779)
   - [Notary Public in Greensboro, NC: Teresa Rowe - Certified, E &amp; O Insurance](https://www.notarydepot.com/teresarowe)
-  - [Notary Public in Fruita, CO: Teri Uphoff](https://www.notarydepot.com/teri)
   - [Notary Public in Salem, OR: Teri Finch](https://www.notarydepot.com/terifinch)
   - [Notary Public in Bremerton, WA: Terri](https://www.notarydepot.com/terriarcieri)
   - [Notary Public in Lyndon, KS: terri dobbs](https://www.notarydepot.com/terribird)
@@ -7603,4 +7601,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-01-04T21:56:02Z
+Updated at 2018-01-04T22:16:01Z
