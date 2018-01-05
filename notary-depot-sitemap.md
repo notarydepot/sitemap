@@ -6226,6 +6226,7 @@
   - [Notary Public in Auburn, WA: Sheila Bailey](https://www.notarydepot.com/sheilab28)
   - [Notary Public in Owings Mills, MD: Sheila K. Blackshear](https://www.notarydepot.com/shelab69)
   - [Notary Public in Elizabeth City, NC: Shelia H. Williams](https://www.notarydepot.com/sheliawilliams)
+  - [Notary Public in Swartz Creek, MI: Shelley Thompson ](https://www.notarydepot.com/shelleymt)
   - [Notary Public in Memphis, TN: Shelley Pahn](https://www.notarydepot.com/shelleytn)
   - [Notary Public in Mesa, AZ: Yvonne Shells-Colley](https://www.notarydepot.com/shellsoffice)
   - [Notary Public in Yucaipa, CA: Shelly Price](https://www.notarydepot.com/shellyprice)
@@ -7604,4 +7605,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-01-05T03:16:03Z
+Updated at 2018-01-05T03:36:02Z
