@@ -1913,6 +1913,7 @@
     - [Notary Public in Nederland, TX](https://www.notarydepot.com/notary-near-me/Texas/Nederland)
     - [Notary Public in New Braunfels, TX](https://www.notarydepot.com/notary-near-me/Texas/New-Braunfels)
     - [Notary Public in North Richland Hills, TX](https://www.notarydepot.com/notary-near-me/Texas/North-Richland-Hills)
+    - [Notary Public in Northlake, TX](https://www.notarydepot.com/notary-near-me/Texas/Northlake)
     - [Notary Public in Palestine, TX](https://www.notarydepot.com/notary-near-me/Texas/Palestine)
     - [Notary Public in Pasadena, TX](https://www.notarydepot.com/notary-near-me/Texas/Pasadena)
     - [Notary Public in Pearland, TX](https://www.notarydepot.com/notary-near-me/Texas/Pearland)
@@ -3467,6 +3468,7 @@
   - [Notary Public in San Antonio, TX: Elizabeth Garza](https://www.notarydepot.com/egarza579)
   - [Notary Public in Tucson, AZ: Enrique A. Gonzalez](https://www.notarydepot.com/egnotary)
   - [Notary Public in Redford Charter Township, MI: Elizabeth Gilmore](https://www.notarydepot.com/egwalker)
+  - [Notary Public in Northlake, TX: Elizabeth Crook](https://www.notarydepot.com/ehcrook)
   - [Notary Public in Mesa, AZ: Ellen Hess, CNSA](https://www.notarydepot.com/ehess)
   - [Notary Public in Roanoke, AL: Emily Harmon](https://www.notarydepot.com/ehharmon)
   - [Notary Public in San Anselmo, CA: Evan L. Hodgens](https://www.notarydepot.com/ehodgens)
@@ -7605,4 +7607,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-01-05T17:58:01Z
+Updated at 2018-01-05T18:18:01Z
