@@ -1024,6 +1024,7 @@
     - [Notary Public in Upper Marlboro, MD](https://www.notarydepot.com/notary-near-me/Maryland/Upper-Marlboro)
     - [Notary Public in Waldorf, MD](https://www.notarydepot.com/notary-near-me/Maryland/Waldorf)
     - [Notary Public in Westminster, MD](https://www.notarydepot.com/notary-near-me/Maryland/Westminster)
+    - [Notary Public in White Marsh, MD](https://www.notarydepot.com/notary-near-me/Maryland/White-Marsh)
   - [Notaries Public in Massachusetts](https://www.notarydepot.com/notary-near-me/Massachusetts)
     - [Notary Public in Andover, MA](https://www.notarydepot.com/notary-near-me/Massachusetts/Andover)
     - [Notary Public in Barnstable, MA](https://www.notarydepot.com/notary-near-me/Massachusetts/Barnstable)
@@ -5233,6 +5234,7 @@
   - [Notary Public in Mount Dora, FL: Brenda Jo Collier](https://www.notarydepot.com/mountdoranotary)
   - [Notary Public in Clearwater, FL: Donna J Moore, CNSA](https://www.notarydepot.com/mouseketeer53)
   - [Notary Public in Fort Washington, MD: Maggie O. Westfield](https://www.notarydepot.com/mowest)
+  - [Notary Public in White Marsh, MD: Maria Papavasilis ](https://www.notarydepot.com/mpapavasilis70)
   - [Notary Public in Towanda, PA: Mary Pierce](https://www.notarydepot.com/mpiercenotary)
   - [Notary Public in Kingston, NY: Francis Smith](https://www.notarydepot.com/mpismith)
   - [Notary Public in Geneva, IL: Heather Smith](https://www.notarydepot.com/mpoppins)
@@ -7602,4 +7604,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-01-05T02:36:02Z
+Updated at 2018-01-05T02:56:02Z
