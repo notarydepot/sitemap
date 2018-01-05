@@ -2176,7 +2176,6 @@
   - [Notary Public in Troutdale, OR: Mirela Nelson](https://www.notarydepot.com/1725balarie)
   - [Notary Public in CA: Carmina Alvarez](https://www.notarydepot.com/1carmina)
   - [Notary Public in Washington, DC: Corie Bryant](https://www.notarydepot.com/1enterprise)
-  - [Notary Public in Virginia Beach, VA: Paulette Cordes](https://www.notarydepot.com/1professionalnotaryservices)
   - [Notary Public in Applegate, CA: Terry Scott](https://www.notarydepot.com/1speedynotary)
   - [Notary Public in Hokendauqua, PA: zachary henninger](https://www.notarydepot.com/2020visionsignings)
   - [Notary Public in Hanford, CA: Hope Hernandez](https://www.notarydepot.com/2443hope)
@@ -5758,6 +5757,7 @@
   - [Notary Public in Houston, TX: Bernadette Duffey](https://www.notarydepot.com/precision)
   - [Notary Public in Godfrey, IL: Teresa Mc Hugh](https://www.notarydepot.com/precisionlandresearch)
   - [Notary Public in Los Angeles, CA: Orlando R](https://www.notarydepot.com/premiermobilenotary)
+  - [Notary Public in Virginia Beach, VA: Paulette Cordes](https://www.notarydepot.com/premiumnotaryservices)
   - [Notary Public in Hollywood, FL: Daisy O&#39;Brien](https://www.notarydepot.com/prestigenotaryservices)
   - [Notary Public in Temecula, CA: Letty A. Marquez](https://www.notarydepot.com/prevantsy)
   - [Notary Public in West Palm Beach, FL: Penny Price Payne](https://www.notarydepot.com/pricepayne)
@@ -7605,4 +7605,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-01-05T16:18:02Z
+Updated at 2018-01-05T16:38:02Z
