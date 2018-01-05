@@ -4747,6 +4747,7 @@
   - [Notary Public in Great Neck, NY: Elisa Rappoport](https://www.notarydepot.com/lisaw2690)
   - [Notary Public in CA: Lisa Whall](https://www.notarydepot.com/lisawhall99)
   - [Notary Public in MA: Steven R. W. Leahy, Attorney at Law](https://www.notarydepot.com/livefree)
+  - [Notary Public in Jacksonville, FL: Luke Sawyer](https://www.notarydepot.com/liveurlifegood)
   - [Notary Public in Southfield, MI: Lucki Notary](https://www.notarydepot.com/livory)
   - [Notary Public in Ionia, MI: Elizabeth A Cook](https://www.notarydepot.com/lizcook)
   - [Notary Public in Gloversville, NY: Elizabeth Donnelly](https://www.notarydepot.com/lizdon)
@@ -7601,4 +7602,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-01-05T01:56:02Z
+Updated at 2018-01-05T02:16:02Z
