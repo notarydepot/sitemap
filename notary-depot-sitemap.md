@@ -2281,6 +2281,7 @@
   - [Notary Public in North Las Vegas, NV: Ann M Greene](https://www.notarydepot.com/agreene)
   - [Notary Public in Baltimore, MD: Anthony G. Williams](https://www.notarydepot.com/agwservicesllc)
   - [Notary Public in Los Angeles, CA: Ani Hakobyan](https://www.notarydepot.com/ahakobyan)
+  - [Notary Public in Cookeville, TN: Amy K Hargrove](https://www.notarydepot.com/ahargrove)
   - [Notary Public in Covington, GA: Antoinette Hazelwood](https://www.notarydepot.com/ahazelwood)
   - [Notary Public in Waterford, NY: Aaron Heyman](https://www.notarydepot.com/ahh7131)
   - [Notary Public in Kansas City, MO: Alisa K. Gause](https://www.notarydepot.com/ahider1)
@@ -2528,7 +2529,6 @@
   - [Notary Public in Baltimore, MD: Adrienne Chavis](https://www.notarydepot.com/aweeclosecallcom)
   - [Notary Public in Lexington, TN: Amy W. Halters](https://www.notarydepot.com/awhalters)
   - [Notary Public in San Antonio, TX: Amber Williams](https://www.notarydepot.com/awilliams1727)
-  - [Notary Public in Jonesboro, AR: Amy Wolfmeyer](https://www.notarydepot.com/awolfmeyer)
   - [Notary Public in Columbus, OH: Steve Williams](https://www.notarydepot.com/aygc271)
   - [Notary Public in Wilmington, NC: Allen Young](https://www.notarydepot.com/ayoungnotary)
   - [Notary Public in Euclid, OH: Anitra King](https://www.notarydepot.com/aysnotary)
@@ -7607,4 +7607,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-01-06T02:38:02Z
+Updated at 2018-01-06T02:58:02Z
