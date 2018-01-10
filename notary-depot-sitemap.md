@@ -6523,7 +6523,6 @@
   - [Notary Public in Galax, VA: Trina Miller](https://www.notarydepot.com/tarielm09)
   - [Notary Public in Bound Brook, NJ: Tasheemah Johnson](https://www.notarydepot.com/tasheemah1)
   - [Notary Public in Johnston, SC: Tashia Jackson](https://www.notarydepot.com/tashia)
-  - [Notary Public in North Charleston, SC: Leona Zanders](https://www.notarydepot.com/taxcomo)
   - [Notary Public in Atoka, OK: Sherri Middleton](https://www.notarydepot.com/taxnotary)
   - [Notary Public in Saint Pauls, NC: Alex Taylor](https://www.notarydepot.com/taylornotarync)
   - [Notary Public in San Jacinto, CA: Jessica Clark](https://www.notarydepot.com/tbansheeman)
@@ -7609,4 +7608,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-01-10T18:38:03Z
+Updated at 2018-01-10T18:58:03Z
