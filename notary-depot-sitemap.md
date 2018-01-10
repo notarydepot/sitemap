@@ -6589,6 +6589,7 @@
   - [Notary Public in West Haverstraw, NY: Helen Hardeen](https://www.notarydepot.com/themobilenotary)
   - [Notary Public in Chester, NJ: Melanie B. Heit Rivellese](https://www.notarydepot.com/thenoblenotary)
   - [Notary Public in San Diego, CA: Lois Downing](https://www.notarydepot.com/thenotarygal)
+  - [Notary Public in Stockton, CA: R. Garrett](https://www.notarydepot.com/thenotarygeek)
   - [Notary Public in Tampa, FL: Theresa Hense](https://www.notarydepot.com/thense)
   - [Notary Public in Dubuque, IA: Theresa Engelke](https://www.notarydepot.com/theresa01)
   - [Notary Public in Oakley, CA: Therese Burgueno](https://www.notarydepot.com/therese)
@@ -7608,4 +7609,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-01-10T19:18:02Z
+Updated at 2018-01-10T19:38:02Z
