@@ -4707,6 +4707,7 @@
   - [Notary Public in Saint Petersburg, FL: Lisa Rerisi](https://www.notarydepot.com/lilbrunette)
   - [Notary Public in Oakdale, CA: Brenda M. Miranda](https://www.notarydepot.com/lilcmpr)
   - [Notary Public in Woodburn, OR: Lilia Sanchez](https://www.notarydepot.com/lilias)
+  - [Notary Public in San Diego, CA: Tiara](https://www.notarydepot.com/lilmstiara)
   - [Notary Public in Charleroi, PA: Kelly Tombs](https://www.notarydepot.com/liltazzi703)
   - [Notary Public in Jacksonville, FL: Patrice Cummings](https://www.notarydepot.com/liltrice80)
   - [Notary Public in Fort Morgan, CO: Erin N Widener](https://www.notarydepot.com/limitlessbailbonds)
@@ -7610,4 +7611,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-01-11T04:18:02Z
+Updated at 2018-01-11T04:38:02Z
