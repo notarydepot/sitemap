@@ -6486,6 +6486,7 @@
   - [Notary Public in Lafayette, CA: PollyAnn Jones](https://www.notarydepot.com/sweetpollyps)
   - [Notary Public in Auburn, CA: Tammy Slade](https://www.notarydepot.com/sweetsigner)
   - [Notary Public in Oakboro, NC: Suzanne Whealan](https://www.notarydepot.com/swhealan)
+  - [Notary Public in Santa Maria, CA: Stacey Wied ](https://www.notarydepot.com/swiednotary)
   - [Notary Public in San Diego, CA: Patrick J. Swies](https://www.notarydepot.com/swiesnotary)
   - [Notary Public in Hampton, VA: Sara Williams](https://www.notarydepot.com/swilliams)
   - [Notary Public in Santa Fe, NM: Judy Sparks](https://www.notarydepot.com/swnotary)
@@ -7609,4 +7610,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-01-11T02:58:02Z
+Updated at 2018-01-11T03:18:02Z
