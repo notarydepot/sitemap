@@ -4736,7 +4736,6 @@
   - [Notary Public in Peekskill, NY: Lisa Alexander](https://www.notarydepot.com/lisaacpa)
   - [Notary Public in CA: Lisa Adler](https://www.notarydepot.com/lisaadlernotary)
   - [Notary Public in Cedar Park, TX: Lisa Bermudez](https://www.notarydepot.com/lisabnotary)
-  - [Notary Public in Surprise, AZ: Lisa Chachula](https://www.notarydepot.com/lisachachula)
   - [Notary Public in Huntington Station, NY: Lisa Cotoia](https://www.notarydepot.com/lisacotoia)
   - [Notary Public in Miami, FL: Lisa Francisque](https://www.notarydepot.com/lisaf7225)
   - [Notary Public in Moses Lake, WA: Lisa Garmon](https://www.notarydepot.com/lisagarmon)
@@ -7612,4 +7611,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-01-11T19:18:02Z
+Updated at 2018-01-11T19:38:02Z
