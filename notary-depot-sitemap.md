@@ -5911,7 +5911,6 @@
   - [Notary Public in Lake Worth, FL: Rodger F. Bratvogel](https://www.notarydepot.com/rfbnotary)
   - [Notary Public in Jacksonville, FL: Russell V. Franklin](https://www.notarydepot.com/rfranklin)
   - [Notary Public in Port St. Lucie, FL: Rene Fredericks](https://www.notarydepot.com/rfredericks)
-  - [Notary Public in Stockton, CA: Rochelle Garrett](https://www.notarydepot.com/rgarrett415)
   - [Notary Public in Alexandria, VA: Ron Chambers](https://www.notarydepot.com/rgcnotary)
   - [Notary Public in Columbia, KY: Ronald Goetz](https://www.notarydepot.com/rgoetz)
   - [Notary Public in Kenner, LA: Robert G. Gostl](https://www.notarydepot.com/rgostl)
@@ -7611,4 +7610,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-01-11T20:38:04Z
+Updated at 2018-01-11T20:58:02Z
