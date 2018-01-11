@@ -3163,6 +3163,7 @@
   - [Notary Public in Denver, CO: David levitt](https://www.notarydepot.com/davidlevitt)
   - [Notary Public in Cedar Rapids, IA: David McMillen](https://www.notarydepot.com/davidmcmillen)
   - [Notary Public in Belfair, WA: Debra Miller](https://www.notarydepot.com/davidmi711)
+  - [Notary Public in Fernley, NV: David Samuel Morrow](https://www.notarydepot.com/davidmorrow)
   - [Notary Public in Houston, TX: Alice Davila](https://www.notarydepot.com/davilanotary)
   - [Notary Public in Santa Maria, CA: Teresa &amp; Eric Davis](https://www.notarydepot.com/davisnotarynsa1)
   - [Notary Public in Amsterdam, NY: Dawn Miner](https://www.notarydepot.com/dawn)
@@ -7610,4 +7611,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-01-11T21:18:03Z
+Updated at 2018-01-11T21:38:02Z
