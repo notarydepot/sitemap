@@ -6816,7 +6816,7 @@
   - [Notary Public in Miami, FL: Vera Blel](https://www.notarydepot.com/verablel)
   - [Notary Public in Pompano Beach, FL: Vera Silveri](https://www.notarydepot.com/verasilveri)
   - [Notary Public in Virginia Beach, VA: Vergie Smith](https://www.notarydepot.com/vergiesmith)
-  - [Notary Public in Princeton, IL: Vernice (Vern) Begly](https://www.notarydepot.com/vernice14)
+  - [Notary Public in Princeton, IL: Vernice R Begly](https://www.notarydepot.com/vernice14)
   - [Notary Public in Phoenix, AZ: Veronica Herrera](https://www.notarydepot.com/vero07)
   - [Notary Public in Jacksonville, FL: Verssie V. Randolph](https://www.notarydepot.com/verssie2)
   - [Notary Public in Middletown, NY: Victoria Estridge](https://www.notarydepot.com/vestridge)
@@ -7612,4 +7612,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-01-12T22:18:03Z
+Updated at 2018-01-12T22:38:03Z
