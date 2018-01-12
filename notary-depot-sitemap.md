@@ -5499,6 +5499,7 @@
   - [Notary Public in Grants Pass, OR: Peggy L Mazziotti](https://www.notarydepot.com/notarylady)
   - [Notary Public in Jonesboro, GA: Francena](https://www.notarydepot.com/notaryladyofga)
   - [Notary Public in Paducah, KY: Shirley Trail Lanier - lanier.virtual.assistant](https://www.notarydepot.com/notarylanier)
+  - [Notary Public in Las Vegas, NV: John Bobe](https://www.notarydepot.com/notarylv)
   - [Notary Public in Peoria, AZ: Alfred Manns](https://www.notarydepot.com/notarymann)
   - [Notary Public in Peoria, AZ: Alfred G Manns](https://www.notarydepot.com/notarymann1)
   - [Notary Public in Christiansburg, VA: Mark A Evans](https://www.notarydepot.com/notarymark1)
@@ -7610,4 +7611,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-01-12T17:58:03Z
+Updated at 2018-01-12T18:18:03Z
