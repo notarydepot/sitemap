@@ -488,6 +488,7 @@
     - [Notary Public in Fort Collins, CO](https://www.notarydepot.com/notary-near-me/Colorado/Fort-Collins)
     - [Notary Public in Fort Morgan, CO](https://www.notarydepot.com/notary-near-me/Colorado/Fort-Morgan)
     - [Notary Public in Frisco, CO](https://www.notarydepot.com/notary-near-me/Colorado/Frisco)
+    - [Notary Public in Fruita, CO](https://www.notarydepot.com/notary-near-me/Colorado/Fruita)
     - [Notary Public in Grand Junction, CO](https://www.notarydepot.com/notary-near-me/Colorado/Grand-Junction)
     - [Notary Public in Greeley, CO](https://www.notarydepot.com/notary-near-me/Colorado/Greeley)
     - [Notary Public in Larkspur, CO](https://www.notarydepot.com/notary-near-me/Colorado/Larkspur)
@@ -4001,7 +4002,6 @@
   - [Notary Public in El Monte, CA: Monica Rodriguez](https://www.notarydepot.com/jaoluv)
   - [Notary Public in Denver, CO: Diana Yvonne Munoz](https://www.notarydepot.com/jared2003)
   - [Notary Public in Lebanon, PA: Jared](https://www.notarydepot.com/jaredclong)
-  - [Notary Public in Whittier, CA: Jarrod M. Chambers](https://www.notarydepot.com/jarrodchambers)
   - [Notary Public in Orlando, FL: Jasmin L. Devitt](https://www.notarydepot.com/jasmindevitt)
   - [Notary Public in Ankeny, IA: Jason Welch](https://www.notarydepot.com/jasonlw)
   - [Notary Public in Laguna Beach, CA: Heidi Bounds](https://www.notarydepot.com/jaszzee)
@@ -6559,6 +6559,7 @@
   - [Notary Public in Beverly Hills, CA: Tenia R. Muhammad](https://www.notarydepot.com/tenianotary1)
   - [Notary Public in Charlotte, NC: Teresa E Samaniego](https://www.notarydepot.com/teresa2779)
   - [Notary Public in Greensboro, NC: Teresa Rowe - Certified, E &amp; O Insurance](https://www.notarydepot.com/teresarowe)
+  - [Notary Public in Fruita, CO: Teri Uphoff](https://www.notarydepot.com/teri)
   - [Notary Public in Salem, OR: Teri Finch](https://www.notarydepot.com/terifinch)
   - [Notary Public in Bremerton, WA: Terri](https://www.notarydepot.com/terriarcieri)
   - [Notary Public in Lyndon, KS: terri dobbs](https://www.notarydepot.com/terribird)
@@ -7611,4 +7612,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-01-12T21:58:03Z
+Updated at 2018-01-12T22:18:03Z
