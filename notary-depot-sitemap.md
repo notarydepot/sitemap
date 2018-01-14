@@ -6178,7 +6178,6 @@
   - [Notary Public in Fontana, CA: Sandra E. Schickel](https://www.notarydepot.com/ses)
   - [Notary Public in Ferndale, MI: Diamond Jenkins](https://www.notarydepot.com/sevencarat)
   - [Notary Public in Pasadena, CA: Robert P. Wheaton](https://www.notarydepot.com/sevendaynotary)
-  - [Notary Public in Del Rio, TX: Teresa Elizondo](https://www.notarydepot.com/sevenluckystarzyahoocom)
   - [Notary Public in Liberty Hill, TX: Busy Bee Notary](https://www.notarydepot.com/sfnaus12)
   - [Notary Public in Alexandria, VA: Susan F. Solomon](https://www.notarydepot.com/sfsolomon)
   - [Notary Public in NC: Sherri Gabel](https://www.notarydepot.com/sgabel)
@@ -6559,6 +6558,7 @@
   - [Notary Public in Murrieta, CA: Darlynn Sandefer](https://www.notarydepot.com/temeculanotary)
   - [Notary Public in Orlando, FL: David ODonnell](https://www.notarydepot.com/ten24seven)
   - [Notary Public in Beverly Hills, CA: Tenia R. Muhammad](https://www.notarydepot.com/tenianotary1)
+  - [Notary Public in Del Rio, TX: Teresa Elizondo](https://www.notarydepot.com/teresa)
   - [Notary Public in Charlotte, NC: Teresa E Samaniego](https://www.notarydepot.com/teresa2779)
   - [Notary Public in Greensboro, NC: Teresa Rowe - Certified, E &amp; O Insurance](https://www.notarydepot.com/teresarowe)
   - [Notary Public in Fruita, CO: Teri Uphoff](https://www.notarydepot.com/teri)
@@ -7614,4 +7614,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-01-14T16:59:02Z
+Updated at 2018-01-14T17:19:02Z
