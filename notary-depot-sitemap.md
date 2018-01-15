@@ -5625,6 +5625,7 @@
   - [Notary Public in Falls Church, VA: Lijerons Notary Agency](https://www.notarydepot.com/pablonpao85)
   - [Notary Public in Rocky Hill, CT: Patricia A Bradstreet](https://www.notarydepot.com/pabradstreet)
   - [Notary Public in Jacksonville, NC: Melissa A. Callahan](https://www.notarydepot.com/packer69)
+  - [Notary Public in Beaverton, OR: Mustafa](https://www.notarydepot.com/pacsign)
   - [Notary Public in El Paso, TX: Jason Payton](https://www.notarydepot.com/paenotary)
   - [Notary Public in DeRidder, LA: Paige Borel](https://www.notarydepot.com/paigeb)
   - [Notary Public in Selden, NY: Tom Palumberi](https://www.notarydepot.com/palumberi)
@@ -7615,4 +7616,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-01-15T21:59:02Z
+Updated at 2018-01-15T22:19:02Z
