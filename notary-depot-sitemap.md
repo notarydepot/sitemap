@@ -2744,6 +2744,7 @@
   - [Notary Public in Miami, FL: brickell notary](https://www.notarydepot.com/brickell_notary)
   - [Notary Public in North Port, FL: Bridget Bergeron](https://www.notarydepot.com/bridget50)
   - [Notary Public in Palmdale, CA: Bridgett Jones](https://www.notarydepot.com/bridgettsnotary)
+  - [Notary Public in Ruskin, FL: Brigitte Roberts](https://www.notarydepot.com/brigitte7)
   - [Notary Public in Spokane, WA: Brian Brake](https://www.notarydepot.com/brijoe00)
   - [Notary Public in Kissimmee, FL: Denise Mclean](https://www.notarydepot.com/brmdjm)
   - [Notary Public in Clearwater, FL: Ronald Gersch](https://www.notarydepot.com/brokerron)
@@ -7614,4 +7615,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-01-15T20:39:02Z
+Updated at 2018-01-15T20:59:02Z
