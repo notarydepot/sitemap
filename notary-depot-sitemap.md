@@ -162,7 +162,6 @@
     - [Notary Public in Big Bear, CA](https://www.notarydepot.com/notary-near-me/California/Big-Bear)
     - [Notary Public in Big Bear Lake, CA](https://www.notarydepot.com/notary-near-me/California/Big-Bear-Lake)
     - [Notary Public in Bonita, CA](https://www.notarydepot.com/notary-near-me/California/Bonita)
-    - [Notary Public in Brawley, CA](https://www.notarydepot.com/notary-near-me/California/Brawley)
     - [Notary Public in Brea, CA](https://www.notarydepot.com/notary-near-me/California/Brea)
     - [Notary Public in Brentwood, CA](https://www.notarydepot.com/notary-near-me/California/Brentwood)
     - [Notary Public in Brisbane, CA](https://www.notarydepot.com/notary-near-me/California/Brisbane)
@@ -6005,7 +6004,6 @@
   - [Notary Public in Costa Mesa, CA: Roma San Antonio](https://www.notarydepot.com/romabinh)
   - [Notary Public in Chicago, IL: Desiree Roman](https://www.notarydepot.com/romanendeavors)
   - [Notary Public in Russellville, AR: Ronald D. Hall](https://www.notarydepot.com/ronaldhall)
-  - [Notary Public in Brawley, CA: Ron Adams](https://www.notarydepot.com/ronanotary)
   - [Notary Public in Raleigh, NC: Ronda Rudd](https://www.notarydepot.com/ronda35)
   - [Notary Public in San Leandro, CA: Ronza M. Bargas](https://www.notarydepot.com/ronica)
   - [Notary Public in Durham, NC: Rhonda Nails](https://www.notarydepot.com/ronnieceo)
@@ -7617,4 +7615,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-01-16T18:19:02Z
+Updated at 2018-01-16T18:39:02Z
