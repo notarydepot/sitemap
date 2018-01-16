@@ -2436,7 +2436,6 @@
   - [Notary Public in Burke, VA: Anna Jensen](https://www.notarydepot.com/annajensen)
   - [Notary Public in Homewood, IL: Anne C Smith](https://www.notarydepot.com/annesmith1352)
   - [Notary Public in Riverside, CA: Annette Gomez](https://www.notarydepot.com/annetteg45)
-  - [Notary Public in Mount Holly, NJ: Ann Sommer](https://www.notarydepot.com/annie82360)
   - [Notary Public in Orlando, FL: Annie Acosta](https://www.notarydepot.com/annieaco)
   - [Notary Public in Pounding Mill, VA: Mary Starling](https://www.notarydepot.com/anniesone)
   - [Notary Public in Irvine, CA: Annie Kim](https://www.notarydepot.com/annieyukim)
@@ -6945,7 +6944,6 @@
   - [Notary Public in Los Angeles, CA: Kyra Yakubovich](https://www.notarydepot.com/yakubovich)
   - [Notary Public in Temecula, CA: Yvonne A. Ruiz](https://www.notarydepot.com/yaruiz)
   - [Notary Public in Douglasville, GA: Abimbola Badejo](https://www.notarydepot.com/ybadejo)
-  - [Notary Public in Temecula, CA: Yvonne Baner-Nash](https://www.notarydepot.com/ybanern1)
   - [Notary Public in Bellflower, CA: Yvette Bland](https://www.notarydepot.com/ybland)
   - [Notary Public in Kathleen, GA: Yolanda King](https://www.notarydepot.com/ydking)
   - [Notary Public in PA: Yelena Snigur](https://www.notarydepot.com/yelenasnigur)
@@ -7615,4 +7613,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-01-16T20:19:02Z
+Updated at 2018-01-16T20:39:02Z
