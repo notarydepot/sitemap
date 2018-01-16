@@ -2927,6 +2927,7 @@
   - [Notary Public in Santa Maria, CA: Cheryl Hoyopatubbi](https://www.notarydepot.com/cherihoyo)
   - [Notary Public in Greeley, CO: Cherilyn Clark](https://www.notarydepot.com/cherilyn)
   - [Notary Public in Kingsport, TN: Cherie Lavon](https://www.notarydepot.com/cherjer)
+  - [Notary Public in Montgomery, AL: Cheryl M Henderson ](https://www.notarydepot.com/chermarie)
   - [Notary Public in Menifee, CA: Cindy Herring](https://www.notarydepot.com/cherring)
   - [Notary Public in Lindenhurst, NY: Cheryl L. Diehl](https://www.notarydepot.com/cheryld)
   - [Notary Public in Gulf Breeze, FL: Cheryl Maniscalco](https://www.notarydepot.com/cherylmnotary)
@@ -7616,4 +7617,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-01-16T03:19:03Z
+Updated at 2018-01-16T03:39:02Z
