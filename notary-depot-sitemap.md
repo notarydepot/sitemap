@@ -3155,6 +3155,7 @@
   - [Notary Public in Fort Lauderdale, FL: Dasheka Kitchen](https://www.notarydepot.com/dasheka82)
   - [Notary Public in Oak Forest, IL: David Ellice](https://www.notarydepot.com/davcamp)
   - [Notary Public in Miami, FL: David Fernandez](https://www.notarydepot.com/dave426)
+  - [Notary Public in Hicksville, NY: Davinder](https://www.notarydepot.com/dave961)
   - [Notary Public in Mount Airy, NC: Davee Hall](https://www.notarydepot.com/daveed)
   - [Notary Public in Altamonte Springs, FL: Dave Heine](https://www.notarydepot.com/daveh)
   - [Notary Public in Schenectady, NY: Davia M. Falvo](https://www.notarydepot.com/daviam_123)
@@ -7613,4 +7614,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-01-18T21:20:01Z
+Updated at 2018-01-18T21:40:02Z
