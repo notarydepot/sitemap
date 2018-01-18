@@ -5481,6 +5481,7 @@
   - [Notary Public in Broomfield, CO: Art R. Romero](https://www.notarydepot.com/notarydepot1tme)
   - [Notary Public in Washington, DC: Brandon Freeman-johnson - NotaryDMV (dc/md/va)](https://www.notarydepot.com/notarydmv)
   - [Notary Public in Shreveport, LA: Jefferson Mobile Notary Service](https://www.notarydepot.com/notaryejefferson)
+  - [Notary Public in Clarksville, TN: Jack](https://www.notarydepot.com/notaryerrands)
   - [Notary Public in Park Ridge, IL: Shawn Tolu](https://www.notarydepot.com/notaryexpress)
   - [Notary Public in Jacksonville, FL: Rebecca Staples](https://www.notarydepot.com/notaryfast)
   - [Notary Public in Los Angeles, CA: Susanna Turner](https://www.notarydepot.com/notaryforall)
@@ -7614,4 +7615,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-01-18T22:20:01Z
+Updated at 2018-01-18T22:40:02Z
