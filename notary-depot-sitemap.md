@@ -1891,6 +1891,7 @@
     - [Notary Public in Killeen, TX](https://www.notarydepot.com/notary-near-me/Texas/Killeen)
     - [Notary Public in Kingsville, TX](https://www.notarydepot.com/notary-near-me/Texas/Kingsville)
     - [Notary Public in Kountze, TX](https://www.notarydepot.com/notary-near-me/Texas/Kountze)
+    - [Notary Public in Laguna Vista, TX](https://www.notarydepot.com/notary-near-me/Texas/Laguna-Vista)
     - [Notary Public in Lake Jackson, TX](https://www.notarydepot.com/notary-near-me/Texas/Lake-Jackson)
     - [Notary Public in Lancaster, TX](https://www.notarydepot.com/notary-near-me/Texas/Lancaster)
     - [Notary Public in Laredo, TX](https://www.notarydepot.com/notary-near-me/Texas/Laredo)
@@ -1919,7 +1920,6 @@
     - [Notary Public in Pearland, TX](https://www.notarydepot.com/notary-near-me/Texas/Pearland)
     - [Notary Public in Pflugerville, TX](https://www.notarydepot.com/notary-near-me/Texas/Pflugerville)
     - [Notary Public in Plano, TX](https://www.notarydepot.com/notary-near-me/Texas/Plano)
-    - [Notary Public in Port Isabel, TX](https://www.notarydepot.com/notary-near-me/Texas/Port-Isabel)
     - [Notary Public in Porter, TX](https://www.notarydepot.com/notary-near-me/Texas/Porter)
     - [Notary Public in Portland, TX](https://www.notarydepot.com/notary-near-me/Texas/Portland)
     - [Notary Public in Quitman, TX](https://www.notarydepot.com/notary-near-me/Texas/Quitman)
@@ -2388,7 +2388,6 @@
   - [Notary Public in Ithaca, NY: Angel M Tompkins](https://www.notarydepot.com/amtompkins)
   - [Notary Public in Jacksonville, FL: Amy Dunaway](https://www.notarydepot.com/amy1705)
   - [Notary Public in Jamul, CA: Amy R Darroch](https://www.notarydepot.com/amydarroch)
-  - [Notary Public in Port Isabel, TX: Amy E. Robinson](https://www.notarydepot.com/amyhillspi)
   - [Notary Public in Round Rock, TX: Amy L. Kondrath](https://www.notarydepot.com/amykondrath)
   - [Notary Public in Dublin, CA: Amy Lin](https://www.notarydepot.com/amynotary)
   - [Notary Public in Biloxi, MS: Amy Olier](https://www.notarydepot.com/amyolier)
@@ -3893,6 +3892,7 @@
   - [Notary Public in Rushland, PA: Joy N Morgan](https://www.notarydepot.com/iamhappyjoy)
   - [Notary Public in Moreno Valley, CA: Irene Anderson](https://www.notarydepot.com/ianders411)
   - [Notary Public in Urbandale, IA: Julie Sleep](https://www.notarydepot.com/ianotary)
+  - [Notary Public in Laguna Vista, TX: Amy E. Robinson](https://www.notarydepot.com/ibisamy)
   - [Notary Public in Boise, ID: Tamara Scott](https://www.notarydepot.com/idahonotary)
   - [Notary Public in West New York, NJ: Idania Lorenti](https://www.notarydepot.com/idania)
   - [Notary Public in Baytown, TX: Imelda Donaldson](https://www.notarydepot.com/idonaldson58)
@@ -7613,4 +7613,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-01-18T18:40:02Z
+Updated at 2018-01-18T19:00:02Z
