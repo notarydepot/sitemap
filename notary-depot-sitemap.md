@@ -5236,6 +5236,7 @@
   - [Notary Public in Ballwin, MO: Stu Schankman](https://www.notarydepot.com/mornflt)
   - [Notary Public in Santa Monica, CA: Moshe Steinberg](https://www.notarydepot.com/moshesteinberg)
   - [Notary Public in MA: Marsha A. Ostrer](https://www.notarydepot.com/mostrer)
+  - [Notary Public in Blakeslee, PA: Mountain View Notary](https://www.notarydepot.com/mountainnotary)
   - [Notary Public in Mount Dora, FL: Brenda Jo Collier](https://www.notarydepot.com/mountdoranotary)
   - [Notary Public in Clearwater, FL: Donna J Moore, CNSA](https://www.notarydepot.com/mouseketeer53)
   - [Notary Public in Fort Washington, MD: Maggie O. Westfield](https://www.notarydepot.com/mowest)
@@ -7615,4 +7616,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-01-19T19:00:02Z
+Updated at 2018-01-19T19:20:02Z
