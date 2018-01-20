@@ -6789,7 +6789,6 @@
   - [Notary Public in Salt Lake City, UT: Matt Lloyd](https://www.notarydepot.com/utahnotary)
   - [Notary Public in Provo, UT: Dan Lopez](https://www.notarydepot.com/utahnotarydan)
   - [Notary Public in Opa-locka, FL: Valarie Ellis](https://www.notarydepot.com/valariellis)
-  - [Notary Public in Humble, TX: Edward Valdez](https://www.notarydepot.com/valdeze719)
   - [Notary Public in Londonderry, NH: Valerie Dotson](https://www.notarydepot.com/valdotson)
   - [Notary Public in Fort Lauderdale, FL: Cristina Valencia](https://www.notarydepot.com/valenciacris)
   - [Notary Public in Apex, NC: Valerie McCullough](https://www.notarydepot.com/valerie17)
@@ -7616,4 +7615,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-01-20T04:40:06Z
+Updated at 2018-01-20T05:00:02Z
