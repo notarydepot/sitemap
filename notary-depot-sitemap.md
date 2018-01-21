@@ -5240,6 +5240,7 @@
   - [Notary Public in Mount Dora, FL: Brenda Jo Collier](https://www.notarydepot.com/mountdoranotary)
   - [Notary Public in Clearwater, FL: Donna J Moore, CNSA](https://www.notarydepot.com/mouseketeer53)
   - [Notary Public in Fort Washington, MD: Maggie O. Westfield](https://www.notarydepot.com/mowest)
+  - [Notary Public in Eustis, FL: Mary-Beth Palerino](https://www.notarydepot.com/mpalerino)
   - [Notary Public in White Marsh, MD: Maria Papavasilis ](https://www.notarydepot.com/mpapavasilis70)
   - [Notary Public in Towanda, PA: Mary Pierce](https://www.notarydepot.com/mpiercenotary)
   - [Notary Public in Kingston, NY: Francis Smith](https://www.notarydepot.com/mpismith)
@@ -7615,4 +7616,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-01-21T02:00:02Z
+Updated at 2018-01-21T02:20:10Z
