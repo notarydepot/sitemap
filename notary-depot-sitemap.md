@@ -208,6 +208,7 @@
     - [Notary Public in Descanso, CA](https://www.notarydepot.com/notary-near-me/California/Descanso)
     - [Notary Public in Diamond Bar, CA](https://www.notarydepot.com/notary-near-me/California/Diamond-Bar)
     - [Notary Public in Diamond Springs, CA](https://www.notarydepot.com/notary-near-me/California/Diamond-Springs)
+    - [Notary Public in Discovery Bay, CA](https://www.notarydepot.com/notary-near-me/California/Discovery-Bay)
     - [Notary Public in Dixon, CA](https://www.notarydepot.com/notary-near-me/California/Dixon)
     - [Notary Public in Downey, CA](https://www.notarydepot.com/notary-near-me/California/Downey)
     - [Notary Public in Duarte, CA](https://www.notarydepot.com/notary-near-me/California/Duarte)
@@ -5544,6 +5545,7 @@
   - [Notary Public in Orlando, FL: Cheryl Burres](https://www.notarydepot.com/notarysavvy)
   - [Notary Public in Pompano Beach, FL: Notary Services of Pompano Beach 24/7 &amp; Mobile](https://www.notarydepot.com/notaryservicesofpompano)
   - [Notary Public in Frisco, TX: Shonda Ward](https://www.notarydepot.com/notaryshonda)
+  - [Notary Public in Discovery Bay, CA: Ofelia D contreras](https://www.notarydepot.com/notarysince1999)
   - [Notary Public in Fredericksburg, VA: Sat.tech LLC](https://www.notarydepot.com/notaryslater)
   - [Notary Public in Daytona Beach, FL: Sheri Smith](https://www.notarydepot.com/notarysmith50)
   - [Notary Public in Stevensburg, VA: Tammy S. Kelly](https://www.notarydepot.com/notarytammykelly)
@@ -7616,4 +7618,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-01-22T18:40:02Z
+Updated at 2018-01-22T19:00:02Z
