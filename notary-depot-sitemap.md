@@ -4524,7 +4524,7 @@
   - [Notary Public in Rindge, NH: Lauralei Knight](https://www.notarydepot.com/knightnotary)
   - [Notary Public in Los Angeles, CA: Carla Kemp](https://www.notarydepot.com/kntebiz)
   - [Notary Public in Los Angeles, CA: Amir Tabrizi](https://www.notarydepot.com/kodakmacysplaza)
-  - [Notary Public in Indianapolis, IN: Kerri Officer-Young](https://www.notarydepot.com/kofficer)
+  - [Notary Public in Noblesville, IN: Kerri Officer-Young](https://www.notarydepot.com/kofficer)
   - [Notary Public in Wenatchee, WA: Kori Stuber](https://www.notarydepot.com/kori)
   - [Notary Public in Orange, CA: Korrine Simon](https://www.notarydepot.com/korrinesimon)
   - [Notary Public in Reedsburg, WI: Kara Olson Sullivan](https://www.notarydepot.com/kosullivanaway)
@@ -7619,4 +7619,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-01-23T12:01:03Z
+Updated at 2018-01-23T12:21:02Z
