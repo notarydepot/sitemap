@@ -6945,7 +6945,7 @@
   - [Notary Public in Cerritos, CA: Ricky Wang](https://www.notarydepot.com/wym68)
   - [Notary Public in Carrollton, TX: Josh Ellison](https://www.notarydepot.com/xdjosh1980)
   - [Notary Public in San Leandro, CA: Tom A Ha](https://www.notarydepot.com/y2th)
-  - [Notary Public in NY: Yair Israel Babayoff](https://www.notarydepot.com/yad14llc)
+  - [Notary Public in NY: Yair Babayoff](https://www.notarydepot.com/yad14llc)
   - [Notary Public in Rocklin, CA: Yolanda Adams](https://www.notarydepot.com/yadams247)
   - [Notary Public in Los Angeles, CA: Kyra Yakubovich](https://www.notarydepot.com/yakubovich)
   - [Notary Public in Temecula, CA: Yvonne A. Ruiz](https://www.notarydepot.com/yaruiz)
@@ -7619,4 +7619,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-01-23T06:01:02Z
+Updated at 2018-01-23T06:21:02Z
