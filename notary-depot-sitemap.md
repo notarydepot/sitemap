@@ -5237,6 +5237,7 @@
   - [Notary Public in Ballwin, MO: Stu Schankman](https://www.notarydepot.com/mornflt)
   - [Notary Public in Santa Monica, CA: Moshe Steinberg](https://www.notarydepot.com/moshesteinberg)
   - [Notary Public in MA: Marsha A. Ostrer](https://www.notarydepot.com/mostrer)
+  - [Notary Public in Laguna Niguel, CA: Your Mother Fucker](https://www.notarydepot.com/motherfucker)
   - [Notary Public in Blakeslee, PA: Mountain View Notary](https://www.notarydepot.com/mountainnotary)
   - [Notary Public in Mount Dora, FL: Brenda Jo Collier](https://www.notarydepot.com/mountdoranotary)
   - [Notary Public in Clearwater, FL: Donna J Moore, CNSA](https://www.notarydepot.com/mouseketeer53)
@@ -6589,7 +6590,6 @@
   - [Notary Public in New London, MO: Sarah Hathaway](https://www.notarydepot.com/the4hathawaysgmailcom)
   - [Notary Public in CA: Debra Perkins](https://www.notarydepot.com/the75bug)
   - [Notary Public in Rochelle Park, NJ: Diane Nissen](https://www.notarydepot.com/thealexandritegroup)
-  - [Notary Public in Laguna Niguel, CA: Best Notary](https://www.notarydepot.com/thebestnotary)
   - [Notary Public in Philadelphia, PA: Tonya Respes](https://www.notarydepot.com/thebest_pa)
   - [Notary Public in Los Angeles, CA: Steve Snyder](https://www.notarydepot.com/thecloser101)
   - [Notary Public in St. Louis, MO: Leonard Hines](https://www.notarydepot.com/theeye)
@@ -7619,4 +7619,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-01-23T04:01:02Z
+Updated at 2018-01-23T04:21:03Z
