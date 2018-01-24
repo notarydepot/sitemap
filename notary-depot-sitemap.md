@@ -6975,7 +6975,6 @@
   - [Notary Public in Clermont, FL: Yvonne A Turner](https://www.notarydepot.com/yturner810)
   - [Notary Public in Rotterdam, NY: Yvetta Parson](https://www.notarydepot.com/yvetta)
   - [Notary Public in Davenport, FL: Yvonne Long](https://www.notarydepot.com/yvonnell)
-  - [Notary Public in Corpus Christi, TX: Yvonne Mendez](https://www.notarydepot.com/yvonnemendez)
   - [Notary Public in Farmington, MI: Yolonda Walker](https://www.notarydepot.com/ywalker)
   - [Notary Public in Sebastian, FL: Manuel Sanchez](https://www.notarydepot.com/zacarias)
   - [Notary Public in Downey, CA: Zalynda Shields](https://www.notarydepot.com/zalynda)
@@ -7619,4 +7618,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-01-24T19:41:02Z
+Updated at 2018-01-24T20:01:02Z
