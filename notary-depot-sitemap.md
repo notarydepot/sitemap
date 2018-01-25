@@ -5447,6 +5447,7 @@
   - [Notary Public in Bakersfield, CA: Violeta Lopez-Pacheco](https://www.notarydepot.com/notary03)
   - [Notary Public in NY: Harry Singh](https://www.notarydepot.com/notary101)
   - [Notary Public in Fort Worth, TX: Marian Watson](https://www.notarydepot.com/notary2009)
+  - [Notary Public in Sacramento, CA: sam](https://www.notarydepot.com/notary2020)
   - [Notary Public in Mahwah, NJ: Patrick Williams](https://www.notarydepot.com/notary284)
   - [Notary Public in Noblesville, IN: Richard Scott Stern](https://www.notarydepot.com/notary2939)
   - [Notary Public in Bella Vista, AR: Rebecka Ebsen](https://www.notarydepot.com/notary2coxnet)
@@ -7619,4 +7620,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-01-25T22:41:05Z
+Updated at 2018-01-25T23:01:03Z
