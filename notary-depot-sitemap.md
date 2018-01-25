@@ -2886,6 +2886,7 @@
   - [Notary Public in Copperas Cove, TX: Joseph Reeves](https://www.notarydepot.com/centexnotary)
   - [Notary Public in Santa Rosa, CA: The Central Office](https://www.notarydepot.com/centoff)
   - [Notary Public in Anaheim, CA: Christian Ergueta](https://www.notarydepot.com/cergueta)
+  - [Notary Public in Sanford, FL: Christopher Ersson](https://www.notarydepot.com/cersson)
   - [Notary Public in Atlantic Beach, FL: Certified Docs](https://www.notarydepot.com/certifieddocs)
   - [Notary Public in Syracuse, NY: Carol McBride](https://www.notarydepot.com/certifiednotary22)
   - [Notary Public in Dearborn, MI: Shannon Fields](https://www.notarydepot.com/certifiednotaryshannongmailcom)
@@ -7618,4 +7619,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-01-25T16:21:03Z
+Updated at 2018-01-25T16:41:04Z
