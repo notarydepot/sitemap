@@ -6801,6 +6801,7 @@
   - [Notary Public in Boynton Beach, FL: Valerie Doornbos](https://www.notarydepot.com/valeriekay27)
   - [Notary Public in Chicago, IL: Valerie Natasha Freeman](https://www.notarydepot.com/valerienfreeman)
   - [Notary Public in Mountain View, CA: Valerie Elaine Harris](https://www.notarydepot.com/valharris)
+  - [Notary Public in Temecula, CA: Valerie Swaine](https://www.notarydepot.com/valintem)
   - [Notary Public in Louisville, KY: Kenneth Alan Runyan, Jr.](https://www.notarydepot.com/valiond1974)
   - [Notary Public in Buckeye, AZ: Derek](https://www.notarydepot.com/valleynotaryaz)
   - [Notary Public in Miami Beach, FL: Vanessa Rivera](https://www.notarydepot.com/vanajckt1)
@@ -7618,4 +7619,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-01-26T20:01:02Z
+Updated at 2018-01-26T20:21:02Z
