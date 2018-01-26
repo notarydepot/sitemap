@@ -4570,6 +4570,7 @@
   - [Notary Public in Atlanta, GA: Tiffany Jones](https://www.notarydepot.com/kwikkeyz)
   - [Notary Public in League City, TX: Katie Woodside](https://www.notarydepot.com/kwoodside)
   - [Notary Public in Beaumont, TX: Kris Whitmire](https://www.notarydepot.com/kwwhitmire80)
+  - [Notary Public in Fruita, CO: Teri Uphoff](https://www.notarydepot.com/kxc44r45)
   - [Notary Public in Monee, IL: Kim Harper](https://www.notarydepot.com/kyharper)
   - [Notary Public in Naples, FL: Kathryn Huffer](https://www.notarydepot.com/kyhuffer)
   - [Notary Public in San Francisco, CA: Kyle Devin Eisenberg](https://www.notarydepot.com/kylecooks12)
@@ -6568,7 +6569,6 @@
   - [Notary Public in Del Rio, TX: Teresa Elizondo](https://www.notarydepot.com/teresa)
   - [Notary Public in Charlotte, NC: Teresa E Samaniego](https://www.notarydepot.com/teresa2779)
   - [Notary Public in Greensboro, NC: Teresa Rowe - Certified, E &amp; O Insurance](https://www.notarydepot.com/teresarowe)
-  - [Notary Public in Fruita, CO: Teri Uphoff](https://www.notarydepot.com/teri)
   - [Notary Public in Salem, OR: Teri Finch](https://www.notarydepot.com/terifinch)
   - [Notary Public in Bremerton, WA: Terri](https://www.notarydepot.com/terriarcieri)
   - [Notary Public in Lyndon, KS: terri dobbs](https://www.notarydepot.com/terribird)
@@ -7618,4 +7618,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-01-26T17:21:03Z
+Updated at 2018-01-26T17:41:03Z
