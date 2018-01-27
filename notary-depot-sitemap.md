@@ -3975,6 +3975,7 @@
   - [Notary Public in Kaysville, UT: James Lowery](https://www.notarydepot.com/jamesthenotary)
   - [Notary Public in Arkadelphia, AR: James Summerville](https://www.notarydepot.com/jamesummerville)
   - [Notary Public in Columbia, TN: James Young](https://www.notarydepot.com/jamesyoung)
+  - [Notary Public in Garland, TX: James Formosa](https://www.notarydepot.com/jamfor)
   - [Notary Public in Cedar Rapids, IA: Jamie L. Blasdell](https://www.notarydepot.com/jamie5676)
   - [Notary Public in Mount Vernon, OH: Jamie Lytle](https://www.notarydepot.com/jamielytle39)
   - [Notary Public in Brunswick, GA: jamie simmons](https://www.notarydepot.com/jamiesi)
@@ -7622,4 +7623,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-01-27T21:43:02Z
+Updated at 2018-01-27T22:03:03Z
