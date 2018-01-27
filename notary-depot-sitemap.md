@@ -1653,6 +1653,7 @@
     - [Notary Public in Coatesville, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Coatesville)
     - [Notary Public in Cochranton, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Cochranton)
     - [Notary Public in Collegeville, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Collegeville)
+    - [Notary Public in Collingdale, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Collingdale)
     - [Notary Public in Columbia, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Columbia)
     - [Notary Public in Coraopolis, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Coraopolis)
     - [Notary Public in Curwensville, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Curwensville)
@@ -5140,6 +5141,7 @@
   - [Notary Public in Oakland, CA: Mitzi Yvonne Smith](https://www.notarydepot.com/mitzismith)
   - [Notary Public in Houston, TX: Maritza Chavez](https://www.notarydepot.com/mitzy_chvz)
   - [Notary Public in Cary, IL: Michele Ivarson](https://www.notarydepot.com/mivarson)
+  - [Notary Public in Collingdale, PA: Chaize Fletcher](https://www.notarydepot.com/mizchaize)
   - [Notary Public in Yuba City, CA: Mundeep Jaiya](https://www.notarydepot.com/mjaiya5770)
   - [Notary Public in Blakeslee, PA: Mary Jane Colon](https://www.notarydepot.com/mjcword)
   - [Notary Public in North Charleston, SC: Mary Dellucci](https://www.notarydepot.com/mjdellucci)
@@ -7620,4 +7622,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-01-27T06:01:06Z
+Updated at 2018-01-27T06:21:05Z
