@@ -6789,7 +6789,7 @@
   - [Notary Public in Amarillo, TX: The Ups Store #4558](https://www.notarydepot.com/ups4558)
   - [Notary Public in Mechanicsville, VA: Bob and Sandy Moorey](https://www.notarydepot.com/ups4572)
   - [Notary Public in Petaluma, CA: Ups Store 0995](https://www.notarydepot.com/upsstore0995)
-  - [Notary Public in Greenville, SC: Bethinina Gary, Upstate Mobile Notaries](https://www.notarydepot.com/upstatenotaries)
+  - [Notary Public in Greenville, SC: Upstate Mobile Notaries, LLC](https://www.notarydepot.com/upstatenotaries)
   - [Notary Public in Phoenixville, PA: Pamela Knight](https://www.notarydepot.com/urban)
   - [Notary Public in Boca Raton, FL: Daniel Lee ,NSA](https://www.notarydepot.com/us1notary)
   - [Notary Public in Pennsauken Township, NJ: Carmen Jimenez](https://www.notarydepot.com/user126257)
@@ -7623,4 +7623,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-01-29T21:23:03Z
+Updated at 2018-01-29T21:43:04Z
