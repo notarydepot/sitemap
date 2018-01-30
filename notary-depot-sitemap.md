@@ -2771,7 +2771,7 @@
   - [Notary Public in Lake Oswego, OR: Elizabeth F. Holtman](https://www.notarydepot.com/buffholtman)
   - [Notary Public in Alexandria, VA: Mohammad Amir Ali](https://www.notarydepot.com/buluali)
   - [Notary Public in Yreka, CA: GS Peery](https://www.notarydepot.com/bumper)
-  - [Notary Public in Houston, TX: Shari Bukre](https://www.notarydepot.com/burkemobilenotary)
+  - [Notary Public in Houston, TX: Shari Burke](https://www.notarydepot.com/burkemobilenotary)
   - [Notary Public in Mission Viejo, CA: Adam Thunell](https://www.notarydepot.com/burton12)
   - [Notary Public in Sandston, VA: Dora Rabb](https://www.notarydepot.com/busibee)
   - [Notary Public in Pinellas Park, FL: Andrea McFadden](https://www.notarydepot.com/businesslady)
@@ -7623,4 +7623,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-01-30T17:23:04Z
+Updated at 2018-01-30T17:43:02Z
