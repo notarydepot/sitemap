@@ -3554,7 +3554,6 @@
   - [Notary Public in Newark, NJ: Leslye Lowen](https://www.notarydepot.com/essexcountynotary)
   - [Notary Public in Orlando, FL: Elsie Quinones](https://www.notarydepot.com/essie_ellie)
   - [Notary Public in Saint Petersburg, FL: Karl Young](https://www.notarydepot.com/ethosriskservices)
-  - [Notary Public in Eugene, OR: Laurie Jenkinson](https://www.notarydepot.com/eugenenotary)
   - [Notary Public in Pangburn, AR: Elizabeth Umphries](https://www.notarydepot.com/eumphries)
   - [Notary Public in Mill Hall, PA: Elizabeth U. Steffy](https://www.notarydepot.com/eusteffy69)
   - [Notary Public in San Diego, CA: Eva Dailey](https://www.notarydepot.com/evadailey)
@@ -7623,4 +7622,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-01-30T19:23:02Z
+Updated at 2018-01-30T19:43:02Z
