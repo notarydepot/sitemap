@@ -1348,6 +1348,7 @@
     - [Notary Public in Albany, NY](https://www.notarydepot.com/notary-near-me/New-York/Albany)
     - [Notary Public in Altamont, NY](https://www.notarydepot.com/notary-near-me/New-York/Altamont)
     - [Notary Public in Amsterdam, NY](https://www.notarydepot.com/notary-near-me/New-York/Amsterdam)
+    - [Notary Public in Auburn, NY](https://www.notarydepot.com/notary-near-me/New-York/Auburn)
     - [Notary Public in Baldwin, NY](https://www.notarydepot.com/notary-near-me/New-York/Baldwin)
     - [Notary Public in Baldwinsville, NY](https://www.notarydepot.com/notary-near-me/New-York/Baldwinsville)
     - [Notary Public in Bay Shore, NY](https://www.notarydepot.com/notary-near-me/New-York/Bay-Shore)
@@ -2972,6 +2973,7 @@
   - [Notary Public in Williamson, NY: Cindy K. Thompson](https://www.notarydepot.com/cinsignsny)
   - [Notary Public in Chester, VA: Faith Blackwood](https://www.notarydepot.com/citynotary)
   - [Notary Public in Newport Beach, CA: Christopher Caputo, CPA](https://www.notarydepot.com/cjcaputo13)
+  - [Notary Public in Auburn, NY: Christa Centolella](https://www.notarydepot.com/cjcparalegal)
   - [Notary Public in Palm Coast, FL: Cynthia Mallicote](https://www.notarydepot.com/cjmthebestmobilenotary)
   - [Notary Public in Agoura Hills, CA: Jenny Siegel](https://www.notarydepot.com/cjsiegel)
   - [Notary Public in Hawaiian Gardens, CA: Celia Centeno](https://www.notarydepot.com/ckcnotaryservices)
@@ -4862,6 +4864,7 @@
   - [Notary Public in Santa Barbara, CA: Lorraine W. Pereverziev](https://www.notarydepot.com/lwpctc)
   - [Notary Public in Panama City, FL: Linda C Wright](https://www.notarydepot.com/lwright)
   - [Notary Public in Cleveland, OH: Lydia L Martinez](https://www.notarydepot.com/lydiadocs)
+  - [Notary Public in Murrieta, CA: Lydia Marie Routt](https://www.notarydepot.com/lydiaroutt)
   - [Notary Public in Meridian, MS: Lyle Rose](https://www.notarydepot.com/lylerose)
   - [Notary Public in Sun City, AZ: Lyn Baker](https://www.notarydepot.com/lynbaker)
   - [Notary Public in Homewood, IL: Lynda Jordan](https://www.notarydepot.com/lyndaj7673)
@@ -7622,4 +7625,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-01-31T20:03:02Z
+Updated at 2018-01-31T20:23:01Z
