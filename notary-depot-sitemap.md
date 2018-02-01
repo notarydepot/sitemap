@@ -5875,6 +5875,7 @@
   - [Notary Public in Rancho Cucamonga, CA: Ronald Castaneda](https://www.notarydepot.com/rcnotary)
   - [Notary Public in Antelope, CA: Rosalind Garner](https://www.notarydepot.com/rdgcompany)
   - [Notary Public in Vancouver, WA: Richard Kurth](https://www.notarydepot.com/rdkurh)
+  - [Notary Public in Vancouver, WA: Richard Kurth](https://www.notarydepot.com/rdkurth)
   - [Notary Public in Crimora, VA: Rita D. Dunn](https://www.notarydepot.com/rdldunn)
   - [Notary Public in Charlotte, NC: Randy D Nealey](https://www.notarydepot.com/rdnealey)
   - [Notary Public in Big Bear Lake, CA: Joseph R Donchi](https://www.notarydepot.com/rdonchi)
@@ -7625,4 +7626,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-01T18:03:06Z
+Updated at 2018-02-01T18:23:04Z
