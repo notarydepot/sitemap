@@ -3089,6 +3089,7 @@
   - [Notary Public in Hinsdale, IL: Cassandra Stovall](https://www.notarydepot.com/cstoval2)
   - [Notary Public in Kansas City, MO: Cynthia](https://www.notarydepot.com/cstrapac)
   - [Notary Public in Costa Mesa, CA: Catherine M. Patel](https://www.notarydepot.com/cthryn)
+  - [Notary Public in New Britain, CT: Sabreana Brown](https://www.notarydepot.com/ctnotary1)
   - [Notary Public in Fort Lauderdale, FL: Clayton Todd](https://www.notarydepot.com/ctodd)
   - [Notary Public in Fountain Valley, CA: Carolyn](https://www.notarydepot.com/ctroutmanfv)
   - [Notary Public in Spirit Lake, ID: Cindy Tyner](https://www.notarydepot.com/ctsunshines)
@@ -7626,4 +7627,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-02T12:23:02Z
+Updated at 2018-02-02T12:43:02Z
