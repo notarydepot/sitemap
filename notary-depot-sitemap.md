@@ -2113,6 +2113,7 @@
     - [Notary Public in Renton, WA](https://www.notarydepot.com/notary-near-me/Washington/Renton)
     - [Notary Public in Sammamish, WA](https://www.notarydepot.com/notary-near-me/Washington/Sammamish)
     - [Notary Public in Seattle, WA](https://www.notarydepot.com/notary-near-me/Washington/Seattle)
+    - [Notary Public in Sequim, WA](https://www.notarydepot.com/notary-near-me/Washington/Sequim)
     - [Notary Public in Shoreline, WA](https://www.notarydepot.com/notary-near-me/Washington/Shoreline)
     - [Notary Public in Silver Creek, WA](https://www.notarydepot.com/notary-near-me/Washington/Silver-Creek)
     - [Notary Public in Snohomish, WA](https://www.notarydepot.com/notary-near-me/Washington/Snohomish)
@@ -5000,7 +5001,7 @@
   - [Notary Public in Gig Harbor, WA: mavi macfarlane](https://www.notarydepot.com/mavimacfarlane)
   - [Notary Public in Houston, TX: Micquel Wheat](https://www.notarydepot.com/mawheat)
   - [Notary Public in Oceanside, CA: Maximino John DelValle](https://www.notarydepot.com/maxandmichel)
-  - [Notary Public in Concord, NC: Victorianne C. Maxwell](https://www.notarydepot.com/maxwelllegal)
+  - [Notary Public in Sequim, WA: VCM](https://www.notarydepot.com/maxwelllegal)
   - [Notary Public in Salt Lake City, UT: Matthew B Baugh](https://www.notarydepot.com/mbaugh)
   - [Notary Public in Wharton, TX: Marti Bennetsen](https://www.notarydepot.com/mbennetsen)
   - [Notary Public in Colchester, VT: Michael Bissonnette](https://www.notarydepot.com/mbissonnet)
@@ -7627,4 +7628,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-03T06:23:06Z
+Updated at 2018-02-03T06:43:08Z
