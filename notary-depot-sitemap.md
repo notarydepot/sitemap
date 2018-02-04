@@ -2515,7 +2515,6 @@
   - [Notary Public in Matteson, IL: Alar Notary Services](https://www.notarydepot.com/atlantar)
   - [Notary Public in Tampa, FL: Cassandra Michel](https://www.notarydepot.com/atlasdocs)
   - [Notary Public in Portsmouth, VA: Adrian Torres](https://www.notarydepot.com/atorres)
-  - [Notary Public in New York, NY: Attorney Victorianne Musonza](https://www.notarydepot.com/attorney1)
   - [Notary Public in Washington, DC: Tonya Butler-Truesdale](https://www.notarydepot.com/attytmbt)
   - [Notary Public in Grain Valley, MO: Anita Aubuchon](https://www.notarydepot.com/aubychon)
   - [Notary Public in FL: Audrey Davis](https://www.notarydepot.com/audreydavis)
@@ -7628,4 +7627,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-04T05:23:03Z
+Updated at 2018-02-04T05:43:01Z
