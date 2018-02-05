@@ -1012,6 +1012,7 @@
     - [Notary Public in Hyattsville, MD](https://www.notarydepot.com/notary-near-me/Maryland/Hyattsville)
     - [Notary Public in North East, MD](https://www.notarydepot.com/notary-near-me/Maryland/North-East)
     - [Notary Public in Nottingham, MD](https://www.notarydepot.com/notary-near-me/Maryland/Nottingham)
+    - [Notary Public in Ocean City, MD](https://www.notarydepot.com/notary-near-me/Maryland/Ocean-City)
     - [Notary Public in Owings, MD](https://www.notarydepot.com/notary-near-me/Maryland/Owings)
     - [Notary Public in Owings Mills, MD](https://www.notarydepot.com/notary-near-me/Maryland/Owings-Mills)
     - [Notary Public in Oxon Hill, MD](https://www.notarydepot.com/notary-near-me/Maryland/Oxon-Hill)
@@ -1188,6 +1189,7 @@
     - [Notary Public in Lee&#39;s Summit, MO](https://www.notarydepot.com/notary-near-me/Missouri/Lee-s-Summit)
     - [Notary Public in Liberty, MO](https://www.notarydepot.com/notary-near-me/Missouri/Liberty)
     - [Notary Public in Mexico, MO](https://www.notarydepot.com/notary-near-me/Missouri/Mexico)
+    - [Notary Public in Millersville, MO](https://www.notarydepot.com/notary-near-me/Missouri/Millersville)
     - [Notary Public in Mount Vernon, MO](https://www.notarydepot.com/notary-near-me/Missouri/Mount-Vernon)
     - [Notary Public in New London, MO](https://www.notarydepot.com/notary-near-me/Missouri/New-London)
     - [Notary Public in Park Hills, MO](https://www.notarydepot.com/notary-near-me/Missouri/Park-Hills)
@@ -4153,6 +4155,7 @@
   - [Notary Public in Clermont, FL: Jennifer Hornby](https://www.notarydepot.com/jhornby)
   - [Notary Public in Hattiesburg, MS: jarveous edward hughes](https://www.notarydepot.com/jhughes23)
   - [Notary Public in Grand Junction, CO: John Humphrey](https://www.notarydepot.com/jhumph)
+  - [Notary Public in Ocean City, MD: Jennifer Hysan](https://www.notarydepot.com/jhysan)
   - [Notary Public in NY: Joseph C. Iacono](https://www.notarydepot.com/jiacono)
   - [Notary Public in Pompano Beach, FL: Jill Stecher](https://www.notarydepot.com/jill523)
   - [Notary Public in Costa Mesa, CA: Jill Bernshouse](https://www.notarydepot.com/jillbhca)
@@ -5152,6 +5155,7 @@
   - [Notary Public in Foley, AL: Matie Elizabeth Zilinskas](https://www.notarydepot.com/mjj82440)
   - [Notary Public in Hingham, MA: Michael J. Leary Cpa, Realtor, Notary](https://www.notarydepot.com/mjleary1)
   - [Notary Public in Narberth, PA: Mary Jane Mac Rae](https://www.notarydepot.com/mjm3458)
+  - [Notary Public in Millersville, MO: Maria Moore](https://www.notarydepot.com/mjmmobilenotary)
   - [Notary Public in Jacksonville, FL: Monika Campbell](https://www.notarydepot.com/mka322)
   - [Notary Public in Belle Vernon, PA: Michael P. Karolewics](https://www.notarydepot.com/mkarolewics)
   - [Notary Public in Port St. Lucie, FL: Michelle Kinch](https://www.notarydepot.com/mkinch)
@@ -7627,4 +7631,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-05T21:23:04Z
+Updated at 2018-02-05T21:43:03Z
