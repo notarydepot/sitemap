@@ -3357,6 +3357,7 @@
   - [Notary Public in Chicago, IL: Dorothy McKinnie](https://www.notarydepot.com/dnmnotary)
   - [Notary Public in Glendale, AZ: Jeffrey](https://www.notarydepot.com/docdrj77)
   - [Notary Public in Phelan, CA: Melinda S. Schumacher](https://www.notarydepot.com/docittome)
+  - [Notary Public in Aurora, CO: Wayne R Morris](https://www.notarydepot.com/docs)
   - [Notary Public in Pomona, CA: Betrayn Drinkard](https://www.notarydepot.com/docs2bsigned)
   - [Notary Public in Roseburg, OR: Michelle R. Spier](https://www.notarydepot.com/documentguru)
   - [Notary Public in Shreveport, LA: Audrey Patrice Russ](https://www.notarydepot.com/documentprep)
@@ -7626,4 +7627,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-05T16:43:04Z
+Updated at 2018-02-05T17:03:02Z
