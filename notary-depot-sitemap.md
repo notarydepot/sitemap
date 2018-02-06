@@ -4754,6 +4754,7 @@
   - [Notary Public in Edmonds, WA: Michael B. Joehnk](https://www.notarydepot.com/lisajfaith)
   - [Notary Public in Stevens Point, WI: Lisa Kimmel](https://www.notarydepot.com/lisak)
   - [Notary Public in Yukon, OK: Lisa Brimacombe](https://www.notarydepot.com/lisakay311)
+  - [Notary Public in Prescott Valley, AZ: Lisa](https://www.notarydepot.com/lisamariell)
   - [Notary Public in Indianapolis, IN: Lisa Myers](https://www.notarydepot.com/lisamyers)
   - [Notary Public in Downey, CA: Lisa Caballero](https://www.notarydepot.com/lisanotarizes)
   - [Notary Public in Chincoteague Island, VA: Lisa Sipe](https://www.notarydepot.com/lisasipe)
@@ -7632,4 +7633,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-06T18:23:03Z
+Updated at 2018-02-06T18:43:03Z
