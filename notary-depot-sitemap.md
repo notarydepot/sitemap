@@ -5442,6 +5442,7 @@
   - [Notary Public in Granger, IN: Thomas J. Clemans](https://www.notarydepot.com/northernindiananotary)
   - [Notary Public in Culpeper, VA: Notary on Demand](https://www.notarydepot.com/not1826)
   - [Notary Public in Lakeland, FL: Michelle Myers](https://www.notarydepot.com/notablenotaryservices)
+  - [Notary Public in Buckeye, AZ: Ariana Gomez](https://www.notarydepot.com/notariesbyari)
   - [Notary Public in Milwaukee, WI: Chequetta Ferguson](https://www.notarydepot.com/notariesbycferguson)
   - [Notary Public in Land O&#39; Lakes, FL: Charles ](https://www.notarydepot.com/notariesdepot)
   - [Notary Public in Palm Coast, FL: Notariestogo](https://www.notarydepot.com/notariestogo)
@@ -7631,4 +7632,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-06T00:43:03Z
+Updated at 2018-02-06T01:03:03Z
