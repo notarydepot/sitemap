@@ -3821,6 +3821,7 @@
   - [Notary Public in Helena, AL: Denise](https://www.notarydepot.com/harrisd23)
   - [Notary Public in St. George, UT: Stacye Harrison](https://www.notarydepot.com/harrison)
   - [Notary Public in Colton, CA: Valerie Harris](https://www.notarydepot.com/harrval1)
+  - [Notary Public in Rock Hill, SC: Harry Mahan](https://www.notarydepot.com/harry13)
   - [Notary Public in Cleveland, TN: Harry D Williams](https://www.notarydepot.com/harryd)
   - [Notary Public in Los Angeles, CA: Hasmik Kanataryan](https://www.notarydepot.com/hasmik)
   - [Notary Public in Litchfield Park, AZ: Kelly](https://www.notarydepot.com/hasslefreenotary)
@@ -7633,4 +7634,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-07T20:23:03Z
+Updated at 2018-02-07T20:43:03Z
