@@ -2660,7 +2660,7 @@
   - [Notary Public in Laguna Niguel, CA: S. LeTourneau](https://www.notarydepot.com/binlingualnotary)
   - [Notary Public in Mechanicsburg, PA: Roland L. Doyle](https://www.notarydepot.com/birdtrap)
   - [Notary Public in Atlanta, GA: Charles Biskobing](https://www.notarydepot.com/biskobing)
-  - [Notary Public in Belleville, IL: Hope Money](https://www.notarydepot.com/bistatenotary)
+  - [Notary Public in Belleville, IL: Hope Money-Bailey](https://www.notarydepot.com/bistatenotary)
   - [Notary Public in Oakland, CA: Betty J. Clack](https://www.notarydepot.com/bjclack)
   - [Notary Public in San Jose, CA: Barbara Kitz](https://www.notarydepot.com/bjkoncepts)
   - [Notary Public in Roseville, CA: Beth J Mau](https://www.notarydepot.com/bjmrcsiscom)
@@ -7633,4 +7633,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-07T03:03:02Z
+Updated at 2018-02-07T03:23:02Z
