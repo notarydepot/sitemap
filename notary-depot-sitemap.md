@@ -3699,7 +3699,6 @@
   - [Notary Public in Fairfield, CA: Gail R. Doswell](https://www.notarydepot.com/gdoswell)
   - [Notary Public in Rockford, IL: Gloria Taylor](https://www.notarydepot.com/gdtaylor)
   - [Notary Public in Newark, NJ: Garry Edwards](https://www.notarydepot.com/gedwards)
-  - [Notary Public in Corona, CA: Patricia Gelber](https://www.notarydepot.com/gelbermobilenotary)
   - [Notary Public in San Antonio, TX: Gina Y. Ellison Byrd](https://www.notarydepot.com/gellison)
   - [Notary Public in Newberry, FL: Michelle Taillon](https://www.notarydepot.com/gemtaillon)
   - [Notary Public in Winters, CA: Genene Restivo](https://www.notarydepot.com/gencal)
@@ -7634,4 +7633,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-08T03:46:02Z
+Updated at 2018-02-08T04:06:03Z
