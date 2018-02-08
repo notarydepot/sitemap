@@ -810,7 +810,6 @@
     - [Notary Public in Downers Grove, IL](https://www.notarydepot.com/notary-near-me/Illinois/Downers-Grove)
     - [Notary Public in Edwardsville, IL](https://www.notarydepot.com/notary-near-me/Illinois/Edwardsville)
     - [Notary Public in Elgin, IL](https://www.notarydepot.com/notary-near-me/Illinois/Elgin)
-    - [Notary Public in Evanston, IL](https://www.notarydepot.com/notary-near-me/Illinois/Evanston)
     - [Notary Public in Geneva, IL](https://www.notarydepot.com/notary-near-me/Illinois/Geneva)
     - [Notary Public in Godfrey, IL](https://www.notarydepot.com/notary-near-me/Illinois/Godfrey)
     - [Notary Public in Hamburg, IL](https://www.notarydepot.com/notary-near-me/Illinois/Hamburg)
@@ -5726,7 +5725,6 @@
   - [Notary Public in Howell, NJ: Alia Khan](https://www.notarydepot.com/peshawar1)
   - [Notary Public in Canterbury, CT: Patricia E Sullivan](https://www.notarydepot.com/pesullivan)
   - [Notary Public in Warrington, PA: Peter Pirolli Jr.](https://www.notarydepot.com/pete823)
-  - [Notary Public in Evanston, IL: Pete Begly](https://www.notarydepot.com/petebeglynsa)
   - [Notary Public in Port St. Lucie, FL: Peter J. Church](https://www.notarydepot.com/peterc)
   - [Notary Public in Sacramento, CA: Peter Stone Atty](https://www.notarydepot.com/peterlawstone)
   - [Notary Public in Alexandria, VA: Peter Wintermute](https://www.notarydepot.com/peterwintermute)
@@ -7633,4 +7631,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-08T09:06:02Z
+Updated at 2018-02-08T09:26:03Z
