@@ -6646,7 +6646,7 @@
   - [Notary Public in Kenosha, WI: Tina Elfering](https://www.notarydepot.com/tinaelfering)
   - [Notary Public in Andover, MA: Tina Enrico](https://www.notarydepot.com/tinaenrico1)
   - [Notary Public in Los Angeles, CA: Tina L Gaines](https://www.notarydepot.com/tinalgaines)
-  - [Notary Public in Dallas, TX: Tina Phillips](https://www.notarydepot.com/tinanotary)
+  - [Notary Public in Oakland, CA: Tina Phillips](https://www.notarydepot.com/tinanotary)
   - [Notary Public in Folsom, CA: Christina Koepke](https://www.notarydepot.com/tinerb)
   - [Notary Public in Washington, DC: Traci Long Morris-NNA Certified/Background Screened](https://www.notarydepot.com/tinka2)
   - [Notary Public in NJ: Deborah A. Sterling](https://www.notarydepot.com/tioga74)
@@ -7632,4 +7632,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-09T14:46:03Z
+Updated at 2018-02-09T15:06:03Z
