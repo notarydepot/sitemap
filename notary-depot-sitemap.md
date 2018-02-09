@@ -4327,6 +4327,7 @@
   - [Notary Public in Reidsville, GA: Judy Teston](https://www.notarydepot.com/jujubilee)
   - [Notary Public in Union City, CA: Julie Arnold](https://www.notarydepot.com/jules01)
   - [Notary Public in New York, NY: Julian L Cole](https://www.notarydepot.com/julianlenworthcole)
+  - [Notary Public in Salem, OR: Julie davis](https://www.notarydepot.com/julied)
   - [Notary Public in Redwood City, CA: Julie Daciuk](https://www.notarydepot.com/juliednotary)
   - [Notary Public in Salt Lake City, UT: Julie Harward](https://www.notarydepot.com/julieharward)
   - [Notary Public in Perris, CA: Julie Jones](https://www.notarydepot.com/juliej)
@@ -7631,4 +7632,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-09T03:46:02Z
+Updated at 2018-02-09T04:06:02Z
