@@ -5759,6 +5759,7 @@
   - [Notary Public in Lake Harmony, PA: Barbara Bittner](https://www.notarydepot.com/plumb54)
   - [Notary Public in Knightdale, NC: Precious Vines](https://www.notarydepot.com/plvines)
   - [Notary Public in Glendale, AZ: Dmitriy Binyaminov](https://www.notarydepot.com/plykak)
+  - [Notary Public in Macomb, MI: Princess ](https://www.notarydepot.com/pmahabirmobilenotary)
   - [Notary Public in Jacksonville, FL: Pamela Mitchell ](https://www.notarydepot.com/pmarsh)
   - [Notary Public in Hayward, CA: Paulette Marshall](https://www.notarydepot.com/pmarshall42)
   - [Notary Public in Chula Vista, CA: Patricia A. McDonald](https://www.notarydepot.com/pmcdonald917)
@@ -7633,4 +7634,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-11T13:26:03Z
+Updated at 2018-02-11T13:46:02Z
