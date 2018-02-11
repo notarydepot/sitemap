@@ -4419,6 +4419,7 @@
   - [Notary Public in Gardena, CA: Kimmel Briscoe](https://www.notarydepot.com/kbriscoe)
   - [Notary Public in Cedar Lake, IN: Katreena C. Guggerty](https://www.notarydepot.com/kcg)
   - [Notary Public in Hermosa Beach, CA: Kc Jones](https://www.notarydepot.com/kcjones)
+  - [Notary Public in Hillsboro, OR: Karene R Arias-Coupens](https://www.notarydepot.com/kcoupens)
   - [Notary Public in Durham, NC: kaylene criger](https://www.notarydepot.com/kcriger)
   - [Notary Public in Orlando, FL: Kirsten Davis](https://www.notarydepot.com/kdavis)
   - [Notary Public in Deer Park, NY: Kim McGuire](https://www.notarydepot.com/kdchad)
@@ -7633,4 +7634,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-11T17:46:03Z
+Updated at 2018-02-11T18:06:02Z
