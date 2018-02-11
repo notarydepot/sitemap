@@ -2349,7 +2349,6 @@
   - [Notary Public in Venice, FL: Dawn Biel](https://www.notarydepot.com/allygatorzz)
   - [Notary Public in Clearfield, UT: Allyn Draper](https://www.notarydepot.com/allyndraper)
   - [Notary Public in Copiague, NY: Alan Murray](https://www.notarydepot.com/alnmurray)
-  - [Notary Public in Beaverton, OR: Stephanie Belle](https://www.notarydepot.com/alohanotary)
   - [Notary Public in NY: Andrew Golub](https://www.notarydepot.com/alphabroker)
   - [Notary Public in Clarkston, WA: Bryan R, Wheeler](https://www.notarydepot.com/alpine)
   - [Notary Public in South Lake Tahoe, CA: Larry Schaffer](https://www.notarydepot.com/alpinenotary)
@@ -7634,4 +7633,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-11T16:46:03Z
+Updated at 2018-02-11T17:06:02Z
