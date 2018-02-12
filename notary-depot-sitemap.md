@@ -2892,7 +2892,6 @@
   - [Notary Public in Dearborn, MI: Shannon Fields](https://www.notarydepot.com/certifiednotaryshannongmailcom)
   - [Notary Public in Concord, NC: Danielle Moore](https://www.notarydepot.com/certified_notary_orchidone)
   - [Notary Public in Andrews, TX: Erik Wilkinson, Mls](https://www.notarydepot.com/cew1968)
-  - [Notary Public in Auburndale, FL: Renata Newman](https://www.notarydepot.com/cfna)
   - [Notary Public in Carolina Beach, NC: Carol Ann Flinn](https://www.notarydepot.com/cfsac7)
   - [Notary Public in North Miami Beach, FL: Chloe G. Connolly](https://www.notarydepot.com/cgcnotary)
   - [Notary Public in Daytona Beach, FL: Cathy Gentry](https://www.notarydepot.com/cgentry127)
@@ -3167,6 +3166,7 @@
   - [Notary Public in Northborough, MA: David E Jusseaume](https://www.notarydepot.com/davidjuss)
   - [Notary Public in Atlanta, GA: Atlanta Notaries](https://www.notarydepot.com/davidkimpi)
   - [Notary Public in Denver, CO: David levitt](https://www.notarydepot.com/davidlevitt)
+  - [Notary Public in Auburndale, FL: David Newman](https://www.notarydepot.com/davidlnewman)
   - [Notary Public in Cedar Rapids, IA: David McMillen](https://www.notarydepot.com/davidmcmillen)
   - [Notary Public in Belfair, WA: Debra Miller](https://www.notarydepot.com/davidmi711)
   - [Notary Public in Fernley, NV: David Samuel Morrow](https://www.notarydepot.com/davidmorrow)
@@ -5920,6 +5920,7 @@
   - [Notary Public in Temecula, CA: Rena Reinagel](https://www.notarydepot.com/rena)
   - [Notary Public in Upper Marlboro, MD: Renardo W.Sarvis, Title Insurance Producer](https://www.notarydepot.com/renardo452)
   - [Notary Public in Redding, CA: Renata Rodriguez](https://www.notarydepot.com/renata)
+  - [Notary Public in Auburndale, FL: Renata Newman](https://www.notarydepot.com/renatanewman)
   - [Notary Public in Miami Beach, FL: Rebecca Navarro](https://www.notarydepot.com/renavarro)
   - [Notary Public in San Diego, CA: Ren Daversa Mobile Notary &amp; Signing Agent](https://www.notarydepot.com/rendaversa)
   - [Notary Public in Tehachapi, CA: Renee Bagdis](https://www.notarydepot.com/reneebagdis)
@@ -7634,4 +7635,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-12T14:06:03Z
+Updated at 2018-02-12T14:26:03Z
