@@ -5537,6 +5537,7 @@
   - [Notary Public in Columbus, OH: Albert Yetzer](https://www.notarydepot.com/notaryohio)
   - [Notary Public in Santa Fe Springs, CA: Solodad Loera](https://www.notarydepot.com/notaryoncall4u)
   - [Notary Public in Hobart, IN: Erik Mcdonald](https://www.notarydepot.com/notaryone)
+  - [Notary Public in Alexandria, LA: Lydia Lambert](https://www.notarydepot.com/notaryonthegeaux)
   - [Notary Public in Laguna Niguel, CA: Sherry Sparacino](https://www.notarydepot.com/notaryonthego)
   - [Notary Public in Seaford, NY: Marie Di Prizito](https://www.notarydepot.com/notaryonthespot)
   - [Notary Public in Repton, AL: Paula Jones](https://www.notarydepot.com/notaryonwheels)
@@ -7635,4 +7636,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-12T16:06:02Z
+Updated at 2018-02-12T16:26:02Z
