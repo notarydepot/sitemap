@@ -1397,6 +1397,7 @@
     - [Notary Public in Middle Island, NY](https://www.notarydepot.com/notary-near-me/New-York/Middle-Island)
     - [Notary Public in Middletown, NY](https://www.notarydepot.com/notary-near-me/New-York/Middletown)
     - [Notary Public in Miller Place, NY](https://www.notarydepot.com/notary-near-me/New-York/Miller-Place)
+    - [Notary Public in Monticello, NY](https://www.notarydepot.com/notary-near-me/New-York/Monticello)
     - [Notary Public in Moriches, NY](https://www.notarydepot.com/notary-near-me/New-York/Moriches)
     - [Notary Public in Morrisonville, NY](https://www.notarydepot.com/notary-near-me/New-York/Morrisonville)
     - [Notary Public in Mount Vernon, NY](https://www.notarydepot.com/notary-near-me/New-York/Mount-Vernon)
@@ -3072,6 +3073,7 @@
   - [Notary Public in Glendale, AZ: Cindy Agans CNSA](https://www.notarydepot.com/critter)
   - [Notary Public in Santa Ana, CA: Corina Rivas](https://www.notarydepot.com/crivas)
   - [Notary Public in Fort Washington, MD: Chrystal ](https://www.notarydepot.com/crmmobilenotary)
+  - [Notary Public in Monticello, NY: David G Komatz](https://www.notarydepot.com/crossroadsacctg)
   - [Notary Public in Kent, WA: Dana Velkers](https://www.notarydepot.com/crownjake)
   - [Notary Public in Manville, NJ: Christine Gorbatuk](https://www.notarydepot.com/crsteen0615)
   - [Notary Public in New Port Richey, FL: Crystal Thibodeaux](https://www.notarydepot.com/crystalth)
@@ -3799,6 +3801,7 @@
   - [Notary Public in Port Townsend, WA: Naomi Mitchell](https://www.notarydepot.com/gypsynotary)
   - [Notary Public in Richardson, TX: Glenda Y. Roberts](https://www.notarydepot.com/gyroberts)
   - [Notary Public in Murrieta, CA: Karissa](https://www.notarydepot.com/g_w_loan_services)
+  - [Notary Public in DeLand, FL: Diana Lynn Tafoya](https://www.notarydepot.com/h1962)
   - [Notary Public in Pasadena, CA: Hauoli Smith](https://www.notarydepot.com/h20kanewa)
   - [Notary Public in Boston, MA: Kevin Ho](https://www.notarydepot.com/hackhoe)
   - [Notary Public in Norwalk, CA: Hackzell Jaime](https://www.notarydepot.com/hackzell)
@@ -7637,4 +7640,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-13T16:06:02Z
+Updated at 2018-02-13T16:26:04Z
