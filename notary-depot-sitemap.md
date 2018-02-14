@@ -5769,6 +5769,7 @@
   - [Notary Public in Jacksonville, FL: Pamela Mitchell ](https://www.notarydepot.com/pmarsh)
   - [Notary Public in Hayward, CA: Paulette Marshall](https://www.notarydepot.com/pmarshall42)
   - [Notary Public in Chula Vista, CA: Patricia A. McDonald](https://www.notarydepot.com/pmcdonald917)
+  - [Notary Public in Vallejo, CA: Pea Leano](https://www.notarydepot.com/pmleano)
   - [Notary Public in Longmont, CO: Pamela Modisette](https://www.notarydepot.com/pmodisette)
   - [Notary Public in Hillsdale, MI: Pamela Montez](https://www.notarydepot.com/pmontez)
   - [Notary Public in Hopkinsville, KY: Patricia Moore](https://www.notarydepot.com/pmoore)
@@ -7641,4 +7642,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-14T19:26:03Z
+Updated at 2018-02-14T19:46:02Z
