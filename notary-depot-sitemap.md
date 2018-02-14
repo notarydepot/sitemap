@@ -5474,6 +5474,7 @@
   - [Notary Public in Stockton, CA: Luis Castaneda](https://www.notarydepot.com/notary3122)
   - [Notary Public in Orlando, FL: Frances Garcia](https://www.notarydepot.com/notary32824)
   - [Notary Public in Troy, MI: D McCaskill](https://www.notarydepot.com/notary365)
+  - [Notary Public in Thousand Oaks, CA: Traci](https://www.notarydepot.com/notary4and2u)
   - [Notary Public in NY: Nyc Traveling Notary &amp; Apostille Service](https://www.notarydepot.com/notary4bp)
   - [Notary Public in Peoria, IL: Camille White](https://www.notarydepot.com/notary6260)
   - [Notary Public in Colorado Springs, CO: Jerry Lucas](https://www.notarydepot.com/notary809)
@@ -7640,4 +7641,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-14T00:06:02Z
+Updated at 2018-02-14T00:26:02Z
