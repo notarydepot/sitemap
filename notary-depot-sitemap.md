@@ -2054,6 +2054,7 @@
     - [Notary Public in Stevensburg, VA](https://www.notarydepot.com/notary-near-me/Virginia/Stevensburg)
     - [Notary Public in Suffolk, VA](https://www.notarydepot.com/notary-near-me/Virginia/Suffolk)
     - [Notary Public in Tazewell, VA](https://www.notarydepot.com/notary-near-me/Virginia/Tazewell)
+    - [Notary Public in The Plains, VA](https://www.notarydepot.com/notary-near-me/Virginia/The-Plains)
     - [Notary Public in Vienna, VA](https://www.notarydepot.com/notary-near-me/Virginia/Vienna)
     - [Notary Public in Virginia Beach, VA](https://www.notarydepot.com/notary-near-me/Virginia/Virginia-Beach)
     - [Notary Public in Warm Springs, VA](https://www.notarydepot.com/notary-near-me/Virginia/Warm-Springs)
@@ -2626,6 +2627,7 @@
   - [Notary Public in Cape Coral, FL: B. L. Devlin](https://www.notarydepot.com/bettdev)
   - [Notary Public in NJ: Sw Notary Services LLC](https://www.notarydepot.com/betterdays)
   - [Notary Public in Orlando, FL: Liz Leon](https://www.notarydepot.com/betty07)
+  - [Notary Public in The Plains, VA: Bev Brooks](https://www.notarydepot.com/bevbrooks)
   - [Notary Public in Los Angeles, CA: Joanne Beverly](https://www.notarydepot.com/beverlyenterprises)
   - [Notary Public in Los Angeles, CA: Joanne Beverly](https://www.notarydepot.com/beverlyllc)
   - [Notary Public in Andalusia, AL: Beverly Grisham](https://www.notarydepot.com/bevgrisham)
@@ -7643,4 +7645,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-15T09:47:02Z
+Updated at 2018-02-15T10:07:02Z
