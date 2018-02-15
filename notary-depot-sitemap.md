@@ -500,7 +500,7 @@
     - [Notary Public in Pagosa Springs, CO](https://www.notarydepot.com/notary-near-me/Colorado/Pagosa-Springs)
     - [Notary Public in Peyton, CO](https://www.notarydepot.com/notary-near-me/Colorado/Peyton)
     - [Notary Public in Pueblo, CO](https://www.notarydepot.com/notary-near-me/Colorado/Pueblo)
-    - [Notary Public in Salida, CO](https://www.notarydepot.com/notary-near-me/Colorado/Salida)
+    - [Notary Public in Rifle, CO](https://www.notarydepot.com/notary-near-me/Colorado/Rifle)
     - [Notary Public in Steamboat Springs, CO](https://www.notarydepot.com/notary-near-me/Colorado/Steamboat-Springs)
     - [Notary Public in Thornton, CO](https://www.notarydepot.com/notary-near-me/Colorado/Thornton)
     - [Notary Public in Trinidad, CO](https://www.notarydepot.com/notary-near-me/Colorado/Trinidad)
@@ -4477,7 +4477,7 @@
   - [Notary Public in Huntington Beach, CA: Kim Hoffman](https://www.notarydepot.com/khoff)
   - [Notary Public in Tampa, FL: Kim Hutfilz](https://www.notarydepot.com/khutfilz)
   - [Notary Public in Apple Valley, CA: Aracely Gudino](https://www.notarydepot.com/kikilala)
-  - [Notary Public in Salida, CO: kim](https://www.notarydepot.com/kim)
+  - [Notary Public in Rifle, CO: kim BALDWIN NSA](https://www.notarydepot.com/kim)
   - [Notary Public in Ormond Beach, FL: Kim Bell](https://www.notarydepot.com/kimbellnotary)
   - [Notary Public in Vacaville, CA: Kimberly Bell](https://www.notarydepot.com/kimberlybell)
   - [Notary Public in El Dorado, AR: Kimberly Giacona](https://www.notarydepot.com/kimberlygiacona)
@@ -7648,4 +7648,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-15T18:07:02Z
+Updated at 2018-02-15T18:27:02Z
