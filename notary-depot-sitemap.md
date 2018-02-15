@@ -1576,6 +1576,7 @@
     - [Notary Public in Sylvania, OH](https://www.notarydepot.com/notary-near-me/Ohio/Sylvania)
     - [Notary Public in Toledo, OH](https://www.notarydepot.com/notary-near-me/Ohio/Toledo)
     - [Notary Public in Troy, OH](https://www.notarydepot.com/notary-near-me/Ohio/Troy)
+    - [Notary Public in Urbana, OH](https://www.notarydepot.com/notary-near-me/Ohio/Urbana)
     - [Notary Public in Washington Court House, OH](https://www.notarydepot.com/notary-near-me/Ohio/Washington-Court-House)
     - [Notary Public in West Harrison, OH](https://www.notarydepot.com/notary-near-me/Ohio/West-Harrison)
     - [Notary Public in Wickliffe, OH](https://www.notarydepot.com/notary-near-me/Ohio/Wickliffe)
@@ -5199,6 +5200,7 @@
   - [Notary Public in Elk Grove, CA: Bianca Towns](https://www.notarydepot.com/mobilenotary2me)
   - [Notary Public in Fallon, NV: Greg Anderson](https://www.notarydepot.com/mobilenotarygreg)
   - [Notary Public in San Diego, CA: ronald link](https://www.notarydepot.com/mobilenotaryguy)
+  - [Notary Public in Urbana, OH: Rhonda M Lippencott](https://www.notarydepot.com/mobilenotaryinohiogmailcom)
   - [Notary Public in Mount Airy, NC: Davee Daughenbaugh ](https://www.notarydepot.com/mobilenotaryondemand)
   - [Notary Public in Boynton Beach, FL: Mobile Notary Service](https://www.notarydepot.com/mobilenotarypbc)
   - [Notary Public in Glendale, AZ: Shawna Smith](https://www.notarydepot.com/mobilenotaryphx)
@@ -7645,4 +7647,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-15T10:07:02Z
+Updated at 2018-02-15T10:27:01Z
