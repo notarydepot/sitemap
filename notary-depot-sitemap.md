@@ -5212,7 +5212,6 @@
   - [Notary Public in Wylie, TX: Melanie Kennedy](https://www.notarydepot.com/mobilewylietx)
   - [Notary Public in Buckeye, AZ: Richard A Crichton](https://www.notarydepot.com/mobilnotary)
   - [Notary Public in St. Louis, MO: Mary Vance](https://www.notarydepot.com/mobnotnotary)
-  - [Notary Public in Hampton, VA: Felicia Johnson](https://www.notarydepot.com/modestnotaryllc)
   - [Notary Public in Lee&#39;s Summit, MO: Marsha Love-Waldron](https://www.notarydepot.com/mokansasnotary)
   - [Notary Public in Indianapolis, IN: Molly McEvilly](https://www.notarydepot.com/mollym)
   - [Notary Public in Lancaster, CA: Deanna Howard](https://www.notarydepot.com/mollymanager1)
@@ -7647,4 +7646,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-15T15:47:03Z
+Updated at 2018-02-15T16:07:02Z
