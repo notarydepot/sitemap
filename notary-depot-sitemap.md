@@ -923,6 +923,7 @@
     - [Notary Public in Bowling Green, KY](https://www.notarydepot.com/notary-near-me/Kentucky/Bowling-Green)
     - [Notary Public in Cadiz, KY](https://www.notarydepot.com/notary-near-me/Kentucky/Cadiz)
     - [Notary Public in Columbia, KY](https://www.notarydepot.com/notary-near-me/Kentucky/Columbia)
+    - [Notary Public in Covington, KY](https://www.notarydepot.com/notary-near-me/Kentucky/Covington)
     - [Notary Public in Elizabethtown, KY](https://www.notarydepot.com/notary-near-me/Kentucky/Elizabethtown)
     - [Notary Public in Erlanger, KY](https://www.notarydepot.com/notary-near-me/Kentucky/Erlanger)
     - [Notary Public in Fort Knox, KY](https://www.notarydepot.com/notary-near-me/Kentucky/Fort-Knox)
@@ -3315,6 +3316,7 @@
   - [Notary Public in Jackson, NJ: Dineen M Iannice](https://www.notarydepot.com/dineen001)
   - [Notary Public in Brentwood, TN: Sorin Diosan](https://www.notarydepot.com/diotec)
   - [Notary Public in Denison, TX: Diane Ramey](https://www.notarydepot.com/diramey)
+  - [Notary Public in Covington, KY: Di Stamper](https://www.notarydepot.com/distamper)
   - [Notary Public in Camp Hill, PA: Brandie Glass](https://www.notarydepot.com/distinguishednotarygmailcom)
   - [Notary Public in Philadelphia, PA: Dee](https://www.notarydepot.com/divadee)
   - [Notary Public in Hampton, VA: Kellya hartless thomas](https://www.notarydepot.com/divanotary)
@@ -7648,4 +7650,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-15T19:47:02Z
+Updated at 2018-02-15T20:55:26Z
