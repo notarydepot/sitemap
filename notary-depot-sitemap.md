@@ -1086,6 +1086,7 @@
     - [Notary Public in Hudsonville, MI](https://www.notarydepot.com/notary-near-me/Michigan/Hudsonville)
     - [Notary Public in Ionia, MI](https://www.notarydepot.com/notary-near-me/Michigan/Ionia)
     - [Notary Public in Jackson, MI](https://www.notarydepot.com/notary-near-me/Michigan/Jackson)
+    - [Notary Public in Kalamazoo, MI](https://www.notarydepot.com/notary-near-me/Michigan/Kalamazoo)
     - [Notary Public in L&#39;Anse, MI](https://www.notarydepot.com/notary-near-me/Michigan/L-Anse)
     - [Notary Public in Lambertville, MI](https://www.notarydepot.com/notary-near-me/Michigan/Lambertville)
     - [Notary Public in Lansing, MI](https://www.notarydepot.com/notary-near-me/Michigan/Lansing)
@@ -6477,6 +6478,7 @@
   - [Notary Public in Wenatchee, WA: Stephen P Harden](https://www.notarydepot.com/stephenpharden)
   - [Notary Public in Newport Beach, CA: Stephanie Gill](https://www.notarydepot.com/stephnb05)
   - [Notary Public in Charlotte, NC: Stephanie Alexander-Stanton](https://www.notarydepot.com/stephstanton)
+  - [Notary Public in Kalamazoo, MI: Johanna S. Solis](https://www.notarydepot.com/stepnotary)
   - [Notary Public in Danville, IL: Sterling Closing Notary](https://www.notarydepot.com/sterlingnotary)
   - [Notary Public in Los Angeles, CA: Stephen McClure](https://www.notarydepot.com/steve68)
   - [Notary Public in Northville, MI: Stephen Mackenzie](https://www.notarydepot.com/steveandjo1)
@@ -7651,4 +7653,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-16T17:15:02Z
+Updated at 2018-02-16T17:35:02Z
