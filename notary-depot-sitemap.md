@@ -1308,6 +1308,7 @@
     - [Notary Public in Paterson, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Paterson)
     - [Notary Public in Pennsauken Township, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Pennsauken-Township)
     - [Notary Public in Phillipsburg, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Phillipsburg)
+    - [Notary Public in Piscataway Township, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Piscataway-Township)
     - [Notary Public in Plainfield, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Plainfield)
     - [Notary Public in Point Pleasant Beach, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Point-Pleasant-Beach)
     - [Notary Public in Princeton, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Princeton)
@@ -2825,6 +2826,7 @@
   - [Notary Public in Trabuco Canyon, CA: Carlos Montoya](https://www.notarydepot.com/carlosmontoya)
   - [Notary Public in Paramount, CA: Carlos A. Angel](https://www.notarydepot.com/carlosnotary)
   - [Notary Public in NY: Carlos M. Davila](https://www.notarydepot.com/carlosnyc)
+  - [Notary Public in Piscataway Township, NJ: Carlos R. Yunque](https://www.notarydepot.com/carlosyunque)
   - [Notary Public in Valrico, FL: Carmel Doby](https://www.notarydepot.com/carmeld1)
   - [Notary Public in Haltom City, TX: Carmelina Carrillo](https://www.notarydepot.com/carmelina)
   - [Notary Public in Anderson, SC: Carmen Martin](https://www.notarydepot.com/carmenmartinsc)
@@ -7650,4 +7652,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-16T03:35:02Z
+Updated at 2018-02-16T03:55:02Z
