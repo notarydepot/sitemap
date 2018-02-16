@@ -4648,7 +4648,6 @@
   - [Notary Public in Fort Lauderdale, FL: Laurie Morgan](https://www.notarydepot.com/lauramae17)
   - [Notary Public in Muscoy, CA: Laura Moreno](https://www.notarydepot.com/laurathenotarygal)
   - [Notary Public in Norwalk, WI: Laurie Bradley](https://www.notarydepot.com/lauriebradley)
-  - [Notary Public in Norwalk, WI: Laurie  Cooley ](https://www.notarydepot.com/lauriec)
   - [Notary Public in Navarre, FL: Laurie Del Vecchio](https://www.notarydepot.com/lauried101)
   - [Notary Public in New Richmond, WI: Laurie Peterson - Notary](https://www.notarydepot.com/laurievvgnotary)
   - [Notary Public in Riegelsville, PA: Laurie Barton](https://www.notarydepot.com/laurily)
@@ -7653,4 +7652,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-16T18:55:02Z
+Updated at 2018-02-16T19:15:02Z
