@@ -5329,6 +5329,7 @@
   - [Notary Public in Toledo, OH: Mary C. Cook](https://www.notarydepot.com/musercook)
   - [Notary Public in Orland Park, IL: Maria A. Wachowski](https://www.notarydepot.com/mwachowski)
   - [Notary Public in Woodbridge Township, NJ: Mary K Wagner](https://www.notarydepot.com/mwagner)
+  - [Notary Public in Lake Mary, FL: Melanie Wargo](https://www.notarydepot.com/mwargo)
   - [Notary Public in Traverse City, MI: Marsha Wasielewski](https://www.notarydepot.com/mwasielewski)
   - [Notary Public in Rohnert Park, CA: Mel Wilemon](https://www.notarydepot.com/mwilemon)
   - [Notary Public in De Soto, WI: Michele Williams](https://www.notarydepot.com/mwilliams)
@@ -7653,4 +7654,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-17T19:35:03Z
+Updated at 2018-02-17T19:55:02Z
