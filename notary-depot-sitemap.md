@@ -4414,6 +4414,7 @@
   - [Notary Public in Mahopac, NY: Katharine Pearsall](https://www.notarydepot.com/kathy)
   - [Notary Public in Melbourne, FL: Kathy Krug](https://www.notarydepot.com/kathykk7)
   - [Notary Public in Los Angeles, CA: Ekaterina Oganesova](https://www.notarydepot.com/katienotary)
+  - [Notary Public in Mission Viejo, CA: Katie Richman](https://www.notarydepot.com/katierichmannotary)
   - [Notary Public in New Castle, DE: Katina Sibert](https://www.notarydepot.com/katina)
   - [Notary Public in Blaine, WA: Katrina Petty](https://www.notarydepot.com/katrina)
   - [Notary Public in Vienna, WV: Karen A. Turner](https://www.notarydepot.com/katurner)
@@ -7654,4 +7655,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-18T02:15:02Z
+Updated at 2018-02-18T02:35:02Z
