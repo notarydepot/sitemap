@@ -6939,6 +6939,7 @@
   - [Notary Public in Aylett, VA: Wm. Gregory Burkett](https://www.notarydepot.com/wgburkett)
   - [Notary Public in Stewartstown, NH: Cindy M. Dorman](https://www.notarydepot.com/whistlingbrz)
   - [Notary Public in Princeton, IL: A Notary Direct 2 U](https://www.notarydepot.com/whitestache)
+  - [Notary Public in Lake Charles, LA: Candice Menard](https://www.notarydepot.com/whodat)
   - [Notary Public in Lancaster, CA: Janet Philamalee](https://www.notarydepot.com/wicked)
   - [Notary Public in Marietta, GA: A W E. Inc](https://www.notarydepot.com/willall)
   - [Notary Public in Miami, FL: Willie L. Alston](https://www.notarydepot.com/willalston)
@@ -7655,4 +7656,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-18T06:55:01Z
+Updated at 2018-02-18T07:15:02Z
