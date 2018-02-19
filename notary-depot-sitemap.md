@@ -1007,6 +1007,7 @@
     - [Notary Public in Fort Washington, MD](https://www.notarydepot.com/notary-near-me/Maryland/Fort-Washington)
     - [Notary Public in Frederick, MD](https://www.notarydepot.com/notary-near-me/Maryland/Frederick)
     - [Notary Public in Gaithersburg, MD](https://www.notarydepot.com/notary-near-me/Maryland/Gaithersburg)
+    - [Notary Public in Germantown, MD](https://www.notarydepot.com/notary-near-me/Maryland/Germantown)
     - [Notary Public in Glen Burnie, MD](https://www.notarydepot.com/notary-near-me/Maryland/Glen-Burnie)
     - [Notary Public in Hagerstown, MD](https://www.notarydepot.com/notary-near-me/Maryland/Hagerstown)
     - [Notary Public in Huntingtown, MD](https://www.notarydepot.com/notary-near-me/Maryland/Huntingtown)
@@ -3486,6 +3487,7 @@
   - [Notary Public in San Antonio, TX: Elizabeth Garza](https://www.notarydepot.com/egarza579)
   - [Notary Public in Tucson, AZ: Enrique A. Gonzalez](https://www.notarydepot.com/egnotary)
   - [Notary Public in Redford Charter Township, MI: Elizabeth Gilmore](https://www.notarydepot.com/egwalker)
+  - [Notary Public in Germantown, MD: Evay Harvey](https://www.notarydepot.com/eharvey301)
   - [Notary Public in Northlake, TX: Elizabeth Crook](https://www.notarydepot.com/ehcrook)
   - [Notary Public in Mesa, AZ: Ellen Hess, CNSA](https://www.notarydepot.com/ehess)
   - [Notary Public in Roanoke, AL: Emily Harmon](https://www.notarydepot.com/ehharmon)
@@ -7654,4 +7656,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-19T00:15:02Z
+Updated at 2018-02-19T00:35:02Z
