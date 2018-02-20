@@ -2185,7 +2185,6 @@
   - [Notary Public in Auburn, WA: 24/7 Traveling Notary Service](https://www.notarydepot.com/1373)
   - [Notary Public in Irvine, CA: Timothy Levens](https://www.notarydepot.com/14loaner)
   - [Notary Public in Mayesville, SC: Selena Ruth Smith](https://www.notarydepot.com/1718)
-  - [Notary Public in Troutdale, OR: Mirela Nelson](https://www.notarydepot.com/1725balarie)
   - [Notary Public in CA: Carmina Alvarez](https://www.notarydepot.com/1carmina)
   - [Notary Public in Washington, DC: Corie Bryant](https://www.notarydepot.com/1enterprise)
   - [Notary Public in Applegate, CA: Terry Scott](https://www.notarydepot.com/1speedynotary)
@@ -7657,4 +7656,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-20T20:36:02Z
+Updated at 2018-02-20T20:56:02Z
