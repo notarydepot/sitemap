@@ -7026,6 +7026,7 @@
   - [Notary Public in Dallas, TX: Alain Touaboy](https://www.notarydepot.com/zimacko)
   - [Notary Public in Mission Viejo, CA: William Zinn](https://www.notarydepot.com/zinnburban)
   - [Notary Public in Stone Mountain, GA: Zandria Johnson](https://www.notarydepot.com/zjohnson)
+  - [Notary Public in North Port, FL: Steve Zobac](https://www.notarydepot.com/zobie1)
   - [Notary Public in Wesley Chapel, FL: Webert Laurent](https://www.notarydepot.com/zoligro)
   - [Notary Public in Loveland, CO: Agnes Bradshaw](https://www.notarydepot.com/zoomnotary)
   - [Notary Public in Oakland, CA: Kemba Upshaw](https://www.notarydepot.com/zoomxcourier)
@@ -7656,4 +7657,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-20T22:56:02Z
+Updated at 2018-02-20T23:16:03Z
