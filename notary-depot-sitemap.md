@@ -3428,6 +3428,7 @@
   - [Notary Public in Castro Valley, CA: Denise Seymour](https://www.notarydepot.com/dseymour)
   - [Notary Public in Mount Vernon, SD: Debra Koch](https://www.notarydepot.com/dskoch)
   - [Notary Public in Grand Prairie, TX: Desiree S Monday](https://www.notarydepot.com/dsmnotary)
+  - [Notary Public in Covington, KY: Di Stamper](https://www.notarydepot.com/dstamper)
   - [Notary Public in Toledo, OH: Danny J. Stevens](https://www.notarydepot.com/dstevens49)
   - [Notary Public in Ramona, CA: Douglas Graham Stout](https://www.notarydepot.com/dstout)
   - [Notary Public in Marietta, GA: David Strube](https://www.notarydepot.com/dstrube)
@@ -7656,4 +7657,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-20T14:36:02Z
+Updated at 2018-02-20T14:56:02Z
