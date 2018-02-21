@@ -1823,6 +1823,7 @@
     - [Notary Public in Nashville, TN](https://www.notarydepot.com/notary-near-me/Tennessee/Nashville)
     - [Notary Public in Nolensville, TN](https://www.notarydepot.com/notary-near-me/Tennessee/Nolensville)
     - [Notary Public in Pinson, TN](https://www.notarydepot.com/notary-near-me/Tennessee/Pinson)
+    - [Notary Public in Portland, TN](https://www.notarydepot.com/notary-near-me/Tennessee/Portland)
     - [Notary Public in Sevierville, TN](https://www.notarydepot.com/notary-near-me/Tennessee/Sevierville)
     - [Notary Public in Shelbyville, TN](https://www.notarydepot.com/notary-near-me/Tennessee/Shelbyville)
     - [Notary Public in Sparta, TN](https://www.notarydepot.com/notary-near-me/Tennessee/Sparta)
@@ -4904,6 +4905,7 @@
   - [Notary Public in Monterey, CA: Andrea Sanico, CSA](https://www.notarydepot.com/macdeux)
   - [Notary Public in Chester, CA: Mary Cheek, Notary Public](https://www.notarydepot.com/macheek)
   - [Notary Public in Tewksbury, MA: Richard E. Macdonald](https://www.notarydepot.com/macore)
+  - [Notary Public in Portland, TN: Madalyn Adams](https://www.notarydepot.com/madalynadams)
   - [Notary Public in Murrieta, CA: Jilon Maddox](https://www.notarydepot.com/maddnotary)
   - [Notary Public in Hialeah, FL: Maria Del Mar Mohammed](https://www.notarydepot.com/madelmar)
   - [Notary Public in La Mesa, CA: Madison Sloan](https://www.notarydepot.com/madisonsloan)
@@ -5436,7 +5438,6 @@
   - [Notary Public in Vancouver, WA: Alicia Brown](https://www.notarydepot.com/ninotary)
   - [Notary Public in Carol Stream, IL: Nishi](https://www.notarydepot.com/nishikumari)
   - [Notary Public in Redford Charter Township, MI: Nitashia Harris](https://www.notarydepot.com/nitashia)
-  - [Notary Public in Sicklerville, NJ: Leah Archer](https://www.notarydepot.com/nj856notary)
   - [Notary Public in Sandpoint, ID: Nora Kedish](https://www.notarydepot.com/njkwork)
   - [Notary Public in Toms River, NJ: Constance Santo](https://www.notarydepot.com/njnotaryexpress)
   - [Notary Public in Clearwater, FL: Norma J. Smith](https://www.notarydepot.com/njsmith)
@@ -7657,4 +7658,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-21T04:56:02Z
+Updated at 2018-02-21T05:16:01Z
