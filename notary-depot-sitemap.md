@@ -6008,6 +6008,7 @@
   - [Notary Public in Arkadelphia, AR: Rebekah Winegardner](https://www.notarydepot.com/rmgf11)
   - [Notary Public in Los Angeles, CA: Reggie Muldrow](https://www.notarydepot.com/rmuldrow)
   - [Notary Public in Farmington, MI: Rhonda Young](https://www.notarydepot.com/rmyoung)
+  - [Notary Public in Arlington, TX: Roneasha Neal ](https://www.notarydepot.com/rneal134)
   - [Notary Public in Sorrento, FL: Lisa Milligan](https://www.notarydepot.com/rnlmilligan)
   - [Notary Public in Phoenix, AZ: Richard](https://www.notarydepot.com/rnotary)
   - [Notary Public in Southport, NC: Richard Espinoza](https://www.notarydepot.com/rnoza)
@@ -7659,4 +7660,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-21T21:17:02Z
+Updated at 2018-02-21T21:37:01Z
