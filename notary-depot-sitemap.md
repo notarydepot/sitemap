@@ -5413,6 +5413,7 @@
   - [Notary Public in Baldwinsville, NY: Steven T. Milana](https://www.notarydepot.com/newyorknotaryyahoocom)
   - [Notary Public in Hatfield, PA: Vene Moses](https://www.notarydepot.com/nexus)
   - [Notary Public in Las Vegas, NV: Noel Foster](https://www.notarydepot.com/nfoster1258)
+  - [Notary Public in Spring Hill, FL: Noel](https://www.notarydepot.com/ngbornot)
   - [Notary Public in Downey, CA: Natasha](https://www.notarydepot.com/ngonzales04)
   - [Notary Public in Pompano Beach, FL: Nadine Grant-Murray](https://www.notarydepot.com/ngrant)
   - [Notary Public in Ormond Beach, FL: Nicole Greear](https://www.notarydepot.com/ngreear34)
@@ -7660,4 +7661,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-22T03:37:02Z
+Updated at 2018-02-22T03:57:02Z
