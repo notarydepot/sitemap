@@ -5499,6 +5499,7 @@
   - [Notary Public in Seattle, WA: Marla D. Hill, Professional Signing Agent](https://www.notarydepot.com/notaryagent1)
   - [Notary Public in Holly Springs, NC: Patricia Hoffman](https://www.notarydepot.com/notaryalacarte)
   - [Notary Public in Paterson, NJ: Luis Ramos](https://www.notarydepot.com/notaryathand)
+  - [Notary Public in Houston, TX: Ella Duru](https://www.notarydepot.com/notaryatyourservice)
   - [Notary Public in Fort Mohave, AZ: Michelle Encinas](https://www.notarydepot.com/notarybiz)
   - [Notary Public in Urbandale, IA: Robert Fitzgerrell](https://www.notarydepot.com/notarybob)
   - [Notary Public in Ocean Springs, MS: Garrett Ryan Thompson](https://www.notarydepot.com/notaryboy05)
@@ -7663,4 +7664,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-22T17:58:02Z
+Updated at 2018-02-22T18:18:02Z
