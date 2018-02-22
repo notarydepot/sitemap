@@ -693,6 +693,7 @@
     - [Notary Public in Spring Hill, FL](https://www.notarydepot.com/notary-near-me/Florida/Spring-Hill)
     - [Notary Public in St. Augustine, FL](https://www.notarydepot.com/notary-near-me/Florida/St-Augustine)
     - [Notary Public in Stuart, FL](https://www.notarydepot.com/notary-near-me/Florida/Stuart)
+    - [Notary Public in Sunny Isles Beach, FL](https://www.notarydepot.com/notary-near-me/Florida/Sunny-Isles-Beach)
     - [Notary Public in Tallahassee, FL](https://www.notarydepot.com/notary-near-me/Florida/Tallahassee)
     - [Notary Public in Tampa, FL](https://www.notarydepot.com/notary-near-me/Florida/Tampa)
     - [Notary Public in Tarpon Springs, FL](https://www.notarydepot.com/notary-near-me/Florida/Tarpon-Springs)
@@ -6307,6 +6308,7 @@
   - [Notary Public in Blairsville, GA: Craig Foucha](https://www.notarydepot.com/shoshone4819)
   - [Notary Public in Thompson, MO: Sharon Dollens](https://www.notarydepot.com/showme)
   - [Notary Public in AL: Susan Hutto](https://www.notarydepot.com/shutto2)
+  - [Notary Public in Sunny Isles Beach, FL: Evelina Tsigelnitskaya](https://www.notarydepot.com/sibrealty)
   - [Notary Public in San Bernardino, CA: Sidney Findley](https://www.notarydepot.com/sidfindley)
   - [Notary Public in Arlington, WA: Lourea Garka](https://www.notarydepot.com/sign)
   - [Notary Public in Silver Creek, WA: Angeleetta Hartmann](https://www.notarydepot.com/sign4u)
@@ -7661,4 +7663,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-22T15:58:02Z
+Updated at 2018-02-22T16:18:02Z
