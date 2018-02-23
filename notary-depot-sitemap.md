@@ -3826,6 +3826,7 @@
   - [Notary Public in Beaumont, TX: Hana Hamilton](https://www.notarydepot.com/hanahamilton95)
   - [Notary Public in Middleborough, MA: Hannah K Flamos](https://www.notarydepot.com/hannahkate9)
   - [Notary Public in Titusville, FL: Carla Stokes](https://www.notarydepot.com/happytaskservice)
+  - [Notary Public in Phoenix, AZ: Allisa Choate](https://www.notarydepot.com/happyvalleynotary)
   - [Notary Public in Las Vegas, NV: Cheryl B. Sirote](https://www.notarydepot.com/hardworker)
   - [Notary Public in San Marcos, CA: Heather Reinhold](https://www.notarydepot.com/hareinhold)
   - [Notary Public in Port Angeles, WA: Layne Frehner](https://www.notarydepot.com/harley)
@@ -7666,4 +7667,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-23T03:38:01Z
+Updated at 2018-02-23T03:58:02Z
