@@ -1744,6 +1744,7 @@
     - [Notary Public in Warminster, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Warminster)
     - [Notary Public in Warrington, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Warrington)
     - [Notary Public in Waterford, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Waterford)
+    - [Notary Public in Wayne, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Wayne)
     - [Notary Public in Wellsboro, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Wellsboro)
     - [Notary Public in Westfield, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Westfield)
     - [Notary Public in Willow Grove, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Willow-Grove)
@@ -6364,6 +6365,7 @@
   - [Notary Public in Harrisburg, PA: Megan S. Barto](https://www.notarydepot.com/skeetle09)
   - [Notary Public in Beachwood, OH: Susan Kellner](https://www.notarydepot.com/skellner)
   - [Notary Public in Argyle, TX: Sharla Kepke](https://www.notarydepot.com/skepke)
+  - [Notary Public in Wayne, PA: Ken Shah](https://www.notarydepot.com/sketanus)
   - [Notary Public in San Antonio, TX: Juan &amp; Susan Rodriguez](https://www.notarydepot.com/skeyser3)
   - [Notary Public in Clarkdale, AZ: Stephanie Ferguson](https://www.notarydepot.com/skferguson)
   - [Notary Public in Las Vegas, NV: Anna](https://www.notarydepot.com/skittlebadu)
@@ -7667,4 +7669,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-23T20:18:02Z
+Updated at 2018-02-23T20:38:02Z
