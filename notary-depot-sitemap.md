@@ -5297,6 +5297,7 @@
   - [Notary Public in Rogers, AR: Mark Lindsey](https://www.notarydepot.com/mrlm)
   - [Notary Public in Stockton, CA: Michelle C. Robertson](https://www.notarydepot.com/mrobertson1)
   - [Notary Public in Irving, TX: Melandie Rota](https://www.notarydepot.com/mrota123)
+  - [Notary Public in Tavares, FL: Sakeena Butler](https://www.notarydepot.com/mrsbutler10)
   - [Notary Public in Spring, TX: Juwana Turner](https://www.notarydepot.com/mrs_turner28)
   - [Notary Public in Saint Petersburg, FL: Michael D.Wright Sr.](https://www.notarydepot.com/mrwright)
   - [Notary Public in Mentor, OH: Mary Saks](https://www.notarydepot.com/msaks61)
@@ -7669,4 +7670,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-23T20:38:02Z
+Updated at 2018-02-23T20:58:02Z
