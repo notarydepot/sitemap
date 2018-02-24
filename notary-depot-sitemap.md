@@ -5445,6 +5445,7 @@
   - [Notary Public in Vancouver, WA: Alicia Brown](https://www.notarydepot.com/ninotary)
   - [Notary Public in Carol Stream, IL: Nishi](https://www.notarydepot.com/nishikumari)
   - [Notary Public in Redford Charter Township, MI: Nitashia Harris](https://www.notarydepot.com/nitashia)
+  - [Notary Public in Sicklerville, NJ: Leah Archer](https://www.notarydepot.com/nj856notary)
   - [Notary Public in Sandpoint, ID: Nora Kedish](https://www.notarydepot.com/njkwork)
   - [Notary Public in Toms River, NJ: Constance Santo](https://www.notarydepot.com/njnotaryexpress)
   - [Notary Public in Clearwater, FL: Norma J. Smith](https://www.notarydepot.com/njsmith)
@@ -7670,4 +7671,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-24T04:58:02Z
+Updated at 2018-02-24T05:18:02Z
