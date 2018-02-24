@@ -2910,6 +2910,7 @@
   - [Notary Public in Kentfield, CA: Chris Gow-Panzardi](https://www.notarydepot.com/cgpmobilenotary1)
   - [Notary Public in Middletown, NY: Christine Hargabus](https://www.notarydepot.com/chabus)
   - [Notary Public in Ventura, CA: Janet Chacon](https://www.notarydepot.com/chaconey)
+  - [Notary Public in Collingdale, PA: Chaize Fletcher](https://www.notarydepot.com/chaize)
   - [Notary Public in Philadelphia, PA: Chaize Fletcher](https://www.notarydepot.com/chaizefletcher)
   - [Notary Public in Aiken, SC: Chico Allen](https://www.notarydepot.com/challen20)
   - [Notary Public in El Paso, TX: Jesus Mesta](https://www.notarydepot.com/chames)
@@ -5171,7 +5172,6 @@
   - [Notary Public in Oakland, CA: Mitzi Yvonne Smith](https://www.notarydepot.com/mitzismith)
   - [Notary Public in Houston, TX: Maritza Chavez](https://www.notarydepot.com/mitzy_chvz)
   - [Notary Public in Cary, IL: Michele Ivarson](https://www.notarydepot.com/mivarson)
-  - [Notary Public in Collingdale, PA: Chaize Fletcher](https://www.notarydepot.com/mizchaize)
   - [Notary Public in Yuba City, CA: Mundeep Jaiya](https://www.notarydepot.com/mjaiya5770)
   - [Notary Public in Blakeslee, PA: Mary Jane Colon](https://www.notarydepot.com/mjcword)
   - [Notary Public in North Charleston, SC: Mary Dellucci](https://www.notarydepot.com/mjdellucci)
@@ -7671,4 +7671,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-24T06:18:02Z
+Updated at 2018-02-24T06:38:01Z
