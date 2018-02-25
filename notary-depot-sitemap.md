@@ -287,6 +287,7 @@
     - [Notary Public in Littlerock, CA](https://www.notarydepot.com/notary-near-me/California/Littlerock)
     - [Notary Public in Livermore, CA](https://www.notarydepot.com/notary-near-me/California/Livermore)
     - [Notary Public in Lodi, CA](https://www.notarydepot.com/notary-near-me/California/Lodi)
+    - [Notary Public in Lomita, CA](https://www.notarydepot.com/notary-near-me/California/Lomita)
     - [Notary Public in Lompoc, CA](https://www.notarydepot.com/notary-near-me/California/Lompoc)
     - [Notary Public in Long Beach, CA](https://www.notarydepot.com/notary-near-me/California/Long-Beach)
     - [Notary Public in Los Alamitos, CA](https://www.notarydepot.com/notary-near-me/California/Los-Alamitos)
@@ -5070,6 +5071,7 @@
   - [Notary Public in Jacksonville, FL: Melinda Rellford](https://www.notarydepot.com/mel4610)
   - [Notary Public in Gulfport, MS: Mary Lee](https://www.notarydepot.com/mel4895)
   - [Notary Public in Los Angeles, CA: Melanie N. Fuentes](https://www.notarydepot.com/melanie8383)
+  - [Notary Public in Lomita, CA: Melanie Mahkorn ](https://www.notarydepot.com/melaniemahkorn)
   - [Notary Public in Clermont, FL: Melissa Devitt](https://www.notarydepot.com/meldev73)
   - [Notary Public in Gadsden, AL: Melissa G. Gorham](https://www.notarydepot.com/melee)
   - [Notary Public in Orlando, FL: Melissa I Castillo](https://www.notarydepot.com/melic617)
@@ -7670,4 +7672,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-25T06:19:02Z
+Updated at 2018-02-25T06:39:02Z
