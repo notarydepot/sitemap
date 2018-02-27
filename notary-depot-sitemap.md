@@ -2944,6 +2944,7 @@
   - [Notary Public in Jasper, FL: Cheryl Young](https://www.notarydepot.com/cherylyoung)
   - [Notary Public in Chicago, IL: Carrie Rivera, CNSA](https://www.notarydepot.com/chicagonotaryservices)
   - [Notary Public in Chicago, IL: Carrie Rivera](https://www.notarydepot.com/chicagoparalegalnotaryservices)
+  - [Notary Public in Chicago, IL: Chicago Prime Notary](https://www.notarydepot.com/chicagoprimenotary)
   - [Notary Public in Auburn, ME: Donald Robbins](https://www.notarydepot.com/chiefdon)
   - [Notary Public in Palmdale, CA: Chirnese Liverpool](https://www.notarydepot.com/chirnese_liverpool)
   - [Notary Public in Bolingbrook, IL: Thesia Ralston](https://www.notarydepot.com/chitownnotary)
@@ -6220,6 +6221,7 @@
   - [Notary Public in Tucker, GA: Stacie Adams](https://www.notarydepot.com/seaadams)
   - [Notary Public in Alexandria, VA: Bryce Hall](https://www.notarydepot.com/seafevor)
   - [Notary Public in Fullerton, CA: Sean Park](https://www.notarydepot.com/seanpark)
+  - [Notary Public in Arlington, VA: Ouseph Seesan Ed ](https://www.notarydepot.com/seesan2002gmailcom)
   - [Notary Public in South Holland, IL: Shawana](https://www.notarydepot.com/segpgilmore)
   - [Notary Public in Nampa, ID: Ann Roe](https://www.notarydepot.com/selecttransactions)
   - [Notary Public in Hudson, FL: Rita A. Jones](https://www.notarydepot.com/selfhelprita2)
@@ -7672,4 +7674,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-27T01:39:02Z
+Updated at 2018-02-27T01:59:02Z
