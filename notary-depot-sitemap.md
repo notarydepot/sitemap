@@ -3469,6 +3469,7 @@
   - [Notary Public in Winchester, CA: Colette Tariqi](https://www.notarydepot.com/easydocs)
   - [Notary Public in Sun Prairie, WI: Michael Tazelaar](https://www.notarydepot.com/easynotaryservice)
   - [Notary Public in Bronxville, NY: Elizabeth Betrand](https://www.notarydepot.com/ebetrand)
+  - [Notary Public in Washington, DC: Esther T. Blackwell ](https://www.notarydepot.com/eblackwell)
   - [Notary Public in Fayette, MS: Jaharah Muhammad](https://www.notarydepot.com/ebonyice79)
   - [Notary Public in Killeen, TX: Ella R. Boyd](https://www.notarydepot.com/eboyd52136)
   - [Notary Public in Manhattan, KS: Eleni Brand](https://www.notarydepot.com/ebrand)
@@ -7674,4 +7675,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-27T21:59:03Z
+Updated at 2018-02-27T22:19:04Z
