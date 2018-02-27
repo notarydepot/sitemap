@@ -4647,6 +4647,7 @@
   - [Notary Public in Long Beach, CA:  LaShon James-Major](https://www.notarydepot.com/lashon009)
   - [Notary Public in Vancouver, WA: Lisa Aske](https://www.notarydepot.com/laske)
   - [Notary Public in West Memphis, AR: Donitrie Sanders Sr](https://www.notarydepot.com/lastsecond72303)
+  - [Notary Public in Columbia, SC: latascha](https://www.notarydepot.com/lataschamclauchlingmailcom)
   - [Notary Public in Charlotte, NC: Francisco Salazar](https://www.notarydepot.com/latinsigner)
   - [Notary Public in Addison, TX: LaToya Smith](https://www.notarydepot.com/latoyasmith1985)
   - [Notary Public in Norcross, GA: LaToya Butler](https://www.notarydepot.com/latoyawbutler)
@@ -7673,4 +7674,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-27T14:59:02Z
+Updated at 2018-02-27T15:19:02Z
