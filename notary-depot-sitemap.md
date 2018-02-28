@@ -4019,6 +4019,7 @@
   - [Notary Public in NY: Jane Pantalone- Preferred Nsa](https://www.notarydepot.com/janepantalone)
   - [Notary Public in Damascus, MD: Janet G. Cueto](https://www.notarydepot.com/janet305)
   - [Notary Public in Rochester, MI: Janet Lee Angi](https://www.notarydepot.com/janetangi)
+  - [Notary Public in Lehigh Acres, FL: Janet Boffill](https://www.notarydepot.com/janetboffill)
   - [Notary Public in Mount Vernon, OH: Janet Houseberg](https://www.notarydepot.com/janeth)
   - [Notary Public in Rancho Cucamonga, CA: Janet Lynch](https://www.notarydepot.com/janetlynch)
   - [Notary Public in Cameron, MO: Jan Gordon](https://www.notarydepot.com/jangordon39)
@@ -7675,4 +7676,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-02-28T02:19:03Z
+Updated at 2018-02-28T02:39:03Z
