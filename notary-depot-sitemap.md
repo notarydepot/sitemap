@@ -5790,6 +5790,7 @@
   - [Notary Public in Phoenix, AZ: Jonni Webb](https://www.notarydepot.com/plazaexecutive)
   - [Notary Public in Pleasanton, CA: Tamara Rhoads](https://www.notarydepot.com/pleasnotary)
   - [Notary Public in West Haven, CT: Patrice Lofters](https://www.notarydepot.com/plofters)
+  - [Notary Public in Bluffton, SC: Penny Reynolds](https://www.notarydepot.com/plreynolds)
   - [Notary Public in Lake Harmony, PA: Barbara Bittner](https://www.notarydepot.com/plumb54)
   - [Notary Public in Knightdale, NC: Precious Vines](https://www.notarydepot.com/plvines)
   - [Notary Public in Glendale, AZ: Dmitriy Binyaminov](https://www.notarydepot.com/plykak)
@@ -7676,4 +7677,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-01T17:39:02Z
+Updated at 2018-03-01T17:59:01Z
