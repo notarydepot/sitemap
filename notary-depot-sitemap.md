@@ -5822,6 +5822,7 @@
   - [Notary Public in Godfrey, IL: Teresa Mc Hugh](https://www.notarydepot.com/precisionlandresearch)
   - [Notary Public in Los Angeles, CA: Orlando R](https://www.notarydepot.com/premiermobilenotary)
   - [Notary Public in Virginia Beach, VA: Paulette Cordes](https://www.notarydepot.com/premiumnotaryservices)
+  - [Notary Public in Chino, CA: Lenise Ortiz](https://www.notarydepot.com/prestigeloansigning)
   - [Notary Public in Hollywood, FL: Daisy O&#39;Brien](https://www.notarydepot.com/prestigenotaryservices)
   - [Notary Public in Temecula, CA: Letty A. Marquez](https://www.notarydepot.com/prevantsy)
   - [Notary Public in West Palm Beach, FL: Penny Price Payne](https://www.notarydepot.com/pricepayne)
@@ -7677,4 +7678,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-02T04:59:03Z
+Updated at 2018-03-02T05:19:02Z
