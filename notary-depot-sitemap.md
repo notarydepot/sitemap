@@ -1219,6 +1219,7 @@
     - [Notary Public in Helena, MT](https://www.notarydepot.com/notary-near-me/Montana/Helena)
     - [Notary Public in Kalispell, MT](https://www.notarydepot.com/notary-near-me/Montana/Kalispell)
     - [Notary Public in Libby, MT](https://www.notarydepot.com/notary-near-me/Montana/Libby)
+    - [Notary Public in Manhattan, MT](https://www.notarydepot.com/notary-near-me/Montana/Manhattan)
     - [Notary Public in Missoula, MT](https://www.notarydepot.com/notary-near-me/Montana/Missoula)
   - [Notaries Public in Nebraska](https://www.notarydepot.com/notary-near-me/Nebraska)
     - [Notary Public in Bellevue, NE](https://www.notarydepot.com/notary-near-me/Nebraska/Bellevue)
@@ -2354,6 +2355,7 @@
   - [Notary Public in Oak Lawn, IL: Kathleen M. Spies](https://www.notarydepot.com/alleykat114)
   - [Notary Public in Southfield, MI: Allison Maxwell](https://www.notarydepot.com/allisonm)
   - [Notary Public in NJ: Allison McCafferty](https://www.notarydepot.com/allisonnj)
+  - [Notary Public in Manhattan, MT: April Lucore-Christensen](https://www.notarydepot.com/allnotaryservices)
   - [Notary Public in Carlsbad, CA: Autumn Marie Soto](https://www.notarydepot.com/allstarnotary)
   - [Notary Public in Venice, FL: Dawn Biel](https://www.notarydepot.com/allygatorzz)
   - [Notary Public in Clearfield, UT: Allyn Draper](https://www.notarydepot.com/allyndraper)
@@ -7678,4 +7680,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-02T05:19:02Z
+Updated at 2018-03-02T05:39:02Z
