@@ -6407,7 +6407,6 @@
   - [Notary Public in Albany, NY: Leslie P. Robinson](https://www.notarydepot.com/smplythbest1)
   - [Notary Public in Buena Park, CA: Sonja M Rule](https://www.notarydepot.com/smrules1)
   - [Notary Public in Tampa, FL: Sharon M Niblack](https://www.notarydepot.com/smstarkes)
-  - [Notary Public in Bakersfield, CA: Susan M Johnson](https://www.notarydepot.com/smuirbiggs)
   - [Notary Public in Huntington, WV: Shannon Wiley](https://www.notarydepot.com/smwiley)
   - [Notary Public in Cedar Hill, TX: Stephanie Gardner](https://www.notarydepot.com/sngardner)
   - [Notary Public in Raymond, MS: Marilyn M. Sanford](https://www.notarydepot.com/snoopdogms)
@@ -7680,4 +7679,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-03T07:59:02Z
+Updated at 2018-03-03T08:19:02Z
