@@ -3746,6 +3746,7 @@
   - [Notary Public in New Lenox, IL: Gina Pettit](https://www.notarydepot.com/gina2404)
   - [Notary Public in Arroyo Grande, CA: Gina Pimentel](https://www.notarydepot.com/ginap)
   - [Notary Public in CA: Gina Hernandez](https://www.notarydepot.com/ginathenotary)
+  - [Notary Public in Riverside, CA: Gina Valvo](https://www.notarydepot.com/ginavalvonotary)
   - [Notary Public in Las Vegas, NV: Lori Noon](https://www.notarydepot.com/ginger)
   - [Notary Public in West Sacramento, CA: Giselle Rodriguez](https://www.notarydepot.com/gisell7)
   - [Notary Public in Spring, TX: Gregg Kirby](https://www.notarydepot.com/gkirby28)
@@ -7679,4 +7680,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-05T03:00:03Z
+Updated at 2018-03-05T03:20:03Z
