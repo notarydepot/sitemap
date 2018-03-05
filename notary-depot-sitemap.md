@@ -974,7 +974,6 @@
     - [Notary Public in Reeves, LA](https://www.notarydepot.com/notary-near-me/Louisiana/Reeves)
     - [Notary Public in Saint Martinville, LA](https://www.notarydepot.com/notary-near-me/Louisiana/Saint-Martinville)
     - [Notary Public in Shreveport, LA](https://www.notarydepot.com/notary-near-me/Louisiana/Shreveport)
-    - [Notary Public in Tioga, LA](https://www.notarydepot.com/notary-near-me/Louisiana/Tioga)
   - [Notaries Public in Maine](https://www.notarydepot.com/notary-near-me/Maine)
     - [Notary Public in Auburn, ME](https://www.notarydepot.com/notary-near-me/Maine/Auburn)
     - [Notary Public in Bangor, ME](https://www.notarydepot.com/notary-near-me/Maine/Bangor)
@@ -3780,7 +3779,6 @@
   - [Notary Public in Norfolk, VA: Leigh Mendoza](https://www.notarydepot.com/gopheru)
   - [Notary Public in Murrieta, CA: Christine Allies](https://www.notarydepot.com/gr8brit)
   - [Notary Public in Stuart, FL: Jg](https://www.notarydepot.com/grabenmj)
-  - [Notary Public in Tioga, LA: Sandra C. Lindstrom](https://www.notarydepot.com/gracehelpsnotary)
   - [Notary Public in Las Vegas, NV: Grace Renshaw, Cnsa, Nna, Background Checked](https://www.notarydepot.com/gracerenshaw)
   - [Notary Public in Dade City, FL: Cheryl Arnold](https://www.notarydepot.com/gramaarnp)
   - [Notary Public in Escondido, CA: Barbara Willkie](https://www.notarydepot.com/grammy)
@@ -7683,4 +7681,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-05T20:20:02Z
+Updated at 2018-03-05T20:40:03Z
