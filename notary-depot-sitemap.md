@@ -3366,6 +3366,7 @@
   - [Notary Public in Washburn, ND: Danelle Germain](https://www.notarydepot.com/dmgermain)
   - [Notary Public in Piedmont, AL: Deanna L. Minton](https://www.notarydepot.com/dminton)
   - [Notary Public in Citrus Heights, CA: Daniel Miranda](https://www.notarydepot.com/dmlegal)
+  - [Notary Public in Los Angeles, CA: d-Mobile Notary](https://www.notarydepot.com/dmobilenotary)
   - [Notary Public in Moreno Valley, CA: Denise Mason](https://www.notarydepot.com/dmsears)
   - [Notary Public in CA: Dianne Samonas](https://www.notarydepot.com/dmsnotary)
   - [Notary Public in Port St. Lucie, FL: Dawn Steinhurst](https://www.notarydepot.com/dmsteinhurst)
@@ -7681,4 +7682,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-05T22:40:03Z
+Updated at 2018-03-05T23:00:02Z
