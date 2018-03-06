@@ -4292,6 +4292,7 @@
   - [Notary Public in Sandy, UT: Carrie A Park](https://www.notarydepot.com/joshuacotie)
   - [Notary Public in Bangor, ME: Joshua Saucier](https://www.notarydepot.com/joshuasaucier)
   - [Notary Public in Kissimmee, FL: Victoria J. Davenport](https://www.notarydepot.com/joy5585)
+  - [Notary Public in Ontario, CA: J. Bennett](https://www.notarydepot.com/joyanah)
   - [Notary Public in Berea, KY: Joyce H Sulfridge](https://www.notarydepot.com/joyce4727)
   - [Notary Public in Neenah, WI: Anthony Lemanski](https://www.notarydepot.com/joycelemanski)
   - [Notary Public in Katy, TX: Joy R Walker](https://www.notarydepot.com/joyrwalker)
@@ -7684,4 +7685,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-06T22:00:03Z
+Updated at 2018-03-06T22:20:02Z
