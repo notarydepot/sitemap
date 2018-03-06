@@ -4491,7 +4491,7 @@
   - [Notary Public in Fairfield, CA: Kevin A. Knutson](https://www.notarydepot.com/kevinsnotary)
   - [Notary Public in Big Pine Key, FL: Carol Drummet](https://www.notarydepot.com/keysnotary1)
   - [Notary Public in Spencer, IA: Katie Gastelum](https://www.notarydepot.com/kgastelum)
-  - [Notary Public in Liberty, MO: Kenneth B. George](https://www.notarydepot.com/kgmobilenotary)
+  - [Notary Public in Kansas City, MO: Kenneth B. George](https://www.notarydepot.com/kgmobilenotary)
   - [Notary Public in Palm Bay, FL: Tessa Thomas](https://www.notarydepot.com/khadeshea)
   - [Notary Public in Bakersfield, CA: Harcharan Kaur K Singh](https://www.notarydepot.com/khalsanotary)
   - [Notary Public in Largo, FL: Kathleen Christie](https://www.notarydepot.com/khinakat)
@@ -7684,4 +7684,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-06T17:00:02Z
+Updated at 2018-03-06T17:20:03Z
