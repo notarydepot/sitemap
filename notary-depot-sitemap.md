@@ -6358,6 +6358,7 @@
   - [Notary Public in Garden Grove, CA: Silvia Figueroa, Notary Public](https://www.notarydepot.com/silviafig)
   - [Notary Public in Firebaugh, CA: Silvia Goodall](https://www.notarydepot.com/silviagoodall)
   - [Notary Public in Jacksonville, FL: William Simons](https://www.notarydepot.com/simons1953)
+  - [Notary Public in San Ramon, CA: YIP FUN LAU](https://www.notarydepot.com/simple8348gmailcom)
   - [Notary Public in Cadiz, KY: Karen Randels](https://www.notarydepot.com/simplelife2000)
   - [Notary Public in Jonesboro, GA: Shannon Sims](https://www.notarydepot.com/simsnotarymobile)
   - [Notary Public in Edenton, NC: Jannifer H. Sykes](https://www.notarydepot.com/sing7)
@@ -7685,4 +7686,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-06T22:20:02Z
+Updated at 2018-03-06T22:40:02Z
