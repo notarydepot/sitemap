@@ -3376,7 +3376,6 @@
   - [Notary Public in Chicago, IL: Dorothy McKinnie](https://www.notarydepot.com/dnmnotary)
   - [Notary Public in Glendale, AZ: Jeffrey](https://www.notarydepot.com/docdrj77)
   - [Notary Public in Phelan, CA: Melinda S. Schumacher](https://www.notarydepot.com/docittome)
-  - [Notary Public in Aurora, CO: Wayne R Morris](https://www.notarydepot.com/docs)
   - [Notary Public in Pomona, CA: Betrayn Drinkard](https://www.notarydepot.com/docs2bsigned)
   - [Notary Public in Roseburg, OR: Michelle R. Spier](https://www.notarydepot.com/documentguru)
   - [Notary Public in Shreveport, LA: Audrey Patrice Russ](https://www.notarydepot.com/documentprep)
@@ -3906,6 +3905,7 @@
   - [Notary Public in Washington, IN: Thomas Doyle](https://www.notarydepot.com/hoosieracc)
   - [Notary Public in Belleville, IL: Hope Money](https://www.notarydepot.com/hopetm)
   - [Notary Public in Palm Harbor, FL: John Daniel Manning](https://www.notarydepot.com/hospstwd)
+  - [Notary Public in Aurora, CO: Wayne R Morris](https://www.notarydepot.com/housecallsltd)
   - [Notary Public in Bay City, MI: Shirley Houston](https://www.notarydepot.com/houston55)
   - [Notary Public in Ledyard, CT: Howard J. Craig, Jr.](https://www.notarydepot.com/howie35ct)
   - [Notary Public in Escondido, CA: Heather Reinhold](https://www.notarydepot.com/hreinhold)
@@ -7683,4 +7683,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-07T01:00:01Z
+Updated at 2018-03-07T01:20:03Z
