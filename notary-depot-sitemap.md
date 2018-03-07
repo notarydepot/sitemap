@@ -3327,7 +3327,6 @@
   - [Notary Public in Jackson, NJ: Dineen M Iannice](https://www.notarydepot.com/dineen001)
   - [Notary Public in Brentwood, TN: Sorin Diosan](https://www.notarydepot.com/diotec)
   - [Notary Public in Denison, TX: Diane Ramey](https://www.notarydepot.com/diramey)
-  - [Notary Public in Covington, KY: Di Stamper](https://www.notarydepot.com/distamper)
   - [Notary Public in Camp Hill, PA: Brandie Glass](https://www.notarydepot.com/distinguishednotarygmailcom)
   - [Notary Public in Philadelphia, PA: Dee](https://www.notarydepot.com/divadee)
   - [Notary Public in Hampton, VA: Kellya hartless thomas](https://www.notarydepot.com/divanotary)
@@ -4355,7 +4354,7 @@
   - [Notary Public in Reidsville, GA: Judy Teston](https://www.notarydepot.com/jujubilee)
   - [Notary Public in Union City, CA: Julie Arnold](https://www.notarydepot.com/jules01)
   - [Notary Public in New York, NY: Julian L Cole](https://www.notarydepot.com/julianlenworthcole)
-  - [Notary Public in Salem, OR: Julie davis](https://www.notarydepot.com/julied)
+  - [Notary Public in Salem, OR: Julie Davis](https://www.notarydepot.com/julied)
   - [Notary Public in Redwood City, CA: Julie Daciuk](https://www.notarydepot.com/juliednotary)
   - [Notary Public in Salt Lake City, UT: Julie Harward](https://www.notarydepot.com/julieharward)
   - [Notary Public in Perris, CA: Julie Jones](https://www.notarydepot.com/juliej)
@@ -4499,7 +4498,7 @@
   - [Notary Public in Huntington Beach, CA: Kim Hoffman](https://www.notarydepot.com/khoff)
   - [Notary Public in Tampa, FL: Kim Hutfilz](https://www.notarydepot.com/khutfilz)
   - [Notary Public in Apple Valley, CA: Aracely Gudino](https://www.notarydepot.com/kikilala)
-  - [Notary Public in Rifle, CO: kim BALDWIN NSA](https://www.notarydepot.com/kim)
+  - [Notary Public in Rifle, CO: Kim Baldwin NSA](https://www.notarydepot.com/kim)
   - [Notary Public in Ormond Beach, FL: Kim Bell](https://www.notarydepot.com/kimbellnotary)
   - [Notary Public in Vacaville, CA: Kimberly Bell](https://www.notarydepot.com/kimberlybell)
   - [Notary Public in El Dorado, AR: Kimberly Giacona](https://www.notarydepot.com/kimberlygiacona)
@@ -5281,7 +5280,6 @@
   - [Notary Public in Ballwin, MO: Stu Schankman](https://www.notarydepot.com/mornflt)
   - [Notary Public in Santa Monica, CA: Moshe Steinberg](https://www.notarydepot.com/moshesteinberg)
   - [Notary Public in MA: Marsha A. Ostrer](https://www.notarydepot.com/mostrer)
-  - [Notary Public in Laguna Niguel, CA: Your Mother Fucker](https://www.notarydepot.com/motherfucker)
   - [Notary Public in Blakeslee, PA: Mountain View Notary](https://www.notarydepot.com/mountainnotary)
   - [Notary Public in Mount Dora, FL: Brenda Jo Collier](https://www.notarydepot.com/mountdoranotary)
   - [Notary Public in Clearwater, FL: Donna J Moore, CNSA](https://www.notarydepot.com/mouseketeer53)
@@ -5494,7 +5492,6 @@
   - [Notary Public in Bakersfield, CA: Violeta Lopez-Pacheco](https://www.notarydepot.com/notary03)
   - [Notary Public in NY: Harry Singh](https://www.notarydepot.com/notary101)
   - [Notary Public in Fort Worth, TX: Marian Watson](https://www.notarydepot.com/notary2009)
-  - [Notary Public in Sacramento, CA: sam](https://www.notarydepot.com/notary2020)
   - [Notary Public in Mahwah, NJ: Patrick Williams](https://www.notarydepot.com/notary284)
   - [Notary Public in Noblesville, IN: Richard Scott Stern](https://www.notarydepot.com/notary2939)
   - [Notary Public in Bella Vista, AR: Rebecka Ebsen](https://www.notarydepot.com/notary2coxnet)
@@ -7686,4 +7683,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-07T00:40:02Z
+Updated at 2018-03-07T01:00:01Z
