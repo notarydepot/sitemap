@@ -6939,6 +6939,7 @@
   - [Notary Public in Denver, CO: Brandi Waller](https://www.notarydepot.com/wallerbrandi)
   - [Notary Public in Richmond, CA: Dena Walls](https://www.notarydepot.com/wallsdm1)
   - [Notary Public in Sparks, NV: Scott R Warren](https://www.notarydepot.com/wallyvikes)
+  - [Notary Public in Chicago, IL: Walter Juszczak](https://www.notarydepot.com/walterj)
   - [Notary Public in Nashville, TN: William Moores](https://www.notarydepot.com/wamoores)
   - [Notary Public in Waco, TX: Wanda J Green](https://www.notarydepot.com/wangreenyahoocom)
   - [Notary Public in Falls Church, VA: Mary E. Warren](https://www.notarydepot.com/warren1721)
@@ -7682,4 +7683,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-08T03:40:03Z
+Updated at 2018-03-08T04:00:03Z
