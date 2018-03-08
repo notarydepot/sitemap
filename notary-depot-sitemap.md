@@ -5296,7 +5296,6 @@
   - [Notary Public in Palm Bay, FL: mark j. eden](https://www.notarydepot.com/mrbass111)
   - [Notary Public in Davenport, IA: Harlan Perry](https://www.notarydepot.com/mrbudget45)
   - [Notary Public in Danese, WV: Mary R. Carroll](https://www.notarydepot.com/mrcarroll)
-  - [Notary Public in Murfreesboro, TN: Matt Deckard](https://www.notarydepot.com/mrdeckard)
   - [Notary Public in Pensacola, FL: Marsha Glazier](https://www.notarydepot.com/mrglazier)
   - [Notary Public in Houston, TX: Marie Guidry](https://www.notarydepot.com/mrguidry)
   - [Notary Public in Atlanta, GA: Dayle A Hazel](https://www.notarydepot.com/mrhazel)
@@ -7683,4 +7682,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-08T02:40:02Z
+Updated at 2018-03-08T03:00:02Z
