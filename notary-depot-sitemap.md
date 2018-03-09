@@ -3039,7 +3039,6 @@
   - [Notary Public in Northglenn, CO: Kim Coleman](https://www.notarydepot.com/colemakr)
   - [Notary Public in Oakland, CA: Joanna M Cole, Notary Public](https://www.notarydepot.com/colesigningagent)
   - [Notary Public in Swartz Creek, MI: Colin Chea](https://www.notarydepot.com/colinchea)
-  - [Notary Public in Rialto, CA: Karen Bishop](https://www.notarydepot.com/collectionsnotarysvc)
   - [Notary Public in Chesapeake, VA: Colleen Holmes, CSA](https://www.notarydepot.com/colleen)
   - [Notary Public in Fontana, CA: Marian Jackson](https://www.notarydepot.com/comet222)
   - [Notary Public in Columbia, MO: Ellen Rees](https://www.notarydepot.com/comonotary)
@@ -7683,4 +7682,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-09T19:00:02Z
+Updated at 2018-03-09T19:20:02Z
