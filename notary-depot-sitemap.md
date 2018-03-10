@@ -707,7 +707,6 @@
     - [Notary Public in West Palm Beach, FL](https://www.notarydepot.com/notary-near-me/Florida/West-Palm-Beach)
     - [Notary Public in Winter Garden, FL](https://www.notarydepot.com/notary-near-me/Florida/Winter-Garden)
     - [Notary Public in Winter Haven, FL](https://www.notarydepot.com/notary-near-me/Florida/Winter-Haven)
-    - [Notary Public in Winter Park, FL](https://www.notarydepot.com/notary-near-me/Florida/Winter-Park)
     - [Notary Public in Winter Springs, FL](https://www.notarydepot.com/notary-near-me/Florida/Winter-Springs)
     - [Notary Public in Woodville, FL](https://www.notarydepot.com/notary-near-me/Florida/Woodville)
     - [Notary Public in Yulee, FL](https://www.notarydepot.com/notary-near-me/Florida/Yulee)
@@ -4796,7 +4795,7 @@
   - [Notary Public in Southfield, MI: Lucki Notary](https://www.notarydepot.com/livory)
   - [Notary Public in Ionia, MI: Elizabeth A Cook](https://www.notarydepot.com/lizcook)
   - [Notary Public in Gloversville, NY: Elizabeth Donnelly](https://www.notarydepot.com/lizdon)
-  - [Notary Public in Winter Park, FL: Elizabeth Leon](https://www.notarydepot.com/lizsnotaryservices)
+  - [Notary Public in Longwood, FL: Elizabeth Leon](https://www.notarydepot.com/lizsnotaryservices)
   - [Notary Public in Franklinton, LA: Jacquelyn Walker](https://www.notarydepot.com/lizwalker)
   - [Notary Public in Wausau, WI: jeff hamann](https://www.notarydepot.com/ljhamann)
   - [Notary Public in Riverview, FL: Lora Leasure](https://www.notarydepot.com/ljleasure)
@@ -7682,4 +7681,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-10T21:20:03Z
+Updated at 2018-03-10T21:40:02Z
