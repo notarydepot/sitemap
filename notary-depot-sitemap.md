@@ -5054,6 +5054,7 @@
   - [Notary Public in Tulsa, OK: Douglas Mcgehee](https://www.notarydepot.com/mcnotary)
   - [Notary Public in Mesa, AZ: Michael Cummings](https://www.notarydepot.com/mcummings0922)
   - [Notary Public in Puyallup, WA: Matt Dahlgren](https://www.notarydepot.com/mdahl66)
+  - [Notary Public in Elkton, MD: Jackie Meadows](https://www.notarydepot.com/mddenotary)
   - [Notary Public in Hazleton, PA: Mark W Demsko](https://www.notarydepot.com/mdemsko)
   - [Notary Public in Shreveport, LA: Michael Gray](https://www.notarydepot.com/mdgray60)
   - [Notary Public in Owings, MD: Doris Frazier](https://www.notarydepot.com/mdj9969)
@@ -7680,4 +7681,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-11T17:20:02Z
+Updated at 2018-03-11T17:40:01Z
