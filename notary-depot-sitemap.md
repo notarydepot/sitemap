@@ -1277,6 +1277,7 @@
     - [Notary Public in Egg Harbor Township, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Egg-Harbor-Township)
     - [Notary Public in Elizabeth, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Elizabeth)
     - [Notary Public in Englishtown, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Englishtown)
+    - [Notary Public in Ewing Township, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Ewing-Township)
     - [Notary Public in Franklin Lakes, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Franklin-Lakes)
     - [Notary Public in Garfield, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Garfield)
     - [Notary Public in Glassboro, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Glassboro)
@@ -3618,6 +3619,7 @@
   - [Notary Public in Houston, TX: Fermeda Johnson](https://www.notarydepot.com/fdj1018)
   - [Notary Public in St. Louis, MO: Cameron Fearn](https://www.notarydepot.com/fearnc)
   - [Notary Public in Trenton, NJ: Felicia Brittingham](https://www.notarydepot.com/feliciab)
+  - [Notary Public in Ewing Township, NJ: Felicia Brittingham](https://www.notarydepot.com/feliciabrittingham)
   - [Notary Public in Hawaiian Gardens, CA: Notary Public](https://www.notarydepot.com/felipe)
   - [Notary Public in Fredericksburg, VA: Geri Gribben](https://www.notarydepot.com/felix123)
   - [Notary Public in Houston, TX: Felix Otero](https://www.notarydepot.com/felixinhouston)
@@ -7681,4 +7683,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-12T20:20:03Z
+Updated at 2018-03-12T20:40:02Z
