@@ -5278,6 +5278,7 @@
   - [Notary Public in Vallejo, CA: Detra Morgan](https://www.notarydepot.com/morgansfind)
   - [Notary Public in Ballwin, MO: Stu Schankman](https://www.notarydepot.com/mornflt)
   - [Notary Public in Santa Monica, CA: Moshe Steinberg](https://www.notarydepot.com/moshesteinberg)
+  - [Notary Public in Detroit, MI: Eriel](https://www.notarydepot.com/mostnotarized)
   - [Notary Public in MA: Marsha A. Ostrer](https://www.notarydepot.com/mostrer)
   - [Notary Public in Blakeslee, PA: Mountain View Notary](https://www.notarydepot.com/mountainnotary)
   - [Notary Public in Mount Dora, FL: Brenda Jo Collier](https://www.notarydepot.com/mountdoranotary)
@@ -7683,4 +7684,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-12T22:40:02Z
+Updated at 2018-03-12T23:00:02Z
