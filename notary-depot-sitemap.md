@@ -6735,6 +6735,7 @@
   - [Notary Public in Tyler, TX: Michael Tolbert](https://www.notarydepot.com/tolbertme)
   - [Notary Public in Charlotte, NC: Tomeka Lynch](https://www.notarydepot.com/tomeka36)
   - [Notary Public in Leland, NC: Tom Foushee](https://www.notarydepot.com/tomfoushee)
+  - [Notary Public in Oklahoma City, OK: Ty Tomison](https://www.notarydepot.com/tomisonmobilenotary)
   - [Notary Public in Dover, NH: Corey M. Harnish](https://www.notarydepot.com/tommilynn51)
   - [Notary Public in Burlington, NC: Tom Allegretto](https://www.notarydepot.com/tommya)
   - [Notary Public in Trenton, NJ: Thomas M Zucchetti](https://www.notarydepot.com/tommyz)
@@ -7680,4 +7681,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-12T11:20:02Z
+Updated at 2018-03-12T11:40:03Z
