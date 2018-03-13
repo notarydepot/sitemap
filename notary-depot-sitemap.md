@@ -339,7 +339,6 @@
     - [Notary Public in Oxnard, CA](https://www.notarydepot.com/notary-near-me/California/Oxnard)
     - [Notary Public in Pacifica, CA](https://www.notarydepot.com/notary-near-me/California/Pacifica)
     - [Notary Public in Palm Desert, CA](https://www.notarydepot.com/notary-near-me/California/Palm-Desert)
-    - [Notary Public in Palm Springs, CA](https://www.notarydepot.com/notary-near-me/California/Palm-Springs)
     - [Notary Public in Palmdale, CA](https://www.notarydepot.com/notary-near-me/California/Palmdale)
     - [Notary Public in Paradise, CA](https://www.notarydepot.com/notary-near-me/California/Paradise)
     - [Notary Public in Paramount, CA](https://www.notarydepot.com/notary-near-me/California/Paramount)
@@ -6386,7 +6385,6 @@
   - [Notary Public in Riverbank, CA: Skp &amp; Company](https://www.notarydepot.com/skpcompany)
   - [Notary Public in Descanso, CA: Shawna Kramer](https://www.notarydepot.com/skramer)
   - [Notary Public in Lithonia, GA: Selena R. Green](https://www.notarydepot.com/skyegreen12)
-  - [Notary Public in Palm Springs, CA: Neva Hamlet-Hamlet Mobile Notary Service](https://www.notarydepot.com/skyhye)
   - [Notary Public in Pleasanton, CA: sandy Laffins](https://www.notarydepot.com/slaffins)
   - [Notary Public in Bakersfield, CA: NotaryServicesEtc](https://www.notarydepot.com/slanda)
   - [Notary Public in Scotts, MI: Sara L Carrier](https://www.notarydepot.com/slcarrier)
@@ -7684,4 +7682,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-13T13:00:03Z
+Updated at 2018-03-13T13:20:02Z
