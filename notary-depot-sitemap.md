@@ -6785,6 +6785,7 @@
   - [Notary Public in Hamilton, OH: Trina Thomas](https://www.notarydepot.com/trina_thomas)
   - [Notary Public in Rockledge, FL: Mary Kammerer](https://www.notarydepot.com/trish11760)
   - [Notary Public in Hamburg, NY: John Duffy](https://www.notarydepot.com/trithon)
+  - [Notary Public in Lewiston, ID: Tammy Nichols](https://www.notarydepot.com/trnichols)
   - [Notary Public in Walnut, CA: Troy Baker](https://www.notarydepot.com/troywb)
   - [Notary Public in North Las Vegas, NV: Trudie Lee](https://www.notarydepot.com/trudielee)
   - [Notary Public in Ypsilanti, MI: Tracy Alean Rush-Byers](https://www.notarydepot.com/trushbye)
@@ -7681,4 +7682,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-13T22:00:02Z
+Updated at 2018-03-13T22:20:02Z
