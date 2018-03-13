@@ -1611,7 +1611,6 @@
     - [Notary Public in Central Point, OR](https://www.notarydepot.com/notary-near-me/Oregon/Central-Point)
     - [Notary Public in Clackamas, OR](https://www.notarydepot.com/notary-near-me/Oregon/Clackamas)
     - [Notary Public in Coos Bay, OR](https://www.notarydepot.com/notary-near-me/Oregon/Coos-Bay)
-    - [Notary Public in Cornelius, OR](https://www.notarydepot.com/notary-near-me/Oregon/Cornelius)
     - [Notary Public in Corvallis, OR](https://www.notarydepot.com/notary-near-me/Oregon/Corvallis)
     - [Notary Public in Damascus, OR](https://www.notarydepot.com/notary-near-me/Oregon/Damascus)
     - [Notary Public in Dexter, OR](https://www.notarydepot.com/notary-near-me/Oregon/Dexter)
@@ -5961,7 +5960,6 @@
   - [Notary Public in Miami Beach, FL: Rebecca Navarro](https://www.notarydepot.com/renavarro)
   - [Notary Public in San Diego, CA: Ren Daversa Mobile Notary &amp; Signing Agent](https://www.notarydepot.com/rendaversa)
   - [Notary Public in Tehachapi, CA: Renee Bagdis](https://www.notarydepot.com/reneebagdis)
-  - [Notary Public in Cornelius, OR: Renee Bellrose Cootz](https://www.notarydepot.com/reneebellrose)
   - [Notary Public in Fullerton, CA: Renee Ghafoori](https://www.notarydepot.com/reneeg)
   - [Notary Public in Los Angeles, CA: Rene Jones](https://www.notarydepot.com/renejones)
   - [Notary Public in Fontana, CA: Elisa Rister](https://www.notarydepot.com/rerister)
@@ -7682,4 +7680,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-13T18:00:02Z
+Updated at 2018-03-13T18:20:02Z
