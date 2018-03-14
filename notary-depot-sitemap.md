@@ -2319,6 +2319,7 @@
   - [Notary Public in Eastlake, OH: Alina Salesky](https://www.notarydepot.com/ajs3737)
   - [Notary Public in Milwaukee, WI: Annette Jackson-Thomas](https://www.notarydepot.com/ajthomas58)
   - [Notary Public in Lake Forest, CA: Amy J. Underwood](https://www.notarydepot.com/ajunderw)
+  - [Notary Public in Sylvania, OH: Linda Huddleston](https://www.notarydepot.com/akamobilenotary)
   - [Notary Public in San Antonio, TX: Texas 911 Notary.com](https://www.notarydepot.com/akartaltepe)
   - [Notary Public in Vallejo, CA: Akindele Carter](https://www.notarydepot.com/akindelec)
   - [Notary Public in Tucson, AZ: Audra Koerber](https://www.notarydepot.com/akoerber)
@@ -2684,7 +2685,6 @@
   - [Notary Public in Boise, ID: Jason](https://www.notarydepot.com/blazzer)
   - [Notary Public in NJ: Caroljean Rich](https://www.notarydepot.com/blkbear)
   - [Notary Public in Gilbert, AZ: Barbara Ditler-Gelber](https://www.notarydepot.com/blondebobbi)
-  - [Notary Public in Sylvania, OH: Linda Huddleston](https://www.notarydepot.com/blondy)
   - [Notary Public in Porter, TX: Bobbie Longoria](https://www.notarydepot.com/blongoria)
   - [Notary Public in Waterford, PA: Brenda L Peace](https://www.notarydepot.com/blpnotary)
   - [Notary Public in Memphis, TN: Adam Simpson](https://www.notarydepot.com/bluffcitynotaries)
@@ -7683,4 +7683,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-14T15:40:03Z
+Updated at 2018-03-14T16:00:03Z
