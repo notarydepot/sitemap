@@ -3194,6 +3194,7 @@
   - [Notary Public in Spanaway, WA: Dawn Cassube](https://www.notarydepot.com/dawncassube)
   - [Notary Public in Manassas, VA: Dawn Davis](https://www.notarydepot.com/dawndavis)
   - [Notary Public in Fallbrook, CA: Dawn Grove](https://www.notarydepot.com/dawngrove)
+  - [Notary Public in Los Angeles, CA: Dawn the Notary](https://www.notarydepot.com/dawnthenotary)
   - [Notary Public in Yuma, AZ: Dan Dawson](https://www.notarydepot.com/dawsondocs)
   - [Notary Public in Amarillo, TX: Ron and Lynn Day](https://www.notarydepot.com/daynote)
   - [Notary Public in Homestead, FL: Daysi Martinez](https://www.notarydepot.com/daysi)
@@ -7682,4 +7683,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-14T06:40:02Z
+Updated at 2018-03-14T07:00:02Z
