@@ -304,7 +304,6 @@
     - [Notary Public in Martinez, CA](https://www.notarydepot.com/notary-near-me/California/Martinez)
     - [Notary Public in Maywood, CA](https://www.notarydepot.com/notary-near-me/California/Maywood)
     - [Notary Public in Menifee, CA](https://www.notarydepot.com/notary-near-me/California/Menifee)
-    - [Notary Public in Mentone, CA](https://www.notarydepot.com/notary-near-me/California/Mentone)
     - [Notary Public in Milpitas, CA](https://www.notarydepot.com/notary-near-me/California/Milpitas)
     - [Notary Public in Mission Viejo, CA](https://www.notarydepot.com/notary-near-me/California/Mission-Viejo)
     - [Notary Public in Modesto, CA](https://www.notarydepot.com/notary-near-me/California/Modesto)
@@ -2310,7 +2309,7 @@
   - [Notary Public in Las Vegas, NV: Andrea Vigil](https://www.notarydepot.com/ajavigil3)
   - [Notary Public in Moss Point, MS: Andre J. Debose](https://www.notarydepot.com/ajdebose)
   - [Notary Public in Dugger, IN: Aaron](https://www.notarydepot.com/ajevans)
-  - [Notary Public in Mentone, CA: Angela Frame](https://www.notarydepot.com/ajframe)
+  - [Notary Public in Redlands, CA: Angela Frame](https://www.notarydepot.com/ajframe)
   - [Notary Public in Corpus Christi, TX: Alfred Garza Jr](https://www.notarydepot.com/ajgarza)
   - [Notary Public in Farmington, MI: Amanda Horne](https://www.notarydepot.com/ajhorne)
   - [Notary Public in Bedford, OH: Amanda Kashery](https://www.notarydepot.com/ajkashery)
@@ -7683,4 +7682,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-14T16:40:03Z
+Updated at 2018-03-14T17:00:02Z
