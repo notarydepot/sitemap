@@ -1092,6 +1092,7 @@
     - [Notary Public in Lapeer, MI](https://www.notarydepot.com/notary-near-me/Michigan/Lapeer)
     - [Notary Public in Macomb, MI](https://www.notarydepot.com/notary-near-me/Michigan/Macomb)
     - [Notary Public in Mancelona, MI](https://www.notarydepot.com/notary-near-me/Michigan/Mancelona)
+    - [Notary Public in Montague, MI](https://www.notarydepot.com/notary-near-me/Michigan/Montague)
     - [Notary Public in Mount Clemens, MI](https://www.notarydepot.com/notary-near-me/Michigan/Mount-Clemens)
     - [Notary Public in Mount Morris, MI](https://www.notarydepot.com/notary-near-me/Michigan/Mount-Morris)
     - [Notary Public in Muskegon, MI](https://www.notarydepot.com/notary-near-me/Michigan/Muskegon)
@@ -3939,6 +3940,7 @@
   - [Notary Public in Marianna, FL: Inez K. Nowell](https://www.notarydepot.com/ineznowell)
   - [Notary Public in Albuquerque, NM: Faye Ingle](https://www.notarydepot.com/inglef)
   - [Notary Public in Chicago, IL: Ingrid Sanchez](https://www.notarydepot.com/ingrid)
+  - [Notary Public in Montague, MI: Rebecca Rupe](https://www.notarydepot.com/inkdnotary)
   - [Notary Public in Valparaiso, IN: Rachel Pasley](https://www.notarydepot.com/inkednotary)
   - [Notary Public in Garden Grove, CA: Amparo J. Vaca](https://www.notarydepot.com/inkngonotary)
   - [Notary Public in Huntsville, AL: Michelle L Riley](https://www.notarydepot.com/inotarize)
@@ -7683,4 +7685,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-15T18:20:03Z
+Updated at 2018-03-15T18:40:03Z
