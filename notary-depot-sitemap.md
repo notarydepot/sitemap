@@ -5599,6 +5599,7 @@
   - [Notary Public in Discovery Bay, CA: Ofelia D contreras](https://www.notarydepot.com/notarysince1999)
   - [Notary Public in Fredericksburg, VA: Sat.tech LLC](https://www.notarydepot.com/notaryslater)
   - [Notary Public in Daytona Beach, FL: Sheri Smith](https://www.notarydepot.com/notarysmith50)
+  - [Notary Public in San Juan Capistrano, CA: Sonja Varese](https://www.notarydepot.com/notarysonja)
   - [Notary Public in Stevensburg, VA: Tammy S. Kelly](https://www.notarydepot.com/notarytammykelly)
   - [Notary Public in Loveland, OH: Tina Butler](https://www.notarydepot.com/notarytb)
   - [Notary Public in Long Beach, CA: Notary Today](https://www.notarydepot.com/notarytoday)
@@ -7685,4 +7686,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-15T23:00:05Z
+Updated at 2018-03-15T23:20:03Z
