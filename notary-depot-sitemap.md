@@ -6590,6 +6590,7 @@
   - [Notary Public in Providence, RI: Tara Latimer](https://www.notarydepot.com/taramobile)
   - [Notary Public in Galax, VA: Trina Miller](https://www.notarydepot.com/tarielm09)
   - [Notary Public in Bound Brook, NJ: Tasheemah Johnson](https://www.notarydepot.com/tasheemah1)
+  - [Notary Public in Bridgeport, CT: Tasha Brown](https://www.notarydepot.com/tashgirl226)
   - [Notary Public in Johnston, SC: Tashia Jackson](https://www.notarydepot.com/tashia)
   - [Notary Public in Atoka, OK: Sherri Middleton](https://www.notarydepot.com/taxnotary)
   - [Notary Public in Saint Pauls, NC: Alex Taylor](https://www.notarydepot.com/taylornotarync)
@@ -7682,4 +7683,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-15T16:20:03Z
+Updated at 2018-03-15T16:40:06Z
