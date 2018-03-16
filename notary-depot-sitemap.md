@@ -691,6 +691,7 @@
     - [Notary Public in Sorrento, FL](https://www.notarydepot.com/notary-near-me/Florida/Sorrento)
     - [Notary Public in Spring Hill, FL](https://www.notarydepot.com/notary-near-me/Florida/Spring-Hill)
     - [Notary Public in St. Augustine, FL](https://www.notarydepot.com/notary-near-me/Florida/St-Augustine)
+    - [Notary Public in Starke, FL](https://www.notarydepot.com/notary-near-me/Florida/Starke)
     - [Notary Public in Stuart, FL](https://www.notarydepot.com/notary-near-me/Florida/Stuart)
     - [Notary Public in Sunny Isles Beach, FL](https://www.notarydepot.com/notary-near-me/Florida/Sunny-Isles-Beach)
     - [Notary Public in Tallahassee, FL](https://www.notarydepot.com/notary-near-me/Florida/Tallahassee)
@@ -4629,6 +4630,7 @@
   - [Notary Public in Tallahassee, FL: ViElla B. Lindsey](https://www.notarydepot.com/ladyvi)
   - [Notary Public in Huntington Beach, CA: Leigh Ann Gilmore](https://www.notarydepot.com/lag911)
   - [Notary Public in Wichita, KS: Lila Hall](https://www.notarydepot.com/lahallsign)
+  - [Notary Public in Starke, FL: Robert William Rehberg](https://www.notarydepot.com/lakebutler52)
   - [Notary Public in Clearlake, CA: Julie Richardson](https://www.notarydepot.com/lakecountynotary)
   - [Notary Public in Greenville, SC: Brenda Owen Wedding Officiant &amp; Minister](https://www.notarydepot.com/lakesidenotary)
   - [Notary Public in Lake Worth, FL: Barry Glassgold](https://www.notarydepot.com/lakeworthmobilenotary)
@@ -7686,4 +7688,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-16T20:20:03Z
+Updated at 2018-03-16T20:40:02Z
