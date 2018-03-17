@@ -2795,6 +2795,7 @@
   - [Notary Public in NY: Janine Cardone](https://www.notarydepot.com/byairbysea)
   - [Notary Public in Prince Frederick, MD: Belinda Church](https://www.notarydepot.com/byoung330)
   - [Notary Public in Kearney, MO: Sherri Duncan](https://www.notarydepot.com/bythexco)
+  - [Notary Public in Jacksonville, FL: Alicia Fuller](https://www.notarydepot.com/bythexnotary)
   - [Notary Public in Pasco, WA: C](https://www.notarydepot.com/c123anderson)
   - [Notary Public in Redondo Beach, CA: Edith Caceros](https://www.notarydepot.com/cacerose)
   - [Notary Public in Chino Hills, CA: Lita Caddick](https://www.notarydepot.com/caddicksnotary)
@@ -7688,4 +7689,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-17T23:20:02Z
+Updated at 2018-03-17T23:40:03Z
