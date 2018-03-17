@@ -3603,7 +3603,7 @@
   - [Notary Public in Corpus Christi, TX: Juanita Maria Lamas](https://www.notarydepot.com/ezclosing)
   - [Notary Public in Fresno, CA: Esmeralda Pumarejo](https://www.notarydepot.com/ezzie)
   - [Notary Public in White Plains, NY: Tiffany Choice](https://www.notarydepot.com/fairechoice)
-  - [Notary Public in Tampa, FL: Falicia Lisa Newsome](https://www.notarydepot.com/falicia)
+  - [Notary Public in Riverview, FL: Falicia Lisa Newsome](https://www.notarydepot.com/falicia)
   - [Notary Public in Westland, MI: Lori L. Pesavento](https://www.notarydepot.com/family)
   - [Notary Public in San Jacinto, CA: Frank Martinez](https://www.notarydepot.com/fanko99)
   - [Notary Public in Gatesville, TX: Frankie Ann White](https://www.notarydepot.com/fann46)
@@ -7688,4 +7688,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-17T10:20:03Z
+Updated at 2018-03-17T10:40:02Z
