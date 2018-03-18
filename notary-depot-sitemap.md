@@ -580,6 +580,7 @@
     - [Notary Public in Ellenton, FL](https://www.notarydepot.com/notary-near-me/Florida/Ellenton)
     - [Notary Public in Englewood, FL](https://www.notarydepot.com/notary-near-me/Florida/Englewood)
     - [Notary Public in Eustis, FL](https://www.notarydepot.com/notary-near-me/Florida/Eustis)
+    - [Notary Public in Fernandina Beach, FL](https://www.notarydepot.com/notary-near-me/Florida/Fernandina-Beach)
     - [Notary Public in Floral City, FL](https://www.notarydepot.com/notary-near-me/Florida/Floral-City)
     - [Notary Public in Fort Lauderdale, FL](https://www.notarydepot.com/notary-near-me/Florida/Fort-Lauderdale)
     - [Notary Public in Fort Myers, FL](https://www.notarydepot.com/notary-near-me/Florida/Fort-Myers)
@@ -6402,6 +6403,7 @@
   - [Notary Public in Saucier, MS: Shasta Wood](https://www.notarydepot.com/slwood3)
   - [Notary Public in Elk Grove, CA: Shonja Mainor](https://www.notarydepot.com/smainor)
   - [Notary Public in Davenport, FL: Cassandre Martin](https://www.notarydepot.com/smart1249)
+  - [Notary Public in Fernandina Beach, FL: Sylvie McCann](https://www.notarydepot.com/smccann)
   - [Notary Public in Dublin, CA: Scott Mercer](https://www.notarydepot.com/smercer)
   - [Notary Public in Norwood, LA: Susan Erkel](https://www.notarydepot.com/smerkel)
   - [Notary Public in Garner, NC: Kristine Leighton](https://www.notarydepot.com/smiley0730)
@@ -7689,4 +7691,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-18T01:00:02Z
+Updated at 2018-03-18T01:20:03Z
