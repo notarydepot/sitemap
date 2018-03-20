@@ -2946,7 +2946,6 @@
   - [Notary Public in Lindenhurst, NY: Cheryl L. Diehl](https://www.notarydepot.com/cheryld)
   - [Notary Public in Gulf Breeze, FL: Cheryl Maniscalco](https://www.notarydepot.com/cherylmnotary)
   - [Notary Public in Jasper, FL: Cheryl Young](https://www.notarydepot.com/cherylyoung)
-  - [Notary Public in Chicago, IL: Carrie Rivera, CNSA](https://www.notarydepot.com/chicagonotaryservices)
   - [Notary Public in Chicago, IL: Carrie Rivera](https://www.notarydepot.com/chicagoparalegalnotaryservices)
   - [Notary Public in Chicago, IL: Chicago Prime Notary](https://www.notarydepot.com/chicagoprimenotary)
   - [Notary Public in Auburn, ME: Donald Robbins](https://www.notarydepot.com/chiefdon)
@@ -7691,4 +7690,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-20T17:40:02Z
+Updated at 2018-03-20T18:00:05Z
