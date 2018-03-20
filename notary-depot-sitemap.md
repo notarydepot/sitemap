@@ -6190,6 +6190,7 @@
   - [Notary Public in West Palm Beach, FL: Shirley See](https://www.notarydepot.com/sasee4259)
   - [Notary Public in Cincinnati, OH: satar](https://www.notarydepot.com/satarba)
   - [Notary Public in Saucier, MS: Brenda R Palmer](https://www.notarydepot.com/sauciernotary)
+  - [Notary Public in Rowland Heights, CA: Roselle Savary](https://www.notarydepot.com/savarynotaryservices)
   - [Notary Public in Eastlake, OH: Betty Brown](https://www.notarydepot.com/savcash)
   - [Notary Public in Highland, NY: Tracee Smythe](https://www.notarydepot.com/savvynotary)
   - [Notary Public in Orangevale, CA: Katherine M Sayre](https://www.notarydepot.com/sayrek)
@@ -7688,4 +7689,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-20T22:40:03Z
+Updated at 2018-03-20T23:00:02Z
