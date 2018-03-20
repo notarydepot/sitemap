@@ -1272,7 +1272,6 @@
     - [Notary Public in Chester, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Chester)
     - [Notary Public in Clementon, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Clementon)
     - [Notary Public in Clifton, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Clifton)
-    - [Notary Public in Dunellen, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Dunellen)
     - [Notary Public in East Brunswick, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/East-Brunswick)
     - [Notary Public in Edison, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Edison)
     - [Notary Public in Egg Harbor Township, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Egg-Harbor-Township)
@@ -6608,7 +6607,6 @@
   - [Notary Public in Englewood, CO: Gaile Mink](https://www.notarydepot.com/tbooki)
   - [Notary Public in Larkspur, CO: Therese A. Christopher](https://www.notarydepot.com/tc4106)
   - [Notary Public in Stockton, CA: Tanisha Castle](https://www.notarydepot.com/tcastle2)
-  - [Notary Public in Dunellen, NJ: Connie E. Dwyer, Nj Licensed Title Producer, Cnsa](https://www.notarydepot.com/tcdwyer15)
   - [Notary Public in Long Beach, CA: Toyicha Chisom](https://www.notarydepot.com/tchisom)
   - [Notary Public in NY: Tiffany Choice](https://www.notarydepot.com/tchoice)
   - [Notary Public in Rio Linda, CA: Tracy D. Church](https://www.notarydepot.com/tchurch)
@@ -7690,4 +7688,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-20T19:40:02Z
+Updated at 2018-03-20T20:00:02Z
