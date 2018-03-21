@@ -3412,7 +3412,7 @@
   - [Notary Public in Pompano Beach, FL: Douw Smit](https://www.notarydepot.com/douwsmit)
   - [Notary Public in Mission Viejo, CA: Beverly](https://www.notarydepot.com/dove)
   - [Notary Public in Folsom, CA: Dreama Pacheco](https://www.notarydepot.com/dpacheco)
-  - [Notary Public in Johnson City, TN: Kelly M. Flores](https://www.notarydepot.com/dpandkenterprises)
+  - [Notary Public in Johnson City, TN: Kelly M. Jones](https://www.notarydepot.com/dpandkenterprises)
   - [Notary Public in Longview, TX: De&#39;Lores P. Arline](https://www.notarydepot.com/dparline)
   - [Notary Public in Mansfield, OH: David Pesec](https://www.notarydepot.com/dpesec)
   - [Notary Public in Sterling Heights, MI: Daniel Piotrowski](https://www.notarydepot.com/dpiotr)
@@ -7691,4 +7691,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-21T15:40:04Z
+Updated at 2018-03-21T16:00:03Z
