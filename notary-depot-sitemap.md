@@ -1519,6 +1519,7 @@
     - [Notary Public in South Mills, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/South-Mills)
     - [Notary Public in Southport, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Southport)
     - [Notary Public in Statesville, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Statesville)
+    - [Notary Public in Tarboro, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Tarboro)
     - [Notary Public in Thomasville, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Thomasville)
     - [Notary Public in Waxhaw, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Waxhaw)
     - [Notary Public in Weaverville, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Weaverville)
@@ -3715,6 +3716,7 @@
   - [Notary Public in Rock Hill, SC: Gloria C. Jones](https://www.notarydepot.com/gcjones)
   - [Notary Public in Seabrook, TX: Deborah Brown](https://www.notarydepot.com/gcn3)
   - [Notary Public in Gulfport, MS: Sandra C. Barnes](https://www.notarydepot.com/gcnotary)
+  - [Notary Public in Tarboro, NC: antonio gregory](https://www.notarydepot.com/gcs)
   - [Notary Public in Fort Lauderdale, FL: Gregory J Davis](https://www.notarydepot.com/gdavis0804)
   - [Notary Public in Hercules, CA: Carolynne L. Dupins](https://www.notarydepot.com/gdlywmn)
   - [Notary Public in Fairfield, CA: Gail R. Doswell](https://www.notarydepot.com/gdoswell)
@@ -7691,4 +7693,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-21T17:40:02Z
+Updated at 2018-03-21T18:00:02Z
