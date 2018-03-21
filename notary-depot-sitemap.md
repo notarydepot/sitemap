@@ -2327,7 +2327,7 @@
   - [Notary Public in Ithaca, NY: Akossiwoa Sinon](https://www.notarydepot.com/akossiwoas)
   - [Notary Public in Somerset, KY: Janice Green](https://www.notarydepot.com/akynotary)
   - [Notary Public in San Antonio, TX: Alamo Notary &amp; Signing Agents](https://www.notarydepot.com/alamonotary)
-  - [Notary Public in Alamosa, CO: Valerie Muniz](https://www.notarydepot.com/alamosanotarytogo)
+  - [Notary Public in Alamosa, CO: Valerie Vigil](https://www.notarydepot.com/alamosanotarytogo)
   - [Notary Public in Bristol, TN: Alan Dodson](https://www.notarydepot.com/alandodson)
   - [Notary Public in Hollywood, FL: Alanna M. Lamar](https://www.notarydepot.com/alannalamar)
   - [Notary Public in McCalla, AL: Linda Meadows](https://www.notarydepot.com/alanotary)
@@ -7689,4 +7689,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-21T03:00:02Z
+Updated at 2018-03-21T03:20:02Z
