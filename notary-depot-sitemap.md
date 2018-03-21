@@ -748,6 +748,7 @@
     - [Notary Public in Marietta, GA](https://www.notarydepot.com/notary-near-me/Georgia/Marietta)
     - [Notary Public in McDonough, GA](https://www.notarydepot.com/notary-near-me/Georgia/McDonough)
     - [Notary Public in Milledgeville, GA](https://www.notarydepot.com/notary-near-me/Georgia/Milledgeville)
+    - [Notary Public in Morrow, GA](https://www.notarydepot.com/notary-near-me/Georgia/Morrow)
     - [Notary Public in Norcross, GA](https://www.notarydepot.com/notary-near-me/Georgia/Norcross)
     - [Notary Public in Oakwood, GA](https://www.notarydepot.com/notary-near-me/Georgia/Oakwood)
     - [Notary Public in Powder Springs, GA](https://www.notarydepot.com/notary-near-me/Georgia/Powder-Springs)
@@ -5680,6 +5681,7 @@
   - [Notary Public in Delray Beach, FL: Kathleen Otting](https://www.notarydepot.com/otting)
   - [Notary Public in San Martin, CA: Laray Ourricariet](https://www.notarydepot.com/ourricariet)
   - [Notary Public in Anaheim, CA: Newness, Inc. * Notary Public* Loan Signing Agent*](https://www.notarydepot.com/overcomersarah)
+  - [Notary Public in Morrow, GA: Louis D Martin](https://www.notarydepot.com/ownlee18)
   - [Notary Public in McKinney, TX: Paul Abernathy](https://www.notarydepot.com/pabernathy)
   - [Notary Public in Falls Church, VA: Lijerons Notary Agency](https://www.notarydepot.com/pablonpao85)
   - [Notary Public in Rocky Hill, CT: Patricia A Bradstreet](https://www.notarydepot.com/pabradstreet)
@@ -7689,4 +7691,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-21T03:40:03Z
+Updated at 2018-03-21T04:00:02Z
