@@ -6514,6 +6514,7 @@
   - [Notary Public in Newport Beach, CA: Stephanie Gill](https://www.notarydepot.com/stephnb05)
   - [Notary Public in Charlotte, NC: Stephanie Alexander-Stanton](https://www.notarydepot.com/stephstanton)
   - [Notary Public in Kalamazoo, MI: Johanna S. Solis](https://www.notarydepot.com/stepnotary)
+  - [Notary Public in Union City, GA: Stephanie Sims](https://www.notarydepot.com/stepsims1)
   - [Notary Public in Danville, IL: Sterling Closing Notary](https://www.notarydepot.com/sterlingnotary)
   - [Notary Public in Los Angeles, CA: Stephen McClure](https://www.notarydepot.com/steve68)
   - [Notary Public in Northville, MI: Stephen Mackenzie](https://www.notarydepot.com/steveandjo1)
@@ -7694,4 +7695,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-22T16:20:02Z
+Updated at 2018-03-22T16:40:05Z
