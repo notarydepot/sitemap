@@ -4335,6 +4335,7 @@
   - [Notary Public in Stafford, VA: Jaime L Stocks](https://www.notarydepot.com/jsnotary)
   - [Notary Public in San Jose, CA: Jitendra Pandit](https://www.notarydepot.com/jspandit)
   - [Notary Public in Kimberly, AL: Jimmy Sparks](https://www.notarydepot.com/jsparks20)
+  - [Notary Public in Pepperell, MA: Jennifer Provost](https://www.notarydepot.com/jsprovost)
   - [Notary Public in Laurys Station, PA: Jennifer Stinnard](https://www.notarydepot.com/jstinnard)
   - [Notary Public in Las Vegas, NV: James Strickland](https://www.notarydepot.com/jstrickland)
   - [Notary Public in Ocala, FL: Jennifer Suarez](https://www.notarydepot.com/jsuarez)
@@ -7693,4 +7694,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-22T01:20:02Z
+Updated at 2018-03-22T01:40:02Z
