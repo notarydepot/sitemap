@@ -4138,6 +4138,7 @@
   - [Notary Public in NV: Jenny L Johnson](https://www.notarydepot.com/jennyjohnson)
   - [Notary Public in Saint Johns, FL: Jenny M. Slater](https://www.notarydepot.com/jennyk)
   - [Notary Public in Pompano Beach, FL: Jenny Joan Miralles](https://www.notarydepot.com/jennymiralles)
+  - [Notary Public in Lakewood, CA: jenny ramos](https://www.notarydepot.com/jennyramos)
   - [Notary Public in Tuscaloosa, AL: Jenny Sears](https://www.notarydepot.com/jennysears)
   - [Notary Public in Memphis, TN: Jennifer Williams](https://www.notarydepot.com/jennywms)
   - [Notary Public in Pepperell, MA: Jennifer S Provost](https://www.notarydepot.com/jenprovost)
@@ -7695,4 +7696,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-22T16:40:05Z
+Updated at 2018-03-22T17:00:03Z
