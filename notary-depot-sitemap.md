@@ -2715,7 +2715,7 @@
   - [Notary Public in Calexico, CA: Robert A. Sanchez](https://www.notarydepot.com/bobsono)
   - [Notary Public in Johnstown, OH: Robert Williams](https://www.notarydepot.com/bobtheelder)
   - [Notary Public in Hollywood, FL: Robert S Ynacay Jr](https://www.notarydepot.com/bobynacay)
-  - [Notary Public in Hackettstown, NJ: Wolfgang S. Boernert, P.a.](https://www.notarydepot.com/boernert)
+  - [Notary Public in Hackettstown, NJ: Wolfgang Boernert](https://www.notarydepot.com/boernert)
   - [Notary Public in Hahira, GA: Bonnie L Ely](https://www.notarydepot.com/bonbonely)
   - [Notary Public in Brooksville, FL: Annette Bonetti](https://www.notarydepot.com/bonettia)
   - [Notary Public in Fair Oaks, CA: Norma Salinas-Bonnafon](https://www.notarydepot.com/bonnafonnotary)
@@ -7696,4 +7696,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-23T14:21:03Z
+Updated at 2018-03-23T14:41:03Z
