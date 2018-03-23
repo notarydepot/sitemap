@@ -4498,6 +4498,7 @@
   - [Notary Public in Spencer, IA: Katie Gastelum](https://www.notarydepot.com/kgastelum)
   - [Notary Public in Kansas City, MO: Kenneth B. George](https://www.notarydepot.com/kgmobilenotary)
   - [Notary Public in Palm Bay, FL: Tessa Thomas](https://www.notarydepot.com/khadeshea)
+  - [Notary Public in Dothan, AL: Katrina Hagler](https://www.notarydepot.com/khagler)
   - [Notary Public in Bakersfield, CA: Harcharan Kaur K Singh](https://www.notarydepot.com/khalsanotary)
   - [Notary Public in Largo, FL: Kathleen Christie](https://www.notarydepot.com/khinakat)
   - [Notary Public in Huntington Beach, CA: Kim Hoffman](https://www.notarydepot.com/khoff)
@@ -7696,4 +7697,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-23T15:01:02Z
+Updated at 2018-03-23T15:21:03Z
