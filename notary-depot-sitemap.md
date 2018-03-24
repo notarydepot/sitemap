@@ -3295,6 +3295,7 @@
   - [Notary Public in Matawan, NJ: David Fuhrman](https://www.notarydepot.com/dfuhrman)
   - [Notary Public in Spring Hill, FL: Debra Gabriel](https://www.notarydepot.com/dgabriel)
   - [Notary Public in Orange, CA: Donna Garrett](https://www.notarydepot.com/dgarrett)
+  - [Notary Public in Americus, GA: Dale Caldwell](https://www.notarydepot.com/dgcaldwell10)
   - [Notary Public in Tyler, TX: Deborah Genoway](https://www.notarydepot.com/dgenoway)
   - [Notary Public in CA: Dianna Gonzalez](https://www.notarydepot.com/dgfirstclassnotary)
   - [Notary Public in Castro Valley, CA: Denise Gonsalves](https://www.notarydepot.com/dgonsalves66)
@@ -7697,4 +7698,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-24T01:41:03Z
+Updated at 2018-03-24T02:01:02Z
