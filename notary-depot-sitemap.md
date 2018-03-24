@@ -2930,6 +2930,7 @@
   - [Notary Public in Libby, MT: Sindy Filler](https://www.notarydepot.com/charlotica74)
   - [Notary Public in Bakersfield, CA: Charlotte McCaskill](https://www.notarydepot.com/charlottemcc)
   - [Notary Public in Fort Worth, TX: Charlotte B. Morris](https://www.notarydepot.com/charlottetx)
+  - [Notary Public in Los Angeles, CA: Charmaine A. Groat](https://www.notarydepot.com/charmz67)
   - [Notary Public in Pittsburg, CA: Sindy Hatch](https://www.notarydepot.com/chatch)
   - [Notary Public in Navarre, FL: Katherine A Robinson-Buchanan](https://www.notarydepot.com/chattykathyonwheels)
   - [Notary Public in Irvine, CA: Chris Cooksey](https://www.notarydepot.com/chawk230)
@@ -7698,4 +7699,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-24T05:41:02Z
+Updated at 2018-03-24T06:01:03Z
