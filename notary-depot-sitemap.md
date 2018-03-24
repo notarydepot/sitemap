@@ -2162,6 +2162,7 @@
     - [Notary Public in Madison, WI](https://www.notarydepot.com/notary-near-me/Wisconsin/Madison)
     - [Notary Public in Manitowoc, WI](https://www.notarydepot.com/notary-near-me/Wisconsin/Manitowoc)
     - [Notary Public in Menomonie, WI](https://www.notarydepot.com/notary-near-me/Wisconsin/Menomonie)
+    - [Notary Public in Milton, WI](https://www.notarydepot.com/notary-near-me/Wisconsin/Milton)
     - [Notary Public in Milwaukee, WI](https://www.notarydepot.com/notary-near-me/Wisconsin/Milwaukee)
     - [Notary Public in Minong, WI](https://www.notarydepot.com/notary-near-me/Wisconsin/Minong)
     - [Notary Public in Mukwonago, WI](https://www.notarydepot.com/notary-near-me/Wisconsin/Mukwonago)
@@ -5980,6 +5981,7 @@
   - [Notary Public in Fontana, CA: Elisa Rister](https://www.notarydepot.com/rerister)
   - [Notary Public in Satsuma, AL: Caril L Schultz](https://www.notarydepot.com/res2246)
   - [Notary Public in Murrieta, CA: John C. Villegas](https://www.notarydepot.com/resdive1972)
+  - [Notary Public in Milton, WI: James Myers](https://www.notarydepot.com/retiredarmynotary)
   - [Notary Public in Alamosa, CO: John Bianca](https://www.notarydepot.com/retiredkop)
   - [Notary Public in Chino Valley, AZ: Renee Eubanks](https://www.notarydepot.com/reubanks)
   - [Notary Public in Los Angeles, CA: Reuben Zadeh](https://www.notarydepot.com/reubenzadeh)
@@ -7699,4 +7701,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-24T18:01:03Z
+Updated at 2018-03-24T18:21:03Z
