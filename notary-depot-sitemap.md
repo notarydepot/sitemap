@@ -2023,6 +2023,7 @@
     - [Notary Public in Falls Church, VA](https://www.notarydepot.com/notary-near-me/Virginia/Falls-Church)
     - [Notary Public in Fincastle, VA](https://www.notarydepot.com/notary-near-me/Virginia/Fincastle)
     - [Notary Public in Fredericksburg, VA](https://www.notarydepot.com/notary-near-me/Virginia/Fredericksburg)
+    - [Notary Public in Front Royal, VA](https://www.notarydepot.com/notary-near-me/Virginia/Front-Royal)
     - [Notary Public in Gainesville, VA](https://www.notarydepot.com/notary-near-me/Virginia/Gainesville)
     - [Notary Public in Galax, VA](https://www.notarydepot.com/notary-near-me/Virginia/Galax)
     - [Notary Public in Gloucester Courthouse, VA](https://www.notarydepot.com/notary-near-me/Virginia/Gloucester-Courthouse)
@@ -3892,6 +3893,7 @@
   - [Notary Public in Boyertown, PA: Christine Krause](https://www.notarydepot.com/hillchurchnotary)
   - [Notary Public in Aliso Viejo, CA: Jason Hill](https://www.notarydepot.com/hilljb)
   - [Notary Public in Easton, MA: Michael Marram](https://www.notarydepot.com/historian333)
+  - [Notary Public in Front Royal, VA: Holly Millner](https://www.notarydepot.com/hlmillner)
   - [Notary Public in Lafayette, IN: Brian Stump](https://www.notarydepot.com/hlsindiana)
   - [Notary Public in Columbus, OH: Heather L Thigpen](https://www.notarydepot.com/hltllc)
   - [Notary Public in Selma, CA: Helen Martinez, NNA Certified Notary Signing Agent](https://www.notarydepot.com/hmartinez)
@@ -7701,4 +7703,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-26T20:41:04Z
+Updated at 2018-03-26T21:01:04Z
