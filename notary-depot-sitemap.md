@@ -3982,6 +3982,7 @@
   - [Notary Public in Mesa, AZ: Jackie Figueroa](https://www.notarydepot.com/jackie123f)
   - [Notary Public in Euclid, OH: Jacqueline Hardges](https://www.notarydepot.com/jackieh)
   - [Notary Public in Cape Coral, FL: jacklin JOhns](https://www.notarydepot.com/jacklin)
+  - [Notary Public in Cape Coral, FL: jackie](https://www.notarydepot.com/jacklin12)
   - [Notary Public in Cool, CA: Jack Stephens](https://www.notarydepot.com/jackpar71)
   - [Notary Public in Lancaster, CA: Tammie](https://www.notarydepot.com/jacksonmobilenotary)
   - [Notary Public in Columbus, OH: Jaclyn L. Nelson](https://www.notarydepot.com/jackvince)
@@ -7700,4 +7701,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-26T14:01:02Z
+Updated at 2018-03-26T14:21:03Z
