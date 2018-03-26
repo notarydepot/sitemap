@@ -3378,6 +3378,7 @@
   - [Notary Public in Charlotte, NC: Daniel Nance](https://www.notarydepot.com/dnance01)
   - [Notary Public in Chicago, IL: Dawn Brim](https://www.notarydepot.com/dnb79)
   - [Notary Public in Chicago, IL: Dorothy McKinnie](https://www.notarydepot.com/dnmnotary)
+  - [Notary Public in Saint Paul, MN: Joseph Dobbert](https://www.notarydepot.com/dobbertagency)
   - [Notary Public in Glendale, AZ: Jeffrey](https://www.notarydepot.com/docdrj77)
   - [Notary Public in Phelan, CA: Melinda S. Schumacher](https://www.notarydepot.com/docittome)
   - [Notary Public in Pomona, CA: Betrayn Drinkard](https://www.notarydepot.com/docs2bsigned)
@@ -7703,4 +7704,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-26T22:41:03Z
+Updated at 2018-03-26T23:01:03Z
