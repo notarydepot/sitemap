@@ -2530,7 +2530,6 @@
   - [Notary Public in Matteson, IL: Alar Notary Services](https://www.notarydepot.com/atlantar)
   - [Notary Public in Tampa, FL: Cassandra Michel](https://www.notarydepot.com/atlasdocs)
   - [Notary Public in Portsmouth, VA: Adrian Torres](https://www.notarydepot.com/atorres)
-  - [Notary Public in Allen, TX: Doris McCulloch](https://www.notarydepot.com/atthetoptxnotary)
   - [Notary Public in Washington, DC: Tonya Butler-Truesdale](https://www.notarydepot.com/attytmbt)
   - [Notary Public in Grain Valley, MO: Anita Aubuchon](https://www.notarydepot.com/aubychon)
   - [Notary Public in FL: Audrey Davis](https://www.notarydepot.com/audreydavis)
@@ -4845,6 +4844,7 @@
   - [Notary Public in Downers Grove, IL: Loleta Thomas](https://www.notarydepot.com/loleta)
   - [Notary Public in Stockton, CA: Dolores M. Drullard](https://www.notarydepot.com/lolita)
   - [Notary Public in Lompoc, CA: Joseph L. Carlson](https://www.notarydepot.com/lompocjoe)
+  - [Notary Public in Allen, TX: Doris McCulloch](https://www.notarydepot.com/lonestarnotarypro)
   - [Notary Public in Westbury, NY: William A Walker](https://www.notarydepot.com/longcast)
   - [Notary Public in Brentwood, CA: Doreen Lopinto](https://www.notarydepot.com/lopinto96)
   - [Notary Public in Murrieta, CA: Lora Nasby](https://www.notarydepot.com/loradave)
@@ -7705,4 +7705,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-28T06:41:04Z
+Updated at 2018-03-28T07:01:02Z
