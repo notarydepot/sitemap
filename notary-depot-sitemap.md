@@ -4570,7 +4570,7 @@
   - [Notary Public in Washington Township, NJ: Karen Millen](https://www.notarydepot.com/kmloch)
   - [Notary Public in Clinton, MD: Kamesha Spears](https://www.notarydepot.com/kmsmobilenotarygmailcom)
   - [Notary Public in Lawrenceville, GA: LaSonya Abdallah](https://www.notarydepot.com/kmtnotary)
-  - [Notary Public in Kent, WA: Kim](https://www.notarydepot.com/knelson206)
+  - [Notary Public in Kent, WA: Kim Nelson](https://www.notarydepot.com/knelson206)
   - [Notary Public in Rindge, NH: Lauralei Knight](https://www.notarydepot.com/knightnotary)
   - [Notary Public in Los Angeles, CA: Carla Kemp](https://www.notarydepot.com/kntebiz)
   - [Notary Public in Los Angeles, CA: Amir Tabrizi](https://www.notarydepot.com/kodakmacysplaza)
@@ -7706,4 +7706,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-29T05:21:03Z
+Updated at 2018-03-29T05:41:03Z
