@@ -2937,7 +2937,6 @@
   - [Notary Public in Irvine, CA: Chris Cooksey](https://www.notarydepot.com/chawk230)
   - [Notary Public in Jackson, MS: Cherri A. Hayes](https://www.notarydepot.com/chayes)
   - [Notary Public in Watsonville, CA: Christina Feige](https://www.notarydepot.com/checkmat)
-  - [Notary Public in Monroe, LA: Michelle &quot;Chelle&quot; Lyn Rivers](https://www.notarydepot.com/chelle1024bellsouthnet)
   - [Notary Public in Victorville, CA: Rochelle Johnson](https://www.notarydepot.com/chellietee)
   - [Notary Public in Victorville, CA: Shae Whatley CNSA](https://www.notarydepot.com/chemack)
   - [Notary Public in Warrenton, VA: Cherie Beatty](https://www.notarydepot.com/cherie)
@@ -5153,6 +5152,7 @@
   - [Notary Public in Hammonton, NJ: Michelle Morris](https://www.notarydepot.com/michelle9120)
   - [Notary Public in Salem, NH: Michelle E Montemorra](https://www.notarydepot.com/michelleelise)
   - [Notary Public in Huntersville, NC: Michelle Jones](https://www.notarydepot.com/michellehjones)
+  - [Notary Public in Monroe, LA: Michelle &quot;Chelle&quot; Lyn Rivers](https://www.notarydepot.com/michellemlrsllccom)
   - [Notary Public in Rancho Cucamonga, CA: Michelle Novy](https://www.notarydepot.com/michellenovy)
   - [Notary Public in Midvale, UT: Michelle Winter Anthony](https://www.notarydepot.com/michellesmobilenotaryservices)
   - [Notary Public in Ann Arbor, MI: Patricia Ung](https://www.notarydepot.com/michiganmobilenotary)
@@ -7706,4 +7706,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-29T11:21:03Z
+Updated at 2018-03-29T11:41:03Z
