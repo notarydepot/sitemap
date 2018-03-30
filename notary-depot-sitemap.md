@@ -76,7 +76,6 @@
     - [Notary Public in Anchorage, AK](https://www.notarydepot.com/notary-near-me/Alaska/Anchorage)
     - [Notary Public in Fairbanks, AK](https://www.notarydepot.com/notary-near-me/Alaska/Fairbanks)
   - [Notaries Public in Arizona](https://www.notarydepot.com/notary-near-me/Arizona)
-    - [Notary Public in Avondale, AZ](https://www.notarydepot.com/notary-near-me/Arizona/Avondale)
     - [Notary Public in Buckeye, AZ](https://www.notarydepot.com/notary-near-me/Arizona/Buckeye)
     - [Notary Public in Chandler, AZ](https://www.notarydepot.com/notary-near-me/Arizona/Chandler)
     - [Notary Public in Chino Valley, AZ](https://www.notarydepot.com/notary-near-me/Arizona/Chino-Valley)
@@ -3048,7 +3047,6 @@
   - [Notary Public in Chicago, IL: Constance J. Tucker](https://www.notarydepot.com/constancenchgo)
   - [Notary Public in Cocoa, FL: David Bradley](https://www.notarydepot.com/consultinggroup)
   - [Notary Public in Cincinnati, OH: Susan Schwartz](https://www.notarydepot.com/coolsfancy)
-  - [Notary Public in Avondale, AZ: Guy L Cooper](https://www.notarydepot.com/coop5054)
   - [Notary Public in Sonora, CA: Sera A James](https://www.notarydepot.com/coordinator)
   - [Notary Public in Fort Worth, TX: Corey Milsap](https://www.notarydepot.com/coreymilsap)
   - [Notary Public in Shreveport, LA: Corey D. Williams](https://www.notarydepot.com/coreywilliams)
@@ -7706,4 +7704,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-30T04:21:03Z
+Updated at 2018-03-30T04:41:03Z
