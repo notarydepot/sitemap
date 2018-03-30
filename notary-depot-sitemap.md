@@ -1904,6 +1904,7 @@
     - [Notary Public in Killeen, TX](https://www.notarydepot.com/notary-near-me/Texas/Killeen)
     - [Notary Public in Kingsville, TX](https://www.notarydepot.com/notary-near-me/Texas/Kingsville)
     - [Notary Public in Kountze, TX](https://www.notarydepot.com/notary-near-me/Texas/Kountze)
+    - [Notary Public in La Marque, TX](https://www.notarydepot.com/notary-near-me/Texas/La-Marque)
     - [Notary Public in Laguna Vista, TX](https://www.notarydepot.com/notary-near-me/Texas/Laguna-Vista)
     - [Notary Public in Lake Jackson, TX](https://www.notarydepot.com/notary-near-me/Texas/Lake-Jackson)
     - [Notary Public in Lancaster, TX](https://www.notarydepot.com/notary-near-me/Texas/Lancaster)
@@ -2726,6 +2727,7 @@
   - [Notary Public in Ocala, FL: Diana Schmidt](https://www.notarydepot.com/boopster)
   - [Notary Public in Riverside, CA: Cindy D. Hamilton](https://www.notarydepot.com/bootrell)
   - [Notary Public in Deltona, FL: Sarina Kelly](https://www.notarydepot.com/bosslady)
+  - [Notary Public in La Marque, TX: Ceratha Henderson](https://www.notarydepot.com/bottomlinenotary)
   - [Notary Public in Suncook, NH: David P Boucher](https://www.notarydepot.com/boucher03275)
   - [Notary Public in South Orange, NJ: Duane Mccalla](https://www.notarydepot.com/boxx)
   - [Notary Public in Bristol, TN: Beth K. Palin, J.D.](https://www.notarydepot.com/bpalin)
@@ -7704,4 +7706,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-30T18:41:03Z
+Updated at 2018-03-30T19:01:03Z
