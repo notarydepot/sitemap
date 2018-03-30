@@ -6169,6 +6169,7 @@
   - [Notary Public in Gig Harbor, WA: David Morse](https://www.notarydepot.com/samfbm)
   - [Notary Public in Colorado Springs, CO: Sam Lucas](https://www.notarydepot.com/samlucas)
   - [Notary Public in San Jose, CA: Sheila Meinecke](https://www.notarydepot.com/samri)
+  - [Notary Public in Elk Grove, CA: Sam M.](https://www.notarydepot.com/samsnotaryca)
   - [Notary Public in Exton, PA: Nora Sanchez-Prado](https://www.notarydepot.com/sanchen)
   - [Notary Public in Lynwood, CA: Vanessa Sanchez](https://www.notarydepot.com/sanchez1829)
   - [Notary Public in Warminster, PA: Janine Sanders](https://www.notarydepot.com/sandersmobilenotary)
@@ -7706,4 +7707,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-30T19:21:02Z
+Updated at 2018-03-30T19:41:03Z
