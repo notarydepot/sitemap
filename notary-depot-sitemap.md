@@ -1684,6 +1684,7 @@
     - [Notary Public in Harrisburg, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Harrisburg)
     - [Notary Public in Hatfield, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Hatfield)
     - [Notary Public in Hazleton, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Hazleton)
+    - [Notary Public in Hokendauqua, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Hokendauqua)
     - [Notary Public in Holtwood, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Holtwood)
     - [Notary Public in Homer City, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Homer-City)
     - [Notary Public in Irwin, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Irwin)
@@ -2195,6 +2196,7 @@
   - [Notary Public in CA: Carmina Alvarez](https://www.notarydepot.com/1carmina)
   - [Notary Public in Washington, DC: Corie Bryant](https://www.notarydepot.com/1enterprise)
   - [Notary Public in Applegate, CA: Terry Scott](https://www.notarydepot.com/1speedynotary)
+  - [Notary Public in Hokendauqua, PA: zachary henninger](https://www.notarydepot.com/2020visionsignings)
   - [Notary Public in Hanford, CA: Hope Hernandez](https://www.notarydepot.com/2443hope)
   - [Notary Public in Auburn, WA: Traci S. Felton](https://www.notarydepot.com/247travelingnotaryservice)
   - [Notary Public in San Bernardino, CA: Anthony Jones](https://www.notarydepot.com/24hourmobilenotary)
@@ -7707,4 +7709,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-03-31T12:41:03Z
+Updated at 2018-03-31T13:01:02Z
