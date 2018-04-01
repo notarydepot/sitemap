@@ -186,7 +186,6 @@
     - [Notary Public in Chula Vista, CA](https://www.notarydepot.com/notary-near-me/California/Chula-Vista)
     - [Notary Public in Citrus Heights, CA](https://www.notarydepot.com/notary-near-me/California/Citrus-Heights)
     - [Notary Public in Claremont, CA](https://www.notarydepot.com/notary-near-me/California/Claremont)
-    - [Notary Public in Clearlake, CA](https://www.notarydepot.com/notary-near-me/California/Clearlake)
     - [Notary Public in Cloverdale, CA](https://www.notarydepot.com/notary-near-me/California/Cloverdale)
     - [Notary Public in Clovis, CA](https://www.notarydepot.com/notary-near-me/California/Clovis)
     - [Notary Public in Coalinga, CA](https://www.notarydepot.com/notary-near-me/California/Coalinga)
@@ -264,6 +263,7 @@
     - [Notary Public in Irvine, CA](https://www.notarydepot.com/notary-near-me/California/Irvine)
     - [Notary Public in Jamul, CA](https://www.notarydepot.com/notary-near-me/California/Jamul)
     - [Notary Public in Jurupa Valley, CA](https://www.notarydepot.com/notary-near-me/California/Jurupa-Valley)
+    - [Notary Public in Kelseyville, CA](https://www.notarydepot.com/notary-near-me/California/Kelseyville)
     - [Notary Public in Kentfield, CA](https://www.notarydepot.com/notary-near-me/California/Kentfield)
     - [Notary Public in La Mesa, CA](https://www.notarydepot.com/notary-near-me/California/La-Mesa)
     - [Notary Public in La Mirada, CA](https://www.notarydepot.com/notary-near-me/California/La-Mirada)
@@ -4645,7 +4645,7 @@
   - [Notary Public in Huntington Beach, CA: Leigh Ann Gilmore](https://www.notarydepot.com/lag911)
   - [Notary Public in Wichita, KS: Lila Hall](https://www.notarydepot.com/lahallsign)
   - [Notary Public in Starke, FL: Robert William Rehberg](https://www.notarydepot.com/lakebutler52)
-  - [Notary Public in Clearlake, CA: Julie Richardson](https://www.notarydepot.com/lakecountynotary)
+  - [Notary Public in Kelseyville, CA: Julie Richardson](https://www.notarydepot.com/lakecountynotary)
   - [Notary Public in Greenville, SC: Brenda Owen Wedding Officiant &amp; Minister](https://www.notarydepot.com/lakesidenotary)
   - [Notary Public in Lake Worth, FL: Barry Glassgold](https://www.notarydepot.com/lakeworthmobilenotary)
   - [Notary Public in Beverly Hills, CA: Ljjkl](https://www.notarydepot.com/lalala)
@@ -7709,4 +7709,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-04-01T18:01:03Z
+Updated at 2018-04-01T18:21:02Z
