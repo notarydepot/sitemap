@@ -6687,6 +6687,7 @@
   - [Notary Public in San Diego, CA: Lois Downing](https://www.notarydepot.com/thenotarygal)
   - [Notary Public in Stockton, CA: R. Garrett](https://www.notarydepot.com/thenotarygeek)
   - [Notary Public in Tampa, FL: Theresa Hense](https://www.notarydepot.com/thense)
+  - [Notary Public in Irvine, CA: The OC Notary](https://www.notarydepot.com/theocnotary1)
   - [Notary Public in Dubuque, IA: Theresa Engelke](https://www.notarydepot.com/theresa01)
   - [Notary Public in Oakley, CA: Therese Burgueno](https://www.notarydepot.com/therese)
   - [Notary Public in Santa Ana, CA: Therese Marie Kortesmaki ](https://www.notarydepot.com/theresekort)
@@ -7709,4 +7710,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-04-02T19:41:03Z
+Updated at 2018-04-02T20:01:03Z
