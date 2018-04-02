@@ -4244,6 +4244,7 @@
   - [Notary Public in Santa Rosa, CA: Joyce Marie Rehkugler](https://www.notarydepot.com/jmrehkugler)
   - [Notary Public in McKinney, TX: Jeanine M Roach](https://www.notarydepot.com/jmroach)
   - [Notary Public in Los Angeles, CA: Jonathan Ward](https://www.notarydepot.com/jmwardnotary)
+  - [Notary Public in Lewiston, ID: Jason E Nichols](https://www.notarydepot.com/jn1030)
   - [Notary Public in Middle Island, NY: Jenni Nin](https://www.notarydepot.com/jnin)
   - [Notary Public in Hannibal, MO: JNelle Lee](https://www.notarydepot.com/jnschafer)
   - [Notary Public in Bay Shore, NY: Joanna Loughlin](https://www.notarydepot.com/jo1124)
@@ -7710,4 +7711,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-04-02T22:01:03Z
+Updated at 2018-04-02T22:21:03Z
