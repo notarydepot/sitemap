@@ -1986,7 +1986,6 @@
     - [Notary Public in Mona, UT](https://www.notarydepot.com/notary-near-me/Utah/Mona)
     - [Notary Public in Orem, UT](https://www.notarydepot.com/notary-near-me/Utah/Orem)
     - [Notary Public in Price, UT](https://www.notarydepot.com/notary-near-me/Utah/Price)
-    - [Notary Public in Provo, UT](https://www.notarydepot.com/notary-near-me/Utah/Provo)
     - [Notary Public in Salt Lake City, UT](https://www.notarydepot.com/notary-near-me/Utah/Salt-Lake-City)
     - [Notary Public in Sandy, UT](https://www.notarydepot.com/notary-near-me/Utah/Sandy)
     - [Notary Public in Springville, UT](https://www.notarydepot.com/notary-near-me/Utah/Springville)
@@ -6881,7 +6880,7 @@
   - [Notary Public in Pennsauken Township, NJ: Carmen Jimenez](https://www.notarydepot.com/user126257)
   - [Notary Public in Orem, UT: Clark Veylupek](https://www.notarydepot.com/utahclark)
   - [Notary Public in Salt Lake City, UT: Matt Lloyd](https://www.notarydepot.com/utahnotary)
-  - [Notary Public in Provo, UT: Dan Lopez](https://www.notarydepot.com/utahnotarydan)
+  - [Notary Public in Orem, UT: Dan Lopez](https://www.notarydepot.com/utahnotarydan)
   - [Notary Public in Opa-locka, FL: Valarie Ellis](https://www.notarydepot.com/valariellis)
   - [Notary Public in Londonderry, NH: Valerie Dotson](https://www.notarydepot.com/valdotson)
   - [Notary Public in Fort Lauderdale, FL: Cristina Valencia](https://www.notarydepot.com/valenciacris)
@@ -7713,4 +7712,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-04-03T14:01:03Z
+Updated at 2018-04-03T14:21:03Z
