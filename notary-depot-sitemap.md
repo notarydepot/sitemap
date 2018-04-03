@@ -4754,7 +4754,6 @@
   - [Notary Public in Oxon Hill, MD: Lawanna Harrod](https://www.notarydepot.com/lharrod)
   - [Notary Public in Roanoke, TX: Lisa J. Harrow](https://www.notarydepot.com/lharrow)
   - [Notary Public in Fontana, CA: Leslie Hawkins](https://www.notarydepot.com/lhawk)
-  - [Notary Public in Riverview, FL: Lashonda Holmes](https://www.notarydepot.com/lholmes)
   - [Notary Public in Jamison, PA: Pam Lacey](https://www.notarydepot.com/lhpromotions)
   - [Notary Public in Escondido, CA: Larry Houston Richards](https://www.notarydepot.com/lhrich)
   - [Notary Public in Irvine, CA: Trevor Liang](https://www.notarydepot.com/liangt1987)
@@ -5846,6 +5845,7 @@
   - [Notary Public in Houston, TX: Bernadette Duffey](https://www.notarydepot.com/precision)
   - [Notary Public in Godfrey, IL: Teresa Mc Hugh](https://www.notarydepot.com/precisionlandresearch)
   - [Notary Public in Los Angeles, CA: Orlando R](https://www.notarydepot.com/premiermobilenotary)
+  - [Notary Public in Riverview, FL: Lashonda Holmes](https://www.notarydepot.com/premierpromise)
   - [Notary Public in Virginia Beach, VA: Paulette Cordes](https://www.notarydepot.com/premiumnotaryservices)
   - [Notary Public in Chino, CA: Lenise Ortiz](https://www.notarydepot.com/prestigeloansigning)
   - [Notary Public in Hollywood, FL: Daisy O&#39;Brien](https://www.notarydepot.com/prestigenotaryservices)
@@ -7713,4 +7713,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-04-03T17:22:03Z
+Updated at 2018-04-03T17:42:04Z
