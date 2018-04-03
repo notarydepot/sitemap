@@ -3523,7 +3523,7 @@
   - [Notary Public in Los Angeles, CA: Eleana Burroughs 818.335.6567](https://www.notarydepot.com/eleanabb)
   - [Notary Public in Los Angeles, CA: Eleana Burroughs 818.335.6567](https://www.notarydepot.com/eleanabe)
   - [Notary Public in Santa Clarita, CA: Eleana Burroughs 818.335.6567](https://www.notarydepot.com/eleanabl)
-  - [Notary Public in Brea, CA: Lynita Scott](https://www.notarydepot.com/elegantnotary)
+  - [Notary Public in Chino Hills, CA: Lynita Scott](https://www.notarydepot.com/elegantnotary)
   - [Notary Public in CA: Elena Togoe](https://www.notarydepot.com/elena052560)
   - [Notary Public in Petersburg, VA: Thelma E Johnson](https://www.notarydepot.com/elena23805)
   - [Notary Public in Chino Hills, CA: Kim Pitts](https://www.notarydepot.com/elijah99)
@@ -7713,4 +7713,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-04-03T15:42:03Z
+Updated at 2018-04-03T16:02:02Z
