@@ -5773,6 +5773,7 @@
   - [Notary Public in Savage, MN: John Wilson CNSA](https://www.notarydepot.com/peanut20)
   - [Notary Public in Dothan, AL: Cassandra Hart](https://www.notarydepot.com/peetee4u)
   - [Notary Public in Virginia Beach, VA: Peggy Dollison](https://www.notarydepot.com/peggyd01)
+  - [Notary Public in Rocky Point, NC: Barbara A Hardin](https://www.notarydepot.com/penderredhed)
   - [Notary Public in DeLand, FL: PennNotary](https://www.notarydepot.com/pennnotary)
   - [Notary Public in Charlotte, NC: Penny Cothran](https://www.notarydepot.com/pennycothran)
   - [Notary Public in Thompson&#39;s Station, TN: Penny Bowhall](https://www.notarydepot.com/pennysrockinb)
@@ -7712,4 +7713,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-04-03T14:42:24Z
+Updated at 2018-04-03T15:02:02Z
