@@ -5451,7 +5451,6 @@
   - [Notary Public in Pompano Beach, FL: Nadine Grant-Murray](https://www.notarydepot.com/ngrant)
   - [Notary Public in Ormond Beach, FL: Nicole Greear](https://www.notarydepot.com/ngreear34)
   - [Notary Public in Plano, TX: Nhi Le](https://www.notarydepot.com/nhile)
-  - [Notary Public in Snellville, GA: Nathaleen Hylton](https://www.notarydepot.com/nhylton)
   - [Notary Public in Chester, NH: Arica Gee](https://www.notarydepot.com/nh_notary)
   - [Notary Public in Deerfield, NH: Paul Cooper](https://www.notarydepot.com/nh_processing)
   - [Notary Public in Tampa, FL: Nicholas J Menard](https://www.notarydepot.com/nickthenotary)
@@ -7714,4 +7713,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-04-04T22:02:03Z
+Updated at 2018-04-04T22:22:02Z
