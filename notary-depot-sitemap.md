@@ -2508,6 +2508,7 @@
   - [Notary Public in Dallas, TX: Saheed Aiyeojenku](https://www.notarydepot.com/asaheed)
   - [Notary Public in Atlanta, GA: Eric McLean](https://www.notarydepot.com/asapnote)
   - [Notary Public in Stone Mountain, GA: Asap Professional Services](https://www.notarydepot.com/asapproservices)
+  - [Notary Public in Sicklerville, NJ: April Hughes](https://www.notarydepot.com/asapsignings)
   - [Notary Public in West Palm Beach, FL: Ashley carpenter](https://www.notarydepot.com/ashleyagent)
   - [Notary Public in Vancouver, WA: Angela Arnett](https://www.notarydepot.com/ashleyarnett)
   - [Notary Public in Mobile, AL: Ashley Atkinson, CSA](https://www.notarydepot.com/ashleyatkinson)
@@ -7713,4 +7714,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-04-04T18:02:03Z
+Updated at 2018-04-04T18:22:02Z
