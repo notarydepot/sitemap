@@ -3829,6 +3829,7 @@
   - [Notary Public in Port Townsend, WA: Naomi Mitchell](https://www.notarydepot.com/gypsynotary)
   - [Notary Public in Richardson, TX: Glenda Y. Roberts](https://www.notarydepot.com/gyroberts)
   - [Notary Public in Murrieta, CA: Karissa](https://www.notarydepot.com/g_w_loan_services)
+  - [Notary Public in DeLand, FL: Diana Lynn Tafoya](https://www.notarydepot.com/h1962)
   - [Notary Public in Pasadena, CA: Hauoli Smith](https://www.notarydepot.com/h20kanewa)
   - [Notary Public in Boston, MA: Kevin Ho](https://www.notarydepot.com/hackhoe)
   - [Notary Public in Norwalk, CA: Hackzell Jaime](https://www.notarydepot.com/hackzell)
@@ -7712,4 +7713,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-04-08T09:43:03Z
+Updated at 2018-04-08T10:03:02Z
