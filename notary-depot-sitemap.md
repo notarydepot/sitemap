@@ -1174,6 +1174,7 @@
     - [Notary Public in Cameron, MO](https://www.notarydepot.com/notary-near-me/Missouri/Cameron)
     - [Notary Public in Chesterfield, MO](https://www.notarydepot.com/notary-near-me/Missouri/Chesterfield)
     - [Notary Public in Cleveland, MO](https://www.notarydepot.com/notary-near-me/Missouri/Cleveland)
+    - [Notary Public in Collins, MO](https://www.notarydepot.com/notary-near-me/Missouri/Collins)
     - [Notary Public in Columbia, MO](https://www.notarydepot.com/notary-near-me/Missouri/Columbia)
     - [Notary Public in Dexter, MO](https://www.notarydepot.com/notary-near-me/Missouri/Dexter)
     - [Notary Public in Elk Creek, MO](https://www.notarydepot.com/notary-near-me/Missouri/Elk-Creek)
@@ -1182,7 +1183,6 @@
     - [Notary Public in Florissant, MO](https://www.notarydepot.com/notary-near-me/Missouri/Florissant)
     - [Notary Public in Grain Valley, MO](https://www.notarydepot.com/notary-near-me/Missouri/Grain-Valley)
     - [Notary Public in Hannibal, MO](https://www.notarydepot.com/notary-near-me/Missouri/Hannibal)
-    - [Notary Public in Hawk Point, MO](https://www.notarydepot.com/notary-near-me/Missouri/Hawk-Point)
     - [Notary Public in Independence, MO](https://www.notarydepot.com/notary-near-me/Missouri/Independence)
     - [Notary Public in Jefferson City, MO](https://www.notarydepot.com/notary-near-me/Missouri/Jefferson-City)
     - [Notary Public in Joplin, MO](https://www.notarydepot.com/notary-near-me/Missouri/Joplin)
@@ -4159,7 +4159,7 @@
   - [Notary Public in Altamonte Springs, FL: Gerardo Martinez](https://www.notarydepot.com/jerry2000)
   - [Notary Public in Lawton, OK: Jerry E. Kinsey Jr.](https://www.notarydepot.com/jerry957)
   - [Notary Public in Palm Coast, FL: Gerald Fuller](https://www.notarydepot.com/jerryfuller_1)
-  - [Notary Public in Hawk Point, MO: Jerry O Thompson](https://www.notarydepot.com/jerryothompsonreagancom)
+  - [Notary Public in Collins, MO: Jerry O Thompson](https://www.notarydepot.com/jerryothompsonreagancom)
   - [Notary Public in Sarasota, FL: Jerry Hoey](https://www.notarydepot.com/jerry_hoey)
   - [Notary Public in Kingsville, TX: Diana C. Miller](https://www.notarydepot.com/jesamlee)
   - [Notary Public in Bellflower, CA: Jessica](https://www.notarydepot.com/jessica)
@@ -7714,4 +7714,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-04-09T15:43:03Z
+Updated at 2018-04-09T16:03:02Z
