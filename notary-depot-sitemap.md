@@ -5474,6 +5474,7 @@
   - [Notary Public in Sicklerville, NJ: Leah Archer](https://www.notarydepot.com/nj856notary)
   - [Notary Public in Sandpoint, ID: Nora Kedish](https://www.notarydepot.com/njkwork)
   - [Notary Public in Toms River, NJ: Constance Santo](https://www.notarydepot.com/njnotaryexpress)
+  - [Notary Public in Trenton, NJ: Photios Pantzos](https://www.notarydepot.com/njnotaryexpressnj)
   - [Notary Public in Clearwater, FL: Norma J. Smith](https://www.notarydepot.com/njsmith)
   - [Notary Public in Hollywood, FL: Natasha Kendrick](https://www.notarydepot.com/nkendrick12)
   - [Notary Public in Santa Monica, CA: Nancy Kim](https://www.notarydepot.com/nkim7)
@@ -7714,4 +7715,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-04-09T19:43:03Z
+Updated at 2018-04-09T20:03:02Z
