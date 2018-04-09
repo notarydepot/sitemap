@@ -6373,7 +6373,6 @@
   - [Notary Public in Nederland, TX: Pamela Lemell](https://www.notarydepot.com/signingsetx)
   - [Notary Public in West Hartford, CT: Twila McKinney](https://www.notarydepot.com/signmeup)
   - [Notary Public in Stockbridge, GA: Nicola Holsey](https://www.notarydepot.com/signright)
-  - [Notary Public in Simi Valley, CA: Christine Togerson](https://www.notarydepot.com/signrighthere)
   - [Notary Public in San Diego, CA: Charlie Atalig](https://www.notarydepot.com/signsd)
   - [Notary Public in Eugene, OR: Donna Locke](https://www.notarydepot.com/sigtogo)
   - [Notary Public in Queen Creek, AZ: David J. Silver](https://www.notarydepot.com/silverkid)
@@ -7715,4 +7714,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-04-09T21:03:03Z
+Updated at 2018-04-09T21:23:02Z
