@@ -5050,7 +5050,7 @@
   - [Notary Public in New Orleans, LA: Zarul W Lodwick](https://www.notarydepot.com/maumus1225)
   - [Notary Public in Traverse City, MI: Maureen Rozmus](https://www.notarydepot.com/maureen)
   - [Notary Public in NJ: Shabana Sathe](https://www.notarydepot.com/mausam35)
-  - [Notary Public in Gig Harbor, WA: mavi macfarlane](https://www.notarydepot.com/mavimacfarlane)
+  - [Notary Public in Gig Harbor, WA: Mavi  Macfarlane](https://www.notarydepot.com/mavimacfarlane)
   - [Notary Public in Houston, TX: Micquel Wheat](https://www.notarydepot.com/mawheat)
   - [Notary Public in Oceanside, CA: Maximino John DelValle](https://www.notarydepot.com/maxandmichel)
   - [Notary Public in Sequim, WA: VCM](https://www.notarydepot.com/maxwelllegal)
@@ -7714,4 +7714,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-04-10T15:23:02Z
+Updated at 2018-04-10T15:43:02Z
