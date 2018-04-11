@@ -3014,6 +3014,7 @@
   - [Notary Public in Sault Ste. Marie, MI: Cynthia L. Lewis](https://www.notarydepot.com/clewis)
   - [Notary Public in Joliet, IL: Jeff Clark](https://www.notarydepot.com/clienteleservices)
   - [Notary Public in Sonoma, CA: Clive Prasad](https://www.notarydepot.com/clivep)
+  - [Notary Public in Orange Park, FL: Carla Lomack](https://www.notarydepot.com/clomack)
   - [Notary Public in Decatur, AL: Angela C. Griffin](https://www.notarydepot.com/closingpro)
   - [Notary Public in Memphis, TN: Tarsha Moore](https://www.notarydepot.com/closings4hire)
   - [Notary Public in Florence, OR: Craig Solomon](https://www.notarydepot.com/cls241)
@@ -7716,4 +7717,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-04-11T20:43:03Z
+Updated at 2018-04-11T21:03:02Z
