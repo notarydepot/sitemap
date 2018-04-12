@@ -3638,6 +3638,7 @@
   - [Notary Public in Fredericksburg, VA: cheryl struzik](https://www.notarydepot.com/fenix07)
   - [Notary Public in Rancho Mirage, CA: Fernando Jimenez](https://www.notarydepot.com/ferjim)
   - [Notary Public in Fernley, NV: Lindsey Opperman](https://www.notarydepot.com/fernleynotary)
+  - [Notary Public in Tallahassee, FL: Fritznel Estimond](https://www.notarydepot.com/festimond)
   - [Notary Public in Culver City, CA: Fredrica Fowle](https://www.notarydepot.com/ffowle)
   - [Notary Public in Big Pine Key, FL: F. Crystal Iannetta](https://www.notarydepot.com/fiannetta2)
   - [Notary Public in Bowie, MD: Denise Hayden](https://www.notarydepot.com/finelinesv)
@@ -7717,4 +7718,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-04-12T12:43:03Z
+Updated at 2018-04-12T13:03:02Z
