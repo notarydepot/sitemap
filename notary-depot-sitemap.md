@@ -2638,7 +2638,6 @@
   - [Notary Public in Alachua, FL: Joan Bergadine](https://www.notarydepot.com/bergadine)
   - [Notary Public in Danese, WV: Roseann Berry](https://www.notarydepot.com/berryr)
   - [Notary Public in Moody, AL: Shev Singleton](https://www.notarydepot.com/bestcloser)
-  - [Notary Public in Gainesville, FL: Bradford S MarElia](https://www.notarydepot.com/bestclosercoxnet)
   - [Notary Public in West Palm Beach, FL: Betania Valente Nassar](https://www.notarydepot.com/betaniavalente)
   - [Notary Public in Myrtle Creek, OR: Bethany H. Peterman](https://www.notarydepot.com/bethany)
   - [Notary Public in Cape Coral, FL: B. L. Devlin](https://www.notarydepot.com/bettdev)
@@ -7078,6 +7077,7 @@
   - [Notary Public in Sebastian, FL: Manuel Sanchez](https://www.notarydepot.com/zacarias)
   - [Notary Public in Downey, CA: Zalynda Shields](https://www.notarydepot.com/zalynda)
   - [Notary Public in East Brunswick, NJ: George Bandy](https://www.notarydepot.com/zamankeid)
+  - [Notary Public in Gainesville, FL: Bradford S MarElia](https://www.notarydepot.com/zbestcloser)
   - [Notary Public in Cocoa, FL: Christina Ryder](https://www.notarydepot.com/zcar2375)
   - [Notary Public in Tenino, WA: Zeke Akins](https://www.notarydepot.com/zekeakins)
   - [Notary Public in Apopka, FL: Zelithez Lorenzo](https://www.notarydepot.com/zelithez)
@@ -7718,4 +7718,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-04-12T17:43:02Z
+Updated at 2018-04-12T18:03:02Z
