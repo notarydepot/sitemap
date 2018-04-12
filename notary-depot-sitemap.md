@@ -3320,7 +3320,7 @@
   - [Notary Public in Philadelphia, PA: Diane Benson](https://www.notarydepot.com/dianeb)
   - [Notary Public in Raymond, WA: Diane A Brown](https://www.notarydepot.com/dianebrown)
   - [Notary Public in Glendale, AZ: Dianna Baker](https://www.notarydepot.com/dianna)
-  - [Notary Public in North Richland Hills, TX: Dianna L Hanson, CNSA](https://www.notarydepot.com/diannahanson)
+  - [Notary Public in North Richland Hills, TX: Dianna L. Hanson](https://www.notarydepot.com/diannahanson)
   - [Notary Public in Daytona Beach, FL: Dianna Glover](https://www.notarydepot.com/diannalg55)
   - [Notary Public in Simpsonville, KY: Dianna Walbeck-Green](https://www.notarydepot.com/diannawgreen)
   - [Notary Public in Gaithersburg, MD: Katherine Diaz](https://www.notarydepot.com/diazkat)
@@ -3898,6 +3898,7 @@
   - [Notary Public in Boyertown, PA: Christine Krause](https://www.notarydepot.com/hillchurchnotary)
   - [Notary Public in Aliso Viejo, CA: Jason Hill](https://www.notarydepot.com/hilljb)
   - [Notary Public in Easton, MA: Michael Marram](https://www.notarydepot.com/historian333)
+  - [Notary Public in Pearland, TX: Herman ](https://www.notarydepot.com/hjlucas)
   - [Notary Public in Front Royal, VA: Holly Millner](https://www.notarydepot.com/hlmillner)
   - [Notary Public in Lafayette, IN: Brian Stump](https://www.notarydepot.com/hlsindiana)
   - [Notary Public in Columbus, OH: Heather L Thigpen](https://www.notarydepot.com/hltllc)
@@ -7718,4 +7719,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-04-12T18:03:02Z
+Updated at 2018-04-12T18:23:02Z
