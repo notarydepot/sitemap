@@ -6821,6 +6821,7 @@
   - [Notary Public in Morrisonville, NY: Tricia Hendrix-Miner](https://www.notarydepot.com/triciaminer)
   - [Notary Public in Glendale, CA: Trina Robinson](https://www.notarydepot.com/trinarobinson)
   - [Notary Public in Hamilton, OH: Trina Thomas](https://www.notarydepot.com/trina_thomas)
+  - [Notary Public in Cary, NC: Davonda Takita Boone](https://www.notarydepot.com/triparknotary)
   - [Notary Public in Rockledge, FL: Mary Kammerer](https://www.notarydepot.com/trish11760)
   - [Notary Public in Hamburg, NY: John Duffy](https://www.notarydepot.com/trithon)
   - [Notary Public in Lewiston, ID: Tammy Nichols](https://www.notarydepot.com/trnichols)
@@ -7722,4 +7723,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-04-13T23:03:02Z
+Updated at 2018-04-13T23:23:03Z
