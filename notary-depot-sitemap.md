@@ -5654,6 +5654,7 @@
   - [Notary Public in Montrose, AL: Necole Snider](https://www.notarydepot.com/nsnider1970)
   - [Notary Public in San Jose, CA: Kim Nguyen, Certified Signing Agent/Mobile Notary](https://www.notarydepot.com/nstenterprises)
   - [Notary Public in Houston, TX: Natasha Walker](https://www.notarydepot.com/nswalker)
+  - [Notary Public in Plano, TX: Kimberly D. Murray](https://www.notarydepot.com/ntxmobilenotary)
   - [Notary Public in Richmond, VA: Shauna J Murrell](https://www.notarydepot.com/nuattitude)
   - [Notary Public in San Antonio, TX: Sonja S. Koenig](https://www.notarydepot.com/nubianqueen08)
   - [Notary Public in New Windsor, NY: Colleen Nugent](https://www.notarydepot.com/nugentca)
@@ -7722,4 +7723,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-04-15T22:23:02Z
+Updated at 2018-04-15T22:43:02Z
