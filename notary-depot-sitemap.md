@@ -3611,6 +3611,7 @@
   - [Notary Public in Brookfield, WI: Express Notary and Closing Services, Llc](https://www.notarydepot.com/expressncs)
   - [Notary Public in Perris, CA: Wendy M. Waits](https://www.notarydepot.com/eyeore)
   - [Notary Public in Corpus Christi, TX: Juanita Maria Lamas](https://www.notarydepot.com/ezclosing)
+  - [Notary Public in West Covina, CA: Richard Lee](https://www.notarydepot.com/eznotaryla)
   - [Notary Public in Fresno, CA: Esmeralda Pumarejo](https://www.notarydepot.com/ezzie)
   - [Notary Public in White Plains, NY: Tiffany Choice](https://www.notarydepot.com/fairechoice)
   - [Notary Public in Riverview, FL: Falicia Lisa Newsome](https://www.notarydepot.com/falicia)
@@ -7723,4 +7724,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-04-17T05:43:03Z
+Updated at 2018-04-17T06:03:03Z
