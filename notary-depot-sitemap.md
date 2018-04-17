@@ -3945,6 +3945,7 @@
   - [Notary Public in Glendora, CA: Helene Cortez](https://www.notarydepot.com/ihguardipee)
   - [Notary Public in Carlsbad, CA: Ilima Martinez](https://www.notarydepot.com/ilimakm)
   - [Notary Public in Whittier, CA: Paula Bautista](https://www.notarydepot.com/imboss6)
+  - [Notary Public in Miami, FL: Diana Perez](https://www.notarydepot.com/imdependable)
   - [Notary Public in Sacramento, CA: Derrick M Bulaich](https://www.notarydepot.com/imobilenotary)
   - [Notary Public in Riverside, CA: Yvonne N. Gow](https://www.notarydepot.com/inapinch)
   - [Notary Public in Santa Rosa, CA: In Black &amp; White Mobile Notary Services](https://www.notarydepot.com/inbwmobile)
@@ -7724,4 +7725,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-04-17T14:43:03Z
+Updated at 2018-04-17T15:03:03Z
