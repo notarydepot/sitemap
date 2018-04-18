@@ -85,6 +85,7 @@
     - [Notary Public in Gilbert, AZ](https://www.notarydepot.com/notary-near-me/Arizona/Gilbert)
     - [Notary Public in Glendale, AZ](https://www.notarydepot.com/notary-near-me/Arizona/Glendale)
     - [Notary Public in Goodyear, AZ](https://www.notarydepot.com/notary-near-me/Arizona/Goodyear)
+    - [Notary Public in Kingman, AZ](https://www.notarydepot.com/notary-near-me/Arizona/Kingman)
     - [Notary Public in Lake Havasu City, AZ](https://www.notarydepot.com/notary-near-me/Arizona/Lake-Havasu-City)
     - [Notary Public in Litchfield Park, AZ](https://www.notarydepot.com/notary-near-me/Arizona/Litchfield-Park)
     - [Notary Public in Maricopa, AZ](https://www.notarydepot.com/notary-near-me/Arizona/Maricopa)
@@ -3672,6 +3673,7 @@
   - [Notary Public in Cleveland, OH: May Cauley](https://www.notarydepot.com/focusnotaries)
   - [Notary Public in Muskegon, MI: Ashley Forrest](https://www.notarydepot.com/forresttax)
   - [Notary Public in Trout Run, PA: Nelson Forsburg](https://www.notarydepot.com/forsburgnotary)
+  - [Notary Public in Kingman, AZ: Corey ](https://www.notarydepot.com/forthepeoplemobilenotary)
   - [Notary Public in Palm Bay, FL: Joseph M Marsala](https://www.notarydepot.com/fountain174)
   - [Notary Public in Naples, FL: Debra Bondi](https://www.notarydepot.com/fourteenkarat)
   - [Notary Public in Livermore, CA: Tawny Kotla](https://www.notarydepot.com/foxytk30)
@@ -7725,4 +7727,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-04-18T17:23:02Z
+Updated at 2018-04-18T17:43:03Z
