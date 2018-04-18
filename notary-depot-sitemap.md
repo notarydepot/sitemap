@@ -1172,6 +1172,7 @@
     - [Notary Public in Bethany, MO](https://www.notarydepot.com/notary-near-me/Missouri/Bethany)
     - [Notary Public in Blue Springs, MO](https://www.notarydepot.com/notary-near-me/Missouri/Blue-Springs)
     - [Notary Public in Cameron, MO](https://www.notarydepot.com/notary-near-me/Missouri/Cameron)
+    - [Notary Public in Cape Girardeau, MO](https://www.notarydepot.com/notary-near-me/Missouri/Cape-Girardeau)
     - [Notary Public in Chesterfield, MO](https://www.notarydepot.com/notary-near-me/Missouri/Chesterfield)
     - [Notary Public in Cleveland, MO](https://www.notarydepot.com/notary-near-me/Missouri/Cleveland)
     - [Notary Public in Collins, MO](https://www.notarydepot.com/notary-near-me/Missouri/Collins)
@@ -3621,6 +3622,7 @@
   - [Notary Public in Lincoln, CA: Fara Smith](https://www.notarydepot.com/farasmith)
   - [Notary Public in Nazareth, PA: Cindy Rodenbough](https://www.notarydepot.com/farmview)
   - [Notary Public in Plano, TX: Fasihuddin Qureshi](https://www.notarydepot.com/fasihuddin)
+  - [Notary Public in Cape Girardeau, MO: Sharon Stanley](https://www.notarydepot.com/fastactionnotary)
   - [Notary Public in Crestline, CA: Roberta (Gigi) Bannister](https://www.notarydepot.com/fastelk)
   - [Notary Public in Ames, IA: Mike Williams](https://www.notarydepot.com/fatdaddy)
   - [Notary Public in Maumee, OH: Janet Faunce](https://www.notarydepot.com/fauncey)
@@ -7725,4 +7727,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-04-18T12:23:03Z
+Updated at 2018-04-18T12:43:02Z
