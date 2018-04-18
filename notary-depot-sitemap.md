@@ -1193,7 +1193,6 @@
     - [Notary Public in Lake Saint Louis, MO](https://www.notarydepot.com/notary-near-me/Missouri/Lake-Saint-Louis)
     - [Notary Public in Lee&#39;s Summit, MO](https://www.notarydepot.com/notary-near-me/Missouri/Lee-s-Summit)
     - [Notary Public in Liberty, MO](https://www.notarydepot.com/notary-near-me/Missouri/Liberty)
-    - [Notary Public in Mexico, MO](https://www.notarydepot.com/notary-near-me/Missouri/Mexico)
     - [Notary Public in Millersville, MO](https://www.notarydepot.com/notary-near-me/Missouri/Millersville)
     - [Notary Public in Mount Vernon, MO](https://www.notarydepot.com/notary-near-me/Missouri/Mount-Vernon)
     - [Notary Public in New London, MO](https://www.notarydepot.com/notary-near-me/Missouri/New-London)
@@ -6285,7 +6284,6 @@
   - [Notary Public in San Antonio, TX: Sylvia Gee](https://www.notarydepot.com/sgeetxnotary)
   - [Notary Public in Yorba Linda, CA: Stella Gonzales](https://www.notarydepot.com/sgonzales)
   - [Notary Public in Lake Benton, MN: Sean Pattison](https://www.notarydepot.com/sgpattison)
-  - [Notary Public in Mexico, MO: Sarah Gruer](https://www.notarydepot.com/sgruer)
   - [Notary Public in Stockton, CA: Sharon Felicity](https://www.notarydepot.com/shafeli12)
   - [Notary Public in Emeryville, CA: Mohammad Malek](https://www.notarydepot.com/shahaib)
   - [Notary Public in Mesquite, TX: Ashish Alexander](https://www.notarydepot.com/shalom7784)
@@ -7727,4 +7725,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-04-18T12:43:02Z
+Updated at 2018-04-18T13:03:02Z
