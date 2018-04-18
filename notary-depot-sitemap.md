@@ -3020,6 +3020,7 @@
   - [Notary Public in Memphis, TN: Tarsha Moore](https://www.notarydepot.com/closings4hire)
   - [Notary Public in Florence, OR: Craig Solomon](https://www.notarydepot.com/cls241)
   - [Notary Public in Woodbridge, VA: Cheryl Simpson](https://www.notarydepot.com/clsimpson)
+  - [Notary Public in Crystal Lake, IL: Andrea Stevenson](https://www.notarydepot.com/clsmobile)
   - [Notary Public in Denham Springs, LA: Catherine Willie](https://www.notarydepot.com/clwillie)
   - [Notary Public in San Jose, CA: Cristian Mairena](https://www.notarydepot.com/cmairena)
   - [Notary Public in Rohnert Park, CA: Celina Bertolina](https://www.notarydepot.com/cmbnotary)
@@ -7727,4 +7728,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-04-18T18:03:02Z
+Updated at 2018-04-18T18:23:03Z
