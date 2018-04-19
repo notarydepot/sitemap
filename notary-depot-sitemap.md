@@ -1080,6 +1080,7 @@
     - [Notary Public in Flushing, MI](https://www.notarydepot.com/notary-near-me/Michigan/Flushing)
     - [Notary Public in Freeland, MI](https://www.notarydepot.com/notary-near-me/Michigan/Freeland)
     - [Notary Public in Gobles, MI](https://www.notarydepot.com/notary-near-me/Michigan/Gobles)
+    - [Notary Public in Grand Blanc, MI](https://www.notarydepot.com/notary-near-me/Michigan/Grand-Blanc)
     - [Notary Public in Grand Rapids, MI](https://www.notarydepot.com/notary-near-me/Michigan/Grand-Rapids)
     - [Notary Public in Grosse Pointe, MI](https://www.notarydepot.com/notary-near-me/Michigan/Grosse-Pointe)
     - [Notary Public in Hillsdale, MI](https://www.notarydepot.com/notary-near-me/Michigan/Hillsdale)
@@ -5779,6 +5780,7 @@
   - [Notary Public in Manvel, TX: Pierre L Chatman Sr](https://www.notarydepot.com/pchatnotary)
   - [Notary Public in Fresno, CA: Pahoua C. Lor](https://www.notarydepot.com/pclor22)
   - [Notary Public in Wylie, TX: Clay Mason](https://www.notarydepot.com/pcmason)
+  - [Notary Public in Grand Blanc, MI: Pamela Dandachi](https://www.notarydepot.com/pdandachi)
   - [Notary Public in Benton Harbor, MI: Pam Dehring](https://www.notarydepot.com/pdehring)
   - [Notary Public in Quincy, FL: Priscilla McGriff](https://www.notarydepot.com/pdmcgriff)
   - [Notary Public in Baldwin, NY: Patrice Peterson](https://www.notarydepot.com/pdpnotaryservices)
@@ -7729,4 +7731,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-04-19T15:43:02Z
+Updated at 2018-04-19T16:03:02Z
