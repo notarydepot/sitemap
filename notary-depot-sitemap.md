@@ -5252,6 +5252,7 @@
   - [Notary Public in Scottsdale, AZ: Judith Blumenthal ](https://www.notarydepot.com/mobilebestnotary)
   - [Notary Public in Fontana, CA: Alicia Venner ](https://www.notarydepot.com/mobileexpressnotary)
   - [Notary Public in Dallas, TX: Shannon Dyson](https://www.notarydepot.com/mobileloancloser)
+  - [Notary Public in Holland, MI: Mary Blowers](https://www.notarydepot.com/mobilemary)
   - [Notary Public in CA: Deborah O. Prideaux](https://www.notarydepot.com/mobilenotary)
   - [Notary Public in Corona, CA: Julia Ortiz, Mobile Notary/Loan Signing Specialist](https://www.notarydepot.com/mobilenotary247)
   - [Notary Public in Elk Grove, CA: Bianca Towns](https://www.notarydepot.com/mobilenotary2me)
@@ -7732,4 +7733,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-04-21T02:03:02Z
+Updated at 2018-04-21T02:23:03Z
