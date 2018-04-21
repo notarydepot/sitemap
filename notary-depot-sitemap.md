@@ -4482,6 +4482,7 @@
   - [Notary Public in Long Beach, CA: Kris De Jesus](https://www.notarydepot.com/kdejesus)
   - [Notary Public in Fort Myers, FL: Kristy Dennison](https://www.notarydepot.com/kdennison)
   - [Notary Public in CA: Kirsten Keating](https://www.notarydepot.com/keatingnotary1)
+  - [Notary Public in Grosse Pointe, MI: Kari Basacchi](https://www.notarydepot.com/kebnotaryservices)
   - [Notary Public in Granite Falls, NC: Bob Taylor](https://www.notarydepot.com/keeanu)
   - [Notary Public in Caledonia, IL: Julianne keeley](https://www.notarydepot.com/keeleynotary)
   - [Notary Public in Fort Lauderdale, FL: June Reid](https://www.notarydepot.com/keelyrich)
@@ -7733,4 +7734,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-04-21T18:23:02Z
+Updated at 2018-04-21T18:43:02Z
