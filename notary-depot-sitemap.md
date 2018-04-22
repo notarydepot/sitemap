@@ -5431,6 +5431,7 @@
   - [Notary Public in Spring, TX: Nathania Naftaly](https://www.notarydepot.com/natiroche)
   - [Notary Public in CA: Tom Heymann](https://www.notarydepot.com/natory)
   - [Notary Public in Fremont, CA: Navdeep Kaur](https://www.notarydepot.com/navdeepkaur)
+  - [Notary Public in Sacramento, CA: naveen kumar](https://www.notarydepot.com/naveenkortagmailcom)
   - [Notary Public in Los Angeles, CA: Navid Pakt](https://www.notarydepot.com/navidy1)
   - [Notary Public in Glendale, CA: Nazeli Khachatryan](https://www.notarydepot.com/nazeli)
   - [Notary Public in Roanoke, VA: Natalie Brown](https://www.notarydepot.com/nb22310)
@@ -7736,4 +7737,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-04-22T23:23:02Z
+Updated at 2018-04-22T23:43:02Z
