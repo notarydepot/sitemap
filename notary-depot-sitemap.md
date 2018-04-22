@@ -831,6 +831,7 @@
     - [Notary Public in Murphysboro, IL](https://www.notarydepot.com/notary-near-me/Illinois/Murphysboro)
     - [Notary Public in Naperville, IL](https://www.notarydepot.com/notary-near-me/Illinois/Naperville)
     - [Notary Public in New Lenox, IL](https://www.notarydepot.com/notary-near-me/Illinois/New-Lenox)
+    - [Notary Public in Normal, IL](https://www.notarydepot.com/notary-near-me/Illinois/Normal)
     - [Notary Public in North Aurora, IL](https://www.notarydepot.com/notary-near-me/Illinois/North-Aurora)
     - [Notary Public in Northbrook, IL](https://www.notarydepot.com/notary-near-me/Illinois/Northbrook)
     - [Notary Public in Oak Forest, IL](https://www.notarydepot.com/notary-near-me/Illinois/Oak-Forest)
@@ -4361,6 +4362,7 @@
   - [Notary Public in Laurys Station, PA: Jennifer Stinnard](https://www.notarydepot.com/jstinnard)
   - [Notary Public in Las Vegas, NV: James Strickland](https://www.notarydepot.com/jstrickland)
   - [Notary Public in Ocala, FL: Jennifer Suarez](https://www.notarydepot.com/jsuarez)
+  - [Notary Public in Normal, IL: Janet Summers](https://www.notarydepot.com/jsummers66)
   - [Notary Public in Chesapeake, VA: Joyce Sutton](https://www.notarydepot.com/jsutton)
   - [Notary Public in Highland, CA: Jennifer R. Teames](https://www.notarydepot.com/jteames)
   - [Notary Public in Phoenix, AZ: Jennifer Thistel](https://www.notarydepot.com/jthistel)
@@ -7734,4 +7736,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-04-22T15:23:03Z
+Updated at 2018-04-22T15:43:03Z
