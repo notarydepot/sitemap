@@ -3796,7 +3796,6 @@
   - [Notary Public in Albany, OR: Laura J Goodwin](https://www.notarydepot.com/goodwinlj)
   - [Notary Public in Ocala, FL: Patrick G. Rodriguez](https://www.notarydepot.com/googoomuck01)
   - [Notary Public in Norfolk, VA: Leigh Mendoza](https://www.notarydepot.com/gopheru)
-  - [Notary Public in Murrieta, CA: Christine Allies](https://www.notarydepot.com/gr8brit)
   - [Notary Public in Stuart, FL: Jg](https://www.notarydepot.com/grabenmj)
   - [Notary Public in Las Vegas, NV: Grace Renshaw, Cnsa, Nna, Background Checked](https://www.notarydepot.com/gracerenshaw)
   - [Notary Public in Dade City, FL: Cheryl Arnold](https://www.notarydepot.com/gramaarnp)
@@ -7737,4 +7736,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-04-26T17:03:02Z
+Updated at 2018-04-26T17:23:02Z
