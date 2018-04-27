@@ -3491,6 +3491,7 @@
   - [Notary Public in Bluff City, TN: Eileen Burke](https://www.notarydepot.com/eburke356)
   - [Notary Public in Los Angeles, CA: Eneetra Gage](https://www.notarydepot.com/ecgage)
   - [Notary Public in Lake Jackson, TX: Denise La Fleur](https://www.notarydepot.com/ecmns)
+  - [Notary Public in Minneapolis, MN: Ebony Pittman](https://www.notarydepot.com/ecpitt07)
   - [Notary Public in NY: Elena J Barrantes](https://www.notarydepot.com/eculnan1)
   - [Notary Public in Grayson, KY: Ralph Justice](https://www.notarydepot.com/ed41143)
   - [Notary Public in Broken Arrow, OK: Eddy Seabolt](https://www.notarydepot.com/eddy1)
@@ -7735,4 +7736,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-04-27T20:04:03Z
+Updated at 2018-04-27T20:24:02Z
