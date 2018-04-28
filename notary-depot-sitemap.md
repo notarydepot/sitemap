@@ -2912,7 +2912,6 @@
   - [Notary Public in Anaheim, CA: Christian Ergueta](https://www.notarydepot.com/cergueta)
   - [Notary Public in Sanford, FL: Christopher Ersson](https://www.notarydepot.com/cersson)
   - [Notary Public in Atlantic Beach, FL: Certified Docs](https://www.notarydepot.com/certifieddocs)
-  - [Notary Public in Syracuse, NY: Carol McBride](https://www.notarydepot.com/certifiednotary22)
   - [Notary Public in Dearborn, MI: Shannon Fields](https://www.notarydepot.com/certifiednotaryshannongmailcom)
   - [Notary Public in Concord, NC: Danielle Moore](https://www.notarydepot.com/certified_notary_orchidone)
   - [Notary Public in Andrews, TX: Erik Wilkinson, Mls](https://www.notarydepot.com/cew1968)
@@ -7736,4 +7735,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-04-28T23:04:02Z
+Updated at 2018-04-28T23:24:02Z
