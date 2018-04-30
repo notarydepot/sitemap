@@ -2640,6 +2640,7 @@
   - [Notary Public in Yulee, FL: Sandra L. Berei](https://www.notarydepot.com/berei)
   - [Notary Public in Alachua, FL: Joan Bergadine](https://www.notarydepot.com/bergadine)
   - [Notary Public in Danese, WV: Roseann Berry](https://www.notarydepot.com/berryr)
+  - [Notary Public in Houston, TX: Brenda Espino](https://www.notarydepot.com/bespino)
   - [Notary Public in Moody, AL: Shev Singleton](https://www.notarydepot.com/bestcloser)
   - [Notary Public in West Palm Beach, FL: Betania Valente Nassar](https://www.notarydepot.com/betaniavalente)
   - [Notary Public in Myrtle Creek, OR: Bethany H. Peterman](https://www.notarydepot.com/bethany)
@@ -7736,4 +7737,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-04-30T20:04:01Z
+Updated at 2018-04-30T20:24:02Z
