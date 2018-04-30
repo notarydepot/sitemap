@@ -5257,6 +5257,7 @@
   - [Notary Public in Holland, MI: Mary Blowers](https://www.notarydepot.com/mobilemary)
   - [Notary Public in CA: Deborah O. Prideaux](https://www.notarydepot.com/mobilenotary)
   - [Notary Public in Corona, CA: Julia Ortiz, Mobile Notary/Loan Signing Specialist](https://www.notarydepot.com/mobilenotary247)
+  - [Notary Public in Harpers Ferry, WV: Candace Rowan](https://www.notarydepot.com/mobilenotary25425)
   - [Notary Public in Elk Grove, CA: Bianca Towns](https://www.notarydepot.com/mobilenotary2me)
   - [Notary Public in Fallon, NV: Greg Anderson](https://www.notarydepot.com/mobilenotarygreg)
   - [Notary Public in San Diego, CA: ronald link](https://www.notarydepot.com/mobilenotaryguy)
@@ -7735,4 +7736,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-04-30T13:04:02Z
+Updated at 2018-04-30T13:24:02Z
