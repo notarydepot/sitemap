@@ -3446,6 +3446,7 @@
   - [Notary Public in Washington, DC: My Dc Notary](https://www.notarydepot.com/dschmerl)
   - [Notary Public in Gaithersburg, MD: Derek Colen](https://www.notarydepot.com/dscolen)
   - [Notary Public in Castro Valley, CA: Denise Seymour](https://www.notarydepot.com/dseymour)
+  - [Notary Public in Houston, TX: D Houston](https://www.notarydepot.com/dshouston15)
   - [Notary Public in Mount Vernon, SD: Debra Koch](https://www.notarydepot.com/dskoch)
   - [Notary Public in Grand Prairie, TX: Desiree S Monday](https://www.notarydepot.com/dsmnotary)
   - [Notary Public in Covington, KY: Di Stamper](https://www.notarydepot.com/dstamper)
@@ -7737,4 +7738,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-05-02T01:24:02Z
+Updated at 2018-05-02T01:44:02Z
