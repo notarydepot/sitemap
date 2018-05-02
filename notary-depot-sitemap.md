@@ -36,6 +36,7 @@
     - [Notary Public in Daphne, AL](https://www.notarydepot.com/notary-near-me/Alabama/Daphne)
     - [Notary Public in Decatur, AL](https://www.notarydepot.com/notary-near-me/Alabama/Decatur)
     - [Notary Public in Dothan, AL](https://www.notarydepot.com/notary-near-me/Alabama/Dothan)
+    - [Notary Public in Eclectic, AL](https://www.notarydepot.com/notary-near-me/Alabama/Eclectic)
     - [Notary Public in Elba, AL](https://www.notarydepot.com/notary-near-me/Alabama/Elba)
     - [Notary Public in Fairhope, AL](https://www.notarydepot.com/notary-near-me/Alabama/Fairhope)
     - [Notary Public in Foley, AL](https://www.notarydepot.com/notary-near-me/Alabama/Foley)
@@ -68,7 +69,6 @@
     - [Notary Public in Semmes, AL](https://www.notarydepot.com/notary-near-me/Alabama/Semmes)
     - [Notary Public in Springville, AL](https://www.notarydepot.com/notary-near-me/Alabama/Springville)
     - [Notary Public in Sterrett, AL](https://www.notarydepot.com/notary-near-me/Alabama/Sterrett)
-    - [Notary Public in Tallassee, AL](https://www.notarydepot.com/notary-near-me/Alabama/Tallassee)
     - [Notary Public in Tuscaloosa, AL](https://www.notarydepot.com/notary-near-me/Alabama/Tuscaloosa)
     - [Notary Public in Tuskegee, AL](https://www.notarydepot.com/notary-near-me/Alabama/Tuskegee)
     - [Notary Public in Weaver, AL](https://www.notarydepot.com/notary-near-me/Alabama/Weaver)
@@ -4958,7 +4958,7 @@
   - [Notary Public in Hialeah, FL: Maria Del Mar Mohammed](https://www.notarydepot.com/madelmar)
   - [Notary Public in La Mesa, CA: Madison Sloan](https://www.notarydepot.com/madisonsloan)
   - [Notary Public in Cottage Grove, WI: Jeremy Teske](https://www.notarydepot.com/madmobnotary)
-  - [Notary Public in Tallassee, AL: Madonna Linville](https://www.notarydepot.com/madonna47)
+  - [Notary Public in Eclectic, AL: Madonna Linville](https://www.notarydepot.com/madonna47)
   - [Notary Public in Jacksonville, FL: Jose R Maestre](https://www.notarydepot.com/maeproser)
   - [Notary Public in NY: Michael Galente](https://www.notarydepot.com/magalente)
   - [Notary Public in West Babylon, NY: Margaret A. Barker](https://www.notarydepot.com/maggie628)
@@ -7739,4 +7739,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-05-02T16:44:03Z
+Updated at 2018-05-02T17:04:02Z
