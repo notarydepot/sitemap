@@ -3770,6 +3770,7 @@
   - [Notary Public in Riverside, CA: Gina Valvo](https://www.notarydepot.com/ginavalvonotary)
   - [Notary Public in Las Vegas, NV: Lori Noon](https://www.notarydepot.com/ginger)
   - [Notary Public in West Sacramento, CA: Giselle Rodriguez](https://www.notarydepot.com/gisell7)
+  - [Notary Public in Pinellas Park, FL: Gongkiet Jasuwan](https://www.notarydepot.com/gjasuwan)
   - [Notary Public in Spring, TX: Gregg Kirby](https://www.notarydepot.com/gkirby28)
   - [Notary Public in Bettendorf, IA: Glen Wooldridge](https://www.notarydepot.com/gknicks)
   - [Notary Public in Knoxville, TN: George L. Bronner](https://www.notarydepot.com/glbronner)
@@ -7739,4 +7740,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-05-03T02:44:03Z
+Updated at 2018-05-03T03:04:03Z
