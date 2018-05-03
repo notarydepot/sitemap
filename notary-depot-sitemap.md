@@ -6111,7 +6111,7 @@
   - [Notary Public in Washington, DC: Alicia A. Sanders-LTP /Certified Signing Agent](https://www.notarydepot.com/rolex0102)
   - [Notary Public in Cleveland, OH: Brian J Cimperman](https://www.notarydepot.com/rollincloser)
   - [Notary Public in North Richland Hills, TX: Abid Masood](https://www.notarydepot.com/rolopolo)
-  - [Notary Public in Reno, NV: Theresa A Shannon-Laiolo](https://www.notarydepot.com/roly001)
+  - [Notary Public in Reno, NV: Theresa A Shannon](https://www.notarydepot.com/roly001)
   - [Notary Public in Costa Mesa, CA: Roma San Antonio](https://www.notarydepot.com/romabinh)
   - [Notary Public in Chicago, IL: Desiree Roman](https://www.notarydepot.com/romanendeavors)
   - [Notary Public in Russellville, AR: Ronald D. Hall](https://www.notarydepot.com/ronaldhall)
@@ -7742,4 +7742,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-05-03T14:44:02Z
+Updated at 2018-05-03T15:04:02Z
