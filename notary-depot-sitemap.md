@@ -5686,6 +5686,7 @@
   - [Notary Public in Las Vegas, NV: Natasha A. Laramore](https://www.notarydepot.com/nvnsa)
   - [Notary Public in Lakeland, FL: Nancy J. Witt](https://www.notarydepot.com/nwitt)
   - [Notary Public in Auburn, WA: Nw Local Notary](https://www.notarydepot.com/nwlocalnotary)
+  - [Notary Public in Toledo, OH: Shelly Mowery](https://www.notarydepot.com/nwohionotary)
   - [Notary Public in Rochester, NY: Donna Leonardo](https://www.notarydepot.com/nyclosingandnotaryservice)
   - [Notary Public in Oswego, NY: Amy Cote](https://www.notarydepot.com/nynotary474)
   - [Notary Public in NY: Thomas Chad Vetsch](https://www.notarydepot.com/nynotaryinc)
@@ -7748,4 +7749,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-05-04T17:44:02Z
+Updated at 2018-05-04T18:04:02Z
