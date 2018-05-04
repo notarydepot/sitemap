@@ -329,6 +329,7 @@
     - [Notary Public in Oakland, CA](https://www.notarydepot.com/notary-near-me/California/Oakland)
     - [Notary Public in Oakley, CA](https://www.notarydepot.com/notary-near-me/California/Oakley)
     - [Notary Public in Oceanside, CA](https://www.notarydepot.com/notary-near-me/California/Oceanside)
+    - [Notary Public in Olivehurst, CA](https://www.notarydepot.com/notary-near-me/California/Olivehurst)
     - [Notary Public in Ontario, CA](https://www.notarydepot.com/notary-near-me/California/Ontario)
     - [Notary Public in Orange, CA](https://www.notarydepot.com/notary-near-me/California/Orange)
     - [Notary Public in Orangevale, CA](https://www.notarydepot.com/notary-near-me/California/Orangevale)
@@ -5199,6 +5200,7 @@
   - [Notary Public in San Ramon, CA: Bruce David Horti](https://www.notarydepot.com/millionaire)
   - [Notary Public in Hollywood, FL: Milton Ramirez](https://www.notarydepot.com/miltinote)
   - [Notary Public in South Lyon, MI: Sheri Lynn Prielipp-Falzone](https://www.notarydepot.com/mimcam2)
+  - [Notary Public in Olivehurst, CA: Mindi Whittaker](https://www.notarydepot.com/mindithenotary)
   - [Notary Public in Vancouver, WA: Mindy smith](https://www.notarydepot.com/mindyjo2)
   - [Notary Public in Lacey, WA: Jennifer M. Bravo](https://www.notarydepot.com/minijenn)
   - [Notary Public in Cairo, IL: Rev. Marshall Van Deusen](https://www.notarydepot.com/ministervandeusen)
@@ -7745,4 +7747,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-05-04T03:24:03Z
+Updated at 2018-05-04T03:44:03Z
