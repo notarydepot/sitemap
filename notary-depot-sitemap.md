@@ -3873,6 +3873,7 @@
   - [Notary Public in Litchfield Park, AZ: Kelly](https://www.notarydepot.com/hasslefreenotary)
   - [Notary Public in Moreno Valley, CA: Hatice Emanet](https://www.notarydepot.com/hatice)
   - [Notary Public in Anaheim, CA: Hatice Emanet](https://www.notarydepot.com/hattie)
+  - [Notary Public in Grants Pass, OR: Peggy Mazziotti](https://www.notarydepot.com/havestampwilltravel)
   - [Notary Public in Cleveland, MO: Theresa Hawkins](https://www.notarydepot.com/hawkins)
   - [Notary Public in Plainfield, NJ: Clarissa Hawkins](https://www.notarydepot.com/hawkinsnotary)
   - [Notary Public in Medford, OR: Hilda Pantoja](https://www.notarydepot.com/hbpantoja)
@@ -7749,4 +7750,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-05-06T03:24:03Z
+Updated at 2018-05-06T03:44:03Z
