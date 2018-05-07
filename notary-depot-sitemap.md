@@ -2464,6 +2464,7 @@
   - [Notary Public in Pounding Mill, VA: Mary Starling](https://www.notarydepot.com/anniesone)
   - [Notary Public in Irvine, CA: Annie Kim](https://www.notarydepot.com/annieyukim)
   - [Notary Public in San Antonio, TX: Annie Cazarez](https://www.notarydepot.com/annie_oakley_sa)
+  - [Notary Public in Lake Forest, CA: Ann Marie Nugent](https://www.notarydepot.com/annmariethesealingnotary)
   - [Notary Public in Stuart, FL: Ann M McLaughlin, Mba](https://www.notarydepot.com/annmclaughlin)
   - [Notary Public in Crawfordville, FL: Ann Trim](https://www.notarydepot.com/anntrim)
   - [Notary Public in Overland Park, KS: Julie B. Dailey, E.a., KCMobileNotary.com](https://www.notarydepot.com/anotablenotary)
@@ -7751,4 +7752,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-05-07T22:24:01Z
+Updated at 2018-05-07T22:44:02Z
