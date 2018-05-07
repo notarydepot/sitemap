@@ -4602,6 +4602,7 @@
   - [Notary Public in Wenatchee, WA: Kori Stuber](https://www.notarydepot.com/kori)
   - [Notary Public in Orange, CA: Korrine Simon](https://www.notarydepot.com/korrinesimon)
   - [Notary Public in Reedsburg, WI: Kara Olson Sullivan](https://www.notarydepot.com/kosullivanaway)
+  - [Notary Public in Piqua, OH: Kristine Pence](https://www.notarydepot.com/kpence70)
   - [Notary Public in Jacksonville, FL: Kiala Pigott](https://www.notarydepot.com/kpnotary_)
   - [Notary Public in San Antonio, FL: Kelly Carroll](https://www.notarydepot.com/kpondillo)
   - [Notary Public in Jacksonville, FL: Krystal Powell](https://www.notarydepot.com/kpowell0219)
@@ -7750,4 +7751,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-05-07T18:04:02Z
+Updated at 2018-05-07T18:24:03Z
