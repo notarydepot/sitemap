@@ -2673,7 +2673,7 @@
   - [Notary Public in Oil City, PA: Allegheny Notary Service LLC](https://www.notarydepot.com/bigkevinr)
   - [Notary Public in Fort Washington, MD: Lemar Creel](https://www.notarydepot.com/biglc)
   - [Notary Public in Las Cruces, NM: Daryl Brown](https://www.notarydepot.com/bigpoppa58)
-  - [Notary Public in Freeport, NY: Sandra Bigelow](https://www.notarydepot.com/bigs1212)
+  - [Notary Public in Freeport, NY: Sandra J Bigelow](https://www.notarydepot.com/bigs1212)
   - [Notary Public in Grand Prairie, TX: Lidia Molina](https://www.notarydepot.com/bilingualnotary)
   - [Notary Public in Vallejo, CA: William Hertan Iii](https://www.notarydepot.com/bill)
   - [Notary Public in Owenton, KY: William P. O&#39;Banion](https://www.notarydepot.com/billyo)
@@ -7750,4 +7750,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-05-07T15:24:03Z
+Updated at 2018-05-07T15:44:02Z
