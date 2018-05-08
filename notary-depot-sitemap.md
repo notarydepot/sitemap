@@ -6332,7 +6332,6 @@
   - [Notary Public in McAlester, OK: Sharell Collins](https://www.notarydepot.com/sharelllarae)
   - [Notary Public in Elora, TN: Shari Hayden Eliff](https://www.notarydepot.com/sharihayden)
   - [Notary Public in Puyallup, WA: Mark](https://www.notarydepot.com/sharkmon)
-  - [Notary Public in Houston, TX: Sharnele Holland](https://www.notarydepot.com/sharnelemack17)
   - [Notary Public in Lawrenceburg, IN: Sharon McClure](https://www.notarydepot.com/sharonmcclure)
   - [Notary Public in Pensacola, FL: Sharon Miller](https://www.notarydepot.com/sharonmiller)
   - [Notary Public in Toms River, NJ: Sharon Palombi](https://www.notarydepot.com/sharonp)
@@ -6468,6 +6467,7 @@
   - [Notary Public in Sacramento, CA: Shaharzen Milsap](https://www.notarydepot.com/smilsap)
   - [Notary Public in Ridgeland, MS: Taunya Smith ](https://www.notarydepot.com/smithtaxprep)
   - [Notary Public in Vancouver, WA: A Notary Service](https://www.notarydepot.com/smitty)
+  - [Notary Public in Manteca, CA: Jenee Selsor](https://www.notarydepot.com/smobilenotary)
   - [Notary Public in Albany, NY: Leslie P. Robinson](https://www.notarydepot.com/smplythbest1)
   - [Notary Public in Buena Park, CA: Sonja M Rule](https://www.notarydepot.com/smrules1)
   - [Notary Public in Tampa, FL: Sharon M Niblack](https://www.notarydepot.com/smstarkes)
@@ -7754,4 +7754,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-05-08T21:04:03Z
+Updated at 2018-05-08T21:24:02Z
