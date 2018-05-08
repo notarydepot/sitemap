@@ -948,6 +948,7 @@
     - [Notary Public in Shepherdsville, KY](https://www.notarydepot.com/notary-near-me/Kentucky/Shepherdsville)
     - [Notary Public in Simpsonville, KY](https://www.notarydepot.com/notary-near-me/Kentucky/Simpsonville)
     - [Notary Public in Somerset, KY](https://www.notarydepot.com/notary-near-me/Kentucky/Somerset)
+    - [Notary Public in Stanford, KY](https://www.notarydepot.com/notary-near-me/Kentucky/Stanford)
     - [Notary Public in Williamstown, KY](https://www.notarydepot.com/notary-near-me/Kentucky/Williamstown)
     - [Notary Public in Winchester, KY](https://www.notarydepot.com/notary-near-me/Kentucky/Winchester)
   - [Notaries Public in Louisiana](https://www.notarydepot.com/notary-near-me/Louisiana)
@@ -2368,6 +2369,7 @@
   - [Notary Public in Southfield, MI: Allison Maxwell](https://www.notarydepot.com/allisonm)
   - [Notary Public in NJ: Allison McCafferty](https://www.notarydepot.com/allisonnj)
   - [Notary Public in Manhattan, MT: April Lucore-Christensen](https://www.notarydepot.com/allnotaryservices)
+  - [Notary Public in Stanford, KY: Robin](https://www.notarydepot.com/allrightnotary)
   - [Notary Public in Carlsbad, CA: Autumn Marie Soto](https://www.notarydepot.com/allstarnotary)
   - [Notary Public in Venice, FL: Dawn Biel](https://www.notarydepot.com/allygatorzz)
   - [Notary Public in Clearfield, UT: Allyn Draper](https://www.notarydepot.com/allyndraper)
@@ -7752,4 +7754,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-05-08T03:24:03Z
+Updated at 2018-05-08T03:44:03Z
