@@ -4196,8 +4196,8 @@
   - [Notary Public in Fort Wayne, IN: Jessica Baker](https://www.notarydepot.com/jesskbaker)
   - [Notary Public in Calexico, CA: Jesus Alanis](https://www.notarydepot.com/jesusalan)
   - [Notary Public in Rochester, NY: Julie B. Vella](https://www.notarydepot.com/jewelsb)
-  - [Notary Public in Oberlin, OH: Fijabi Julien-Gallam](https://www.notarydepot.com/jfc)
   - [Notary Public in Fresno, TX: Jacqueline Clinton](https://www.notarydepot.com/jfclinton)
+  - [Notary Public in Oberlin, OH: Fijabi Julien-Gallam](https://www.notarydepot.com/jfcnotary)
   - [Notary Public in Fresno, TX: Jacqueline Clinton](https://www.notarydepot.com/jfcwilliams)
   - [Notary Public in Pompano Beach, FL: Judy Ferris, CPA](https://www.notarydepot.com/jferris)
   - [Notary Public in Baton Rouge, LA: Janet Lee French](https://www.notarydepot.com/jfsobers)
@@ -7753,4 +7753,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-05-09T15:44:02Z
+Updated at 2018-05-09T16:04:05Z
