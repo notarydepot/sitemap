@@ -834,7 +834,6 @@
     - [Notary Public in New Lenox, IL](https://www.notarydepot.com/notary-near-me/Illinois/New-Lenox)
     - [Notary Public in Normal, IL](https://www.notarydepot.com/notary-near-me/Illinois/Normal)
     - [Notary Public in North Aurora, IL](https://www.notarydepot.com/notary-near-me/Illinois/North-Aurora)
-    - [Notary Public in Northbrook, IL](https://www.notarydepot.com/notary-near-me/Illinois/Northbrook)
     - [Notary Public in Oak Forest, IL](https://www.notarydepot.com/notary-near-me/Illinois/Oak-Forest)
     - [Notary Public in Oak Lawn, IL](https://www.notarydepot.com/notary-near-me/Illinois/Oak-Lawn)
     - [Notary Public in Oak Park, IL](https://www.notarydepot.com/notary-near-me/Illinois/Oak-Park)
@@ -4088,7 +4087,7 @@
   - [Notary Public in Middletown, IN: Jayson M. Reist](https://www.notarydepot.com/jayson)
   - [Notary Public in New Britain, CT: Jazmin Flecha Ouellette](https://www.notarydepot.com/jaz)
   - [Notary Public in Corpus Christi, TX: Julie A. Zepeda](https://www.notarydepot.com/jazepeda)
-  - [Notary Public in Northbrook, IL: Josh Baim](https://www.notarydepot.com/jbaimnotary)
+  - [Notary Public in Buffalo Grove, IL: Josh Baim](https://www.notarydepot.com/jbaimnotary)
   - [Notary Public in Snohomish, WA: Julie A. Barrans](https://www.notarydepot.com/jbarrans)
   - [Notary Public in Arkadelphia, AR: Johnnie Dunn](https://www.notarydepot.com/jbdunn1)
   - [Notary Public in Cape Coral, FL: Julie A Bensel](https://www.notarydepot.com/jbensel)
@@ -7754,4 +7753,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-05-09T14:44:02Z
+Updated at 2018-05-09T15:04:03Z
