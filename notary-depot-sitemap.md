@@ -159,6 +159,7 @@
     - [Notary Public in Bellflower, CA](https://www.notarydepot.com/notary-near-me/California/Bellflower)
     - [Notary Public in Benicia, CA](https://www.notarydepot.com/notary-near-me/California/Benicia)
     - [Notary Public in Berkeley, CA](https://www.notarydepot.com/notary-near-me/California/Berkeley)
+    - [Notary Public in Bermuda Dunes, CA](https://www.notarydepot.com/notary-near-me/California/Bermuda-Dunes)
     - [Notary Public in Beverly Hills, CA](https://www.notarydepot.com/notary-near-me/California/Beverly-Hills)
     - [Notary Public in Big Bear, CA](https://www.notarydepot.com/notary-near-me/California/Big-Bear)
     - [Notary Public in Big Bear Lake, CA](https://www.notarydepot.com/notary-near-me/California/Big-Bear-Lake)
@@ -5519,6 +5520,7 @@
   - [Notary Public in New Britain, CT: Nicole Marie Tine](https://www.notarydepot.com/nmtine4)
   - [Notary Public in Hollywood, FL: Nick Nikolaidis](https://www.notarydepot.com/nnickolas)
   - [Notary Public in Louisville, KY: Peggy Dockery](https://www.notarydepot.com/noblenotaries)
+  - [Notary Public in Bermuda Dunes, CA: Maria Lozano](https://www.notarydepot.com/noblenotary)
   - [Notary Public in Piedmont, AL: Twyla Baggett](https://www.notarydepot.com/nokisi)
   - [Notary Public in Woodland, CA: Deanna Petersen](https://www.notarydepot.com/norcalnsa)
   - [Notary Public in MA: noreen manzo](https://www.notarydepot.com/noreenmanzo)
@@ -7754,4 +7756,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-05-10T17:04:02Z
+Updated at 2018-05-10T17:24:06Z
