@@ -5199,6 +5199,7 @@
   - [Notary Public in Roseville, CA: Michael Rudkosky Ii](https://www.notarydepot.com/mikey24242)
   - [Notary Public in Tustin, CA: Michael L Hofacre](https://www.notarydepot.com/mike_hofacre)
   - [Notary Public in Hearne, TX: Sandra Moten](https://www.notarydepot.com/milajnotary)
+  - [Notary Public in Cleveland, TN: April Miles ](https://www.notarydepot.com/miles1422)
   - [Notary Public in Sacramento, CA: Tobias Scott](https://www.notarydepot.com/milesbenedicene)
   - [Notary Public in Royersford, PA: Sherry L. Miller](https://www.notarydepot.com/miller68)
   - [Notary Public in San Ramon, CA: Bruce David Horti](https://www.notarydepot.com/millionaire)
@@ -7753,4 +7754,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-05-10T15:24:02Z
+Updated at 2018-05-10T15:44:02Z
