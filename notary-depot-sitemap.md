@@ -2380,6 +2380,7 @@
   - [Notary Public in Dallas, TX: Amanda Russell](https://www.notarydepot.com/alrussell)
   - [Notary Public in Fort Wayne, IN: Amy Schiltz](https://www.notarydepot.com/alschiltz)
   - [Notary Public in Jackson, GA: Charles Alston](https://www.notarydepot.com/alstreal)
+  - [Notary Public in Altadena, CA: Pamela McKinney](https://www.notarydepot.com/altapasanotary)
   - [Notary Public in Tampa, FL: Julissa Alvarez](https://www.notarydepot.com/alvarez8533)
   - [Notary Public in Ionia, MI: Alice L. Samani-zozo](https://www.notarydepot.com/alzsamani)
   - [Notary Public in Elkton, MD: Ann Marie Williams](https://www.notarydepot.com/am24wnotarydepot)
@@ -7756,4 +7757,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-05-10T20:24:02Z
+Updated at 2018-05-10T20:44:02Z
