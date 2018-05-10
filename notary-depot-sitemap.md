@@ -1143,6 +1143,7 @@
     - [Notary Public in Savage, MN](https://www.notarydepot.com/notary-near-me/Minnesota/Savage)
     - [Notary Public in Stillwater, MN](https://www.notarydepot.com/notary-near-me/Minnesota/Stillwater)
   - [Notaries Public in Mississippi](https://www.notarydepot.com/notary-near-me/Mississippi)
+    - [Notary Public in Aberdeen, MS](https://www.notarydepot.com/notary-near-me/Mississippi/Aberdeen)
     - [Notary Public in Biloxi, MS](https://www.notarydepot.com/notary-near-me/Mississippi/Biloxi)
     - [Notary Public in Brookhaven, MS](https://www.notarydepot.com/notary-near-me/Mississippi/Brookhaven)
     - [Notary Public in Byram, MS](https://www.notarydepot.com/notary-near-me/Mississippi/Byram)
@@ -2443,6 +2444,7 @@
   - [Notary Public in Franklin, NC: Angela D N Wyatt](https://www.notarydepot.com/angelawyatt79)
   - [Notary Public in Monterey, CA: Patricia E. Gonsalves](https://www.notarydepot.com/angelbabycakes)
   - [Notary Public in Citrus Heights, CA: Angelese](https://www.notarydepot.com/angeleseus)
+  - [Notary Public in Aberdeen, MS: Angel Sawyer](https://www.notarydepot.com/angelsawyer33)
   - [Notary Public in Littlestown, PA: Angel A. Dunchack](https://www.notarydepot.com/angelsdream)
   - [Notary Public in Spring Hill, TN: Dorothy Wincenciak](https://www.notarydepot.com/angelsdw)
   - [Notary Public in Huntington Park, CA: Angelica Baker](https://www.notarydepot.com/angienotary)
@@ -7757,4 +7759,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-05-10T21:04:02Z
+Updated at 2018-05-10T21:24:02Z
