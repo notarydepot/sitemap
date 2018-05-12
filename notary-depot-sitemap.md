@@ -2682,7 +2682,7 @@
   - [Notary Public in Las Cruces, NM: Daryl Brown](https://www.notarydepot.com/bigpoppa58)
   - [Notary Public in Freeport, NY: Sandra J Bigelow](https://www.notarydepot.com/bigs1212)
   - [Notary Public in Grand Prairie, TX: Lidia Molina](https://www.notarydepot.com/bilingualnotary)
-  - [Notary Public in Vallejo, CA: William Hertan Iii](https://www.notarydepot.com/bill)
+  - [Notary Public in Benicia, CA: William Hertan Iii](https://www.notarydepot.com/bill)
   - [Notary Public in Owenton, KY: William P. O&#39;Banion](https://www.notarydepot.com/billyo)
   - [Notary Public in San Diego, CA: William Cademy](https://www.notarydepot.com/bill_c)
   - [Notary Public in Elko, NV: William John Hance](https://www.notarydepot.com/bill_hance)
@@ -7762,4 +7762,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-05-12T18:24:02Z
+Updated at 2018-05-12T18:44:03Z
