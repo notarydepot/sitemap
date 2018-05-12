@@ -916,6 +916,7 @@
   - [Notaries Public in Kansas](https://www.notarydepot.com/notary-near-me/Kansas)
     - [Notary Public in Clearwater, KS](https://www.notarydepot.com/notary-near-me/Kansas/Clearwater)
     - [Notary Public in Holton, KS](https://www.notarydepot.com/notary-near-me/Kansas/Holton)
+    - [Notary Public in Junction City, KS](https://www.notarydepot.com/notary-near-me/Kansas/Junction-City)
     - [Notary Public in Lawrence, KS](https://www.notarydepot.com/notary-near-me/Kansas/Lawrence)
     - [Notary Public in Lyndon, KS](https://www.notarydepot.com/notary-near-me/Kansas/Lyndon)
     - [Notary Public in Manhattan, KS](https://www.notarydepot.com/notary-near-me/Kansas/Manhattan)
@@ -5661,6 +5662,7 @@
   - [Notary Public in Stevensburg, VA: Tammy S. Kelly](https://www.notarydepot.com/notarytammykelly)
   - [Notary Public in Loveland, OH: Tina Butler](https://www.notarydepot.com/notarytb)
   - [Notary Public in Long Beach, CA: Notary Today](https://www.notarydepot.com/notarytoday)
+  - [Notary Public in Junction City, KS: Stacey Richard ](https://www.notarydepot.com/notarytogojc)
   - [Notary Public in Rancho Cordova, CA: UmaVeeravally](https://www.notarydepot.com/notaryuma)
   - [Notary Public in Buena Park, CA: Yuju Chen](https://www.notarydepot.com/notaryuneed)
   - [Notary Public in Salt Lake City, UT: Leslie Johnson](https://www.notarydepot.com/notaryutah)
@@ -7760,4 +7762,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-05-12T16:44:02Z
+Updated at 2018-05-12T17:04:02Z
