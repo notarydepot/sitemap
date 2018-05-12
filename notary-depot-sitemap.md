@@ -4393,6 +4393,7 @@
   - [Notary Public in Summerville, SC: Judy Benton](https://www.notarydepot.com/judytrotter)
   - [Notary Public in Reidsville, GA: Judy Teston](https://www.notarydepot.com/jujubilee)
   - [Notary Public in Union City, CA: Julie Arnold](https://www.notarydepot.com/jules01)
+  - [Notary Public in Garland, TX: Jules Lasater](https://www.notarydepot.com/jules88notary)
   - [Notary Public in New York, NY: Julian L Cole](https://www.notarydepot.com/julianlenworthcole)
   - [Notary Public in Salem, OR: Julie Davis](https://www.notarydepot.com/julied)
   - [Notary Public in Redwood City, CA: Julie Daciuk](https://www.notarydepot.com/juliednotary)
@@ -7759,4 +7760,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-05-12T04:24:02Z
+Updated at 2018-05-12T04:44:02Z
