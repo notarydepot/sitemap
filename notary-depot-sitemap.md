@@ -7048,6 +7048,7 @@
   - [Notary Public in Miami, FL: Willie L. Alston](https://www.notarydepot.com/willalston)
   - [Notary Public in Kissimmee, FL: Shirley Willhide](https://www.notarydepot.com/willhide)
   - [Notary Public in North Babylon, NY: Michael S. Williams](https://www.notarydepot.com/willi1185)
+  - [Notary Public in Willingboro, NJ: Harry D Walker](https://www.notarydepot.com/williadd)
   - [Notary Public in Seminole, FL: William James Kinmonth](https://www.notarydepot.com/william)
   - [Notary Public in Huntington Beach, CA: W](https://www.notarydepot.com/williamk)
   - [Notary Public in Reading, PA: Paula M. Marks](https://www.notarydepot.com/wilma)
@@ -7761,4 +7762,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-05-13T15:04:03Z
+Updated at 2018-05-13T15:24:02Z
