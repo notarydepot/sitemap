@@ -2413,7 +2413,6 @@
   - [Notary Public in Ligonier, PA: Robert Amicone](https://www.notarydepot.com/amisports)
   - [Notary Public in Glen Burnie, MD: LaTrice ](https://www.notarydepot.com/amobilenotary)
   - [Notary Public in Spring Branch, TX: Anglenette Monroe](https://www.notarydepot.com/amonroe)
-  - [Notary Public in Asheville, NC: Michael A. Gelman](https://www.notarydepot.com/amour)
   - [Notary Public in La Mirada, CA: Angela Stuart](https://www.notarydepot.com/amstuart)
   - [Notary Public in Ithaca, NY: Angel M Tompkins](https://www.notarydepot.com/amtompkins)
   - [Notary Public in Jacksonville, FL: Amy Dunaway](https://www.notarydepot.com/amy1705)
@@ -2522,6 +2521,7 @@
   - [Notary Public in Atlanta, GA: Eric McLean](https://www.notarydepot.com/asapnote)
   - [Notary Public in Stone Mountain, GA: Asap Professional Services](https://www.notarydepot.com/asapproservices)
   - [Notary Public in Sicklerville, NJ: April Hughes](https://www.notarydepot.com/asapsignings)
+  - [Notary Public in Asheville, NC: Michael A. Gelman](https://www.notarydepot.com/asheville)
   - [Notary Public in West Palm Beach, FL: Ashley carpenter](https://www.notarydepot.com/ashleyagent)
   - [Notary Public in Vancouver, WA: Angela Arnett](https://www.notarydepot.com/ashleyarnett)
   - [Notary Public in Mobile, AL: Ashley Atkinson, CSA](https://www.notarydepot.com/ashleyatkinson)
@@ -7762,4 +7762,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-05-14T20:25:02Z
+Updated at 2018-05-14T20:45:01Z
