@@ -2818,6 +2818,7 @@
   - [Notary Public in Kearney, MO: Sherri Duncan](https://www.notarydepot.com/bythexco)
   - [Notary Public in Jacksonville, FL: Alicia Fuller](https://www.notarydepot.com/bythexnotary)
   - [Notary Public in Pasco, WA: C](https://www.notarydepot.com/c123anderson)
+  - [Notary Public in San Dimas, CA: lisa bittner](https://www.notarydepot.com/c2csignings)
   - [Notary Public in Redondo Beach, CA: Edith Caceros](https://www.notarydepot.com/cacerose)
   - [Notary Public in Chino Hills, CA: Lita Caddick](https://www.notarydepot.com/caddicksnotary)
   - [Notary Public in Matthews, NC: Henry C. Hicks](https://www.notarydepot.com/cadit)
@@ -7762,4 +7763,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-05-15T15:25:03Z
+Updated at 2018-05-15T15:45:03Z
