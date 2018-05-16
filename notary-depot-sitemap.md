@@ -1098,6 +1098,7 @@
     - [Notary Public in Lambertville, MI](https://www.notarydepot.com/notary-near-me/Michigan/Lambertville)
     - [Notary Public in Lansing, MI](https://www.notarydepot.com/notary-near-me/Michigan/Lansing)
     - [Notary Public in Lapeer, MI](https://www.notarydepot.com/notary-near-me/Michigan/Lapeer)
+    - [Notary Public in Livonia, MI](https://www.notarydepot.com/notary-near-me/Michigan/Livonia)
     - [Notary Public in Macomb, MI](https://www.notarydepot.com/notary-near-me/Michigan/Macomb)
     - [Notary Public in Mancelona, MI](https://www.notarydepot.com/notary-near-me/Michigan/Mancelona)
     - [Notary Public in Montague, MI](https://www.notarydepot.com/notary-near-me/Michigan/Montague)
@@ -4217,6 +4218,7 @@
   - [Notary Public in Roseville, CA: Jennifer Grinder](https://www.notarydepot.com/jgrinder)
   - [Notary Public in Peoria, AZ: Jennifer Hayes](https://www.notarydepot.com/jhayes04)
   - [Notary Public in Santa Ana, CA: James Bergstrom](https://www.notarydepot.com/jhbergstrom)
+  - [Notary Public in Livonia, MI: John Helbling](https://www.notarydepot.com/jhelbling300yahoocom)
   - [Notary Public in NJ: Jennifer Hendy](https://www.notarydepot.com/jhendy)
   - [Notary Public in Gig Harbor, WA: Jessica Tweten](https://www.notarydepot.com/jhicks)
   - [Notary Public in Clermont, FL: Jennifer Hornby](https://www.notarydepot.com/jhornby)
@@ -7765,4 +7767,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-05-16T15:06:02Z
+Updated at 2018-05-16T15:26:07Z
