@@ -4729,6 +4729,7 @@
   - [Notary Public in Orange, CA: Derrick Taberski](https://www.notarydepot.com/lawgnome)
   - [Notary Public in Nashville, TN: LaWon Gladney](https://www.notarydepot.com/lawonnotary)
   - [Notary Public in Orlando, FL: lawsuitfundingfast](https://www.notarydepot.com/lawsuitfundingfast)
+  - [Notary Public in Tallahassee, FL: Lanisha Thornton](https://www.notarydepot.com/lawthorn)
   - [Notary Public in Decatur, GA: Betty Williams-Kirby](https://www.notarydepot.com/lawyer27)
   - [Notary Public in Centreville, VA: Layla L Dillow](https://www.notarydepot.com/laylanii)
   - [Notary Public in Gainesville, VA: Layla Truax](https://www.notarydepot.com/laylatruax)
@@ -7768,4 +7769,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-05-16T19:06:02Z
+Updated at 2018-05-16T19:26:02Z
