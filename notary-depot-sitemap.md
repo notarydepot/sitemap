@@ -1181,6 +1181,7 @@
     - [Notary Public in Cameron, MO](https://www.notarydepot.com/notary-near-me/Missouri/Cameron)
     - [Notary Public in Cape Girardeau, MO](https://www.notarydepot.com/notary-near-me/Missouri/Cape-Girardeau)
     - [Notary Public in Chesterfield, MO](https://www.notarydepot.com/notary-near-me/Missouri/Chesterfield)
+    - [Notary Public in Clayton, MO](https://www.notarydepot.com/notary-near-me/Missouri/Clayton)
     - [Notary Public in Cleveland, MO](https://www.notarydepot.com/notary-near-me/Missouri/Cleveland)
     - [Notary Public in Collins, MO](https://www.notarydepot.com/notary-near-me/Missouri/Collins)
     - [Notary Public in Columbia, MO](https://www.notarydepot.com/notary-near-me/Missouri/Columbia)
@@ -3020,6 +3021,7 @@
   - [Notary Public in Ellenton, FL: Clay Benjamin](https://www.notarydepot.com/claybenjamin)
   - [Notary Public in Sherman, TX: Clay Gilbert](https://www.notarydepot.com/claygilbert)
   - [Notary Public in Dallas, TX: Clay Mason](https://www.notarydepot.com/claym)
+  - [Notary Public in Clayton, MO: Charles Donovan](https://www.notarydepot.com/claytonmobilenotary)
   - [Notary Public in Charlotte, NC: Carrie Leaf](https://www.notarydepot.com/cleaf)
   - [Notary Public in League City, TX: Sonya Bradford](https://www.notarydepot.com/clearnote)
   - [Notary Public in Denver, CO: Akilah Graham - NNA Certified Signing Agent](https://www.notarydepot.com/cleopatra58)
@@ -7763,4 +7765,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-05-16T03:26:01Z
+Updated at 2018-05-16T03:46:03Z
