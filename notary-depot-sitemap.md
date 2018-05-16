@@ -2720,6 +2720,7 @@
   - [Notary Public in Lindley, NY: Barbara J. Miller](https://www.notarydepot.com/bmiller120)
   - [Notary Public in Anderson, IN: Betty Mitchell](https://www.notarydepot.com/bmitchell)
   - [Notary Public in North Port, FL: Brandy Morgan](https://www.notarydepot.com/bmrgn)
+  - [Notary Public in Pompano Beach, FL: Angela Fengler ](https://www.notarydepot.com/bmtnotary)
   - [Notary Public in Holton, KS: Rob Wilson](https://www.notarydepot.com/bnc173)
   - [Notary Public in Los Angeles, CA: Brionna Lewis](https://www.notarydepot.com/bnl80091)
   - [Notary Public in Highland, CA: Nichole Scales](https://www.notarydepot.com/bnlnotary)
@@ -7767,4 +7768,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-05-16T17:46:02Z
+Updated at 2018-05-16T18:06:01Z
