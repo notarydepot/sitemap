@@ -2441,6 +2441,7 @@
   - [Notary Public in Fremont, CA: Angela Lin](https://www.notarydepot.com/angelalin)
   - [Notary Public in Philadelphia, PA: Angel Allan](https://www.notarydepot.com/angelallan)
   - [Notary Public in Redding, CA: Angela R. Mallory](https://www.notarydepot.com/angelamallory)
+  - [Notary Public in Lancaster, TX: Angela Mills](https://www.notarydepot.com/angelamillstxnotary)
   - [Notary Public in League City, TX: Angela R. Carter](https://www.notarydepot.com/angelarc54)
   - [Notary Public in New Palestine, IN: A. N. Spiegel](https://www.notarydepot.com/angelaspiegel)
   - [Notary Public in Franklin, NC: Angela D N Wyatt](https://www.notarydepot.com/angelawyatt79)
@@ -7769,4 +7770,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-05-17T00:06:02Z
+Updated at 2018-05-17T00:26:02Z
