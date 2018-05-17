@@ -5647,6 +5647,7 @@
   - [Notary Public in Gardendale, AL: Christian Chapman ](https://www.notarydepot.com/notaryprossouth)
   - [Notary Public in Anaheim, CA: mariam](https://www.notarydepot.com/notarypublic)
   - [Notary Public in Eastpointe, MI: Angelique](https://www.notarydepot.com/notarypublic4)
+  - [Notary Public in Porterville, CA: MARLO BADILLO](https://www.notarydepot.com/notarypublic559)
   - [Notary Public in Malvern, AR: Laquila Dupree-Lewis](https://www.notarydepot.com/notarypublic72104)
   - [Notary Public in NY: Darlene Thomas](https://www.notarydepot.com/notarypublicdthomas)
   - [Notary Public in Knoxville, TN: Kurt Gross](https://www.notarydepot.com/notarypublictn)
@@ -7769,4 +7770,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-05-17T16:26:02Z
+Updated at 2018-05-17T16:46:02Z
