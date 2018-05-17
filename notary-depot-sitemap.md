@@ -419,7 +419,6 @@
     - [Notary Public in Saratoga, CA](https://www.notarydepot.com/notary-near-me/California/Saratoga)
     - [Notary Public in Seal Beach, CA](https://www.notarydepot.com/notary-near-me/California/Seal-Beach)
     - [Notary Public in Selma, CA](https://www.notarydepot.com/notary-near-me/California/Selma)
-    - [Notary Public in Shasta Lake, CA](https://www.notarydepot.com/notary-near-me/California/Shasta-Lake)
     - [Notary Public in Shingle Springs, CA](https://www.notarydepot.com/notary-near-me/California/Shingle-Springs)
     - [Notary Public in Sierra Madre, CA](https://www.notarydepot.com/notary-near-me/California/Sierra-Madre)
     - [Notary Public in Simi Valley, CA](https://www.notarydepot.com/notary-near-me/California/Simi-Valley)
@@ -5553,7 +5552,7 @@
   - [Notary Public in San Diego, CA: Kerry George](https://www.notarydepot.com/notarizethis)
   - [Notary Public in San Diego, CA: Leigh Walker](https://www.notarydepot.com/notarleigh)
   - [Notary Public in Orlando, FL: Ronda G Veal](https://www.notarydepot.com/notary007)
-  - [Notary Public in Shasta Lake, CA: John K. Wadsworth](https://www.notarydepot.com/notary01)
+  - [Notary Public in Stockton, CA: John K. Wadsworth](https://www.notarydepot.com/notary01)
   - [Notary Public in Bakersfield, CA: Violeta Lopez-Pacheco](https://www.notarydepot.com/notary03)
   - [Notary Public in NY: Harry Singh](https://www.notarydepot.com/notary101)
   - [Notary Public in Fort Worth, TX: Marian Watson](https://www.notarydepot.com/notary2009)
@@ -7770,4 +7769,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-05-17T02:06:02Z
+Updated at 2018-05-17T02:26:02Z
