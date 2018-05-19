@@ -5980,7 +5980,7 @@
   - [Notary Public in Las Vegas, NM: Randy D. Peña](https://www.notarydepot.com/randypena2002)
   - [Notary Public in Miami, FL: Roudy Antenor](https://www.notarydepot.com/rantenor)
   - [Notary Public in Robertsdale, AL: Rosemary Gandy](https://www.notarydepot.com/rasbilling)
-  - [Notary Public in Blissfield, MI: E-z-1 Notary Public/ Closing Agent](https://www.notarydepot.com/rasin)
+  - [Notary Public in Blissfield, MI: E-Z-1 Public Notary Public/ Closing Agent](https://www.notarydepot.com/rasin)
   - [Notary Public in Waimea, HI: Rasquel Featheran](https://www.notarydepot.com/rasquel)
   - [Notary Public in Arcadia, FL: Stacy Jacobson](https://www.notarydepot.com/ravholette)
   - [Notary Public in CA: Ravinder Pilson, Certified Notary Signing Agent](https://www.notarydepot.com/ravinder)
@@ -7768,4 +7768,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-05-19T16:26:02Z
+Updated at 2018-05-19T16:46:02Z
