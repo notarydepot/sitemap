@@ -2519,6 +2519,7 @@
   - [Notary Public in Stone Mountain, GA: Alice Artis-LaBorn](https://www.notarydepot.com/artislaborn)
   - [Notary Public in Paoli, PA: Arthur M Rosenbaum](https://www.notarydepot.com/artrose)
   - [Notary Public in Dallas, TX: Saheed Aiyeojenku](https://www.notarydepot.com/asaheed)
+  - [Notary Public in San Fernando, CA: Maria Diaz](https://www.notarydepot.com/asapnotary)
   - [Notary Public in Atlanta, GA: Eric McLean](https://www.notarydepot.com/asapnote)
   - [Notary Public in Stone Mountain, GA: Asap Professional Services](https://www.notarydepot.com/asapproservices)
   - [Notary Public in Sicklerville, NJ: April Hughes](https://www.notarydepot.com/asapsignings)
@@ -5738,6 +5739,7 @@
   - [Notary Public in Manteca, CA: Otis Millbrook Jr.](https://www.notarydepot.com/omillbro)
   - [Notary Public in Ontario, CA: Andrea Ondatje](https://www.notarydepot.com/ondatjea)
   - [Notary Public in Modesto, CA: Beverly Stokke](https://www.notarydepot.com/ontherunnotary)
+  - [Notary Public in Dallas, TX: Donna Gibson](https://www.notarydepot.com/ontimemobilenotary)
   - [Notary Public in Conroe, TX: Simone Shelton](https://www.notarydepot.com/ontimetosign)
   - [Notary Public in Ocean Park, WA: Gina Depriest](https://www.notarydepot.com/opnotary)
   - [Notary Public in Half Moon Bay, CA: Mrs.Bates](https://www.notarydepot.com/orion)
@@ -7768,4 +7770,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-05-20T17:46:02Z
+Updated at 2018-05-20T18:06:02Z
