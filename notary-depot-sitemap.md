@@ -3950,6 +3950,7 @@
   - [Notary Public in Palm Harbor, FL: John Daniel Manning](https://www.notarydepot.com/hospstwd)
   - [Notary Public in Aurora, CO: Wayne R Morris](https://www.notarydepot.com/housecallsltd)
   - [Notary Public in Bay City, MI: Shirley Houston](https://www.notarydepot.com/houston55)
+  - [Notary Public in Deerfield Beach, FL: HOWARD SILVERSTEIN](https://www.notarydepot.com/howardthenotary)
   - [Notary Public in Ledyard, CT: Howard J. Craig, Jr.](https://www.notarydepot.com/howie35ct)
   - [Notary Public in Escondido, CA: Heather Reinhold](https://www.notarydepot.com/hreinhold)
   - [Notary Public in NY: Cheryl Poccia](https://www.notarydepot.com/hrmobilenotary)
@@ -7773,4 +7774,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-05-21T20:46:01Z
+Updated at 2018-05-21T21:06:02Z
