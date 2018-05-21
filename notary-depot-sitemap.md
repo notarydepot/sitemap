@@ -2591,6 +2591,7 @@
   - [Notary Public in North Little Rock, AR: Barbara Philmon](https://www.notarydepot.com/baphilmon)
   - [Notary Public in Hialeah, FL: Barbara E. Valdes](https://www.notarydepot.com/barbara25)
   - [Notary Public in Las Vegas, NV: Barbara Giglio](https://www.notarydepot.com/barbaragiglio)
+  - [Notary Public in Gadsden, AL: Barbara Jurick](https://www.notarydepot.com/barbarajurick)
   - [Notary Public in San Antonio, TX: Barbara Lane](https://www.notarydepot.com/barbaral)
   - [Notary Public in Vail, AZ: Barbara R. Linker](https://www.notarydepot.com/barbaralca)
   - [Notary Public in Richmond, VA: Barbara Noell Bartek](https://www.notarydepot.com/barbartk)
@@ -7770,4 +7771,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-05-21T03:26:01Z
+Updated at 2018-05-21T03:46:01Z
