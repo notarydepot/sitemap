@@ -1761,6 +1761,7 @@
     - [Notary Public in Willow Grove, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Willow-Grove)
     - [Notary Public in York, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/York)
   - [Notaries Public in Rhode Island](https://www.notarydepot.com/notary-near-me/Rhode-Island)
+    - [Notary Public in Cranston, RI](https://www.notarydepot.com/notary-near-me/Rhode-Island/Cranston)
     - [Notary Public in Providence, RI](https://www.notarydepot.com/notary-near-me/Rhode-Island/Providence)
     - [Notary Public in Warwick, RI](https://www.notarydepot.com/notary-near-me/Rhode-Island/Warwick)
   - [Notaries Public in South Carolina](https://www.notarydepot.com/notary-near-me/South-Carolina)
@@ -2732,7 +2733,7 @@
   - [Notary Public in Fontana, CA: Bobbie L. Moore](https://www.notarydepot.com/bobbiemoore71)
   - [Notary Public in Farmington, MO: Bobbie Suzanne Fitz](https://www.notarydepot.com/bobbiesuzanne)
   - [Notary Public in Yreka, CA: Robert Buker](https://www.notarydepot.com/bobbuker)
-  - [Notary Public in Providence, RI: Allison](https://www.notarydepot.com/bobcat8891)
+  - [Notary Public in Cranston, RI: Allison](https://www.notarydepot.com/bobcat8891)
   - [Notary Public in Senoia, GA: Robert J. Werner](https://www.notarydepot.com/bobsnotary)
   - [Notary Public in Calexico, CA: Robert A. Sanchez](https://www.notarydepot.com/bobsono)
   - [Notary Public in Johnstown, OH: Robert Williams](https://www.notarydepot.com/bobtheelder)
@@ -7771,4 +7772,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-05-21T15:26:02Z
+Updated at 2018-05-21T15:46:02Z
