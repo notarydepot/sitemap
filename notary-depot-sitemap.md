@@ -3341,6 +3341,7 @@
   - [Notary Public in CA: Diane M Alexander](https://www.notarydepot.com/diane319)
   - [Notary Public in Philadelphia, PA: Diane Benson](https://www.notarydepot.com/dianeb)
   - [Notary Public in Raymond, WA: Diane A Brown](https://www.notarydepot.com/dianebrown)
+  - [Notary Public in Farmington, MI: Diane](https://www.notarydepot.com/dianeloansigningexperts)
   - [Notary Public in Glendale, AZ: Dianna Baker](https://www.notarydepot.com/dianna)
   - [Notary Public in North Richland Hills, TX: Dianna L. Hanson](https://www.notarydepot.com/diannahanson)
   - [Notary Public in Daytona Beach, FL: Dianna Glover](https://www.notarydepot.com/diannalg55)
@@ -7772,4 +7773,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-05-21T18:06:02Z
+Updated at 2018-05-21T18:26:02Z
