@@ -5356,7 +5356,7 @@
   - [Notary Public in Towanda, PA: Mary Pierce](https://www.notarydepot.com/mpiercenotary)
   - [Notary Public in Kingston, NY: Francis Smith](https://www.notarydepot.com/mpismith)
   - [Notary Public in Geneva, IL: Heather Smith](https://www.notarydepot.com/mpoppins)
-  - [Notary Public in Anaheim, CA: Maria L. Prado](https://www.notarydepot.com/mprado)
+  - [Notary Public in Perris, CA: Maria L. Prado](https://www.notarydepot.com/mprado)
   - [Notary Public in Los Angeles, CA: Maria Primushko](https://www.notarydepot.com/mprimushko)
   - [Notary Public in Bay City, MI: Mary Jackson](https://www.notarydepot.com/mpsnotary)
   - [Notary Public in Abingdon, MD: Mary P. Staron ~ Ltp](https://www.notarydepot.com/mpstaron)
@@ -7774,4 +7774,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-05-22T22:06:01Z
+Updated at 2018-05-22T22:26:02Z
