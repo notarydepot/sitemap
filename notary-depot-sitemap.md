@@ -5276,7 +5276,6 @@
   - [Notary Public in Springfield, IL: Mary Wyman](https://www.notarydepot.com/mmwyman)
   - [Notary Public in Mount Clemens, MI: Edwina R Nelson](https://www.notarydepot.com/mnelcrew)
   - [Notary Public in Lawrenceville, GA: Lekeshia Williams](https://www.notarydepot.com/mns6882)
-  - [Notary Public in Honolulu, HI: Corinne Dudoit](https://www.notarydepot.com/mnshawaii)
   - [Notary Public in Memphis, TN: Beverly L. Holloway](https://www.notarydepot.com/mnss39)
   - [Notary Public in Milford, KS: Phyllis J. Cook](https://www.notarydepot.com/mobile123)
   - [Notary Public in Chandler, AZ: Martha L Bobzin](https://www.notarydepot.com/mobileaz)
@@ -7774,4 +7773,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-05-23T03:46:02Z
+Updated at 2018-05-23T04:06:02Z
