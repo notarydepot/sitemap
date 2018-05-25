@@ -5530,6 +5530,7 @@
   - [Notary Public in Santa Clarita, CA: Neil Kleeger](https://www.notarydepot.com/nkleeger)
   - [Notary Public in Bushkill, PA: Nancy Korb](https://www.notarydepot.com/nkorb1)
   - [Notary Public in Boise, ID: Nick Alonzo](https://www.notarydepot.com/nlalonzo)
+  - [Notary Public in Chesapeake, VA: Naté Spivey](https://www.notarydepot.com/nlsnotary)
   - [Notary Public in Glendale, AZ: Nancy Lopez](https://www.notarydepot.com/nltays)
   - [Notary Public in Miami, FL: Nancy Mayea](https://www.notarydepot.com/nmayea)
   - [Notary Public in New London, CT: Niecy McCoy](https://www.notarydepot.com/nmccoy317)
@@ -7775,4 +7776,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-05-25T22:26:02Z
+Updated at 2018-05-25T22:46:02Z
