@@ -2712,6 +2712,7 @@
   - [Notary Public in Gilbert, AZ: Barbara Ditler-Gelber](https://www.notarydepot.com/blondebobbi)
   - [Notary Public in Porter, TX: Bobbie Longoria](https://www.notarydepot.com/blongoria)
   - [Notary Public in Waterford, PA: Brenda L Peace](https://www.notarydepot.com/blpnotary)
+  - [Notary Public in Oakland, CA: Bianka Brooks](https://www.notarydepot.com/bluenotenotary)
   - [Notary Public in Memphis, TN: Adam Simpson](https://www.notarydepot.com/bluffcitynotaries)
   - [Notary Public in Bluffton, SC: Ilene Shiansky](https://www.notarydepot.com/blufftonnotary)
   - [Notary Public in Paradise, CA: Mychel Ann Jeffrey](https://www.notarydepot.com/blujade)
@@ -7773,4 +7774,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-05-25T00:06:02Z
+Updated at 2018-05-25T00:26:02Z
