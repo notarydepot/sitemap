@@ -6885,7 +6885,7 @@
   - [Notary Public in Frederick, MD: Patricia W Shadoan](https://www.notarydepot.com/tshadoan)
   - [Notary Public in Leesburg, FL: Terri L Silipo](https://www.notarydepot.com/tsilipo)
   - [Notary Public in Philadelphia, PA: Tanya Solomon](https://www.notarydepot.com/tsolomon2020)
-  - [Notary Public in Hooksett, NH: Tom &amp; Sue Parnell](https://www.notarydepot.com/tsparnell)
+  - [Notary Public in Hooksett, NH: Sue Parnell](https://www.notarydepot.com/tsparnell)
   - [Notary Public in Denton, TX: Todd Spigener](https://www.notarydepot.com/tspigener)
   - [Notary Public in Haltom City, TX: Tony Strubberg](https://www.notarydepot.com/tstrub01)
   - [Notary Public in Bellflower, CA: Tugoa Maria Towles](https://www.notarydepot.com/ttowles)
@@ -7777,4 +7777,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-05-26T02:46:03Z
+Updated at 2018-05-26T03:06:02Z
