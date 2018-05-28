@@ -6215,6 +6215,7 @@
   - [Notary Public in Alcolu, SC: Mary Johnson](https://www.notarydepot.com/sade110)
   - [Notary Public in Middletown, NY: David Green](https://www.notarydepot.com/safenotary)
   - [Notary Public in Jacksonville, FL: Sagitta Woodie](https://www.notarydepot.com/sagitta35)
+  - [Notary Public in San Clemente, CA: Sahil Desai](https://www.notarydepot.com/sahilpdesai)
   - [Notary Public in Newport News, VA: Sheree Jenkins dba SAJ Business Services, LLC](https://www.notarydepot.com/sajbizsvcsllc)
   - [Notary Public in Bakersfield, CA: Sal Avalos](https://www.notarydepot.com/salavalos)
   - [Notary Public in Fort Worth, TX: Valerie Salazar](https://www.notarydepot.com/salazarnotary)
@@ -7774,4 +7775,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-05-28T06:26:03Z
+Updated at 2018-05-28T06:46:01Z
