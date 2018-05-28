@@ -5752,6 +5752,7 @@
   - [Notary Public in San Martin, CA: Laray Ourricariet](https://www.notarydepot.com/ourricariet)
   - [Notary Public in Anaheim, CA: Newness, Inc. * Notary Public* Loan Signing Agent*](https://www.notarydepot.com/overcomersarah)
   - [Notary Public in Morrow, GA: Louis D Martin](https://www.notarydepot.com/ownlee18)
+  - [Notary Public in Homestead, FL: Oswaldo Anglero ](https://www.notarydepot.com/ozzie)
   - [Notary Public in McKinney, TX: Paul Abernathy](https://www.notarydepot.com/pabernathy)
   - [Notary Public in Falls Church, VA: Lijerons Notary Agency](https://www.notarydepot.com/pablonpao85)
   - [Notary Public in Rocky Hill, CT: Patricia A Bradstreet](https://www.notarydepot.com/pabradstreet)
@@ -7774,4 +7775,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-05-28T22:06:02Z
+Updated at 2018-05-28T22:26:02Z
