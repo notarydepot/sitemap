@@ -4458,6 +4458,7 @@
   - [Notary Public in Alvarado, TX: Karen Nolt](https://www.notarydepot.com/karenwho)
   - [Notary Public in Urbandale, IA: Kari Fitzgerrell](https://www.notarydepot.com/karikat)
   - [Notary Public in Coarsegold, CA: Kari Von Wagner](https://www.notarydepot.com/karistonge)
+  - [Notary Public in CA: Karla Jaffe](https://www.notarydepot.com/karlacanotary)
   - [Notary Public in CA: Karla Jaffe](https://www.notarydepot.com/karlaj818)
   - [Notary Public in NJ: Karl Fortsch](https://www.notarydepot.com/karlfortsch)
   - [Notary Public in Houston, TX: Karla A. robinson](https://www.notarydepot.com/karobinson)
@@ -7776,4 +7777,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-05-29T02:26:02Z
+Updated at 2018-05-29T02:46:02Z
