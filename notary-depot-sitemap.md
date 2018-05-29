@@ -2966,7 +2966,6 @@
   - [Notary Public in Greeley, CO: Cherilyn Clark](https://www.notarydepot.com/cherilyn)
   - [Notary Public in Kingsport, TN: Cherie Lavon](https://www.notarydepot.com/cherjer)
   - [Notary Public in Montgomery, AL: Cheryl M Henderson ](https://www.notarydepot.com/chermarie)
-  - [Notary Public in Menifee, CA: Cindy Herring](https://www.notarydepot.com/cherring)
   - [Notary Public in Lindenhurst, NY: Cheryl L. Diehl](https://www.notarydepot.com/cheryld)
   - [Notary Public in Gulf Breeze, FL: Cheryl Maniscalco](https://www.notarydepot.com/cherylmnotary)
   - [Notary Public in Jasper, FL: Cheryl Young](https://www.notarydepot.com/cherylyoung)
@@ -7777,4 +7776,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-05-29T19:06:02Z
+Updated at 2018-05-29T19:26:02Z
