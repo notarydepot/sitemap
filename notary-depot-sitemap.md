@@ -5649,6 +5649,7 @@
   - [Notary Public in Corona, CA: Blake Joslin](https://www.notarydepot.com/notaryproblake)
   - [Notary Public in Phoenix, AZ: Notary Pros, LLC](https://www.notarydepot.com/notarypros)
   - [Notary Public in Gardendale, AL: Christian Chapman ](https://www.notarydepot.com/notaryprossouth)
+  - [Notary Public in Tacoma, WA: Kimberly](https://www.notarydepot.com/notaryprotoday)
   - [Notary Public in Anaheim, CA: mariam](https://www.notarydepot.com/notarypublic)
   - [Notary Public in Eastpointe, MI: Angelique](https://www.notarydepot.com/notarypublic4)
   - [Notary Public in Porterville, CA: MARLO BADILLO](https://www.notarydepot.com/notarypublic559)
@@ -7775,4 +7776,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-05-29T00:06:02Z
+Updated at 2018-05-29T00:26:02Z
