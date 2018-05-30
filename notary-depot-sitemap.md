@@ -3076,6 +3076,7 @@
   - [Notary Public in Sonora, CA: Sera A James](https://www.notarydepot.com/coordinator)
   - [Notary Public in Fort Worth, TX: Corey Milsap](https://www.notarydepot.com/coreymilsap)
   - [Notary Public in Shreveport, LA: Corey D. Williams](https://www.notarydepot.com/coreywilliams)
+  - [Notary Public in Cary, IL: Cori Lentine](https://www.notarydepot.com/corilentine)
   - [Notary Public in Ladson, SC: Corintha M Moultrie](https://www.notarydepot.com/corin1717)
   - [Notary Public in Tampa, FL: Corinne Sesskin](https://www.notarydepot.com/corinnefl)
   - [Notary Public in Langhorne, PA: Corinne Ritzheimer](https://www.notarydepot.com/corinneritz)
@@ -5625,7 +5626,6 @@
   - [Notary Public in Grand Prairie, TX: katy cleek](https://www.notarydepot.com/notarykt)
   - [Notary Public in Grants Pass, OR: Peggy L Mazziotti](https://www.notarydepot.com/notarylady)
   - [Notary Public in Jonesboro, GA: Francena](https://www.notarydepot.com/notaryladyofga)
-  - [Notary Public in Paducah, KY: Shirley Trail Lanier - lanier.virtual.assistant](https://www.notarydepot.com/notarylanier)
   - [Notary Public in Las Vegas, NV: John Bobe](https://www.notarydepot.com/notarylv)
   - [Notary Public in Peoria, AZ: Alfred Manns](https://www.notarydepot.com/notarymann)
   - [Notary Public in Peoria, AZ: Alfred G Manns](https://www.notarydepot.com/notarymann1)
@@ -6402,7 +6402,6 @@
   - [Notary Public in Bracey, VA: Denise Johnson](https://www.notarydepot.com/shiponsite)
   - [Notary Public in Charles Town, WV: Shirley Harris](https://www.notarydepot.com/shirley4982)
   - [Notary Public in Lake Charles, LA: Shirley Gutierrez](https://www.notarydepot.com/shirleyg47)
-  - [Notary Public in Paducah, KY: Lanier Strategies-Shirley Trail Lanier Notary](https://www.notarydepot.com/shirleylanier)
   - [Notary Public in Orlando, FL: Shontell Murphy](https://www.notarydepot.com/shontell)
   - [Notary Public in Gilbert, AZ: Shoshana Roller](https://www.notarydepot.com/shoshana)
   - [Notary Public in Blairsville, GA: Craig Foucha](https://www.notarydepot.com/shoshone4819)
@@ -7778,4 +7777,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-05-30T15:46:02Z
+Updated at 2018-05-30T16:06:02Z
