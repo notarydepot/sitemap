@@ -1998,6 +1998,7 @@
     - [Notary Public in Sandy, UT](https://www.notarydepot.com/notary-near-me/Utah/Sandy)
     - [Notary Public in Springville, UT](https://www.notarydepot.com/notary-near-me/Utah/Springville)
     - [Notary Public in St. George, UT](https://www.notarydepot.com/notary-near-me/Utah/St-George)
+    - [Notary Public in West Jordan, UT](https://www.notarydepot.com/notary-near-me/Utah/West-Jordan)
   - [Notaries Public in Vermont](https://www.notarydepot.com/notary-near-me/Vermont)
     - [Notary Public in Castleton, VT](https://www.notarydepot.com/notary-near-me/Vermont/Castleton)
     - [Notary Public in Colchester, VT](https://www.notarydepot.com/notary-near-me/Vermont/Colchester)
@@ -4519,6 +4520,7 @@
   - [Notary Public in Rocky Mount, NC: Keisha Ward](https://www.notarydepot.com/keishaward)
   - [Notary Public in Braselton, GA: Keith Harris](https://www.notarydepot.com/keith)
   - [Notary Public in Calabasas, CA: Keiunta Dixon](https://www.notarydepot.com/keiunta)
+  - [Notary Public in West Jordan, UT: Clarence Duncan](https://www.notarydepot.com/kekkonshiki)
   - [Notary Public in Nashville, TN: Carole Rascoe](https://www.notarydepot.com/kelcie2006)
   - [Notary Public in Spring, TX: Ruth Kelley](https://www.notarydepot.com/kelleynotary)
   - [Notary Public in Spring Hill, FL: Paul E. Kelley](https://www.notarydepot.com/kelleypklly)
@@ -7777,4 +7779,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-05-31T19:47:02Z
+Updated at 2018-05-31T20:07:01Z
