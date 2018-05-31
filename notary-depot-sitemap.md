@@ -1314,7 +1314,6 @@
     - [Notary Public in New Milford, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/New-Milford)
     - [Notary Public in Newark, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Newark)
     - [Notary Public in Oaklyn, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Oaklyn)
-    - [Notary Public in Palisades Park, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Palisades-Park)
     - [Notary Public in Paramus, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Paramus)
     - [Notary Public in Paterson, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Paterson)
     - [Notary Public in Pennsauken Township, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Pennsauken-Township)
@@ -1330,6 +1329,7 @@
     - [Notary Public in Roselle, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Roselle)
     - [Notary Public in Roxbury Township, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Roxbury-Township)
     - [Notary Public in Rumson, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Rumson)
+    - [Notary Public in Saddle Brook, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Saddle-Brook)
     - [Notary Public in Scotch Plains, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Scotch-Plains)
     - [Notary Public in Sicklerville, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Sicklerville)
     - [Notary Public in South Orange, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/South-Orange)
@@ -3781,7 +3781,7 @@
   - [Notary Public in Fort Smith, AR: Gwendolyn Holloway](https://www.notarydepot.com/ghollow)
   - [Notary Public in Houston, TX: Gigi Aguilar](https://www.notarydepot.com/gigi0522)
   - [Notary Public in Arcata, CA: Julie Gilbride](https://www.notarydepot.com/gilbride1)
-  - [Notary Public in Palisades Park, NJ: Gilbert Haggar](https://www.notarydepot.com/gilgar2005)
+  - [Notary Public in Saddle Brook, NJ: Gilbert Haggar](https://www.notarydepot.com/gilgar2005)
   - [Notary Public in Chandlersville, OH: Sherry Gilkerson](https://www.notarydepot.com/gilkersonc)
   - [Notary Public in New Lenox, IL: Gina Pettit](https://www.notarydepot.com/gina2404)
   - [Notary Public in Arroyo Grande, CA: Gina Pimentel](https://www.notarydepot.com/ginap)
@@ -7777,4 +7777,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-05-31T18:07:02Z
+Updated at 2018-05-31T18:27:02Z
