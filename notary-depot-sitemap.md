@@ -6106,6 +6106,7 @@
   - [Notary Public in Mesquite, TX: Roger L Stephens](https://www.notarydepot.com/rlstephens)
   - [Notary Public in Jefferson City, MO: Robin Vogel](https://www.notarydepot.com/rlvogel)
   - [Notary Public in New Haven, CT: Aa Mobile Notary Of Ct.](https://www.notarydepot.com/rmavrides)
+  - [Notary Public in Glendale, AZ: Rachel McFall](https://www.notarydepot.com/rmcfall4305)
   - [Notary Public in Houston, TX: Robyn Fudge](https://www.notarydepot.com/rmfudge)
   - [Notary Public in Arkadelphia, AR: Rebekah Winegardner](https://www.notarydepot.com/rmgf11)
   - [Notary Public in Los Angeles, CA: Reggie Muldrow](https://www.notarydepot.com/rmuldrow)
@@ -7780,4 +7781,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-01T02:07:02Z
+Updated at 2018-06-01T02:27:02Z
