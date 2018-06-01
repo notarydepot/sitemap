@@ -5300,6 +5300,7 @@
   - [Notary Public in Fort Stockton, TX: Michael Luna](https://www.notarydepot.com/mobilenotarypublic)
   - [Notary Public in El Paso, TX: Soledad Contreras](https://www.notarydepot.com/mobilenotarypublicep)
   - [Notary Public in Nashville, TN: Lindsey Ellison](https://www.notarydepot.com/mobilenotarytn)
+  - [Notary Public in Yuma, AZ: Araceli Cervantes ](https://www.notarydepot.com/mobilenotaryyuma)
   - [Notary Public in Montgomery, AL: Shirley T. Nelson](https://www.notarydepot.com/mobilesigneralabama)
   - [Notary Public in Dallas, TX: Vicky Roberts](https://www.notarydepot.com/mobilesigninglady)
   - [Notary Public in Wylie, TX: Melanie Kennedy](https://www.notarydepot.com/mobilewylietx)
@@ -7781,4 +7782,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-01T06:07:02Z
+Updated at 2018-06-01T06:27:02Z
