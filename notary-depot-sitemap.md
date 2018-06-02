@@ -5532,6 +5532,7 @@
   - [Notary Public in Clearwater, FL: Norma J. Smith](https://www.notarydepot.com/njsmith)
   - [Notary Public in Hollywood, FL: Natasha Kendrick](https://www.notarydepot.com/nkendrick12)
   - [Notary Public in Santa Monica, CA: Nancy Kim](https://www.notarydepot.com/nkim7)
+  - [Notary Public in Brooksville, FL: Nakeya Kirkland ](https://www.notarydepot.com/nkirklandnotary)
   - [Notary Public in Santa Clarita, CA: Neil Kleeger](https://www.notarydepot.com/nkleeger)
   - [Notary Public in Bushkill, PA: Nancy Korb](https://www.notarydepot.com/nkorb1)
   - [Notary Public in Boise, ID: Nick Alonzo](https://www.notarydepot.com/nlalonzo)
@@ -7785,4 +7786,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-02T16:47:02Z
+Updated at 2018-06-02T17:07:02Z
