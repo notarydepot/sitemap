@@ -3502,6 +3502,7 @@
   - [Notary Public in La Quinta, CA: Earl J Doucette](https://www.notarydepot.com/earldoucette)
   - [Notary Public in Fayette, MS: Earlene Harrison](https://www.notarydepot.com/earlene)
   - [Notary Public in Clementon, NJ: Anita Braun](https://www.notarydepot.com/earlgreylady)
+  - [Notary Public in Peyton, CO: Jill Rivera](https://www.notarydepot.com/eastplainsnotary)
   - [Notary Public in Winchester, CA: Colette Tariqi](https://www.notarydepot.com/easydocs)
   - [Notary Public in Sun Prairie, WI: Michael Tazelaar](https://www.notarydepot.com/easynotaryservice)
   - [Notary Public in Bronxville, NY: Elizabeth Betrand](https://www.notarydepot.com/ebetrand)
@@ -7784,4 +7785,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-02T02:07:02Z
+Updated at 2018-06-02T02:27:02Z
