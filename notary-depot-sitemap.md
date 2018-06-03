@@ -700,6 +700,7 @@
     - [Notary Public in Tarpon Springs, FL](https://www.notarydepot.com/notary-near-me/Florida/Tarpon-Springs)
     - [Notary Public in Tavares, FL](https://www.notarydepot.com/notary-near-me/Florida/Tavares)
     - [Notary Public in Titusville, FL](https://www.notarydepot.com/notary-near-me/Florida/Titusville)
+    - [Notary Public in Valparaiso, FL](https://www.notarydepot.com/notary-near-me/Florida/Valparaiso)
     - [Notary Public in Valrico, FL](https://www.notarydepot.com/notary-near-me/Florida/Valrico)
     - [Notary Public in Venice, FL](https://www.notarydepot.com/notary-near-me/Florida/Venice)
     - [Notary Public in Vero Beach, FL](https://www.notarydepot.com/notary-near-me/Florida/Vero-Beach)
@@ -3904,6 +3905,7 @@
   - [Notary Public in Pasco, WA: Heather Ortiz](https://www.notarydepot.com/heather)
   - [Notary Public in Murrieta, CA: Heather Mattson](https://www.notarydepot.com/heathermattson)
   - [Notary Public in Wyandotte, MI: Heather R. Thornsberry](https://www.notarydepot.com/heathert729)
+  - [Notary Public in Valparaiso, FL: Jarred Heath](https://www.notarydepot.com/heathmobilenotary)
   - [Notary Public in Okeechobee, FL: Heide Miller - Van Miller](https://www.notarydepot.com/heideleemiller)
   - [Notary Public in Ingalls, IN: Heidi Mcelroy](https://www.notarydepot.com/heidi)
   - [Notary Public in Vancouver, WA: Kristine Imber](https://www.notarydepot.com/helloooo)
@@ -7786,4 +7788,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-03T13:07:02Z
+Updated at 2018-06-03T13:27:02Z
