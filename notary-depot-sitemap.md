@@ -1917,6 +1917,7 @@
     - [Notary Public in Kingsville, TX](https://www.notarydepot.com/notary-near-me/Texas/Kingsville)
     - [Notary Public in Kountze, TX](https://www.notarydepot.com/notary-near-me/Texas/Kountze)
     - [Notary Public in La Marque, TX](https://www.notarydepot.com/notary-near-me/Texas/La-Marque)
+    - [Notary Public in La Porte, TX](https://www.notarydepot.com/notary-near-me/Texas/La-Porte)
     - [Notary Public in Laguna Vista, TX](https://www.notarydepot.com/notary-near-me/Texas/Laguna-Vista)
     - [Notary Public in Lake Jackson, TX](https://www.notarydepot.com/notary-near-me/Texas/Lake-Jackson)
     - [Notary Public in Lancaster, TX](https://www.notarydepot.com/notary-near-me/Texas/Lancaster)
@@ -7154,6 +7155,7 @@
   - [Notary Public in Jonesboro, GA: Zellestine C. Hicks](https://www.notarydepot.com/zell)
   - [Notary Public in Modesto, CA: Zenda Lopez](https://www.notarydepot.com/zenda)
   - [Notary Public in Great Falls, MT: Andrea Walsh-Dowell](https://www.notarydepot.com/zenpanda)
+  - [Notary Public in La Porte, TX: Zephia L Riess](https://www.notarydepot.com/zephia)
   - [Notary Public in Dallas, TX: Alain Touaboy](https://www.notarydepot.com/zimacko)
   - [Notary Public in Mission Viejo, CA: William Zinn](https://www.notarydepot.com/zinnburban)
   - [Notary Public in Stone Mountain, GA: Zandria Johnson](https://www.notarydepot.com/zjohnson)
@@ -7788,4 +7790,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-03T17:27:02Z
+Updated at 2018-06-03T17:47:02Z
