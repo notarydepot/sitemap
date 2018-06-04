@@ -6634,6 +6634,7 @@
   - [Notary Public in Santa Maria, CA: Susan M. Schrader](https://www.notarydepot.com/supers)
   - [Notary Public in Westbury, NY: William A Walker](https://www.notarydepot.com/surfcaster)
   - [Notary Public in Worcester, MA: Tina M. Hood](https://www.notarydepot.com/surmisez)
+  - [Notary Public in Tucson, AZ: Susan Simmons](https://www.notarydepot.com/susan1)
   - [Notary Public in Santa Fe, NM: Susan Billings](https://www.notarydepot.com/susanb)
   - [Notary Public in Webb City, MO: Susan Bryant](https://www.notarydepot.com/susanbryant)
   - [Notary Public in Simpsonville, SC: Susan Gray](https://www.notarydepot.com/susangray)
@@ -7790,4 +7791,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-04T20:27:02Z
+Updated at 2018-06-04T20:47:03Z
