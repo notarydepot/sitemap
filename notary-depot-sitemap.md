@@ -1078,7 +1078,6 @@
     - [Notary Public in Dorr, MI](https://www.notarydepot.com/notary-near-me/Michigan/Dorr)
     - [Notary Public in Eastpointe, MI](https://www.notarydepot.com/notary-near-me/Michigan/Eastpointe)
     - [Notary Public in Farmington, MI](https://www.notarydepot.com/notary-near-me/Michigan/Farmington)
-    - [Notary Public in Ferndale, MI](https://www.notarydepot.com/notary-near-me/Michigan/Ferndale)
     - [Notary Public in Flint, MI](https://www.notarydepot.com/notary-near-me/Michigan/Flint)
     - [Notary Public in Flushing, MI](https://www.notarydepot.com/notary-near-me/Michigan/Flushing)
     - [Notary Public in Freeland, MI](https://www.notarydepot.com/notary-near-me/Michigan/Freeland)
@@ -5789,6 +5788,7 @@
   - [Notary Public in Monroeville, PA: Pa Notary Talk](https://www.notarydepot.com/panotarytalk)
   - [Notary Public in Alexandria, VA: Christian Lijeron](https://www.notarydepot.com/paola20861)
   - [Notary Public in Madison, OH: Paul Osborne](https://www.notarydepot.com/paosb)
+  - [Notary Public in Raleigh, NC: Diamond Jenkins](https://www.notarydepot.com/paperworkdiva)
   - [Notary Public in Mukwonago, WI: Patti Pappas](https://www.notarydepot.com/pappas4x)
   - [Notary Public in Rockledge, FL: Jacob J. Roland, Paralegal](https://www.notarydepot.com/paralegal4u)
   - [Notary Public in Jacksonville, FL: Elizabeth A. Bowen](https://www.notarydepot.com/paralegaletc)
@@ -6336,7 +6336,6 @@
   - [Notary Public in Hyattsville, MD: Serge&#39;s Mobile Notary](https://www.notarydepot.com/sergesnya)
   - [Notary Public in Nashville, TN: Servicio Internacional](https://www.notarydepot.com/serviciointl)
   - [Notary Public in Fontana, CA: Sandra E. Schickel](https://www.notarydepot.com/ses)
-  - [Notary Public in Ferndale, MI: Diamond Jenkins](https://www.notarydepot.com/sevencarat)
   - [Notary Public in Pasadena, CA: Robert P. Wheaton](https://www.notarydepot.com/sevendaynotary)
   - [Notary Public in Liberty Hill, TX: Busy Bee Notary](https://www.notarydepot.com/sfnaus12)
   - [Notary Public in Alexandria, VA: Susan F. Solomon](https://www.notarydepot.com/sfsolomon)
@@ -7791,4 +7790,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-05T10:27:03Z
+Updated at 2018-06-05T10:47:02Z
