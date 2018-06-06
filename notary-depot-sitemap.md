@@ -533,6 +533,7 @@
     - [Notary Public in Windsor, CT](https://www.notarydepot.com/notary-near-me/Connecticut/Windsor)
     - [Notary Public in Wolcott, CT](https://www.notarydepot.com/notary-near-me/Connecticut/Wolcott)
   - [Notaries Public in Delaware](https://www.notarydepot.com/notary-near-me/Delaware)
+    - [Notary Public in Bear, DE](https://www.notarydepot.com/notary-near-me/Delaware/Bear)
     - [Notary Public in Dover, DE](https://www.notarydepot.com/notary-near-me/Delaware/Dover)
     - [Notary Public in Lewes, DE](https://www.notarydepot.com/notary-near-me/Delaware/Lewes)
     - [Notary Public in Middletown, DE](https://www.notarydepot.com/notary-near-me/Delaware/Middletown)
@@ -6326,7 +6327,7 @@
   - [Notary Public in Tucker, GA: Stacie Adams](https://www.notarydepot.com/seaadams)
   - [Notary Public in Alexandria, VA: Bryce Hall](https://www.notarydepot.com/seafevor)
   - [Notary Public in Fullerton, CA: Sean Park](https://www.notarydepot.com/seanpark)
-  - [Notary Public in Arlington, VA: Ouseph Seesan Ed ](https://www.notarydepot.com/seesan2002gmailcom)
+  - [Notary Public in Bear, DE: Ouseph Seesan Ed](https://www.notarydepot.com/seesan)
   - [Notary Public in South Holland, IL: Shawana](https://www.notarydepot.com/segpgilmore)
   - [Notary Public in Nampa, ID: Ann Roe](https://www.notarydepot.com/selecttransactions)
   - [Notary Public in Hudson, FL: Rita A. Jones](https://www.notarydepot.com/selfhelprita2)
@@ -7792,4 +7793,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-06T10:27:02Z
+Updated at 2018-06-06T10:47:02Z
