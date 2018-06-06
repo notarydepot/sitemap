@@ -6482,7 +6482,7 @@
   - [Notary Public in Riverbank, CA: Skp &amp; Company](https://www.notarydepot.com/skpcompany)
   - [Notary Public in Descanso, CA: Shawna Kramer](https://www.notarydepot.com/skramer)
   - [Notary Public in Lithonia, GA: Selena R. Green](https://www.notarydepot.com/skyegreen12)
-  - [Notary Public in Pleasanton, CA: sandy Laffins](https://www.notarydepot.com/slaffins)
+  - [Notary Public in Grass Valley, CA: sandy Laffins](https://www.notarydepot.com/slaffins)
   - [Notary Public in Bakersfield, CA: NotaryServicesEtc](https://www.notarydepot.com/slanda)
   - [Notary Public in Scotts, MI: Sara L Carrier](https://www.notarydepot.com/slcarrier)
   - [Notary Public in Birmingham, AL: Barbara Penick](https://www.notarydepot.com/slevinblp)
@@ -7793,4 +7793,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-06T15:27:02Z
+Updated at 2018-06-06T15:47:02Z
