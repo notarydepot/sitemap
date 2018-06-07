@@ -1294,6 +1294,7 @@
     - [Notary Public in Glen Gardner, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Glen-Gardner)
     - [Notary Public in Hackettstown, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Hackettstown)
     - [Notary Public in Haddonfield, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Haddonfield)
+    - [Notary Public in Hamburg, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Hamburg)
     - [Notary Public in Hammonton, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Hammonton)
     - [Notary Public in Hazlet, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Hazlet)
     - [Notary Public in Highland Park, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Highland-Park)
@@ -2400,6 +2401,7 @@
   - [Notary Public in Brentwood, CA: Charlotte Amanda Eason](https://www.notarydepot.com/amandamichigan)
   - [Notary Public in Herndon, VA: Amanda Pendleton](https://www.notarydepot.com/amandarp)
   - [Notary Public in Los Angeles, CA: Ariel Mansell](https://www.notarydepot.com/amansell)
+  - [Notary Public in Hamburg, NJ: Arlene Matos-Aguiar](https://www.notarydepot.com/amatos73)
   - [Notary Public in Fort Mohave, AZ: Amber Hager](https://www.notarydepot.com/amberhager)
   - [Notary Public in CA: Amber Horton](https://www.notarydepot.com/amberhorton24)
   - [Notary Public in Tacoma, WA: Amber Crepps](https://www.notarydepot.com/amberjc11)
@@ -7792,4 +7794,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-07T14:47:02Z
+Updated at 2018-06-07T15:07:02Z
