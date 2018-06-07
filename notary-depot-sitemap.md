@@ -5441,7 +5441,7 @@
   - [Notary Public in Gary, IN: Myra Spearman](https://www.notarydepot.com/myra0919)
   - [Notary Public in Hialeah, FL: Gladys M. Fonseca](https://www.notarydepot.com/mystiquera1)
   - [Notary Public in Middletown, PA: Heather J Templin](https://www.notarydepot.com/myyellowlabs)
-  - [Notary Public in Las Vegas, NV: Tracy (Douglas) Ross](https://www.notarydepot.com/mzbiznezz)
+  - [Notary Public in Goodyear, AZ: Tracy Camille Ross](https://www.notarydepot.com/mzbiznezz)
   - [Notary Public in Memphis, TN: Kimberly P Jones](https://www.notarydepot.com/mzjonez)
   - [Notary Public in Irmo, SC: Jenyfer Rogers](https://www.notarydepot.com/mznewbz)
   - [Notary Public in Ruskin, FL: Jessica Robinson](https://www.notarydepot.com/mzrobinson07)
@@ -7794,4 +7794,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-07T15:27:03Z
+Updated at 2018-06-07T15:47:02Z
