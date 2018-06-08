@@ -3303,7 +3303,6 @@
   - [Notary Public in Fayetteville, GA: Demi Davis](https://www.notarydepot.com/demide)
   - [Notary Public in Claremont, CA: Dena Garavito](https://www.notarydepot.com/dena22)
   - [Notary Public in Scranton, IA: Denese St Thomas](https://www.notarydepot.com/deneseloanagent)
-  - [Notary Public in Woodford, VA: DENISE E. PONTIUS](https://www.notarydepot.com/denisecommonwealthnotarycom)
   - [Notary Public in Sacramento, CA: Denise Evangelista](https://www.notarydepot.com/deniseevangelista)
   - [Notary Public in Floral City, FL: Denise Vitale](https://www.notarydepot.com/denisegrace)
   - [Notary Public in Thomson, GA: Denise Kitchen-Schaefer](https://www.notarydepot.com/deniseschaefer)
@@ -7795,4 +7794,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-08T15:27:02Z
+Updated at 2018-06-08T15:47:02Z
