@@ -4273,7 +4273,7 @@
   - [Notary Public in Powder Springs, GA: Janice L. Moore](https://www.notarydepot.com/jlorraine)
   - [Notary Public in Knoxville, TN: Jamie Romines](https://www.notarydepot.com/jlromines)
   - [Notary Public in Ormond Beach, FL: Jennifer Tiede ](https://www.notarydepot.com/jltiedensa)
-  - [Notary Public in San Jose, CA: Joan A. Malone/TRID Certified](https://www.notarydepot.com/jmalone)
+  - [Notary Public in San Jose, CA: Joan A. Mikkelsen/TRID Certified](https://www.notarydepot.com/jmalone)
   - [Notary Public in Kenosha, WI: James Newberry](https://www.notarydepot.com/jman)
   - [Notary Public in Lake Forest, CA: Joeanne Manzala](https://www.notarydepot.com/jmanzala0922)
   - [Notary Public in York, PA: Jolynn Mcdowell](https://www.notarydepot.com/jmcdowell801)
@@ -7794,4 +7794,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-08T16:07:02Z
+Updated at 2018-06-08T16:27:02Z
