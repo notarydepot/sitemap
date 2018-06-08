@@ -3875,6 +3875,7 @@
   - [Notary Public in Simi Valley, CA: Harold H Savin (Certified Signing Agent)](https://www.notarydepot.com/hal914)
   - [Notary Public in Pollock Pines, CA: Dawn Marie Hall](https://www.notarydepot.com/hallfamily99)
   - [Notary Public in Wichita Falls, TX: Hallmark Realtor Group and Notary Services](https://www.notarydepot.com/hallmarkrealtorgroup)
+  - [Notary Public in Pahrump, NV: Denise Hall](https://www.notarydepot.com/hallsfast)
   - [Notary Public in Lake Elsinore, CA: nadia g tavakkoli](https://www.notarydepot.com/hamnad)
   - [Notary Public in Beaumont, TX: Hana Hamilton](https://www.notarydepot.com/hanahamilton95)
   - [Notary Public in Middleborough, MA: Hannah K Flamos](https://www.notarydepot.com/hannahkate9)
@@ -7794,4 +7795,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-08T03:27:01Z
+Updated at 2018-06-08T03:47:02Z
