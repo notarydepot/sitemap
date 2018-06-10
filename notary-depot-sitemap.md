@@ -3899,6 +3899,7 @@
   - [Notary Public in Grants Pass, OR: Peggy Mazziotti](https://www.notarydepot.com/havestampwilltravel)
   - [Notary Public in Cleveland, MO: Theresa Hawkins](https://www.notarydepot.com/hawkins)
   - [Notary Public in Plainfield, NJ: Clarissa Hawkins](https://www.notarydepot.com/hawkinsnotary)
+  - [Notary Public in Huntington Beach, CA: Jaclyn Ross](https://www.notarydepot.com/hbjaclyn30)
   - [Notary Public in Medford, OR: Hilda Pantoja](https://www.notarydepot.com/hbpantoja)
   - [Notary Public in Palm Beach Gardens, FL: Humberto Velasco](https://www.notarydepot.com/hbtousa)
   - [Notary Public in Cantonment, FL: Beverly Nichols](https://www.notarydepot.com/hcampers)
@@ -7794,4 +7795,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-10T13:47:02Z
+Updated at 2018-06-10T14:07:02Z
