@@ -5934,7 +5934,7 @@
   - [Notary Public in Tallahassee, FL: Beth Nelson](https://www.notarydepot.com/proctor63)
   - [Notary Public in Ferndale, WA: Laura Vestanen](https://www.notarydepot.com/profnot)
   - [Notary Public in Philadelphia, PA: Irvin Dinkins Sr.](https://www.notarydepot.com/pronotary1)
-  - [Notary Public in Canton, OH: Christina Malleo](https://www.notarydepot.com/prontogirl)
+  - [Notary Public in Alliance, OH: Christina Malleo](https://www.notarydepot.com/prontogirl)
   - [Notary Public in Miami, FL: Janine Oliveira](https://www.notarydepot.com/propertymanagement1)
   - [Notary Public in Vancouver, WA: Bruce A Samuelson Sr](https://www.notarydepot.com/proserv)
   - [Notary Public in Santa Barbara, CA: Cheryl Elliott](https://www.notarydepot.com/prosigner)
@@ -7794,4 +7794,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-10T10:07:02Z
+Updated at 2018-06-10T10:27:02Z
