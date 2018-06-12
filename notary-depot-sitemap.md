@@ -4687,7 +4687,6 @@
   - [Notary Public in Sterling Heights, MI: Andrea Barnes-Smith](https://www.notarydepot.com/ladiann2006)
   - [Notary Public in Statesville, NC: Lisa R. Howard](https://www.notarydepot.com/ladyasil)
   - [Notary Public in Altamonte Springs, FL: Heather M Pegel](https://www.notarydepot.com/ladybug91879)
-  - [Notary Public in Austell, GA: Catherine L. Hamilton](https://www.notarydepot.com/ladyclhamilton)
   - [Notary Public in Macon, GA: Bernadette Passmore](https://www.notarydepot.com/ladygator2000)
   - [Notary Public in Maggie Valley, NC: Natalie J. Hawkins](https://www.notarydepot.com/ladyhawk03)
   - [Notary Public in Glenside, PA: Laura Jackson](https://www.notarydepot.com/ladyljay)
@@ -7795,4 +7794,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-12T20:27:02Z
+Updated at 2018-06-12T20:47:02Z
