@@ -3202,7 +3202,6 @@
   - [Notary Public in La Vergne, TN: Angelique](https://www.notarydepot.com/darkangel75)
   - [Notary Public in Pomona, CA: Darla J. Hernandez](https://www.notarydepot.com/darlahernandez)
   - [Notary Public in Queen Creek, AZ: Darla Silver](https://www.notarydepot.com/darlatdarling)
-  - [Notary Public in Chicago, IL: Darrell Clifton](https://www.notarydepot.com/darrellclifton)
   - [Notary Public in Jackson, NJ: Darren J Ross](https://www.notarydepot.com/darrenjross)
   - [Notary Public in Saginaw, MI: Daryl &amp; Toni Buford](https://www.notarydepot.com/darylbuford)
   - [Notary Public in Hooksett, NH: Daryl McKinnon](https://www.notarydepot.com/darylm)
@@ -7796,4 +7795,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-12T18:07:02Z
+Updated at 2018-06-12T18:27:02Z
