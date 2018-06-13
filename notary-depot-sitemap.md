@@ -3575,6 +3575,7 @@
   - [Notary Public in Baytown, TX: Elon Green](https://www.notarydepot.com/ellie7991)
   - [Notary Public in Aguanga, CA: E. Louise Ceccarelli](https://www.notarydepot.com/elouisec)
   - [Notary Public in Holly, MI: Erika Pezold](https://www.notarydepot.com/elp1234)
+  - [Notary Public in Brighton, CO: Eric Alejandro Zimmermann Luja](https://www.notarydepot.com/elweko)
   - [Notary Public in Tustin, CA: Liz Bissell](https://www.notarydepot.com/elzbthn1)
   - [Notary Public in Islamorada, FL: P. Lindsay Prayne-Zuluaga](https://www.notarydepot.com/elzulu)
   - [Notary Public in Kansas City, MO: L. Denise Thomas](https://www.notarydepot.com/emahni88)
@@ -3605,7 +3606,6 @@
   - [Notary Public in Brandon, FL: Eric D Eatman, Notary](https://www.notarydepot.com/ericeatman)
   - [Notary Public in Omaha, NE: Eric A Pullum](https://www.notarydepot.com/ericpullum)
   - [Notary Public in Pensacola, FL: Eric J Sewell](https://www.notarydepot.com/ericsewell)
-  - [Notary Public in Denver, CO: Eric Alejandro Zimmermann Luja](https://www.notarydepot.com/ericzmmrmnn)
   - [Notary Public in Los Angeles, CA: Erika D Colins](https://www.notarydepot.com/erikanotary)
   - [Notary Public in Arlington, TN: Erik Fischer](https://www.notarydepot.com/erikfischer)
   - [Notary Public in Clarksville, TN: Erin Schroeder](https://www.notarydepot.com/erin116)
@@ -7795,4 +7795,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-13T19:47:02Z
+Updated at 2018-06-13T20:07:02Z
