@@ -2899,6 +2899,7 @@
   - [Notary Public in San Diego, CA: Cathy Kirchner](https://www.notarydepot.com/cathyk)
   - [Notary Public in Rockville, IN: Cathy Loy](https://www.notarydepot.com/cathyloy)
   - [Notary Public in NY: Cathy Powell](https://www.notarydepot.com/cathypowell)
+  - [Notary Public in Fort Madison, IA: Jessica ](https://www.notarydepot.com/catlady1980)
   - [Notary Public in Los Angeles, CA: Catherine Lincoln](https://www.notarydepot.com/catlinc)
   - [Notary Public in Sonora, CA: Catherine James](https://www.notarydepot.com/catnat)
   - [Notary Public in Oshkosh, WI: Cheryl A. Spaulding](https://www.notarydepot.com/cats0527)
@@ -7794,4 +7795,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-13T16:27:02Z
+Updated at 2018-06-13T16:47:02Z
