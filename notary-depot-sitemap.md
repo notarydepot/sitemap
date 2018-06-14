@@ -4663,7 +4663,7 @@
   - [Notary Public in Charlotte, NC: Katrina Screen](https://www.notarydepot.com/kscreen)
   - [Notary Public in Tampa, FL: Karla Sevilla](https://www.notarydepot.com/ksevilla)
   - [Notary Public in Hudsonville, MI: Karen King](https://www.notarydepot.com/ksking)
-  - [Notary Public in Portsmouth, OH: Karen Stanley](https://www.notarydepot.com/ksstanley)
+  - [Notary Public in Portsmouth, OH: Karen S. Stanley](https://www.notarydepot.com/ksstanley)
   - [Notary Public in San Francisco, CA: kashann stanton](https://www.notarydepot.com/kstanton)
   - [Notary Public in IN: Kris Strohmeyer-Lett](https://www.notarydepot.com/kstroh32)
   - [Notary Public in Herndon, VA: Kathy Thomas](https://www.notarydepot.com/kthomas)
@@ -7795,4 +7795,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-14T16:07:02Z
+Updated at 2018-06-14T16:27:02Z
