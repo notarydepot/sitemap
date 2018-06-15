@@ -2468,6 +2468,7 @@
   - [Notary Public in Holiday, FL: Anita Caron-Kenly](https://www.notarydepot.com/anitanotary)
   - [Notary Public in Spring, TX: Anita Posluszny](https://www.notarydepot.com/anitapos)
   - [Notary Public in Glen Gardner, NJ: Jennifer L. Rispoli](https://www.notarydepot.com/anj503)
+  - [Notary Public in Bolton, CT: Anja Hoffmann ](https://www.notarydepot.com/anja)
   - [Notary Public in Jonesboro, GA: Y. Buchanan](https://www.notarydepot.com/ann123)
   - [Notary Public in Colton, CA: Anna M. Grotjohn](https://www.notarydepot.com/annagrotjohn)
   - [Notary Public in Burke, VA: Anna Jensen](https://www.notarydepot.com/annajensen)
@@ -7796,4 +7797,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-15T09:27:02Z
+Updated at 2018-06-15T09:47:02Z
