@@ -573,6 +573,7 @@
     - [Notary Public in Dania Beach, FL](https://www.notarydepot.com/notary-near-me/Florida/Dania-Beach)
     - [Notary Public in Davenport, FL](https://www.notarydepot.com/notary-near-me/Florida/Davenport)
     - [Notary Public in Daytona Beach, FL](https://www.notarydepot.com/notary-near-me/Florida/Daytona-Beach)
+    - [Notary Public in De Leon Springs, FL](https://www.notarydepot.com/notary-near-me/Florida/De-Leon-Springs)
     - [Notary Public in Deerfield Beach, FL](https://www.notarydepot.com/notary-near-me/Florida/Deerfield-Beach)
     - [Notary Public in DeLand, FL](https://www.notarydepot.com/notary-near-me/Florida/DeLand)
     - [Notary Public in Delray Beach, FL](https://www.notarydepot.com/notary-near-me/Florida/Delray-Beach)
@@ -3790,6 +3791,7 @@
   - [Notary Public in Arcata, CA: Julie Gilbride](https://www.notarydepot.com/gilbride1)
   - [Notary Public in Saddle Brook, NJ: Gilbert Haggar](https://www.notarydepot.com/gilgar2005)
   - [Notary Public in Chandlersville, OH: Sherry Gilkerson](https://www.notarydepot.com/gilkersonc)
+  - [Notary Public in De Leon Springs, FL: Linda Gilstrap](https://www.notarydepot.com/gilstrapls)
   - [Notary Public in New Lenox, IL: Gina Pettit](https://www.notarydepot.com/gina2404)
   - [Notary Public in Arroyo Grande, CA: Gina Pimentel](https://www.notarydepot.com/ginap)
   - [Notary Public in CA: Gina Hernandez](https://www.notarydepot.com/ginathenotary)
@@ -7795,4 +7797,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-15T00:27:02Z
+Updated at 2018-06-15T00:47:03Z
