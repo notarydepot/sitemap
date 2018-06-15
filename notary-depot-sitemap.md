@@ -352,7 +352,6 @@
     - [Notary Public in Pinon Hills, CA](https://www.notarydepot.com/notary-near-me/California/Pinon-Hills)
     - [Notary Public in Pittsburg, CA](https://www.notarydepot.com/notary-near-me/California/Pittsburg)
     - [Notary Public in Placerville, CA](https://www.notarydepot.com/notary-near-me/California/Placerville)
-    - [Notary Public in Pleasant Hill, CA](https://www.notarydepot.com/notary-near-me/California/Pleasant-Hill)
     - [Notary Public in Pleasanton, CA](https://www.notarydepot.com/notary-near-me/California/Pleasanton)
     - [Notary Public in Pollock Pines, CA](https://www.notarydepot.com/notary-near-me/California/Pollock-Pines)
     - [Notary Public in Pomona, CA](https://www.notarydepot.com/notary-near-me/California/Pomona)
@@ -3394,7 +3393,7 @@
   - [Notary Public in Rocklin, CA: Dana Louis-O&#39;Brien](https://www.notarydepot.com/dlouis17)
   - [Notary Public in South Bend, IN: Dianna L. Pittman](https://www.notarydepot.com/dlpitt)
   - [Notary Public in Millington, TN: Daniel L. Stephens](https://www.notarydepot.com/dlstephens)
-  - [Notary Public in Pleasant Hill, CA: Dave Lueders](https://www.notarydepot.com/dlueds)
+  - [Notary Public in Sparks, NV: Dave Lueders](https://www.notarydepot.com/dlueds)
   - [Notary Public in North Lauderdale, FL: Dana Williams](https://www.notarydepot.com/dlwilliams6)
   - [Notary Public in Hamilton, MT: Donna Wulfemeyer](https://www.notarydepot.com/dlwulfe)
   - [Notary Public in AR: Denise R. Maciel](https://www.notarydepot.com/dmaciel)
@@ -7798,4 +7797,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-15T19:07:02Z
+Updated at 2018-06-15T19:27:02Z
