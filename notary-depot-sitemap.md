@@ -6413,6 +6413,7 @@
   - [Notary Public in Roseville, CA: Arkfeld Mobile Notary Services](https://www.notarydepot.com/sherry_arkfeld)
   - [Notary Public in Houston, TX: Sheryle Porter](https://www.notarydepot.com/sherylekay)
   - [Notary Public in CA: maria Brenton](https://www.notarydepot.com/shesanotary)
+  - [Notary Public in Houston, TX: Shenerika allen](https://www.notarydepot.com/sheylegal)
   - [Notary Public in Grove, OK: Shiela Bennett](https://www.notarydepot.com/shiela)
   - [Notary Public in Suffolk, VA: Sheila Denise Warren](https://www.notarydepot.com/shikina)
   - [Notary Public in Smithfield, VA: Stephanie Hill](https://www.notarydepot.com/shillsign)
@@ -7797,4 +7798,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-15T16:07:02Z
+Updated at 2018-06-15T16:27:01Z
