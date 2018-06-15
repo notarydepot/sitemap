@@ -2349,7 +2349,6 @@
   - [Notary Public in Somerset, KY: Janice Green](https://www.notarydepot.com/akynotary)
   - [Notary Public in San Antonio, TX: Alamo Notary &amp; Signing Agents](https://www.notarydepot.com/alamonotary)
   - [Notary Public in Alamosa, CO: Valerie Vigil](https://www.notarydepot.com/alamosanotarytogo)
-  - [Notary Public in Bristol, TN: Alan Dodson](https://www.notarydepot.com/alandodson)
   - [Notary Public in Hollywood, FL: Alanna M. Lamar](https://www.notarydepot.com/alannalamar)
   - [Notary Public in McCalla, AL: Linda Meadows](https://www.notarydepot.com/alanotary)
   - [Notary Public in Los Angeles, CA: Anne Larkin](https://www.notarydepot.com/alark22)
@@ -7797,4 +7796,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-15T03:27:02Z
+Updated at 2018-06-15T03:47:02Z
