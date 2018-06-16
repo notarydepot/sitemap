@@ -5274,6 +5274,7 @@
   - [Notary Public in Orinda, CA: Mark Likos](https://www.notarydepot.com/mlikos)
   - [Notary Public in El Centro, CA: Maria Munoz](https://www.notarydepot.com/mlizarrag)
   - [Notary Public in Beverly Hills, CA: Maribel Llorens](https://www.notarydepot.com/mllorens)
+  - [Notary Public in Rancho Santa Margarita, CA: Maimu Lindquist](https://www.notarydepot.com/mlnotaryservices)
   - [Notary Public in Hermiston, OR: Mary Robinson](https://www.notarydepot.com/mlrakamom)
   - [Notary Public in Lake Forest, CA: Michael Silva](https://www.notarydepot.com/mlsnotary)
   - [Notary Public in Hemet, CA: Mayra Zavala](https://www.notarydepot.com/mlz1983)
@@ -7797,4 +7798,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-16T05:47:02Z
+Updated at 2018-06-16T06:07:01Z
