@@ -5059,6 +5059,7 @@
   - [Notary Public in Hampstead, NC: Marina N. Redfearn](https://www.notarydepot.com/marinanredfearn)
   - [Notary Public in Tarrytown, NY: Marissa R Panigrosso](https://www.notarydepot.com/marissarose)
   - [Notary Public in Greensburg, PA: Mark D. Scherer](https://www.notarydepot.com/mark)
+  - [Notary Public in Beverly Hills, CA: Mark Berookim](https://www.notarydepot.com/markberookim)
   - [Notary Public in Murfreesboro, TN: Markeisha Hayward](https://www.notarydepot.com/markeishahayward)
   - [Notary Public in Miami, FL: Marlene Reveron](https://www.notarydepot.com/marlenereveron)
   - [Notary Public in Fairfield, CA: Marlene Santiago](https://www.notarydepot.com/marlenes)
@@ -7800,4 +7801,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-17T19:47:02Z
+Updated at 2018-06-17T20:07:02Z
