@@ -2124,6 +2124,7 @@
     - [Notary Public in Lynnwood, WA](https://www.notarydepot.com/notary-near-me/Washington/Lynnwood)
     - [Notary Public in Marysville, WA](https://www.notarydepot.com/notary-near-me/Washington/Marysville)
     - [Notary Public in Moses Lake, WA](https://www.notarydepot.com/notary-near-me/Washington/Moses-Lake)
+    - [Notary Public in Mount Vernon, WA](https://www.notarydepot.com/notary-near-me/Washington/Mount-Vernon)
     - [Notary Public in Mountlake Terrace, WA](https://www.notarydepot.com/notary-near-me/Washington/Mountlake-Terrace)
     - [Notary Public in Mukilteo, WA](https://www.notarydepot.com/notary-near-me/Washington/Mukilteo)
     - [Notary Public in Ocean Park, WA](https://www.notarydepot.com/notary-near-me/Washington/Ocean-Park)
@@ -2437,6 +2438,7 @@
   - [Notary Public in Union City, GA: Andrea E. Perry](https://www.notarydepot.com/andreaperry)
   - [Notary Public in Cleveland, TX: Andrea Richardson](https://www.notarydepot.com/andrearichardson)
   - [Notary Public in Twin Lake, MI: Andy Bergman](https://www.notarydepot.com/andyb)
+  - [Notary Public in Mount Vernon, WA: Stephanie Rowland](https://www.notarydepot.com/anewbeginningsnotary)
   - [Notary Public in Walnut Creek, CA: Angela](https://www.notarydepot.com/angela1485)
   - [Notary Public in West Sacramento, CA: Angela Nguyen](https://www.notarydepot.com/angela1972)
   - [Notary Public in Yonkers, NY: Ms. Angela A. Zimniak Ms Ed.](https://www.notarydepot.com/angelaazimniak)
@@ -7798,4 +7800,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-17T17:47:02Z
+Updated at 2018-06-17T18:07:02Z
