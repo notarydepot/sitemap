@@ -5664,6 +5664,7 @@
   - [Notary Public in Seaford, NY: Marie Di Prizito](https://www.notarydepot.com/notaryonthespot)
   - [Notary Public in Repton, AL: Paula Jones](https://www.notarydepot.com/notaryonwheels)
   - [Notary Public in Murphy, NC: Patricia Pollina](https://www.notarydepot.com/notarypatricia)
+  - [Notary Public in Roselle, NJ: Alice Campbell](https://www.notarydepot.com/notarypro)
   - [Notary Public in Corona, CA: Blake Joslin](https://www.notarydepot.com/notaryproblake)
   - [Notary Public in Phoenix, AZ: Notary Pros, LLC](https://www.notarydepot.com/notarypros)
   - [Notary Public in Gardendale, AL: Christian Chapman ](https://www.notarydepot.com/notaryprossouth)
@@ -7800,4 +7801,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-19T20:07:02Z
+Updated at 2018-06-19T20:27:02Z
