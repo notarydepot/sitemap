@@ -2866,7 +2866,6 @@
   - [Notary Public in Kemp, TX: Carl Ferguson](https://www.notarydepot.com/carl)
   - [Notary Public in Norcross, GA: Carla Murdock](https://www.notarydepot.com/carlam25)
   - [Notary Public in Trabuco Canyon, CA: Carlos Montoya](https://www.notarydepot.com/carlosmontoya)
-  - [Notary Public in Paramount, CA: Carlos A. Angel](https://www.notarydepot.com/carlosnotary)
   - [Notary Public in NY: Carlos M. Davila](https://www.notarydepot.com/carlosnyc)
   - [Notary Public in Piscataway Township, NJ: Carlos R. Yunque](https://www.notarydepot.com/carlosyunque)
   - [Notary Public in Valrico, FL: Carmel Doby](https://www.notarydepot.com/carmeld1)
@@ -7801,4 +7800,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-19T03:47:02Z
+Updated at 2018-06-19T04:07:03Z
