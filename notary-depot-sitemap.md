@@ -5637,7 +5637,7 @@
   - [Notary Public in Carol Stream, IL: Jegie Carrera](https://www.notarydepot.com/notaryjc)
   - [Notary Public in Cleveland, OH: Judy Edwards](https://www.notarydepot.com/notaryje)
   - [Notary Public in Orlando, FL: Jennifer Torres](https://www.notarydepot.com/notaryjenn)
-  - [Notary Public in Jacksonville, FL: Joe Antonucci](https://www.notarydepot.com/notaryjoe)
+  - [Notary Public in Jacksonville, FL: Joe Antonucci, CNSA](https://www.notarydepot.com/notaryjoe)
   - [Notary Public in Los Angeles, CA: Howard K. Lee](https://www.notarydepot.com/notarykorean)
   - [Notary Public in Grand Prairie, TX: katy cleek](https://www.notarydepot.com/notarykt)
   - [Notary Public in Grants Pass, OR: Peggy L Mazziotti](https://www.notarydepot.com/notarylady)
@@ -7800,4 +7800,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-19T11:07:02Z
+Updated at 2018-06-19T11:27:02Z
