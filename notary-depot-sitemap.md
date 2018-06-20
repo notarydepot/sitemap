@@ -6664,7 +6664,7 @@
   - [Notary Public in Knoxville, TN: Gregory A Swafford](https://www.notarydepot.com/swafford7)
   - [Notary Public in Williamson, NY: Shelley L. Walters](https://www.notarydepot.com/swalters2112)
   - [Notary Public in Livermore, CA: Shahid E. Waseem](https://www.notarydepot.com/swaseem77)
-  - [Notary Public in Sacramento, CA: Anna Gutierrez Spanish Mobile Notary](https://www.notarydepot.com/sweetie0202)
+  - [Notary Public in Sacramento, CA: Anna Schmidt - Spanish Mobile Notary](https://www.notarydepot.com/sweetie0202)
   - [Notary Public in Lafayette, CA: PollyAnn Jones](https://www.notarydepot.com/sweetpollyps)
   - [Notary Public in Auburn, CA: Tammy Slade](https://www.notarydepot.com/sweetsigner)
   - [Notary Public in Oakboro, NC: Suzanne Whealan](https://www.notarydepot.com/swhealan)
@@ -7805,4 +7805,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-20T18:27:01Z
+Updated at 2018-06-20T18:47:02Z
