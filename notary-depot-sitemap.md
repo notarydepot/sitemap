@@ -2201,6 +2201,7 @@
     - [Notary Public in Riverton, WY](https://www.notarydepot.com/notary-near-me/Wyoming/Riverton)
     - [Notary Public in Story, WY](https://www.notarydepot.com/notary-near-me/Wyoming/Story)
     - [Notary Public in Thermopolis, WY](https://www.notarydepot.com/notary-near-me/Wyoming/Thermopolis)
+    - [Notary Public in Wilson, WY](https://www.notarydepot.com/notary-near-me/Wyoming/Wilson)
 - Notary Near Me Profiles
   - [Notary Public in Williamstown, KY: Stephen D Brock](https://www.notarydepot.com/123stephend)
   - [Notary Public in Oceanside, CA: Linda Spanski](https://www.notarydepot.com/12callnotary)
@@ -4203,6 +4204,7 @@
   - [Notary Public in Thousand Oaks, CA: Jennifer Mastrolonardo](https://www.notarydepot.com/jensplace)
   - [Notary Public in Los Angeles, CA: Jennifer Signey](https://www.notarydepot.com/jenssignings)
   - [Notary Public in Whittier, CA: Jeovanny Pacheco](https://www.notarydepot.com/jeovannypacheco)
+  - [Notary Public in Wilson, WY: Jeremy Macik](https://www.notarydepot.com/jeremymacik)
   - [Notary Public in Altamonte Springs, FL: Gerardo Martinez](https://www.notarydepot.com/jerry18)
   - [Notary Public in Altamonte Springs, FL: Gerardo Martinez](https://www.notarydepot.com/jerry2000)
   - [Notary Public in Lawton, OK: Jerry E. Kinsey Jr.](https://www.notarydepot.com/jerry957)
@@ -7801,4 +7803,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-20T05:07:02Z
+Updated at 2018-06-20T05:27:02Z
