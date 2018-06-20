@@ -1971,7 +1971,6 @@
     - [Notary Public in Southlake, TX](https://www.notarydepot.com/notary-near-me/Texas/Southlake)
     - [Notary Public in Spring, TX](https://www.notarydepot.com/notary-near-me/Texas/Spring)
     - [Notary Public in Spring Branch, TX](https://www.notarydepot.com/notary-near-me/Texas/Spring-Branch)
-    - [Notary Public in Springtown, TX](https://www.notarydepot.com/notary-near-me/Texas/Springtown)
     - [Notary Public in Stafford, TX](https://www.notarydepot.com/notary-near-me/Texas/Stafford)
     - [Notary Public in Sugar Land, TX](https://www.notarydepot.com/notary-near-me/Texas/Sugar-Land)
     - [Notary Public in Sweeny, TX](https://www.notarydepot.com/notary-near-me/Texas/Sweeny)
@@ -4151,7 +4150,6 @@
   - [Notary Public in NY: Jeanette Wilson](https://www.notarydepot.com/jeanettewilson)
   - [Notary Public in Cleveland, OH: Jeanine Sims](https://www.notarydepot.com/jeaninesims)
   - [Notary Public in Bradenton, FL: Jean Meyer](https://www.notarydepot.com/jeanmeyer247)
-  - [Notary Public in Springtown, TX: Jeanne L Mosal](https://www.notarydepot.com/jeannemosal)
   - [Notary Public in North Berwick, ME: Jeannie Provencher](https://www.notarydepot.com/jeannie50mp469)
   - [Notary Public in Chicago, IL: Jean Zei](https://www.notarydepot.com/jeanzei)
   - [Notary Public in Lake Elsinore, CA: Jennifer Bishop](https://www.notarydepot.com/jebba33)
@@ -7805,4 +7803,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-20T20:27:02Z
+Updated at 2018-06-20T20:47:02Z
