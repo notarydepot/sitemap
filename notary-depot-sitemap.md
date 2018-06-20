@@ -5997,6 +5997,7 @@
   - [Notary Public in Palmdale, CA: Rachel Pena](https://www.notarydepot.com/rachelpena)
   - [Notary Public in Wallingford, CT: Richard Claxton](https://www.notarydepot.com/raclaxton1)
   - [Notary Public in Grand Prairie, TX: Rachael Howell](https://www.notarydepot.com/raehowell)
+  - [Notary Public in Miami, FL: Ashley Ragin](https://www.notarydepot.com/ragin84)
   - [Notary Public in Dunnellon, FL: Leon C. Douglas](https://www.notarydepot.com/railroads)
   - [Notary Public in Dunnellon, FL: Leon C. Douglas](https://www.notarydepot.com/railroads1953)
   - [Notary Public in Dunnellon, FL: Leon C. Douglas](https://www.notarydepot.com/railroads53)
@@ -7804,4 +7805,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-20T17:27:02Z
+Updated at 2018-06-20T17:47:02Z
