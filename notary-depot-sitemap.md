@@ -573,6 +573,7 @@
     - [Notary Public in Davenport, FL](https://www.notarydepot.com/notary-near-me/Florida/Davenport)
     - [Notary Public in Daytona Beach, FL](https://www.notarydepot.com/notary-near-me/Florida/Daytona-Beach)
     - [Notary Public in De Leon Springs, FL](https://www.notarydepot.com/notary-near-me/Florida/De-Leon-Springs)
+    - [Notary Public in DeBary, FL](https://www.notarydepot.com/notary-near-me/Florida/DeBary)
     - [Notary Public in Deerfield Beach, FL](https://www.notarydepot.com/notary-near-me/Florida/Deerfield-Beach)
     - [Notary Public in DeLand, FL](https://www.notarydepot.com/notary-near-me/Florida/DeLand)
     - [Notary Public in Delray Beach, FL](https://www.notarydepot.com/notary-near-me/Florida/Delray-Beach)
@@ -2937,7 +2938,7 @@
   - [Notary Public in Copperas Cove, TX: Joseph Reeves](https://www.notarydepot.com/centexnotary)
   - [Notary Public in Santa Rosa, CA: The Central Office](https://www.notarydepot.com/centoff)
   - [Notary Public in Anaheim, CA: Christian Ergueta](https://www.notarydepot.com/cergueta)
-  - [Notary Public in Sanford, FL: Christopher Ersson](https://www.notarydepot.com/cersson)
+  - [Notary Public in DeBary, FL: Christopher Ersson](https://www.notarydepot.com/cersson)
   - [Notary Public in Atlantic Beach, FL: Certified Docs](https://www.notarydepot.com/certifieddocs)
   - [Notary Public in Dearborn, MI: Shannon Fields](https://www.notarydepot.com/certifiednotaryshannongmailcom)
   - [Notary Public in Concord, NC: Danielle Moore](https://www.notarydepot.com/certified_notary_orchidone)
@@ -7803,4 +7804,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-20T17:07:02Z
+Updated at 2018-06-20T17:27:02Z
