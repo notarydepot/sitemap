@@ -3466,6 +3466,7 @@
   - [Notary Public in Grandview, TX: Donny Ficklin](https://www.notarydepot.com/drf1262)
   - [Notary Public in Chesapeake, VA: Deirdre Lynn Roper](https://www.notarydepot.com/drive2you)
   - [Notary Public in Las Vegas, NV: Nicholas Kalair](https://www.notarydepot.com/drprez)
+  - [Notary Public in Melbourne, FL: Linda B. Delaune](https://www.notarydepot.com/drservicesnotary)
   - [Notary Public in Downey, CA: Daniel Rosario](https://www.notarydepot.com/drshaft)
   - [Notary Public in Livingston, NJ: Dianna Sancho](https://www.notarydepot.com/dsancho)
   - [Notary Public in Lafayette, IN: Donald Sapp](https://www.notarydepot.com/dsapp44444)
@@ -7803,4 +7804,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-20T22:47:02Z
+Updated at 2018-06-20T23:07:02Z
