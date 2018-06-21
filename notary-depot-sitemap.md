@@ -5332,7 +5332,6 @@
   - [Notary Public in Riverton, WY: Laura Harrington](https://www.notarydepot.com/mom_3m)
   - [Notary Public in Evans, GA: Mona Stokes](https://www.notarydepot.com/monastokes)
   - [Notary Public in Freeland, MI: Tommy W Simpkins](https://www.notarydepot.com/moneytommy)
-  - [Notary Public in Santa Rosa, CA: Monica Hernandez-Soto](https://www.notarydepot.com/monica)
   - [Notary Public in Herriman, UT: Monica Anderson](https://www.notarydepot.com/monica7905)
   - [Notary Public in Colorado Springs, CO: Monica Myrick](https://www.notarydepot.com/monicaco74)
   - [Notary Public in Escondido, CA: Monica Johnston](https://www.notarydepot.com/monicajohnston)
@@ -7803,4 +7802,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-21T16:27:02Z
+Updated at 2018-06-21T16:47:03Z
