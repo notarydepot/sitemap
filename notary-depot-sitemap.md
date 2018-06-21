@@ -2912,7 +2912,6 @@
   - [Notary Public in NY: Cesia Bravo](https://www.notarydepot.com/cbravo)
   - [Notary Public in Milwaukee, WI: Christina Sarkissian](https://www.notarydepot.com/cbrown30)
   - [Notary Public in Chattanooga, TN: Michael Holden](https://www.notarydepot.com/cbsmkyle)
-  - [Notary Public in Las Vegas, NV: Cheryl Sirote](https://www.notarydepot.com/cbsnvnotary)
   - [Notary Public in Houston, TX: Crystal Carpenter](https://www.notarydepot.com/ccarpenter)
   - [Notary Public in San Marcos, CA: A Notary Public Near You](https://www.notarydepot.com/ccaywood)
   - [Notary Public in Magalia, CA: Carol Clow](https://www.notarydepot.com/cclow)
@@ -7804,4 +7803,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-21T12:47:02Z
+Updated at 2018-06-21T13:07:02Z
