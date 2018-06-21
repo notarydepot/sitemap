@@ -1584,6 +1584,7 @@
     - [Notary Public in New Philadelphia, OH](https://www.notarydepot.com/notary-near-me/Ohio/New-Philadelphia)
     - [Notary Public in North Canton, OH](https://www.notarydepot.com/notary-near-me/Ohio/North-Canton)
     - [Notary Public in North Ridgeville, OH](https://www.notarydepot.com/notary-near-me/Ohio/North-Ridgeville)
+    - [Notary Public in Northfield, OH](https://www.notarydepot.com/notary-near-me/Ohio/Northfield)
     - [Notary Public in Oberlin, OH](https://www.notarydepot.com/notary-near-me/Ohio/Oberlin)
     - [Notary Public in Painesville, OH](https://www.notarydepot.com/notary-near-me/Ohio/Painesville)
     - [Notary Public in Pickerington, OH](https://www.notarydepot.com/notary-near-me/Ohio/Pickerington)
@@ -5367,6 +5368,7 @@
   - [Notary Public in Mount Dora, FL: Brenda Jo Collier](https://www.notarydepot.com/mountdoranotary)
   - [Notary Public in Clearwater, FL: Donna J Moore, CNSA](https://www.notarydepot.com/mouseketeer53)
   - [Notary Public in Fort Washington, MD: Maggie O. Westfield](https://www.notarydepot.com/mowest)
+  - [Notary Public in Northfield, OH: David](https://www.notarydepot.com/moyerparalegal)
   - [Notary Public in Eustis, FL: Mary-Beth Palerino](https://www.notarydepot.com/mpalerino)
   - [Notary Public in White Marsh, MD: Maria Papavasilis ](https://www.notarydepot.com/mpapavasilis70)
   - [Notary Public in Towanda, PA: Mary Pierce](https://www.notarydepot.com/mpiercenotary)
@@ -7802,4 +7804,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-21T19:07:03Z
+Updated at 2018-06-21T19:27:02Z
