@@ -6461,6 +6461,7 @@
   - [Notary Public in Jacksonville, FL: William Simons](https://www.notarydepot.com/simons1953)
   - [Notary Public in San Ramon, CA: Yip Fun Lau](https://www.notarydepot.com/simple8348gmailcom)
   - [Notary Public in Cadiz, KY: Karen Randels](https://www.notarydepot.com/simplelife2000)
+  - [Notary Public in New York, NY: Byron D. Robinson](https://www.notarydepot.com/simplifynotaryinc)
   - [Notary Public in Jonesboro, GA: Shannon Sims](https://www.notarydepot.com/simsnotarymobile)
   - [Notary Public in Edenton, NC: Jannifer H. Sykes](https://www.notarydepot.com/sing7)
   - [Notary Public in Gastonia, NC: Angela](https://www.notarydepot.com/singing1098)
@@ -7802,4 +7803,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-22T19:47:02Z
+Updated at 2018-06-22T20:07:02Z
