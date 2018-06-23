@@ -4025,6 +4025,7 @@
   - [Notary Public in Sacramento, CA: Sabrina Donelli](https://www.notarydepot.com/italiana1972)
   - [Notary Public in Vista, CA: Annette Webb](https://www.notarydepot.com/itsawebb)
   - [Notary Public in Phoenix, AZ: Jennifer Hayes](https://www.notarydepot.com/itsnatalieanouk)
+  - [Notary Public in Philadelphia, PA: Kim French](https://www.notarydepot.com/itspossible)
   - [Notary Public in Lakeland, FL: Ivelisse Santiago](https://www.notarydepot.com/ivelisse)
   - [Notary Public in Jonesboro, AR: Jennifer &quot;Andrea&quot; Hyman](https://www.notarydepot.com/j1a1hyman)
   - [Notary Public in Ladera Ranch, CA: Jason Abadie](https://www.notarydepot.com/jabadie19)
@@ -5396,7 +5397,6 @@
   - [Notary Public in Country Club Hills, IL: Shirley Reynolds](https://www.notarydepot.com/msdamars2001)
   - [Notary Public in Anaheim, CA: Natalie Draffen](https://www.notarydepot.com/msdraffen)
   - [Notary Public in New York, NY: Michael Senz](https://www.notarydepot.com/msenz)
-  - [Notary Public in Philadelphia, PA: Kim French](https://www.notarydepot.com/msfrench)
   - [Notary Public in Beverly Hills, CA: Matthew Shamooil](https://www.notarydepot.com/mshamooil)
   - [Notary Public in Clovis, CA: Monique Sharp](https://www.notarydepot.com/msharp)
   - [Notary Public in New York, NY: 24 Hour New York City Mobile Notary](https://www.notarydepot.com/mshohet11)
@@ -7804,4 +7804,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-23T20:47:02Z
+Updated at 2018-06-23T21:07:02Z
