@@ -6076,6 +6076,7 @@
   - [Notary Public in Los Angeles, CA: Reuben Zadeh](https://www.notarydepot.com/reubenzadeh)
   - [Notary Public in Camden, NJ: Levi](https://www.notarydepot.com/revlc3notary)
   - [Notary Public in Whittier, CA: Monica Reyes](https://www.notarydepot.com/reyesfam2la)
+  - [Notary Public in Mesa, AZ: Ricardo Fallas](https://www.notarydepot.com/rfallasb)
   - [Notary Public in Lake Worth, FL: Rodger F. Bratvogel](https://www.notarydepot.com/rfbnotary)
   - [Notary Public in Jacksonville, FL: Russell V. Franklin](https://www.notarydepot.com/rfranklin)
   - [Notary Public in Port St. Lucie, FL: Rene Fredericks](https://www.notarydepot.com/rfredericks)
@@ -7803,4 +7804,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-23T07:07:02Z
+Updated at 2018-06-23T07:27:01Z
