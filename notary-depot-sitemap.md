@@ -2354,7 +2354,7 @@
   - [Notary Public in McCalla, AL: Linda Meadows](https://www.notarydepot.com/alanotary)
   - [Notary Public in Los Angeles, CA: Anne Larkin](https://www.notarydepot.com/alark22)
   - [Notary Public in Huntsville, AL: Andrew Lawhorn](https://www.notarydepot.com/alawhorn1)
-  - [Notary Public in Corona, CA: Alvin L. Brown](https://www.notarydepot.com/albrown)
+  - [Notary Public in Riverside, CA: Alvin L. Brown](https://www.notarydepot.com/albrown)
   - [Notary Public in Saint Marys, IA: Linda Alcorn](https://www.notarydepot.com/alcorn48)
   - [Notary Public in NJ: Aleen Larsen](https://www.notarydepot.com/aleenlarsen)
   - [Notary Public in Miami Beach, FL: Alejandra Romero](https://www.notarydepot.com/alejandrarom)
@@ -7804,4 +7804,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-23T22:27:02Z
+Updated at 2018-06-23T22:47:02Z
