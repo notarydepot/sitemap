@@ -4954,6 +4954,7 @@
   - [Notary Public in Moreno Valley, CA: Luetta Clark](https://www.notarydepot.com/luetta)
   - [Notary Public in Rancho Santa Margarita, CA: Victor Cardi](https://www.notarydepot.com/lukescoach)
   - [Notary Public in Pittston, PA: Mary Louise Mamary](https://www.notarydepot.com/lulu)
+  - [Notary Public in Middletown, DE: Tawanda Lum ](https://www.notarydepot.com/lummobilenotary)
   - [Notary Public in Fontana, CA: Guadalupe Perez](https://www.notarydepot.com/lupe)
   - [Notary Public in Chula Vista, CA: Lupe Ruiz](https://www.notarydepot.com/luper)
   - [Notary Public in Thomasville, NC: Lucy A Owens](https://www.notarydepot.com/lusylou)
@@ -7804,4 +7805,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-25T02:47:02Z
+Updated at 2018-06-25T03:07:02Z
