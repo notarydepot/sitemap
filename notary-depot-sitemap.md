@@ -6911,6 +6911,7 @@
   - [Notary Public in Tampa, FL: Tiffany Shack](https://www.notarydepot.com/tshack)
   - [Notary Public in Frederick, MD: Patricia W Shadoan](https://www.notarydepot.com/tshadoan)
   - [Notary Public in Leesburg, FL: Terri L Silipo](https://www.notarydepot.com/tsilipo)
+  - [Notary Public in San Francisco, CA: Tiffany Simi](https://www.notarydepot.com/tsimi)
   - [Notary Public in Philadelphia, PA: Tanya Solomon](https://www.notarydepot.com/tsolomon2020)
   - [Notary Public in Hooksett, NH: Sue Parnell](https://www.notarydepot.com/tsparnell)
   - [Notary Public in Denton, TX: Todd Spigener](https://www.notarydepot.com/tspigener)
@@ -7805,4 +7806,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-26T02:27:02Z
+Updated at 2018-06-26T02:47:02Z
