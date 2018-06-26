@@ -5184,7 +5184,7 @@
   - [Notary Public in Limestone, NY: Michelle L Flynn](https://www.notarydepot.com/mflynn)
   - [Notary Public in Annandale, VA: Michael Fontaine](https://www.notarydepot.com/mfontaine1)
   - [Notary Public in Port Jervis, NY: Misty Fuller](https://www.notarydepot.com/mfuller)
-  - [Notary Public in Pompano Beach, FL: Martina Adams](https://www.notarydepot.com/mgadams)
+  - [Notary Public in Fort Lauderdale, FL: Martina Adams](https://www.notarydepot.com/mgadams)
   - [Notary Public in Pasadena, TX: Mario Garcia](https://www.notarydepot.com/mgarcia0410)
   - [Notary Public in Murfreesboro, TN: Renee M. Gentry](https://www.notarydepot.com/mgentry345)
   - [Notary Public in Windsor Heights, IA: Michael G. Friedel](https://www.notarydepot.com/mgfriedel)
@@ -7804,4 +7804,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-26T16:07:01Z
+Updated at 2018-06-26T16:27:02Z
