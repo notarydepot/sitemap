@@ -5125,6 +5125,7 @@
   - [Notary Public in Warwick, RI: Michele Capelli](https://www.notarydepot.com/mcapelli66)
   - [Notary Public in Mission Viejo, CA: Mike Cardan](https://www.notarydepot.com/mcardan)
   - [Notary Public in Shepherd, TX: Megan Bailey](https://www.notarydepot.com/mcbailey1646)
+  - [Notary Public in Los Angeles, CA: Keith McGruder](https://www.notarydepot.com/mcgruder)
   - [Notary Public in Apopka, FL: Melanie J Wise](https://www.notarydepot.com/mchinadoll)
   - [Notary Public in Apollo Beach, FL: Melissa Christenson](https://www.notarydepot.com/mchristenson1)
   - [Notary Public in Arroyo Grande, CA: A Notary to Go](https://www.notarydepot.com/mchuises)
@@ -7804,4 +7805,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-27T09:27:02Z
+Updated at 2018-06-27T09:47:02Z
