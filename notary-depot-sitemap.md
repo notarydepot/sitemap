@@ -6171,6 +6171,7 @@
   - [Notary Public in Costa Mesa, CA: Roma San Antonio](https://www.notarydepot.com/romabinh)
   - [Notary Public in Chicago, IL: Desiree Roman](https://www.notarydepot.com/romanendeavors)
   - [Notary Public in Russellville, AR: Ronald D. Hall](https://www.notarydepot.com/ronaldhall)
+  - [Notary Public in Raleigh, NC: Ronda](https://www.notarydepot.com/ronda)
   - [Notary Public in Raleigh, NC: Ronda Rudd](https://www.notarydepot.com/ronda35)
   - [Notary Public in San Leandro, CA: Ronza M. Bargas](https://www.notarydepot.com/ronica)
   - [Notary Public in Durham, NC: Rhonda Nails](https://www.notarydepot.com/ronnieceo)
@@ -7805,4 +7806,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-06-28T10:07:01Z
+Updated at 2018-06-28T10:27:02Z
