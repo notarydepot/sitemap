@@ -2052,7 +2052,6 @@
     - [Notary Public in Leesburg, VA](https://www.notarydepot.com/notary-near-me/Virginia/Leesburg)
     - [Notary Public in Lightfoot, VA](https://www.notarydepot.com/notary-near-me/Virginia/Lightfoot)
     - [Notary Public in Locust Grove, VA](https://www.notarydepot.com/notary-near-me/Virginia/Locust-Grove)
-    - [Notary Public in Louisa, VA](https://www.notarydepot.com/notary-near-me/Virginia/Louisa)
     - [Notary Public in Lynchburg, VA](https://www.notarydepot.com/notary-near-me/Virginia/Lynchburg)
     - [Notary Public in Manassas, VA](https://www.notarydepot.com/notary-near-me/Virginia/Manassas)
     - [Notary Public in Marion, VA](https://www.notarydepot.com/notary-near-me/Virginia/Marion)
@@ -2647,7 +2646,6 @@
   - [Notary Public in North Las Vegas, NV: Pat Ramson](https://www.notarydepot.com/beerightthere)
   - [Notary Public in Quakertown, PA: Elizabeth A Gimelson](https://www.notarydepot.com/beez1230)
   - [Notary Public in Auburn, CA: Rebecca A. Smallridge](https://www.notarydepot.com/bekkah)
-  - [Notary Public in Louisa, VA: Karen Duke](https://www.notarydepot.com/belchers3)
   - [Notary Public in Harrisburg, PA: William T. Kennedy Iv](https://www.notarydepot.com/belgarin)
   - [Notary Public in Erie, PA: Belinda Flickner](https://www.notarydepot.com/belindafl)
   - [Notary Public in Sacramento, CA: The Notary To Call - Belinda Davis](https://www.notarydepot.com/belindardavis)
@@ -7808,4 +7806,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-07-02T18:47:02Z
+Updated at 2018-07-02T19:07:03Z
