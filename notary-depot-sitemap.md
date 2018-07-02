@@ -2612,7 +2612,7 @@
   - [Notary Public in Byron, CA: Barbara Trujillo](https://www.notarydepot.com/barbtrujillo)
   - [Notary Public in Bellingham, WA: Irene Reynolds](https://www.notarydepot.com/barefootinthesand)
   - [Notary Public in Trinidad, CO: Carol Brimmeier](https://www.notarydepot.com/barney)
-  - [Notary Public in Altus, OK: Carole Barrow](https://www.notarydepot.com/barrowsign)
+  - [Notary Public in Altus, OK: Carole Geigle](https://www.notarydepot.com/barrowsign)
   - [Notary Public in Charlotte, NC: Barry Muse](https://www.notarydepot.com/barrycarpeytc2012)
   - [Notary Public in Cape Coral, FL: Anita Foster](https://www.notarydepot.com/bassfoster)
   - [Notary Public in Batavia, OH: Angela Bender](https://www.notarydepot.com/batavianotary)
@@ -7808,4 +7808,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-07-02T15:27:02Z
+Updated at 2018-07-02T15:47:02Z
