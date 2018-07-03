@@ -1971,6 +1971,7 @@
     - [Notary Public in Southlake, TX](https://www.notarydepot.com/notary-near-me/Texas/Southlake)
     - [Notary Public in Spring, TX](https://www.notarydepot.com/notary-near-me/Texas/Spring)
     - [Notary Public in Spring Branch, TX](https://www.notarydepot.com/notary-near-me/Texas/Spring-Branch)
+    - [Notary Public in Springtown, TX](https://www.notarydepot.com/notary-near-me/Texas/Springtown)
     - [Notary Public in Stafford, TX](https://www.notarydepot.com/notary-near-me/Texas/Stafford)
     - [Notary Public in Sugar Land, TX](https://www.notarydepot.com/notary-near-me/Texas/Sugar-Land)
     - [Notary Public in Sweeny, TX](https://www.notarydepot.com/notary-near-me/Texas/Sweeny)
@@ -3184,6 +3185,7 @@
   - [Notary Public in Washington, DC: David Minniefield](https://www.notarydepot.com/daminniefield)
   - [Notary Public in Tipton, IN: Dana M Kirby](https://www.notarydepot.com/danamkirby)
   - [Notary Public in Aurora, CO: Dana Robinson](https://www.notarydepot.com/danar220)
+  - [Notary Public in Springtown, TX: Eva Morris](https://www.notarydepot.com/dandesvcs)
   - [Notary Public in Santa Maria, CA: Dan Gebhart](https://www.notarydepot.com/dangebhart)
   - [Notary Public in Dania Beach, FL: Robert Herst](https://www.notarydepot.com/daniabeachnotary)
   - [Notary Public in Highland, CA: Daniel Eric Harms](https://www.notarydepot.com/danielharms)
@@ -7807,4 +7809,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-07-03T16:27:02Z
+Updated at 2018-07-03T16:47:02Z
