@@ -7110,6 +7110,7 @@
   - [Notary Public in Bristol, VA: Earlene Wood](https://www.notarydepot.com/woody1945)
   - [Notary Public in Castro Valley, CA: Woody Williams](https://www.notarydepot.com/woodywms)
   - [Notary Public in Moorpark, CA: Linda Foster](https://www.notarydepot.com/wordwizard)
+  - [Notary Public in Pearland, TX: NiKeitaa Stewart](https://www.notarydepot.com/work2018)
   - [Notary Public in Gardena, CA: Melva E. Scott](https://www.notarydepot.com/worryfree)
   - [Notary Public in Franklinton, NC: Deshonda W. Wortham](https://www.notarydepot.com/wortham5)
   - [Notary Public in Olive Branch, MS: West Patrick](https://www.notarydepot.com/wpatrick55)
@@ -7806,4 +7807,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-07-03T03:47:02Z
+Updated at 2018-07-03T04:07:03Z
