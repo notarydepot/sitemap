@@ -6770,6 +6770,7 @@
   - [Notary Public in North Charleston, SC: Derrick Reese](https://www.notarydepot.com/thefactor)
   - [Notary Public in Niceville, FL: Brit Fidler](https://www.notarydepot.com/thefidler)
   - [Notary Public in Decatur, GA: Aaron Murrell](https://www.notarydepot.com/theloanarranger)
+  - [Notary Public in Colton, CA: Renee Luckey](https://www.notarydepot.com/theluckeynotary)
   - [Notary Public in Anaheim, CA: Jesus Valdez Cebillos](https://www.notarydepot.com/themailroom)
   - [Notary Public in Mount Holly, NJ: Matty Midura](https://www.notarydepot.com/thematt)
   - [Notary Public in West Haverstraw, NY: Helen Hardeen](https://www.notarydepot.com/themobilenotary)
@@ -7809,4 +7810,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-07-03T21:27:02Z
+Updated at 2018-07-03T21:47:02Z
