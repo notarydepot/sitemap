@@ -6399,7 +6399,6 @@
   - [Notary Public in Cleveland, OH: Shayla L. Davis](https://www.notarydepot.com/shaylasa3)
   - [Notary Public in Jackson, MI: Sharon Moyer](https://www.notarydepot.com/shazing)
   - [Notary Public in Chicago, IL: Chicago Notary 4 U](https://www.notarydepot.com/sheababy1968)
-  - [Notary Public in Sparks, NV: John Sheedy](https://www.notarydepot.com/sheedy)
   - [Notary Public in Kansas City, MO: Sheila Gissentoner](https://www.notarydepot.com/sheelafox)
   - [Notary Public in Des Moines, IA: Omar Colwell](https://www.notarydepot.com/sheiklic)
   - [Notary Public in Carnation, WA: sheila anderson](https://www.notarydepot.com/sheilaanderson)
@@ -7812,4 +7811,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-07-10T23:09:02Z
+Updated at 2018-07-10T23:29:02Z
