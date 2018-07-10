@@ -5758,6 +5758,7 @@
   - [Notary Public in Danbury, CT: Elizabeth A DiMaria](https://www.notarydepot.com/oldgrove)
   - [Notary Public in Moreno Valley, CA: Olga R. Cannady](https://www.notarydepot.com/olganotary1)
   - [Notary Public in Waukee, IA: olga](https://www.notarydepot.com/olgasparks)
+  - [Notary Public in Antelope, CA: Olga Shmigelskiy ](https://www.notarydepot.com/olliethenotary)
   - [Notary Public in Mukilteo, WA: Amy Finney](https://www.notarydepot.com/omalley)
   - [Notary Public in Mukilteo, WA: Amy Finney](https://www.notarydepot.com/omalley1)
   - [Notary Public in Atlanta, GA: Omari Hakeem](https://www.notarydepot.com/omari81)
@@ -7811,4 +7812,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-07-10T07:09:02Z
+Updated at 2018-07-10T07:29:02Z
