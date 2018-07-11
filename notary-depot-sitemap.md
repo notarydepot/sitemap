@@ -4437,6 +4437,7 @@
   - [Notary Public in Los Angeles, CA: Jason A. Vallejos](https://www.notarydepot.com/jvallejos)
   - [Notary Public in Fort Myers, FL: James H Wallert](https://www.notarydepot.com/jwallert)
   - [Notary Public in Decatur, GA: Jeanie Ware, Attorney &amp; Counselor at Law](https://www.notarydepot.com/jwarelaw)
+  - [Notary Public in Deerfield, NH: Jane Brutto](https://www.notarydepot.com/jwbrutto)
   - [Notary Public in Philadelphia, PA: John Wenzel](https://www.notarydepot.com/jwenz0)
   - [Notary Public in Delaware, OH: Jayson Wickard](https://www.notarydepot.com/jwickard)
   - [Notary Public in Madison, IL: Jessica L. Wiemers](https://www.notarydepot.com/jwiemers)
@@ -7813,4 +7814,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-07-11T22:49:02Z
+Updated at 2018-07-11T23:09:02Z
