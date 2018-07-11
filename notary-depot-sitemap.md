@@ -2969,7 +2969,7 @@
   - [Notary Public in Jackson, MS: Cherri A. Hayes](https://www.notarydepot.com/chayes)
   - [Notary Public in Watsonville, CA: Christina Feige](https://www.notarydepot.com/checkmat)
   - [Notary Public in Victorville, CA: Rochelle Johnson](https://www.notarydepot.com/chellietee)
-  - [Notary Public in Victorville, CA: Shae Whatley CNSA](https://www.notarydepot.com/chemack)
+  - [Notary Public in North Las Vegas, NV: LaShavia Whatley](https://www.notarydepot.com/chemack)
   - [Notary Public in Warrenton, VA: Cherie Beatty](https://www.notarydepot.com/cherie)
   - [Notary Public in Santa Maria, CA: Cheryl Hoyopatubbi](https://www.notarydepot.com/cherihoyo)
   - [Notary Public in Greeley, CO: Cherilyn Clark](https://www.notarydepot.com/cherilyn)
@@ -5932,7 +5932,7 @@
   - [Notary Public in Virginia Beach, VA: Paulette Cordes](https://www.notarydepot.com/premiumnotaryservices)
   - [Notary Public in Hollywood, FL: Daisy O&#39;Brien](https://www.notarydepot.com/prestigenotaryservices)
   - [Notary Public in Temecula, CA: Letty A. Marquez](https://www.notarydepot.com/prevantsy)
-  - [Notary Public in West Palm Beach, FL: Penny Price Payne](https://www.notarydepot.com/pricepayne)
+  - [Notary Public in Jupiter, FL: Penny Price Payne](https://www.notarydepot.com/pricepayne)
   - [Notary Public in Miami, FL: Patricia V. Richardson](https://www.notarydepot.com/prichar270)
   - [Notary Public in Carpentersville, IL: Susan Barucca](https://www.notarydepot.com/primer1)
   - [Notary Public in Orting, WA: Krista Smith](https://www.notarydepot.com/princesskm)
@@ -7813,4 +7813,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-07-11T20:49:02Z
+Updated at 2018-07-11T21:09:02Z
