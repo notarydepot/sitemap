@@ -5805,6 +5805,7 @@
   - [Notary Public in Alexandria, VA: Christian Lijeron](https://www.notarydepot.com/paola20861)
   - [Notary Public in Madison, OH: Paul Osborne](https://www.notarydepot.com/paosb)
   - [Notary Public in Raleigh, NC: Diamond Jenkins](https://www.notarydepot.com/paperworkdiva)
+  - [Notary Public in Hemet, CA: Samantha Betanzos](https://www.notarydepot.com/paperworklady)
   - [Notary Public in Mukwonago, WI: Patti Pappas](https://www.notarydepot.com/pappas4x)
   - [Notary Public in Rockledge, FL: Jacob J. Roland, Paralegal](https://www.notarydepot.com/paralegal4u)
   - [Notary Public in Jacksonville, FL: Elizabeth A. Bowen](https://www.notarydepot.com/paralegaletc)
@@ -7815,4 +7816,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-07-12T18:49:02Z
+Updated at 2018-07-12T19:09:02Z
