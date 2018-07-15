@@ -5706,6 +5706,7 @@
   - [Notary Public in Salt Lake City, UT: Leslie Johnson](https://www.notarydepot.com/notaryutah)
   - [Notary Public in Los Angeles, CA: Vanessa Hernandez](https://www.notarydepot.com/notaryvanessa)
   - [Notary Public in La Puente, CA: Violet Navarrete](https://www.notarydepot.com/notaryviolet)
+  - [Notary Public in Menifee, CA: Rhonda L. S. Yadao](https://www.notarydepot.com/notarywithaloha)
   - [Notary Public in Crystal Lake, IL: Maija Steele](https://www.notarydepot.com/notarywithwheels)
   - [Notary Public in Lithonia, GA: Saundra D. Echols](https://www.notarydepot.com/notarywoman)
   - [Notary Public in San Jose, CA: Raj Singh](https://www.notarydepot.com/notary_2004)
@@ -7818,4 +7819,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-07-15T23:09:02Z
+Updated at 2018-07-15T23:29:02Z
