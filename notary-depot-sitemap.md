@@ -5310,6 +5310,7 @@
   - [Notary Public in Fallon, NV: Greg Anderson](https://www.notarydepot.com/mobilenotarygreg)
   - [Notary Public in San Diego, CA: ronald link](https://www.notarydepot.com/mobilenotaryguy)
   - [Notary Public in Urbana, OH: Rhonda M Lippencott](https://www.notarydepot.com/mobilenotaryinohiogmailcom)
+  - [Notary Public in Fort Worth, TX: Kaylee](https://www.notarydepot.com/mobilenotarykaylee)
   - [Notary Public in Mount Airy, NC: Davee Daughenbaugh ](https://www.notarydepot.com/mobilenotaryondemand)
   - [Notary Public in Boynton Beach, FL: Mobile Notary Service](https://www.notarydepot.com/mobilenotarypbc)
   - [Notary Public in Glendale, AZ: Shawna Smith](https://www.notarydepot.com/mobilenotaryphx)
@@ -7817,4 +7818,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-07-15T18:49:02Z
+Updated at 2018-07-15T19:09:03Z
