@@ -3297,6 +3297,7 @@
   - [Notary Public in Pleasanton, CA: Deepti Verma](https://www.notarydepot.com/deepti)
   - [Notary Public in Jacksonville, NC: Denise Rivers](https://www.notarydepot.com/deerivers)
   - [Notary Public in Madison, WI: Frank Pabon](https://www.notarydepot.com/defroady)
+  - [Notary Public in Bracey, VA: Denise Johnson](https://www.notarydepot.com/dej)
   - [Notary Public in Mansfield, OH: Duane Lewis](https://www.notarydepot.com/delewis2)
   - [Notary Public in Troy, TX: Delia Driscoll](https://www.notarydepot.com/deliaher1)
   - [Notary Public in Indianapolis, IN: Deirdre Hollowell](https://www.notarydepot.com/delorraine)
@@ -6436,7 +6437,6 @@
   - [Notary Public in Suffolk, VA: Sheila Denise Warren](https://www.notarydepot.com/shikina)
   - [Notary Public in Smithfield, VA: Stephanie Hill](https://www.notarydepot.com/shillsign)
   - [Notary Public in Glendale, AZ: Samantha Hinman ](https://www.notarydepot.com/shinman19)
-  - [Notary Public in Bracey, VA: Denise Johnson](https://www.notarydepot.com/shiponsite)
   - [Notary Public in Charles Town, WV: Shirley Harris](https://www.notarydepot.com/shirley4982)
   - [Notary Public in Lake Charles, LA: Shirley Gutierrez](https://www.notarydepot.com/shirleyg47)
   - [Notary Public in Orlando, FL: Shontell Murphy](https://www.notarydepot.com/shontell)
@@ -7820,4 +7820,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-07-16T20:49:02Z
+Updated at 2018-07-16T21:09:02Z
