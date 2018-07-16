@@ -3970,6 +3970,7 @@
   - [Notary Public in White Pine, TN: Jonathan W Stewart](https://www.notarydepot.com/hscomp)
   - [Notary Public in Hayward, CA: Fay Hudson](https://www.notarydepot.com/hudsonbay)
   - [Notary Public in Los Angeles, CA: Cheryl](https://www.notarydepot.com/hufford68)
+  - [Notary Public in Los Angeles, CA: Hugo Enriquez](https://www.notarydepot.com/hugoenr87)
   - [Notary Public in DeLand, FL: Wesley C. Kibler](https://www.notarydepot.com/hvnotary)
   - [Notary Public in Pleasanton, CA: Helen Wardale](https://www.notarydepot.com/hwardale)
   - [Notary Public in Lincolnton, NC: Casey Hylton](https://www.notarydepot.com/hyltoncasey)
@@ -7819,4 +7820,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-07-16T17:29:02Z
+Updated at 2018-07-16T18:29:02Z
