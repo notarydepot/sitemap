@@ -5702,6 +5702,7 @@
   - [Notary Public in Wallingford, CT: Louis Storo](https://www.notarydepot.com/notarystoro)
   - [Notary Public in Stevensburg, VA: Tammy S. Kelly](https://www.notarydepot.com/notarytammykelly)
   - [Notary Public in Loveland, OH: Tina Butler](https://www.notarydepot.com/notarytb)
+  - [Notary Public in Clarksville, TN: Laticia Orocio](https://www.notarydepot.com/notarytish)
   - [Notary Public in Long Beach, CA: Notary Today](https://www.notarydepot.com/notarytoday)
   - [Notary Public in Junction City, KS: Stacey Richard ](https://www.notarydepot.com/notarytogojc)
   - [Notary Public in Rancho Cordova, CA: UmaVeeravally](https://www.notarydepot.com/notaryuma)
@@ -7821,4 +7822,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-07-17T18:49:02Z
+Updated at 2018-07-17T19:09:02Z
