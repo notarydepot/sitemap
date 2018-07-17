@@ -3258,6 +3258,7 @@
   - [Notary Public in San Marcos, CA: Deanna Console](https://www.notarydepot.com/dconsole)
   - [Notary Public in Portsmouth, VA: Don Cuffy Ii](https://www.notarydepot.com/dcuffy)
   - [Notary Public in Syracuse, NY: Daniel Debrucker](https://www.notarydepot.com/ddebrucker)
+  - [Notary Public in Drums, PA: Diana L Donahue](https://www.notarydepot.com/ddonahue)
   - [Notary Public in Bracey, VA: Denise Johnson, Notary Public](https://www.notarydepot.com/de63038)
   - [Notary Public in Phoenix, AZ: Deana Lowrance, Professional &quot;Mobile&quot; Signing Agent &amp; Notary](https://www.notarydepot.com/deanaj)
   - [Notary Public in Hampton, VA: David E. Dean](https://www.notarydepot.com/deande)
@@ -7820,4 +7821,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-07-17T17:09:02Z
+Updated at 2018-07-17T17:29:01Z
