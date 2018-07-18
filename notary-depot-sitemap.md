@@ -5317,6 +5317,7 @@
   - [Notary Public in Urbana, OH: Rhonda M Lippencott](https://www.notarydepot.com/mobilenotaryinohiogmailcom)
   - [Notary Public in Fort Worth, TX: Kaylee](https://www.notarydepot.com/mobilenotarykaylee)
   - [Notary Public in Los Angeles, CA: Charles Ross](https://www.notarydepot.com/mobilenotarylaxcrossgmailcom)
+  - [Notary Public in Alexandria, VA: Lisa D Brightsen](https://www.notarydepot.com/mobilenotarylisa)
   - [Notary Public in Mount Airy, NC: Davee Daughenbaugh ](https://www.notarydepot.com/mobilenotaryondemand)
   - [Notary Public in Boynton Beach, FL: Mobile Notary Service](https://www.notarydepot.com/mobilenotarypbc)
   - [Notary Public in Glendale, AZ: Shawna Smith](https://www.notarydepot.com/mobilenotaryphx)
@@ -7825,4 +7826,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-07-18T23:30:03Z
+Updated at 2018-07-18T23:50:02Z
