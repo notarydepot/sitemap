@@ -1881,6 +1881,7 @@
     - [Notary Public in Cooper, TX](https://www.notarydepot.com/notary-near-me/Texas/Cooper)
     - [Notary Public in Coppell, TX](https://www.notarydepot.com/notary-near-me/Texas/Coppell)
     - [Notary Public in Copperas Cove, TX](https://www.notarydepot.com/notary-near-me/Texas/Copperas-Cove)
+    - [Notary Public in Corinth, TX](https://www.notarydepot.com/notary-near-me/Texas/Corinth)
     - [Notary Public in Corpus Christi, TX](https://www.notarydepot.com/notary-near-me/Texas/Corpus-Christi)
     - [Notary Public in Crosby, TX](https://www.notarydepot.com/notary-near-me/Texas/Crosby)
     - [Notary Public in Dallas, TX](https://www.notarydepot.com/notary-near-me/Texas/Dallas)
@@ -2227,6 +2228,7 @@
   - [Notary Public in Cleveland, OH: Donna Waters](https://www.notarydepot.com/4donnav)
   - [Notary Public in Los Alamitos, CA: Camille Leonardo](https://www.notarydepot.com/4turtles)
   - [Notary Public in Downey, CA: Christina](https://www.notarydepot.com/562downeynotary)
+  - [Notary Public in Corinth, TX: DeMonica A Morton](https://www.notarydepot.com/5starnotary)
   - [Notary Public in Winchester, KY: Lee Kendrick](https://www.notarydepot.com/67ferrari)
   - [Notary Public in Danville, CA: Gerald Sixkiller](https://www.notarydepot.com/6killer)
   - [Notary Public in Las Vegas, NV: Monashea Moore](https://www.notarydepot.com/702notaryplus)
@@ -7826,4 +7828,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-07-19T02:10:02Z
+Updated at 2018-07-19T02:30:02Z
