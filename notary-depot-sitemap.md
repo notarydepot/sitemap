@@ -4575,6 +4575,7 @@
   - [Notary Public in Largo, FL: Kathleen Christie](https://www.notarydepot.com/khinakat)
   - [Notary Public in Huntington Beach, CA: Kim Hoffman](https://www.notarydepot.com/khoff)
   - [Notary Public in Tampa, FL: Kim Hutfilz](https://www.notarydepot.com/khutfilz)
+  - [Notary Public in West Hartford, CT: Kidean Thompson ](https://www.notarydepot.com/kidean007)
   - [Notary Public in Apple Valley, CA: Aracely Gudino](https://www.notarydepot.com/kikilala)
   - [Notary Public in Rifle, CO: Kim Baldwin NSA](https://www.notarydepot.com/kim)
   - [Notary Public in Ormond Beach, FL: Kim Bell](https://www.notarydepot.com/kimbellnotary)
@@ -7828,4 +7829,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-07-19T20:10:02Z
+Updated at 2018-07-19T20:30:02Z
