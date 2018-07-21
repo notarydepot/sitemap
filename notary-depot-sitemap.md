@@ -5615,6 +5615,7 @@
   - [Notary Public in Holly Springs, NC: Patricia Hoffman](https://www.notarydepot.com/notaryalacarte)
   - [Notary Public in Paterson, NJ: Luis Ramos](https://www.notarydepot.com/notaryathand)
   - [Notary Public in Richmond, TX: Ella Duru](https://www.notarydepot.com/notaryatyourservice)
+  - [Notary Public in Santa Ana, CA: gilbert L salvador](https://www.notarydepot.com/notarybert)
   - [Notary Public in Fort Mohave, AZ: Michelle Encinas](https://www.notarydepot.com/notarybiz)
   - [Notary Public in Urbandale, IA: Robert Fitzgerrell](https://www.notarydepot.com/notarybob)
   - [Notary Public in Ocean Springs, MS: Garrett Ryan Thompson](https://www.notarydepot.com/notaryboy05)
@@ -7831,4 +7832,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-07-21T22:30:02Z
+Updated at 2018-07-21T22:50:02Z
