@@ -814,6 +814,7 @@
     - [Notary Public in Country Club Hills, IL](https://www.notarydepot.com/notary-near-me/Illinois/Country-Club-Hills)
     - [Notary Public in Crystal Lake, IL](https://www.notarydepot.com/notary-near-me/Illinois/Crystal-Lake)
     - [Notary Public in Danville, IL](https://www.notarydepot.com/notary-near-me/Illinois/Danville)
+    - [Notary Public in DeKalb, IL](https://www.notarydepot.com/notary-near-me/Illinois/DeKalb)
     - [Notary Public in Dolton, IL](https://www.notarydepot.com/notary-near-me/Illinois/Dolton)
     - [Notary Public in Downers Grove, IL](https://www.notarydepot.com/notary-near-me/Illinois/Downers-Grove)
     - [Notary Public in Edwardsville, IL](https://www.notarydepot.com/notary-near-me/Illinois/Edwardsville)
@@ -7053,6 +7054,7 @@
   - [Notary Public in Burke, VA: Melissa Lawson](https://www.notarydepot.com/virginiasigningagent)
   - [Notary Public in Seattle, WA: Daniela Borovska](https://www.notarydepot.com/virove1)
   - [Notary Public in New Braunfels, TX: Miriam Fairchild](https://www.notarydepot.com/virtualfairchild)
+  - [Notary Public in DeKalb, IL: Katrina Brown](https://www.notarydepot.com/virtualkat)
   - [Notary Public in Sebring, FL: Vivian E Benvenuto](https://www.notarydepot.com/vivianb)
   - [Notary Public in Villa Park, CA: Vivien A. Phan](https://www.notarydepot.com/vivienaphan)
   - [Notary Public in Asheville, NC: Vivian Gaddy](https://www.notarydepot.com/vjones1152)
@@ -7832,4 +7834,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-07-22T02:30:02Z
+Updated at 2018-07-22T02:50:02Z
