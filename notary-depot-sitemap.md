@@ -1351,6 +1351,7 @@
     - [Notary Public in Wallington, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Wallington)
     - [Notary Public in Washington Township, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Washington-Township)
     - [Notary Public in Wayne, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Wayne)
+    - [Notary Public in West Caldwell, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/West-Caldwell)
     - [Notary Public in West New York, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/West-New-York)
     - [Notary Public in Westville, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Westville)
     - [Notary Public in Wharton, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Wharton)
@@ -3788,6 +3789,7 @@
   - [Notary Public in Littleton, CO: Geraldine Roble](https://www.notarydepot.com/geraldineroble)
   - [Notary Public in Dallas, TX: Gevona Lee](https://www.notarydepot.com/gevonal)
   - [Notary Public in Aurora, CO: Gail A. Edwards](https://www.notarydepot.com/gfacini)
+  - [Notary Public in West Caldwell, NJ: Gina Fazzini](https://www.notarydepot.com/gfazzini)
   - [Notary Public in Hollywood, SC: Bryan L. Gonterman](https://www.notarydepot.com/gforce)
   - [Notary Public in Brookhaven, NY: Gloria Gebbia](https://www.notarydepot.com/ggebbia2)
   - [Notary Public in Santa Ana, CA: Virginia R Hoadley](https://www.notarydepot.com/ggina76)
@@ -7834,4 +7836,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-07-22T15:10:02Z
+Updated at 2018-07-22T15:30:03Z
