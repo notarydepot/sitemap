@@ -1128,6 +1128,7 @@
     - [Notary Public in West Bloomfield Township, MI](https://www.notarydepot.com/notary-near-me/Michigan/West-Bloomfield-Township)
     - [Notary Public in Westland, MI](https://www.notarydepot.com/notary-near-me/Michigan/Westland)
     - [Notary Public in Whitmore Lake, MI](https://www.notarydepot.com/notary-near-me/Michigan/Whitmore-Lake)
+    - [Notary Public in Windsor charter Township, MI](https://www.notarydepot.com/notary-near-me/Michigan/Windsor-charter-Township)
     - [Notary Public in Wixom, MI](https://www.notarydepot.com/notary-near-me/Michigan/Wixom)
     - [Notary Public in Wyandotte, MI](https://www.notarydepot.com/notary-near-me/Michigan/Wyandotte)
     - [Notary Public in Ypsilanti, MI](https://www.notarydepot.com/notary-near-me/Michigan/Ypsilanti)
@@ -3885,6 +3886,7 @@
   - [Notary Public in Boston, MA: Kevin Ho](https://www.notarydepot.com/hackhoe)
   - [Notary Public in Norwalk, CA: Hackzell Jaime](https://www.notarydepot.com/hackzell)
   - [Notary Public in Simi Valley, CA: Harold H Savin (Certified Signing Agent)](https://www.notarydepot.com/hal914)
+  - [Notary Public in Windsor charter Township, MI: Heather Albert](https://www.notarydepot.com/halbert)
   - [Notary Public in Pollock Pines, CA: Dawn Marie Hall](https://www.notarydepot.com/hallfamily99)
   - [Notary Public in Wichita Falls, TX: Hallmark Realtor Group and Notary Services](https://www.notarydepot.com/hallmarkrealtorgroup)
   - [Notary Public in Pahrump, NV: Denise Hall](https://www.notarydepot.com/hallsfast)
@@ -6027,6 +6029,7 @@
   - [Notary Public in Dunnellon, FL: Leon C. Douglas](https://www.notarydepot.com/railroads53)
   - [Notary Public in Fort Lauderdale, FL: T. Viena](https://www.notarydepot.com/rainbow1300)
   - [Notary Public in Las Vegas, NV: Reza S. Akhavan](https://www.notarydepot.com/rakhavan)
+  - [Notary Public in Windsor charter Township, MI: Rionnie](https://www.notarydepot.com/ralbert)
   - [Notary Public in Alexander, NC: Ralph Roberts](https://www.notarydepot.com/ralphwroberts)
   - [Notary Public in Hacienda Heights, CA: Ramon Diaz](https://www.notarydepot.com/ramonmynotary)
   - [Notary Public in Orlando, FL: Ramon](https://www.notarydepot.com/ramonp)
@@ -7836,4 +7839,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-07-23T00:10:02Z
+Updated at 2018-07-23T00:30:02Z
