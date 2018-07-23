@@ -3887,6 +3887,7 @@
   - [Notary Public in Norwalk, CA: Hackzell Jaime](https://www.notarydepot.com/hackzell)
   - [Notary Public in Simi Valley, CA: Harold H Savin (Certified Signing Agent)](https://www.notarydepot.com/hal914)
   - [Notary Public in Windsor charter Township, MI: Heather Albert](https://www.notarydepot.com/halbert)
+  - [Notary Public in Windsor charter Township, MI: Heather Albert](https://www.notarydepot.com/halberthnrnotarycom)
   - [Notary Public in Pollock Pines, CA: Dawn Marie Hall](https://www.notarydepot.com/hallfamily99)
   - [Notary Public in Wichita Falls, TX: Hallmark Realtor Group and Notary Services](https://www.notarydepot.com/hallmarkrealtorgroup)
   - [Notary Public in Pahrump, NV: Denise Hall](https://www.notarydepot.com/hallsfast)
@@ -6029,7 +6030,7 @@
   - [Notary Public in Dunnellon, FL: Leon C. Douglas](https://www.notarydepot.com/railroads53)
   - [Notary Public in Fort Lauderdale, FL: T. Viena](https://www.notarydepot.com/rainbow1300)
   - [Notary Public in Las Vegas, NV: Reza S. Akhavan](https://www.notarydepot.com/rakhavan)
-  - [Notary Public in Windsor charter Township, MI: Rionnie](https://www.notarydepot.com/ralbert)
+  - [Notary Public in Windsor charter Township, MI: Rionnie Albert](https://www.notarydepot.com/ralbert)
   - [Notary Public in Alexander, NC: Ralph Roberts](https://www.notarydepot.com/ralphwroberts)
   - [Notary Public in Hacienda Heights, CA: Ramon Diaz](https://www.notarydepot.com/ramonmynotary)
   - [Notary Public in Orlando, FL: Ramon](https://www.notarydepot.com/ramonp)
@@ -7839,4 +7840,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-07-23T00:30:02Z
+Updated at 2018-07-23T00:50:02Z
