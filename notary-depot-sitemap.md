@@ -2687,6 +2687,7 @@
   - [Notary Public in Orangeburg, SC: Beverly H. Green](https://www.notarydepot.com/bgreen)
   - [Notary Public in Buffalo Grove, IL: Brandon H. Bohlen](https://www.notarydepot.com/bhbohlen7)
   - [Notary Public in Charlotte, NC: Bryan Henry](https://www.notarydepot.com/bhenry)
+  - [Notary Public in Altamonte Springs, FL: Bianca Brown](https://www.notarydepot.com/biancatiamera101)
   - [Notary Public in Cathedral City, CA: Shawna](https://www.notarydepot.com/bicket1976)
   - [Notary Public in Empire, OH: Travis Weaver](https://www.notarydepot.com/big21trav)
   - [Notary Public in Saint Petersburg, FL: Sean S Haggerty](https://www.notarydepot.com/bigblueocean)
@@ -7840,4 +7841,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-07-23T12:30:02Z
+Updated at 2018-07-23T12:50:02Z
