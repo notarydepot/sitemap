@@ -4882,7 +4882,6 @@
   - [Notary Public in Great Neck, NY: Elisa Rappoport](https://www.notarydepot.com/lisaw2690)
   - [Notary Public in CA: Lisa Whall](https://www.notarydepot.com/lisawhall99)
   - [Notary Public in MA: Steven R. W. Leahy, Attorney at Law](https://www.notarydepot.com/livefree)
-  - [Notary Public in Jacksonville, FL: Luke Sawyer](https://www.notarydepot.com/liveurlifegood)
   - [Notary Public in Southfield, MI: Lucki Notary](https://www.notarydepot.com/livory)
   - [Notary Public in Ionia, MI: Elizabeth A Cook](https://www.notarydepot.com/lizcook)
   - [Notary Public in Gloversville, NY: Elizabeth Donnelly](https://www.notarydepot.com/lizdon)
@@ -4970,6 +4969,7 @@
   - [Notary Public in Dallas, TX: Lucero Ramon](https://www.notarydepot.com/luceroaramon)
   - [Notary Public in Colton, CA: Renee Luckey](https://www.notarydepot.com/luckeynotary)
   - [Notary Public in Moreno Valley, CA: Luetta Clark](https://www.notarydepot.com/luetta)
+  - [Notary Public in Jacksonville, FL: Luke Sawyer](https://www.notarydepot.com/lukesawyer)
   - [Notary Public in Rancho Santa Margarita, CA: Victor Cardi](https://www.notarydepot.com/lukescoach)
   - [Notary Public in Pittston, PA: Mary Louise Mamary](https://www.notarydepot.com/lulu)
   - [Notary Public in Middletown, DE: Tawanda Lum ](https://www.notarydepot.com/lummobilenotary)
@@ -7841,4 +7841,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-07-23T20:10:02Z
+Updated at 2018-07-23T20:30:02Z
