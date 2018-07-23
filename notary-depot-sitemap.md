@@ -6031,7 +6031,7 @@
   - [Notary Public in Dunnellon, FL: Leon C. Douglas](https://www.notarydepot.com/railroads53)
   - [Notary Public in Fort Lauderdale, FL: T. Viena](https://www.notarydepot.com/rainbow1300)
   - [Notary Public in Las Vegas, NV: Reza S. Akhavan](https://www.notarydepot.com/rakhavan)
-  - [Notary Public in Windsor charter Township, MI: Rionnie Albert](https://www.notarydepot.com/ralbert)
+  - [Notary Public in Windsor charter Township, MI: Ronnie Albert](https://www.notarydepot.com/ralbert)
   - [Notary Public in Alexander, NC: Ralph Roberts](https://www.notarydepot.com/ralphwroberts)
   - [Notary Public in Hacienda Heights, CA: Ramon Diaz](https://www.notarydepot.com/ramonmynotary)
   - [Notary Public in Orlando, FL: Ramon](https://www.notarydepot.com/ramonp)
@@ -7841,4 +7841,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-07-23T16:10:02Z
+Updated at 2018-07-23T16:30:02Z
