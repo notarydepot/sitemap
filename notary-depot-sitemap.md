@@ -6207,6 +6207,7 @@
   - [Notary Public in Raleigh, NC: Ronda Rudd](https://www.notarydepot.com/ronda35)
   - [Notary Public in San Leandro, CA: Ronza M. Bargas](https://www.notarydepot.com/ronica)
   - [Notary Public in Durham, NC: Rhonda Nails](https://www.notarydepot.com/ronnieceo)
+  - [Notary Public in Trenton, NJ: Ronnolla](https://www.notarydepot.com/ronnollansagmailcom)
   - [Notary Public in NY: Ron R. Garcia](https://www.notarydepot.com/ronrgarcia)
   - [Notary Public in Ludlow, CA: Ron Moore](https://www.notarydepot.com/ronsmobileotary)
   - [Notary Public in Pelham, AL: Rosa Lateef](https://www.notarydepot.com/rosalateef)
@@ -7840,4 +7841,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-07-24T22:10:02Z
+Updated at 2018-07-24T22:30:03Z
