@@ -3707,6 +3707,7 @@
   - [Notary Public in Aberdeen, MD: Florence Rusche](https://www.notarydepot.com/flo_notary)
   - [Notary Public in Deltona, FL: Kelly Brill](https://www.notarydepot.com/flparalegal)
   - [Notary Public in New York, NY: Florence](https://www.notarydepot.com/flrncwats)
+  - [Notary Public in Great Falls, MT: Andrea Walsh-Dowell](https://www.notarydepot.com/fluffykarma)
   - [Notary Public in Dallas, TX: Felicia Young](https://www.notarydepot.com/flyoung)
   - [Notary Public in Hernando, FL: Cheryl Aerts](https://www.notarydepot.com/fl_doc_runner)
   - [Notary Public in Wharton, NJ: Francesca Martin](https://www.notarydepot.com/fmartin)
@@ -7841,4 +7842,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-07-25T17:30:02Z
+Updated at 2018-07-25T17:50:02Z
