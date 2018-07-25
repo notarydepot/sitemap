@@ -3321,7 +3321,6 @@
   - [Notary Public in MO: Dennis D. Broadbooks](https://www.notarydepot.com/dennisbroadbooksmo)
   - [Notary Public in Trabuco Canyon, CA: Dennielle De Heras](https://www.notarydepot.com/denotary)
   - [Notary Public in NJ: Linda Smith](https://www.notarydepot.com/dependablenotary)
-  - [Notary Public in De Pere, WI: Mark Wells](https://www.notarydepot.com/deperewinotary)
   - [Notary Public in Pompano Beach, FL: Derek Enrique](https://www.notarydepot.com/derek_closer)
   - [Notary Public in Richmond, VA: Derrek N. Daniels](https://www.notarydepot.com/derrekdaniels)
   - [Notary Public in Dallas, TX: Derrick Gibson](https://www.notarydepot.com/derrick2424)
@@ -5806,6 +5805,7 @@
   - [Notary Public in McKinney, TX: Paul Abernathy](https://www.notarydepot.com/pabernathy)
   - [Notary Public in Falls Church, VA: Lijerons Notary Agency](https://www.notarydepot.com/pablonpao85)
   - [Notary Public in Rocky Hill, CT: Patricia A Bradstreet](https://www.notarydepot.com/pabradstreet)
+  - [Notary Public in De Pere, WI: Mark Wells](https://www.notarydepot.com/packandshipnotary)
   - [Notary Public in Jacksonville, NC: Melissa A. Callahan](https://www.notarydepot.com/packer69)
   - [Notary Public in Beaverton, OR: Mustafa](https://www.notarydepot.com/pacsign)
   - [Notary Public in El Paso, TX: Jason Payton](https://www.notarydepot.com/paenotary)
@@ -7841,4 +7841,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-07-25T13:50:02Z
+Updated at 2018-07-25T14:10:02Z
