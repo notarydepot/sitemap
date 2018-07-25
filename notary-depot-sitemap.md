@@ -6290,6 +6290,7 @@
   - [Notary Public in South Portland, ME: Eva C. Sommer](https://www.notarydepot.com/samantha99)
   - [Notary Public in Salem, OR: Same Day Signings LLC](https://www.notarydepot.com/sameday)
   - [Notary Public in Gig Harbor, WA: David Morse](https://www.notarydepot.com/samfbm)
+  - [Notary Public in Los Angeles, CA: Samira Sharif](https://www.notarydepot.com/samira)
   - [Notary Public in Colorado Springs, CO: Sam Lucas](https://www.notarydepot.com/samlucas)
   - [Notary Public in San Jose, CA: Sheila Meinecke](https://www.notarydepot.com/samri)
   - [Notary Public in Elk Grove, CA: Sam M.](https://www.notarydepot.com/samsnotaryca)
@@ -7842,4 +7843,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-07-25T18:10:02Z
+Updated at 2018-07-25T18:30:02Z
