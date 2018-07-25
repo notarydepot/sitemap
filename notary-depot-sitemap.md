@@ -3516,7 +3516,7 @@
   - [Notary Public in Florissant, MO: Eric Alan](https://www.notarydepot.com/ealan82)
   - [Notary Public in Pittsburg, CA: Erika Allison](https://www.notarydepot.com/eallison)
   - [Notary Public in American Canyon, CA: Ever Olano](https://www.notarydepot.com/eaolano)
-  - [Notary Public in La Quinta, CA: Earl J Doucette](https://www.notarydepot.com/earldoucette)
+  - [Notary Public in Moreno Valley, CA: Earl J Doucette](https://www.notarydepot.com/earldoucette)
   - [Notary Public in Fayette, MS: Earlene Harrison](https://www.notarydepot.com/earlene)
   - [Notary Public in Clementon, NJ: Anita Braun](https://www.notarydepot.com/earlgreylady)
   - [Notary Public in Peyton, CO: Jill Rivera](https://www.notarydepot.com/eastplainsnotary)
@@ -7844,4 +7844,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-07-25T19:50:02Z
+Updated at 2018-07-25T20:10:02Z
