@@ -1652,6 +1652,7 @@
     - [Notary Public in Roseburg, OR](https://www.notarydepot.com/notary-near-me/Oregon/Roseburg)
     - [Notary Public in Salem, OR](https://www.notarydepot.com/notary-near-me/Oregon/Salem)
     - [Notary Public in Scappoose, OR](https://www.notarydepot.com/notary-near-me/Oregon/Scappoose)
+    - [Notary Public in Springfield, OR](https://www.notarydepot.com/notary-near-me/Oregon/Springfield)
     - [Notary Public in Troutdale, OR](https://www.notarydepot.com/notary-near-me/Oregon/Troutdale)
     - [Notary Public in Tualatin, OR](https://www.notarydepot.com/notary-near-me/Oregon/Tualatin)
     - [Notary Public in Union, OR](https://www.notarydepot.com/notary-near-me/Oregon/Union)
@@ -4776,7 +4777,7 @@
   - [Notary Public in Jersey City, NJ: Tmgm Notary Services](https://www.notarydepot.com/lbradley06)
   - [Notary Public in Sheridan, IL: Lynn Marie Brown](https://www.notarydepot.com/lbrown137)
   - [Notary Public in Woodville, FL: Lydia F. Burns, Cpa Cfe Cbm](https://www.notarydepot.com/lburns)
-  - [Notary Public in Eugene, OR: Lee Caldwell](https://www.notarydepot.com/lcaldwell0320)
+  - [Notary Public in Springfield, OR: Lee Caldwell](https://www.notarydepot.com/lcaldwell0320)
   - [Notary Public in Tomball, TX: Lisa Cooper](https://www.notarydepot.com/lcooper)
   - [Notary Public in Norwalk, CA: Leticia Cruz](https://www.notarydepot.com/lcruz16)
   - [Notary Public in Holland, MI: Lynn E. Dewitt](https://www.notarydepot.com/ldewitt)
@@ -7843,4 +7844,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-07-25T18:30:02Z
+Updated at 2018-07-25T18:50:02Z
