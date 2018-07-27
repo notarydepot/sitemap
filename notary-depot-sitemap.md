@@ -2772,7 +2772,7 @@
   - [Notary Public in Bristol, TN: Beth K. Palin, J.D.](https://www.notarydepot.com/bpalin)
   - [Notary Public in San Francisco, CA: Brahim mahmoudi](https://www.notarydepot.com/brahim67)
   - [Notary Public in Egg Harbor Township, NJ: Hilton C. Braithwaite](https://www.notarydepot.com/braith)
-  - [Notary Public in Chicago, IL: Brandi Davis ](https://www.notarydepot.com/brandibits)
+  - [Notary Public in Chicago, IL: Brandi Davis](https://www.notarydepot.com/brandibits)
   - [Notary Public in Port Angeles, WA: Brandi G. Shepherd](https://www.notarydepot.com/brandishepherd72)
   - [Notary Public in Chicago, IL: Chicago Prime Notary](https://www.notarydepot.com/brandonm)
   - [Notary Public in Columbia, TN: Brandon Sprowl](https://www.notarydepot.com/brandonsprowl)
@@ -7843,4 +7843,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-07-27T13:50:02Z
+Updated at 2018-07-27T14:10:02Z
