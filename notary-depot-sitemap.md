@@ -363,6 +363,7 @@
     - [Notary Public in Rancho Cordova, CA](https://www.notarydepot.com/notary-near-me/California/Rancho-Cordova)
     - [Notary Public in Rancho Cucamonga, CA](https://www.notarydepot.com/notary-near-me/California/Rancho-Cucamonga)
     - [Notary Public in Rancho Mirage, CA](https://www.notarydepot.com/notary-near-me/California/Rancho-Mirage)
+    - [Notary Public in Rancho Palos Verdes, CA](https://www.notarydepot.com/notary-near-me/California/Rancho-Palos-Verdes)
     - [Notary Public in Rancho Santa Margarita, CA](https://www.notarydepot.com/notary-near-me/California/Rancho-Santa-Margarita)
     - [Notary Public in Redding, CA](https://www.notarydepot.com/notary-near-me/California/Redding)
     - [Notary Public in Redlands, CA](https://www.notarydepot.com/notary-near-me/California/Redlands)
@@ -3845,6 +3846,7 @@
   - [Notary Public in Escondido, CA: Barbara Willkie](https://www.notarydepot.com/grammy)
   - [Notary Public in Garner, NC: Judy Nipper](https://www.notarydepot.com/grammy824)
   - [Notary Public in Pompano Beach, FL: GEORGIANNE SYKES](https://www.notarydepot.com/grandaz)
+  - [Notary Public in Rancho Palos Verdes, CA: Rhonda](https://www.notarydepot.com/grandmother)
   - [Notary Public in Savannah, GA: Kindall Grant](https://www.notarydepot.com/grantlawgroup)
   - [Notary Public in Vista, CA: Grant Siracusa](https://www.notarydepot.com/grant_s)
   - [Notary Public in Glendale, CA: Goren G Tatarian](https://www.notarydepot.com/greatimingnotary)
@@ -7842,4 +7844,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-07-27T02:10:02Z
+Updated at 2018-07-27T02:30:03Z
