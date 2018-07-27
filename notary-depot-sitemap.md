@@ -2437,6 +2437,7 @@
   - [Notary Public in Biloxi, MS: Amy Olier](https://www.notarydepot.com/amyolier)
   - [Notary Public in Hudson, NC: Amy Sullivan](https://www.notarydepot.com/amyvargas)
   - [Notary Public in New Carlisle, OH: Amy Wollenhaupt](https://www.notarydepot.com/amyw)
+  - [Notary Public in Paso Robles, CA: Amy Wilson](https://www.notarydepot.com/amywilsonnotary)
   - [Notary Public in Diamond Bar, CA: J. Bennett](https://www.notarydepot.com/anan)
   - [Notary Public in Anaheim, CA: Charlene Ortiz](https://www.notarydepot.com/ananotary)
   - [Notary Public in Vienna, VA: Ancilma J. Peters](https://www.notarydepot.com/ancilma)
@@ -7843,4 +7844,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-07-27T20:10:02Z
+Updated at 2018-07-27T20:30:02Z
