@@ -5065,6 +5065,7 @@
   - [Notary Public in Raleigh, NC: Marguerita Johnson](https://www.notarydepot.com/margiebear)
   - [Notary Public in Las Vegas, NV: Margo Miller Cnsa/nsa/nna](https://www.notarydepot.com/margo)
   - [Notary Public in Los Angeles, CA: Margo Smith](https://www.notarydepot.com/margosmith)
+  - [Notary Public in New Orleans, LA: Mark Rhodes](https://www.notarydepot.com/marhode1)
   - [Notary Public in Mansfield, TX: Maria Capots](https://www.notarydepot.com/mariacapots)
   - [Notary Public in Fontana, CA: Marian Jackson](https://www.notarydepot.com/marianotary)
   - [Notary Public in Boca Raton, FL: Maria Rios](https://www.notarydepot.com/mariariosetc)
@@ -7844,4 +7845,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-07-28T03:30:02Z
+Updated at 2018-07-28T03:50:02Z
