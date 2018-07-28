@@ -5384,7 +5384,6 @@
   - [Notary Public in Coatesville, PA: Janet E. Mitchell](https://www.notarydepot.com/morganamber2)
   - [Notary Public in Los Angeles, CA: Michelle Morgan](https://www.notarydepot.com/morgannotary)
   - [Notary Public in Vallejo, CA: Detra Morgan](https://www.notarydepot.com/morgansfind)
-  - [Notary Public in Los Angeles, CA: Michelle Morgan](https://www.notarydepot.com/morganstandard)
   - [Notary Public in Ballwin, MO: Stu Schankman](https://www.notarydepot.com/mornflt)
   - [Notary Public in Santa Monica, CA: Moshe Steinberg](https://www.notarydepot.com/moshesteinberg)
   - [Notary Public in Detroit, MI: Eriel](https://www.notarydepot.com/mostnotarized)
@@ -7845,4 +7844,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-07-28T16:30:03Z
+Updated at 2018-07-28T16:50:03Z
