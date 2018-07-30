@@ -6543,6 +6543,7 @@
   - [Notary Public in Elk Grove, CA: Shonja D. Mainor](https://www.notarydepot.com/smainor)
   - [Notary Public in Davenport, FL: Cassandre Martin](https://www.notarydepot.com/smart1249)
   - [Notary Public in Fernandina Beach, FL: Sylvie McCann](https://www.notarydepot.com/smccann)
+  - [Notary Public in Jonesboro, AR: Sherry McLaughlin](https://www.notarydepot.com/smclaughlin)
   - [Notary Public in Dublin, CA: Scott Mercer](https://www.notarydepot.com/smercer)
   - [Notary Public in Norwood, LA: Susan Erkel](https://www.notarydepot.com/smerkel)
   - [Notary Public in Garner, NC: Kristine Leighton](https://www.notarydepot.com/smiley0730)
@@ -7844,4 +7845,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-07-30T02:50:03Z
+Updated at 2018-07-30T03:10:03Z
