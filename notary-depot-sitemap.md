@@ -6395,6 +6395,7 @@
   - [Notary Public in Yorba Linda, CA: Stella Gonzales](https://www.notarydepot.com/sgonzales)
   - [Notary Public in Lake Benton, MN: Sean Pattison](https://www.notarydepot.com/sgpattison)
   - [Notary Public in Mexico, MO: Sarah Gruer](https://www.notarydepot.com/sgruer)
+  - [Notary Public in Lancaster, CA: Shacara Campbell](https://www.notarydepot.com/shacarac)
   - [Notary Public in Stockton, CA: Sharon Felicity](https://www.notarydepot.com/shafeli12)
   - [Notary Public in Emeryville, CA: Mohammad Malek](https://www.notarydepot.com/shahaib)
   - [Notary Public in Mesquite, TX: Ashish Alexander](https://www.notarydepot.com/shalom7784)
@@ -7845,4 +7846,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-07-30T18:50:02Z
+Updated at 2018-07-30T19:10:02Z
