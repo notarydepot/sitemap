@@ -28,6 +28,7 @@
     - [Notary Public in Alabaster, AL](https://www.notarydepot.com/notary-near-me/Alabama/Alabaster)
     - [Notary Public in Andalusia, AL](https://www.notarydepot.com/notary-near-me/Alabama/Andalusia)
     - [Notary Public in Arab, AL](https://www.notarydepot.com/notary-near-me/Alabama/Arab)
+    - [Notary Public in Attalla, AL](https://www.notarydepot.com/notary-near-me/Alabama/Attalla)
     - [Notary Public in Bessemer, AL](https://www.notarydepot.com/notary-near-me/Alabama/Bessemer)
     - [Notary Public in Birmingham, AL](https://www.notarydepot.com/notary-near-me/Alabama/Birmingham)
     - [Notary Public in Brownsboro, AL](https://www.notarydepot.com/notary-near-me/Alabama/Brownsboro)
@@ -2628,6 +2629,7 @@
   - [Notary Public in Clermont, FL: Robert Bates](https://www.notarydepot.com/bateskid2112)
   - [Notary Public in Dayton, OH: Brenda F. Bates](https://www.notarydepot.com/batesmotel)
   - [Notary Public in Allegan, MI: barbara s williamson](https://www.notarydepot.com/bawill50)
+  - [Notary Public in Attalla, AL: Monica Mason](https://www.notarydepot.com/baxter18024791)
   - [Notary Public in Cape Canaveral, FL: peter cost*](https://www.notarydepot.com/bbeach22)
   - [Notary Public in Pompano Beach, FL: Barbara Bodner](https://www.notarydepot.com/bbodner)
   - [Notary Public in Brighton, CO: Brenda Bolton](https://www.notarydepot.com/bbolton)
@@ -7847,4 +7849,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-07-31T15:30:02Z
+Updated at 2018-07-31T15:50:02Z
