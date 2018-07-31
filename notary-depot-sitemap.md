@@ -7005,6 +7005,7 @@
   - [Notary Public in Greenville, SC: Upstate Mobile Notaries, LLC](https://www.notarydepot.com/upstatenotaries)
   - [Notary Public in Phoenixville, PA: Pamela Knight](https://www.notarydepot.com/urban)
   - [Notary Public in Boca Raton, FL: Daniel Lee ,NSA](https://www.notarydepot.com/us1notary)
+  - [Notary Public in Boca Raton, FL: Daniel Lee](https://www.notarydepot.com/us1notaryoffice)
   - [Notary Public in Pennsauken Township, NJ: Carmen Jimenez](https://www.notarydepot.com/user126257)
   - [Notary Public in Orem, UT: Clark Veylupek](https://www.notarydepot.com/utahclark)
   - [Notary Public in Salt Lake City, UT: Matt Lloyd](https://www.notarydepot.com/utahnotary)
@@ -7846,4 +7847,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-07-31T13:10:02Z
+Updated at 2018-07-31T13:30:03Z
