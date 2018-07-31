@@ -3034,6 +3034,7 @@
   - [Notary Public in Newport Beach, CA: Christopher Caputo, CPA](https://www.notarydepot.com/cjcaputo13)
   - [Notary Public in Auburn, NY: Christa Centolella](https://www.notarydepot.com/cjcparalegal)
   - [Notary Public in Palm Coast, FL: Cynthia Mallicote](https://www.notarydepot.com/cjmthebestmobilenotary)
+  - [Notary Public in Thousand Oaks, CA: Christina jo](https://www.notarydepot.com/cjnotary)
   - [Notary Public in Agoura Hills, CA: Jenny Siegel](https://www.notarydepot.com/cjsiegel)
   - [Notary Public in Hawaiian Gardens, CA: Celia Centeno](https://www.notarydepot.com/ckcnotaryservices)
   - [Notary Public in Yerington, NV: Claudia](https://www.notarydepot.com/ckh)
@@ -7849,4 +7850,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-07-31T21:30:02Z
+Updated at 2018-07-31T21:50:02Z
