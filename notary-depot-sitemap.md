@@ -6478,6 +6478,7 @@
   - [Notary Public in Silver Creek, WA: Angeleetta Hartmann](https://www.notarydepot.com/sign4u)
   - [Notary Public in San Diego, CA: Christian Jeter](https://www.notarydepot.com/signaturenotarysd)
   - [Notary Public in Virginia Beach, VA: Signature Solutions ](https://www.notarydepot.com/signaturesolutions101)
+  - [Notary Public in Port St. Lucie, FL: Felise Green](https://www.notarydepot.com/signawayservice)
   - [Notary Public in Locust Grove, VA: Kimberly Stewart](https://www.notarydepot.com/signedsealedanddelivered)
   - [Notary Public in Lake Forest, CA: Cheryl Childers](https://www.notarydepot.com/signer)
   - [Notary Public in Chino, CA: Eilene L. Olson](https://www.notarydepot.com/signer4u)
@@ -7850,4 +7851,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-08-01T20:30:02Z
+Updated at 2018-08-01T20:50:02Z
