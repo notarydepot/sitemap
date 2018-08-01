@@ -7106,6 +7106,7 @@
   - [Notary Public in Sparks, NV: Scott R Warren](https://www.notarydepot.com/wallyvikes)
   - [Notary Public in Chicago, IL: Walter Juszczak](https://www.notarydepot.com/walterj)
   - [Notary Public in Waco, TX: Wanda J Green](https://www.notarydepot.com/wangreenyahoocom)
+  - [Notary Public in Lancaster, CA: Wanda Smith](https://www.notarydepot.com/wansmobilenotary)
   - [Notary Public in Falls Church, VA: Mary E. Warren](https://www.notarydepot.com/warren1721)
   - [Notary Public in Wichita, KS: Stephanie Niedens](https://www.notarydepot.com/watchyousign)
   - [Notary Public in Chesterfield, VA: Wayne K Lewis](https://www.notarydepot.com/waynelewis19)
@@ -7851,4 +7852,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-08-01T21:10:02Z
+Updated at 2018-08-01T21:30:03Z
