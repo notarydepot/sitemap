@@ -338,7 +338,6 @@
     - [Notary Public in Orland, CA](https://www.notarydepot.com/notary-near-me/California/Orland)
     - [Notary Public in Oroville, CA](https://www.notarydepot.com/notary-near-me/California/Oroville)
     - [Notary Public in Oxnard, CA](https://www.notarydepot.com/notary-near-me/California/Oxnard)
-    - [Notary Public in Pacifica, CA](https://www.notarydepot.com/notary-near-me/California/Pacifica)
     - [Notary Public in Palm Desert, CA](https://www.notarydepot.com/notary-near-me/California/Palm-Desert)
     - [Notary Public in Palmdale, CA](https://www.notarydepot.com/notary-near-me/California/Palmdale)
     - [Notary Public in Paradise, CA](https://www.notarydepot.com/notary-near-me/California/Paradise)
@@ -4249,7 +4248,6 @@
   - [Notary Public in Fresno, TX: Jacqueline Clinton](https://www.notarydepot.com/jfcwilliams)
   - [Notary Public in Pompano Beach, FL: Judy Ferris, CPA](https://www.notarydepot.com/jferris)
   - [Notary Public in Baton Rouge, LA: Janet Lee French](https://www.notarydepot.com/jfsobers)
-  - [Notary Public in Pacifica, CA: John E Gonzalez](https://www.notarydepot.com/jg1107)
   - [Notary Public in Centre, AL: Jennifer Garner](https://www.notarydepot.com/jgarner)
   - [Notary Public in Greensboro, NC: Gary Dean](https://www.notarydepot.com/jgdean)
   - [Notary Public in Lake Oswego, OR: Jean Griffin](https://www.notarydepot.com/jghenke)
@@ -7852,4 +7850,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-08-02T04:30:02Z
+Updated at 2018-08-02T04:50:02Z
