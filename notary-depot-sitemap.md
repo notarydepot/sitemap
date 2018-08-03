@@ -5766,7 +5766,6 @@
   - [Notary Public in Oswego, NY: Amy Cote](https://www.notarydepot.com/nynotary474)
   - [Notary Public in NY: Thomas Chad Vetsch](https://www.notarydepot.com/nynotaryinc)
   - [Notary Public in New York, NY: Joseph C. Thompson](https://www.notarydepot.com/nysofficialnotary)
-  - [Notary Public in Mililani, HI: Daryl R. Gerloff](https://www.notarydepot.com/oahumobilenotary)
   - [Notary Public in Englishtown, NJ: Elaine Mezzo](https://www.notarydepot.com/oakwoodlane9)
   - [Notary Public in Homestead, FL: Oswaldo Anglero](https://www.notarydepot.com/oanglero)
   - [Notary Public in Newark, NJ: Sonja Holloway](https://www.notarydepot.com/oasisassociates)
@@ -7850,4 +7849,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-08-03T05:50:02Z
+Updated at 2018-08-03T06:10:02Z
