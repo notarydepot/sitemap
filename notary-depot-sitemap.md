@@ -3019,6 +3019,7 @@
   - [Notary Public in Galt, CA: Chrystal Damazio](https://www.notarydepot.com/chrysdam123)
   - [Notary Public in Danville, CA: Charles E. Pennington](https://www.notarydepot.com/chucknotary)
   - [Notary Public in NY: Donyshia Benjamin](https://www.notarydepot.com/chynadoll)
+  - [Notary Public in Cincinnati, OH: CincyNotary.com](https://www.notarydepot.com/cincynotary)
   - [Notary Public in Saint Paul, MN: Miriam](https://www.notarydepot.com/cinderel)
   - [Notary Public in Calexico, CA: CBarrera](https://www.notarydepot.com/cindy)
   - [Notary Public in Arnold, MD: Cynthia Bennett](https://www.notarydepot.com/cindybennett)
@@ -7849,4 +7850,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-08-03T14:50:02Z
+Updated at 2018-08-03T15:10:01Z
