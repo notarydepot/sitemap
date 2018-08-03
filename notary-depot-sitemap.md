@@ -6511,6 +6511,7 @@
   - [Notary Public in NY: Ricardo Salmon](https://www.notarydepot.com/sirlordaries)
   - [Notary Public in Mary Esther, FL: Maureen Siron](https://www.notarydepot.com/sironme)
   - [Notary Public in Vicksburg, MS: Sylvester Davis](https://www.notarydepot.com/sivads)
+  - [Notary Public in Orlando, FL: Susanne Jansons](https://www.notarydepot.com/sjansons)
   - [Notary Public in Melrose Park, IL: Sandra Jones](https://www.notarydepot.com/sjjaka3gmailcom)
   - [Notary Public in Melrose Park, IL: Sandra Jones](https://www.notarydepot.com/sjjakamn)
   - [Notary Public in Levelland, TX: Subrina J McClendon](https://www.notarydepot.com/sjmcclendon)
@@ -7850,4 +7851,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-08-03T23:11:02Z
+Updated at 2018-08-03T23:31:01Z
