@@ -1941,6 +1941,7 @@
     - [Notary Public in Lubbock, TX](https://www.notarydepot.com/notary-near-me/Texas/Lubbock)
     - [Notary Public in Mansfield, TX](https://www.notarydepot.com/notary-near-me/Texas/Mansfield)
     - [Notary Public in Manvel, TX](https://www.notarydepot.com/notary-near-me/Texas/Manvel)
+    - [Notary Public in Marshall, TX](https://www.notarydepot.com/notary-near-me/Texas/Marshall)
     - [Notary Public in McAllen, TX](https://www.notarydepot.com/notary-near-me/Texas/McAllen)
     - [Notary Public in McKinney, TX](https://www.notarydepot.com/notary-near-me/Texas/McKinney)
     - [Notary Public in Mesquite, TX](https://www.notarydepot.com/notary-near-me/Texas/Mesquite)
@@ -4996,6 +4997,7 @@
   - [Notary Public in Panama City, FL: Linda C Wright](https://www.notarydepot.com/lwright)
   - [Notary Public in Cleveland, OH: Lydia L Martinez](https://www.notarydepot.com/lydiadocs)
   - [Notary Public in Murrieta, CA: Lydia Marie Routt](https://www.notarydepot.com/lydiaroutt)
+  - [Notary Public in Marshall, TX: Ms. Lea Harden](https://www.notarydepot.com/lyharden)
   - [Notary Public in Meridian, MS: Lyle Rose](https://www.notarydepot.com/lylerose)
   - [Notary Public in Sun City, AZ: Lyn Baker](https://www.notarydepot.com/lynbaker)
   - [Notary Public in Homewood, IL: Lynda Jordan](https://www.notarydepot.com/lyndaj7673)
@@ -7851,4 +7853,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-08-04T22:11:02Z
+Updated at 2018-08-04T22:31:02Z
