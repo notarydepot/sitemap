@@ -4155,6 +4155,7 @@
   - [Notary Public in Bogota, NJ: Janine M. Casper](https://www.notarydepot.com/jcasper4681)
   - [Notary Public in Alexandria, VA: John Charles Gober](https://www.notarydepot.com/jcgober)
   - [Notary Public in Indianapolis, IN: Candice Holcomb](https://www.notarydepot.com/jcholcomb)
+  - [Notary Public in Hazlet, NJ: Jennifer Columbi](https://www.notarydepot.com/jcolumbi)
   - [Notary Public in Framingham, MA: Christine Beaudin](https://www.notarydepot.com/jcougar69)
   - [Notary Public in Winter Haven, FL: Jason R Crawford](https://www.notarydepot.com/jcrawford)
   - [Notary Public in Fort Myers, FL: Jim Crider](https://www.notarydepot.com/jcrider33908)
@@ -7853,4 +7854,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-08-06T14:31:02Z
+Updated at 2018-08-06T14:51:02Z
