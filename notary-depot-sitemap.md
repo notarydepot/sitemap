@@ -567,6 +567,7 @@
     - [Notary Public in Clearwater, FL](https://www.notarydepot.com/notary-near-me/Florida/Clearwater)
     - [Notary Public in Clermont, FL](https://www.notarydepot.com/notary-near-me/Florida/Clermont)
     - [Notary Public in Cocoa, FL](https://www.notarydepot.com/notary-near-me/Florida/Cocoa)
+    - [Notary Public in Coral Gables, FL](https://www.notarydepot.com/notary-near-me/Florida/Coral-Gables)
     - [Notary Public in Crawfordville, FL](https://www.notarydepot.com/notary-near-me/Florida/Crawfordville)
     - [Notary Public in Crestview, FL](https://www.notarydepot.com/notary-near-me/Florida/Crestview)
     - [Notary Public in Dade City, FL](https://www.notarydepot.com/notary-near-me/Florida/Dade-City)
@@ -5325,6 +5326,7 @@
   - [Notary Public in Chandler, AZ: Martha L Bobzin](https://www.notarydepot.com/mobileaz)
   - [Notary Public in Scottsdale, AZ: Judith Blumenthal ](https://www.notarydepot.com/mobilebestnotary)
   - [Notary Public in Fontana, CA: Alicia Venner ](https://www.notarydepot.com/mobileexpressnotary)
+  - [Notary Public in Coral Gables, FL: Rafael A Rincon](https://www.notarydepot.com/mobileflnotary)
   - [Notary Public in Dallas, TX: Shannon Dyson](https://www.notarydepot.com/mobileloancloser)
   - [Notary Public in Holland, MI: Mary Blowers](https://www.notarydepot.com/mobilemary)
   - [Notary Public in CA: Deborah O. Prideaux](https://www.notarydepot.com/mobilenotary)
@@ -7854,4 +7856,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-08-06T15:31:02Z
+Updated at 2018-08-06T15:51:02Z
