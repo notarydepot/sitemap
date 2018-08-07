@@ -2999,7 +2999,6 @@
   - [Notary Public in Bolingbrook, IL: Thesia Ralston](https://www.notarydepot.com/chitownnotary)
   - [Notary Public in Oakland, CA: Charles Henry Jackson III](https://www.notarydepot.com/chjmobile)
   - [Notary Public in Lancaster, CA: Christina](https://www.notarydepot.com/chris33)
-  - [Notary Public in CA: Christi Ausherman](https://www.notarydepot.com/chrisaush)
   - [Notary Public in Bonita Springs, FL: Chris Casmirri](https://www.notarydepot.com/chriscasmirri)
   - [Notary Public in San Diego, CA: Chris Doan](https://www.notarydepot.com/chrisdoan)
   - [Notary Public in Big Lake, MN: Christine Hall](https://www.notarydepot.com/chrishall55)
@@ -7856,4 +7855,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-08-07T15:11:02Z
+Updated at 2018-08-07T15:31:02Z
