@@ -5824,6 +5824,7 @@
   - [Notary Public in Casper, WY: Pamela Rw Kandt](https://www.notarydepot.com/pamelagrw)
   - [Notary Public in Paramount, CA: Pamela Hancock](https://www.notarydepot.com/pamelahancock)
   - [Notary Public in NJ: Pamela Van Brackle](https://www.notarydepot.com/pamh5)
+  - [Notary Public in Jackson, MS: Pamela C Nicholson-Lee](https://www.notarydepot.com/pamie34)
   - [Notary Public in Sierra Madre, CA: Pamela McKinney](https://www.notarydepot.com/pammy)
   - [Notary Public in Hempstead, NY: Pamela A. Ringgold](https://www.notarydepot.com/pammyvindiesel)
   - [Notary Public in Quincy, CA: Pamela Washburn](https://www.notarydepot.com/pamqcy)
@@ -7855,4 +7856,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-08-07T20:51:02Z
+Updated at 2018-08-07T21:11:02Z
