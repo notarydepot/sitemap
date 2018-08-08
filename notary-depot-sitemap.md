@@ -3987,7 +3987,6 @@
   - [Notary Public in Deerfield Beach, FL: HOWARD SILVERSTEIN](https://www.notarydepot.com/howardthenotary)
   - [Notary Public in Ledyard, CT: Howard J. Craig, Jr.](https://www.notarydepot.com/howie35ct)
   - [Notary Public in Escondido, CA: Heather Reinhold](https://www.notarydepot.com/hreinhold)
-  - [Notary Public in NY: Cheryl Poccia](https://www.notarydepot.com/hrmobilenotary)
   - [Notary Public in White Pine, TN: Jonathan W Stewart](https://www.notarydepot.com/hscomp)
   - [Notary Public in Hayward, CA: Fay Hudson](https://www.notarydepot.com/hudsonbay)
   - [Notary Public in Los Angeles, CA: Cheryl](https://www.notarydepot.com/hufford68)
@@ -7857,4 +7856,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-08-08T17:11:02Z
+Updated at 2018-08-08T17:31:02Z
