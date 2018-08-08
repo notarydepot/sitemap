@@ -1197,6 +1197,7 @@
     - [Notary Public in Fenton, MO](https://www.notarydepot.com/notary-near-me/Missouri/Fenton)
     - [Notary Public in Florissant, MO](https://www.notarydepot.com/notary-near-me/Missouri/Florissant)
     - [Notary Public in Grain Valley, MO](https://www.notarydepot.com/notary-near-me/Missouri/Grain-Valley)
+    - [Notary Public in Greenwood, MO](https://www.notarydepot.com/notary-near-me/Missouri/Greenwood)
     - [Notary Public in Hannibal, MO](https://www.notarydepot.com/notary-near-me/Missouri/Hannibal)
     - [Notary Public in Independence, MO](https://www.notarydepot.com/notary-near-me/Missouri/Independence)
     - [Notary Public in Jefferson City, MO](https://www.notarydepot.com/notary-near-me/Missouri/Jefferson-City)
@@ -5996,6 +5997,7 @@
   - [Notary Public in Lake Forest, CA: Pamela Tabacchi](https://www.notarydepot.com/ptabacchi)
   - [Notary Public in Lakeland, FL: Patricia Bryan](https://www.notarydepot.com/ptaylor11421)
   - [Notary Public in Woodbridge, VA: Patrick Thomas](https://www.notarydepot.com/ptfromnj)
+  - [Notary Public in Greenwood, MO: Phillip D Thompson](https://www.notarydepot.com/pthompson54)
   - [Notary Public in Schertz, TX: Phyllis E. Traylor](https://www.notarydepot.com/ptraylor)
   - [Notary Public in Houston, TX: Ojay Grace](https://www.notarydepot.com/ptsouthwest)
   - [Notary Public in Las Vegas, NV: Patricia Love](https://www.notarydepot.com/pttylv)
@@ -7856,4 +7858,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-08-08T20:11:02Z
+Updated at 2018-08-08T20:31:02Z
