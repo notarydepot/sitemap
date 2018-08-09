@@ -5629,6 +5629,7 @@
   - [Notary Public in Shreveport, LA: Jamie Smith](https://www.notarydepot.com/notaryaccess)
   - [Notary Public in Seattle, WA: Marla D. Hill, Professional Signing Agent](https://www.notarydepot.com/notaryagent1)
   - [Notary Public in Holly Springs, NC: Patricia Hoffman](https://www.notarydepot.com/notaryalacarte)
+  - [Notary Public in Thousand Oaks, CA: Karen](https://www.notarydepot.com/notaryandapostille)
   - [Notary Public in Paterson, NJ: Luis Ramos](https://www.notarydepot.com/notaryathand)
   - [Notary Public in Richmond, TX: Ella Duru](https://www.notarydepot.com/notaryatyourservice)
   - [Notary Public in Santa Ana, CA: gilbert L salvador](https://www.notarydepot.com/notarybert)
@@ -7858,4 +7859,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-08-09T15:51:02Z
+Updated at 2018-08-09T16:11:02Z
