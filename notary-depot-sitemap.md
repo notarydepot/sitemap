@@ -5651,7 +5651,6 @@
   - [Notary Public in Boynton Beach, FL: Barbara Willson](https://www.notarydepot.com/notarydepo)
   - [Notary Public in Broomfield, CO: Art R. Romero](https://www.notarydepot.com/notarydepot1tme)
   - [Notary Public in Palmdale, CA: Cassandra Stanciell](https://www.notarydepot.com/notarydiva)
-  - [Notary Public in Washington, DC: Brandon Freeman-johnson - NotaryDMV (dc/md/va)](https://www.notarydepot.com/notarydmv)
   - [Notary Public in Clarksville, TN: Delecia Whitehead](https://www.notarydepot.com/notarydw02)
   - [Notary Public in Shreveport, LA: Jefferson Mobile Notary Service](https://www.notarydepot.com/notaryejefferson)
   - [Notary Public in Clarksville, TN: Jack](https://www.notarydepot.com/notaryerrands)
@@ -7858,4 +7857,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-08-10T15:51:02Z
+Updated at 2018-08-10T16:11:02Z
