@@ -2257,7 +2257,6 @@
   - [Notary Public in Placerville, CA: Lysandra Williams](https://www.notarydepot.com/aaeaseedoc)
   - [Notary Public in Hephzibah, GA: Barbara Jones](https://www.notarydepot.com/aaleayah1920)
   - [Notary Public in West Sacramento, CA: Caryn Keller](https://www.notarydepot.com/aanotary1)
-  - [Notary Public in CA: Devon Gailey Mobile Notary and Apostille Service](https://www.notarydepot.com/aardvarkmobilenotary)
   - [Notary Public in Fort Worth, TX: Aaron Jones, Jr.](https://www.notarydepot.com/aaronservice)
   - [Notary Public in Stone Mountain, GA: Alice M. Artis-LaBorn](https://www.notarydepot.com/aartislaborn)
   - [Notary Public in Sterling, VA: Amy Tatusko](https://www.notarydepot.com/aatatusko)
@@ -7859,4 +7858,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-08-10T08:51:02Z
+Updated at 2018-08-10T09:11:02Z
