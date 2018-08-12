@@ -1384,6 +1384,7 @@
     - [Notary Public in Brookhaven, NY](https://www.notarydepot.com/notary-near-me/New-York/Brookhaven)
     - [Notary Public in Buffalo, NY](https://www.notarydepot.com/notary-near-me/New-York/Buffalo)
     - [Notary Public in Carmel, NY](https://www.notarydepot.com/notary-near-me/New-York/Carmel)
+    - [Notary Public in Central Islip, NY](https://www.notarydepot.com/notary-near-me/New-York/Central-Islip)
     - [Notary Public in Cicero, NY](https://www.notarydepot.com/notary-near-me/New-York/Cicero)
     - [Notary Public in Copiague, NY](https://www.notarydepot.com/notary-near-me/New-York/Copiague)
     - [Notary Public in Deer Park, NY](https://www.notarydepot.com/notary-near-me/New-York/Deer-Park)
@@ -7184,6 +7185,7 @@
   - [Notary Public in NY: Yair Babayoff](https://www.notarydepot.com/yad14llc)
   - [Notary Public in Rocklin, CA: Yolanda Adams](https://www.notarydepot.com/yadams247)
   - [Notary Public in Los Angeles, CA: Kyra Yakubovich](https://www.notarydepot.com/yakubovich)
+  - [Notary Public in Central Islip, NY: Yancy Fleetwood ](https://www.notarydepot.com/yancy1971)
   - [Notary Public in Temecula, CA: Yvonne A. Ruiz](https://www.notarydepot.com/yaruiz)
   - [Notary Public in Douglasville, GA: Abimbola Badejo](https://www.notarydepot.com/ybadejo)
   - [Notary Public in Bellflower, CA: Yvette Bland](https://www.notarydepot.com/ybland)
@@ -7858,4 +7860,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-08-12T19:31:02Z
+Updated at 2018-08-12T19:51:02Z
