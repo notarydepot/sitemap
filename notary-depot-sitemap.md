@@ -2722,7 +2722,7 @@
   - [Notary Public in Stafford, VA: Brenda Brown- Johnson](https://www.notarydepot.com/bjnva)
   - [Notary Public in Moorhead, MN: Nick Bjornstad](https://www.notarydepot.com/bjornsni)
   - [Notary Public in Woodbridge, VA: Bev Williams](https://www.notarydepot.com/bjwilli986)
-  - [Notary Public in Newark, NJ: Veronica White](https://www.notarydepot.com/bkfilingsnj7)
+  - [Notary Public in Newark, NJ: Veronica White](https://www.notarydepot.com/bkfilingsnj7gmailcom)
   - [Notary Public in Belgrade, MT: Brenda Klein](https://www.notarydepot.com/bklein)
   - [Notary Public in Rockwall, TX: Brenda Morott](https://www.notarydepot.com/bkmor2003)
   - [Notary Public in Grand Rapids, MI: Brandice Labadie](https://www.notarydepot.com/blabadie)
@@ -7857,4 +7857,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-08-12T09:31:02Z
+Updated at 2018-08-12T09:51:02Z
