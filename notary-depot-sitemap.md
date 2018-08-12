@@ -3349,6 +3349,7 @@
   - [Notary Public in Americus, GA: Dale Caldwell](https://www.notarydepot.com/dgcaldwell10)
   - [Notary Public in Tyler, TX: Deborah Genoway](https://www.notarydepot.com/dgenoway)
   - [Notary Public in CA: Dianna Gonzalez](https://www.notarydepot.com/dgfirstclassnotary)
+  - [Notary Public in CA: Dianna Gonzalez ](https://www.notarydepot.com/dgfirstclassnotary1)
   - [Notary Public in Castro Valley, CA: Denise Gonsalves](https://www.notarydepot.com/dgonsalves66)
   - [Notary Public in Pittston, PA: Donna Marie Graham](https://www.notarydepot.com/dgraham)
   - [Notary Public in Scappoose, OR: Robin Wilson](https://www.notarydepot.com/dgsdesigns)
@@ -7860,4 +7861,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-08-12T20:51:02Z
+Updated at 2018-08-12T21:11:02Z
