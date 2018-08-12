@@ -7200,6 +7200,7 @@
   - [Notary Public in Brentwood, CA: Yvonne K. Philapil](https://www.notarydepot.com/ykphilapil)
   - [Notary Public in Charleston, SC: Yolanda Singletary](https://www.notarydepot.com/yolanda)
   - [Notary Public in Montgomery, AL: Yolanda Dixon](https://www.notarydepot.com/yolandadixon)
+  - [Notary Public in York, PA: York Mobile Notary Services](https://www.notarydepot.com/yorkmobilenotaryplus)
   - [Notary Public in Salem, OR: Dustin](https://www.notarydepot.com/younginc)
   - [Notary Public in Shillington, PA: Jacquelline Powers](https://www.notarydepot.com/yournotary72021)
   - [Notary Public in Los Angeles, CA: Lisa San Miguel](https://www.notarydepot.com/yoursigningagent)
@@ -7857,4 +7858,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-08-12T15:11:02Z
+Updated at 2018-08-12T15:31:02Z
