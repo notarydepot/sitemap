@@ -214,6 +214,7 @@
     - [Notary Public in Downey, CA](https://www.notarydepot.com/notary-near-me/California/Downey)
     - [Notary Public in Duarte, CA](https://www.notarydepot.com/notary-near-me/California/Duarte)
     - [Notary Public in Dublin, CA](https://www.notarydepot.com/notary-near-me/California/Dublin)
+    - [Notary Public in El Cajon, CA](https://www.notarydepot.com/notary-near-me/California/El-Cajon)
     - [Notary Public in El Centro, CA](https://www.notarydepot.com/notary-near-me/California/El-Centro)
     - [Notary Public in El Dorado Hills, CA](https://www.notarydepot.com/notary-near-me/California/El-Dorado-Hills)
     - [Notary Public in El Monte, CA](https://www.notarydepot.com/notary-near-me/California/El-Monte)
@@ -7034,6 +7035,7 @@
   - [Notary Public in Temecula, CA: Valerie Swaine](https://www.notarydepot.com/valintem)
   - [Notary Public in Louisville, KY: Kenneth Alan Runyan, Jr.](https://www.notarydepot.com/valiond1974)
   - [Notary Public in Buckeye, AZ: Derek](https://www.notarydepot.com/valleynotaryaz)
+  - [Notary Public in El Cajon, CA: Valorie Quinones](https://www.notarydepot.com/vals11vision)
   - [Notary Public in Miami Beach, FL: Vanessa Rivera](https://www.notarydepot.com/vanajckt1)
   - [Notary Public in Blissfield, MI: Linette M. Van Camp](https://www.notarydepot.com/vancampl)
   - [Notary Public in Detroit, MI: Vanessa Otero](https://www.notarydepot.com/vanessa)
@@ -7862,4 +7864,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-08-13T19:11:02Z
+Updated at 2018-08-13T19:31:02Z
