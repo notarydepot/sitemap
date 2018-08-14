@@ -1982,6 +1982,7 @@
     - [Notary Public in Sherman, TX](https://www.notarydepot.com/notary-near-me/Texas/Sherman)
     - [Notary Public in South Padre Island, TX](https://www.notarydepot.com/notary-near-me/Texas/South-Padre-Island)
     - [Notary Public in Southlake, TX](https://www.notarydepot.com/notary-near-me/Texas/Southlake)
+    - [Notary Public in Spicewood, TX](https://www.notarydepot.com/notary-near-me/Texas/Spicewood)
     - [Notary Public in Spring, TX](https://www.notarydepot.com/notary-near-me/Texas/Spring)
     - [Notary Public in Spring Branch, TX](https://www.notarydepot.com/notary-near-me/Texas/Spring-Branch)
     - [Notary Public in Springtown, TX](https://www.notarydepot.com/notary-near-me/Texas/Springtown)
@@ -4208,6 +4209,7 @@
   - [Notary Public in East Stroudsburg, PA: Jennifer Bell](https://www.notarydepot.com/jennib)
   - [Notary Public in Port Charlotte, FL: Jennifer Louise Abel](https://www.notarydepot.com/jenniferabelnotary)
   - [Notary Public in West Sacramento, CA: Jennifer Berg](https://www.notarydepot.com/jenniferberg)
+  - [Notary Public in Spicewood, TX: Jennifer Brown](https://www.notarydepot.com/jenniferbrown)
   - [Notary Public in Winter Garden, FL: Jennifer Harvey](https://www.notarydepot.com/jenniferharvey)
   - [Notary Public in Beaufort, SC: Jennifer Jones](https://www.notarydepot.com/jenniferjones)
   - [Notary Public in Lebanon, TN: Jennifer Kincaid](https://www.notarydepot.com/jenniferkincaid)
@@ -7873,4 +7875,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-08-14T20:31:02Z
+Updated at 2018-08-14T20:51:02Z
