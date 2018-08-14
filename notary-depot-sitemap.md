@@ -7175,6 +7175,7 @@
   - [Notary Public in Gardena, CA: Melva E. Scott](https://www.notarydepot.com/worryfree)
   - [Notary Public in Franklinton, NC: Deshonda W. Wortham](https://www.notarydepot.com/wortham5)
   - [Notary Public in Olive Branch, MS: West Patrick](https://www.notarydepot.com/wpatrick55)
+  - [Notary Public in Franklinton, LA: Pamela Turnage](https://www.notarydepot.com/wpnotary)
   - [Notary Public in New York, NY: William Ponsot](https://www.notarydepot.com/wponsot)
   - [Notary Public in Wheatland, CA: Wendy L. Zapata](https://www.notarydepot.com/wpzapata)
   - [Notary Public in Manlius, NY: Wayne Bodow](https://www.notarydepot.com/wrbodow)
@@ -7870,4 +7871,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-08-14T16:31:02Z
+Updated at 2018-08-14T16:51:02Z
