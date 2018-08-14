@@ -5519,6 +5519,7 @@
   - [Notary Public in Roanoke, VA: Natalie Brown](https://www.notarydepot.com/nb22310)
   - [Notary Public in Castro Valley, CA: Nicole Briggs](https://www.notarydepot.com/nbriggsmoblenotary)
   - [Notary Public in Long Beach, CA: Natalie Brobst](https://www.notarydepot.com/nbrobst)
+  - [Notary Public in Philadelphia, PA: Nancy Carr](https://www.notarydepot.com/nc9653)
   - [Notary Public in Miami, FL: Nelson Castillo](https://www.notarydepot.com/ncasti)
   - [Notary Public in Roseboro, NC: April Clark](https://www.notarydepot.com/ncnotary1)
   - [Notary Public in Independence, MO: Norma Campbell](https://www.notarydepot.com/ndcampbell)
@@ -7868,4 +7869,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-08-14T01:51:02Z
+Updated at 2018-08-14T02:11:02Z
