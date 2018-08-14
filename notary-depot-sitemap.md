@@ -1008,6 +1008,7 @@
     - [Notary Public in Bel Air, MD](https://www.notarydepot.com/notary-near-me/Maryland/Bel-Air)
     - [Notary Public in Bethesda, MD](https://www.notarydepot.com/notary-near-me/Maryland/Bethesda)
     - [Notary Public in Bowie, MD](https://www.notarydepot.com/notary-near-me/Maryland/Bowie)
+    - [Notary Public in Brentwood, MD](https://www.notarydepot.com/notary-near-me/Maryland/Brentwood)
     - [Notary Public in Capitol Heights, MD](https://www.notarydepot.com/notary-near-me/Maryland/Capitol-Heights)
     - [Notary Public in Catonsville, MD](https://www.notarydepot.com/notary-near-me/Maryland/Catonsville)
     - [Notary Public in Clinton, MD](https://www.notarydepot.com/notary-near-me/Maryland/Clinton)
@@ -3273,6 +3274,7 @@
   - [Notary Public in Locust Grove, VA: Diane Nichols](https://www.notarydepot.com/dcnichols15)
   - [Notary Public in San Marcos, CA: Deanna Console](https://www.notarydepot.com/dconsole)
   - [Notary Public in Portsmouth, VA: Don Cuffy Ii](https://www.notarydepot.com/dcuffy)
+  - [Notary Public in Brentwood, MD: Derek](https://www.notarydepot.com/ddcooke)
   - [Notary Public in Syracuse, NY: Daniel Debrucker](https://www.notarydepot.com/ddebrucker)
   - [Notary Public in Drums, PA: Diana L Donahue](https://www.notarydepot.com/ddonahue)
   - [Notary Public in Bracey, VA: Denise Johnson, Notary Public](https://www.notarydepot.com/de63038)
@@ -7871,4 +7873,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-08-14T19:31:02Z
+Updated at 2018-08-14T19:51:02Z
