@@ -1106,6 +1106,7 @@
     - [Notary Public in Livonia, MI](https://www.notarydepot.com/notary-near-me/Michigan/Livonia)
     - [Notary Public in Macomb, MI](https://www.notarydepot.com/notary-near-me/Michigan/Macomb)
     - [Notary Public in Mancelona, MI](https://www.notarydepot.com/notary-near-me/Michigan/Mancelona)
+    - [Notary Public in Milan, MI](https://www.notarydepot.com/notary-near-me/Michigan/Milan)
     - [Notary Public in Montague, MI](https://www.notarydepot.com/notary-near-me/Michigan/Montague)
     - [Notary Public in Mount Clemens, MI](https://www.notarydepot.com/notary-near-me/Michigan/Mount-Clemens)
     - [Notary Public in Mount Morris, MI](https://www.notarydepot.com/notary-near-me/Michigan/Mount-Morris)
@@ -5261,6 +5262,7 @@
   - [Notary Public in Gilroy, CA: Michael Roberts](https://www.notarydepot.com/mikey)
   - [Notary Public in Roseville, CA: Michael Rudkosky Ii](https://www.notarydepot.com/mikey24242)
   - [Notary Public in Tustin, CA: Michael L Hofacre](https://www.notarydepot.com/mike_hofacre)
+  - [Notary Public in Milan, MI: Mike White](https://www.notarydepot.com/mikjrr)
   - [Notary Public in Hearne, TX: Sandra Moten](https://www.notarydepot.com/milajnotary)
   - [Notary Public in Cleveland, TN: April Miles ](https://www.notarydepot.com/miles1422)
   - [Notary Public in Sacramento, CA: Tobias Scott](https://www.notarydepot.com/milesbenedicene)
@@ -7866,4 +7868,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-08-14T01:31:03Z
+Updated at 2018-08-14T01:51:02Z
