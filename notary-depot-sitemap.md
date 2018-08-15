@@ -4598,6 +4598,7 @@
   - [Notary Public in Dothan, AL: Katrina Hagler](https://www.notarydepot.com/khagler)
   - [Notary Public in Bakersfield, CA: Harcharan Kaur K Singh](https://www.notarydepot.com/khalsanotary)
   - [Notary Public in Largo, FL: Kathleen Christie](https://www.notarydepot.com/khinakat)
+  - [Notary Public in San Bernardino, CA: Karen Hutton-Lopez](https://www.notarydepot.com/khlmobilenotary)
   - [Notary Public in Huntington Beach, CA: Kim Hoffman](https://www.notarydepot.com/khoff)
   - [Notary Public in Tampa, FL: Kim Hutfilz](https://www.notarydepot.com/khutfilz)
   - [Notary Public in West Hartford, CT: Kidean Thompson ](https://www.notarydepot.com/kidean007)
@@ -7877,4 +7878,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-08-15T19:31:02Z
+Updated at 2018-08-15T19:51:02Z
