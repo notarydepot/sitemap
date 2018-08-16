@@ -131,6 +131,7 @@
     - [Notary Public in Rogers, AR](https://www.notarydepot.com/notary-near-me/Arkansas/Rogers)
     - [Notary Public in Russellville, AR](https://www.notarydepot.com/notary-near-me/Arkansas/Russellville)
     - [Notary Public in Siloam Springs, AR](https://www.notarydepot.com/notary-near-me/Arkansas/Siloam-Springs)
+    - [Notary Public in Texarkana, AR](https://www.notarydepot.com/notary-near-me/Arkansas/Texarkana)
     - [Notary Public in West Memphis, AR](https://www.notarydepot.com/notary-near-me/Arkansas/West-Memphis)
   - [Notaries Public in California](https://www.notarydepot.com/notary-near-me/California)
     - [Notary Public in Agoura Hills, CA](https://www.notarydepot.com/notary-near-me/California/Agoura-Hills)
@@ -5907,6 +5908,7 @@
   - [Notary Public in Savage, MN: John Wilson CNSA](https://www.notarydepot.com/peanut20)
   - [Notary Public in Dothan, AL: Cassandra Hart](https://www.notarydepot.com/peetee4u)
   - [Notary Public in Virginia Beach, VA: Peggy Dollison](https://www.notarydepot.com/peggyd01)
+  - [Notary Public in Texarkana, AR: Peggy Owenby](https://www.notarydepot.com/peggyowenby)
   - [Notary Public in Rocky Point, NC: Barbara A Hardin](https://www.notarydepot.com/penderredhed)
   - [Notary Public in DeLand, FL: PennNotary](https://www.notarydepot.com/pennnotary)
   - [Notary Public in Charlotte, NC: Penny Cothran](https://www.notarydepot.com/pennycothran)
@@ -7880,4 +7882,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-08-16T18:31:02Z
+Updated at 2018-08-16T18:51:01Z
