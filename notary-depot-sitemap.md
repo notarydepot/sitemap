@@ -5069,7 +5069,7 @@
   - [Notary Public in Mancelona, MI: Mandy Betz](https://www.notarydepot.com/mandyjason9)
   - [Notary Public in Reeves, LA: Miranda Fontenot](https://www.notarydepot.com/mandysue)
   - [Notary Public in Hueysville, KY: Amanda Lyn Blackburn](https://www.notarydepot.com/mandy_blackburn)
-  - [Notary Public in Dyer, IN: Angela Manfre](https://www.notarydepot.com/manfrean)
+  - [Notary Public in Dyer, IN: Angela Manfre](https://www.notarydepot.com/manfrenotarygmailcom)
   - [Notary Public in Alameda, CA: Manh](https://www.notarydepot.com/manhnotary)
   - [Notary Public in Buckeye, AZ: Manisha Chakrabarti](https://www.notarydepot.com/manishaaz)
   - [Notary Public in Mansfield, TX: Mansfield Mobile Notary Public &amp; Signing Agents](https://www.notarydepot.com/mansfieldmobilenotary)
@@ -7882,4 +7882,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-08-16T19:31:02Z
+Updated at 2018-08-16T19:51:01Z
