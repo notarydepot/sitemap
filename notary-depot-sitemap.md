@@ -422,6 +422,7 @@
     - [Notary Public in Shingle Springs, CA](https://www.notarydepot.com/notary-near-me/California/Shingle-Springs)
     - [Notary Public in Sierra Madre, CA](https://www.notarydepot.com/notary-near-me/California/Sierra-Madre)
     - [Notary Public in Simi Valley, CA](https://www.notarydepot.com/notary-near-me/California/Simi-Valley)
+    - [Notary Public in Solvang, CA](https://www.notarydepot.com/notary-near-me/California/Solvang)
     - [Notary Public in Sonoma, CA](https://www.notarydepot.com/notary-near-me/California/Sonoma)
     - [Notary Public in Sonora, CA](https://www.notarydepot.com/notary-near-me/California/Sonora)
     - [Notary Public in Soquel, CA](https://www.notarydepot.com/notary-near-me/California/Soquel)
@@ -4336,6 +4337,7 @@
   - [Notary Public in Yerington, NV: Joanne Sarkisian](https://www.notarydepot.com/joannesark)
   - [Notary Public in Crystal Falls, MI: Joan M Havens](https://www.notarydepot.com/joannieh)
   - [Notary Public in Crystal Falls, MI: Joan Havens](https://www.notarydepot.com/joanniehwi)
+  - [Notary Public in Solvang, CA: Joan Stenson](https://www.notarydepot.com/joanstensoncertifiedloansigningagent)
   - [Notary Public in Amherst, OH: Joan F Robinson](https://www.notarydepot.com/joan_oh)
   - [Notary Public in Lancaster, CA: Jodi Gandolfo](https://www.notarydepot.com/jodig)
   - [Notary Public in Lancaster, CA: Jodi Gandolfo](https://www.notarydepot.com/jodigandolfo)
@@ -7878,4 +7880,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-08-16T12:31:03Z
+Updated at 2018-08-16T12:51:02Z
