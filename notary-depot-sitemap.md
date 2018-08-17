@@ -2408,6 +2408,7 @@
   - [Notary Public in Jackson, GA: Charles Alston](https://www.notarydepot.com/alstreal)
   - [Notary Public in Altadena, CA: Pamela McKinney](https://www.notarydepot.com/altapasanotary)
   - [Notary Public in Tampa, FL: Julissa Alvarez](https://www.notarydepot.com/alvarez8533)
+  - [Notary Public in Boynton Beach, FL: Terri T Golden](https://www.notarydepot.com/alwaysavailable)
   - [Notary Public in Ionia, MI: Alice L. Samani-zozo](https://www.notarydepot.com/alzsamani)
   - [Notary Public in Elkton, MD: Ann Marie Williams](https://www.notarydepot.com/am24wnotarydepot)
   - [Notary Public in Miami, FL: Amabel Gonzalez](https://www.notarydepot.com/amabelgonzalez1)
@@ -7882,4 +7883,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-08-17T12:11:03Z
+Updated at 2018-08-17T12:31:02Z
