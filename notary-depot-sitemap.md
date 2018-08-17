@@ -3287,6 +3287,7 @@
   - [Notary Public in Hampton, VA: David E. Dean](https://www.notarydepot.com/deande)
   - [Notary Public in Rocky Point, NC: Deborah A. Newkirk](https://www.notarydepot.com/deb)
   - [Notary Public in Liverpool, NY: Debra Mcleod](https://www.notarydepot.com/debbie)
+  - [Notary Public in NY: Debbie ](https://www.notarydepot.com/debbiecobb)
   - [Notary Public in Antioch, CA: Debbie Miller](https://www.notarydepot.com/debbiem)
   - [Notary Public in Baton Rouge, LA: Debbie Morvant](https://www.notarydepot.com/debbiemorvant)
   - [Notary Public in Burleson, TX: Debby Frisk](https://www.notarydepot.com/debbyfrisk)
@@ -7883,4 +7884,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-08-17T13:31:02Z
+Updated at 2018-08-17T13:51:02Z
