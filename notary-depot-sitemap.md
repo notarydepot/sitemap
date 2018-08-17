@@ -4745,6 +4745,7 @@
   - [Notary Public in Wichita, KS: Lila Hall](https://www.notarydepot.com/lahallsign)
   - [Notary Public in Starke, FL: Robert William Rehberg](https://www.notarydepot.com/lakebutler52)
   - [Notary Public in Kelseyville, CA: Julie Richardson](https://www.notarydepot.com/lakecountynotary)
+  - [Notary Public in Lakeland, FL: Louis](https://www.notarydepot.com/lakelandnotary)
   - [Notary Public in Greenville, SC: Brenda Owen Wedding Officiant &amp; Minister](https://www.notarydepot.com/lakesidenotary)
   - [Notary Public in Lake Worth, FL: Barry Glassgold](https://www.notarydepot.com/lakeworthmobilenotary)
   - [Notary Public in Beverly Hills, CA: Ljjkl](https://www.notarydepot.com/lalala)
@@ -7886,4 +7887,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-08-17T19:31:02Z
+Updated at 2018-08-17T19:51:02Z
