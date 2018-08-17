@@ -5503,6 +5503,7 @@
   - [Notary Public in Ruskin, FL: Jessica Robinson](https://www.notarydepot.com/mzrobinson07)
   - [Notary Public in Hollister, CA: Nadine Davis](https://www.notarydepot.com/nadinenotary)
   - [Notary Public in Alpharetta, GA: Najhia Butler](https://www.notarydepot.com/najhiab)
+  - [Notary Public in Arab, AL: James C. Martin](https://www.notarydepot.com/nalabamanotary)
   - [Notary Public in Marietta, GA: Nichole Alexander](https://www.notarydepot.com/nalex1999)
   - [Notary Public in Missoula, MT: Nancy Misenar](https://www.notarydepot.com/nancy927)
   - [Notary Public in Worcester, MA: Notary Now !](https://www.notarydepot.com/nancyflash)
@@ -7885,4 +7886,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-08-17T19:11:02Z
+Updated at 2018-08-17T19:31:02Z
