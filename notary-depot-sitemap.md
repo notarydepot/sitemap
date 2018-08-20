@@ -3975,12 +3975,12 @@
   - [Notary Public in Easton, MA: Michael Marram](https://www.notarydepot.com/historian333)
   - [Notary Public in Pearland, TX: Herman ](https://www.notarydepot.com/hjlucas)
   - [Notary Public in Buena Park, CA: Hackzell Jaime](https://www.notarydepot.com/hjrealestate)
+  - [Notary Public in Okeechobee, FL: Heide Miller](https://www.notarydepot.com/hlmiller)
   - [Notary Public in Front Royal, VA: Holly Millner](https://www.notarydepot.com/hlmillner)
   - [Notary Public in Lafayette, IN: Brian Stump](https://www.notarydepot.com/hlsindiana)
   - [Notary Public in Columbus, OH: Heather L Thigpen](https://www.notarydepot.com/hltllc)
   - [Notary Public in Selma, CA: Helen Martinez, NNA Certified Notary Signing Agent](https://www.notarydepot.com/hmartinez)
   - [Notary Public in Brownsburg, IN: Heather Cody](https://www.notarydepot.com/hmcody)
-  - [Notary Public in Okeechobee, FL: Heide Miller](https://www.notarydepot.com/hmiller4cnsa)
   - [Notary Public in Silver Spring, MD: Sherman L. Hill](https://www.notarydepot.com/hobokids)
   - [Notary Public in Tampa, FL: Mark Hodgkins](https://www.notarydepot.com/hodgy03038)
   - [Notary Public in Gonzales, LA: Catherine Hofmann](https://www.notarydepot.com/hofmann)
@@ -7885,4 +7885,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-08-20T09:51:02Z
+Updated at 2018-08-20T10:11:02Z
