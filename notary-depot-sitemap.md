@@ -4993,6 +4993,7 @@
   - [Notary Public in San Antonio, TX: Tom Lucas](https://www.notarydepot.com/lucaslegalnotary)
   - [Notary Public in Dallas, TX: Lucero Ramon](https://www.notarydepot.com/luceroaramon)
   - [Notary Public in Colton, CA: Renee Luckey](https://www.notarydepot.com/luckeynotary)
+  - [Notary Public in Port Hueneme, CA: Simone Lewis](https://www.notarydepot.com/luckywoman)
   - [Notary Public in Moreno Valley, CA: Luetta Clark](https://www.notarydepot.com/luetta)
   - [Notary Public in Jacksonville, FL: Luke Sawyer](https://www.notarydepot.com/lukesawyer)
   - [Notary Public in Rancho Santa Margarita, CA: Victor Cardi](https://www.notarydepot.com/lukescoach)
@@ -7885,4 +7886,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-08-20T20:51:02Z
+Updated at 2018-08-20T21:11:02Z
