@@ -629,7 +629,6 @@
     - [Notary Public in Lehigh Acres, FL](https://www.notarydepot.com/notary-near-me/Florida/Lehigh-Acres)
     - [Notary Public in Longwood, FL](https://www.notarydepot.com/notary-near-me/Florida/Longwood)
     - [Notary Public in Loxahatchee, FL](https://www.notarydepot.com/notary-near-me/Florida/Loxahatchee)
-    - [Notary Public in Lutz, FL](https://www.notarydepot.com/notary-near-me/Florida/Lutz)
     - [Notary Public in Margate, FL](https://www.notarydepot.com/notary-near-me/Florida/Margate)
     - [Notary Public in Marianna, FL](https://www.notarydepot.com/notary-near-me/Florida/Marianna)
     - [Notary Public in Mary Esther, FL](https://www.notarydepot.com/notary-near-me/Florida/Mary-Esther)
@@ -990,6 +989,7 @@
   - [Notaries Public in Maine](https://www.notarydepot.com/notary-near-me/Maine)
     - [Notary Public in Auburn, ME](https://www.notarydepot.com/notary-near-me/Maine/Auburn)
     - [Notary Public in Bangor, ME](https://www.notarydepot.com/notary-near-me/Maine/Bangor)
+    - [Notary Public in Boothbay Harbor, ME](https://www.notarydepot.com/notary-near-me/Maine/Boothbay-Harbor)
     - [Notary Public in Brewer, ME](https://www.notarydepot.com/notary-near-me/Maine/Brewer)
     - [Notary Public in North Berwick, ME](https://www.notarydepot.com/notary-near-me/Maine/North-Berwick)
     - [Notary Public in South Berwick, ME](https://www.notarydepot.com/notary-near-me/Maine/South-Berwick)
@@ -4396,7 +4396,7 @@
   - [Notary Public in Neenah, WI: Anthony Lemanski](https://www.notarydepot.com/joycelemanski)
   - [Notary Public in Katy, TX: Joy R Walker](https://www.notarydepot.com/joyrwalker)
   - [Notary Public in Bryan, TX: Joyce Soliz](https://www.notarydepot.com/joysol)
-  - [Notary Public in Lutz, FL: Jaquie Pena](https://www.notarydepot.com/jpena)
+  - [Notary Public in Boothbay Harbor, ME: Jaquie Pena](https://www.notarydepot.com/jpena)
   - [Notary Public in Layton, UT: Jim Pettingill](https://www.notarydepot.com/jpettingill)
   - [Notary Public in Bogota, NJ: Joie Polimeda](https://www.notarydepot.com/jplynn10)
   - [Notary Public in Manchester, NH: Myra Anne Mullen](https://www.notarydepot.com/jpmyra)
@@ -7886,4 +7886,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-08-21T15:51:02Z
+Updated at 2018-08-21T16:11:02Z
