@@ -2500,6 +2500,7 @@
   - [Notary Public in San Antonio, TX: Annie Cazarez](https://www.notarydepot.com/annie_oakley_sa)
   - [Notary Public in Lake Forest, CA: Ann Marie Nugent](https://www.notarydepot.com/annmariethesealingnotary)
   - [Notary Public in Stuart, FL: Ann M McLaughlin, Mba](https://www.notarydepot.com/annmclaughlin)
+  - [Notary Public in San Francisco, CA: Ann Marie Murtagh](https://www.notarydepot.com/annmurtaghcomcastnet)
   - [Notary Public in Crawfordville, FL: Ann Trim](https://www.notarydepot.com/anntrim)
   - [Notary Public in Overland Park, KS: Julie B. Dailey, E.a., KCMobileNotary.com](https://www.notarydepot.com/anotablenotary)
   - [Notary Public in San Diego, CA: Auddie Ehricke](https://www.notarydepot.com/anotary)
@@ -7888,4 +7889,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-08-25T02:31:02Z
+Updated at 2018-08-25T02:51:02Z
