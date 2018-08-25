@@ -1944,7 +1944,6 @@
     - [Notary Public in Levelland, TX](https://www.notarydepot.com/notary-near-me/Texas/Levelland)
     - [Notary Public in Lewisville, TX](https://www.notarydepot.com/notary-near-me/Texas/Lewisville)
     - [Notary Public in Liberty Hill, TX](https://www.notarydepot.com/notary-near-me/Texas/Liberty-Hill)
-    - [Notary Public in Livingston, TX](https://www.notarydepot.com/notary-near-me/Texas/Livingston)
     - [Notary Public in Longview, TX](https://www.notarydepot.com/notary-near-me/Texas/Longview)
     - [Notary Public in Lubbock, TX](https://www.notarydepot.com/notary-near-me/Texas/Lubbock)
     - [Notary Public in Mansfield, TX](https://www.notarydepot.com/notary-near-me/Texas/Mansfield)
@@ -4941,7 +4940,7 @@
   - [Notary Public in Dolton, IL: Carlett Fleming - Dudley](https://www.notarydepot.com/loanssignagent)
   - [Notary Public in Murrieta, CA: Loida Guevara](https://www.notarydepot.com/loidag)
   - [Notary Public in Madison, MS: Elois Hilliard](https://www.notarydepot.com/loish)
-  - [Notary Public in Livingston, TX: Elois Hilliard](https://www.notarydepot.com/loish46)
+  - [Notary Public in Madison, MS: Elois Hilliard](https://www.notarydepot.com/loish46)
   - [Notary Public in Independence, MO: Lois J Ogden](https://www.notarydepot.com/loisj55)
   - [Notary Public in Bates City, MO: Lois J. Ogden](https://www.notarydepot.com/loisogden)
   - [Notary Public in Houston, TX: Lola Johnson](https://www.notarydepot.com/lola2)
@@ -7889,4 +7888,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-08-25T13:51:02Z
+Updated at 2018-08-25T14:11:02Z
