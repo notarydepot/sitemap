@@ -2911,6 +2911,7 @@
   - [Notary Public in Orlando, FL: Marc Carusiello](https://www.notarydepot.com/carusiello)
   - [Notary Public in Los Angeles, CA: Casandra Clemons](https://www.notarydepot.com/casandrac)
   - [Notary Public in Bend, OR: Lisa A. Holley](https://www.notarydepot.com/cascadenotary)
+  - [Notary Public in Sandy, UT: Christopher Scott](https://www.notarydepot.com/cascott92)
   - [Notary Public in St. Augustine, FL: Susan Clark, Notary Works](https://www.notarydepot.com/cassaundra10)
   - [Notary Public in Carson, CA: Sandra Castillo](https://www.notarydepot.com/castillo1)
   - [Notary Public in Las Vegas, NV: Laura Cervantes](https://www.notarydepot.com/castillo98)
@@ -7888,4 +7889,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-08-26T06:31:02Z
+Updated at 2018-08-26T06:51:02Z
