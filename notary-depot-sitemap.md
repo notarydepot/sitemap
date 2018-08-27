@@ -6878,6 +6878,7 @@
   - [Notary Public in Palm Beach Gardens, FL: Tim Donahue](https://www.notarydepot.com/timjd)
   - [Notary Public in Lock Haven, PA: Timothy L Havener](https://www.notarydepot.com/timothyhavener)
   - [Notary Public in Mebane, NC: Tina Little-Coltrane](https://www.notarydepot.com/tina325)
+  - [Notary Public in Cape Coral, FL: Konstantina Chalkias](https://www.notarydepot.com/tinachalkias)
   - [Notary Public in Kenosha, WI: Tina Elfering](https://www.notarydepot.com/tinaelfering)
   - [Notary Public in Andover, MA: Tina Enrico](https://www.notarydepot.com/tinaenrico1)
   - [Notary Public in Los Angeles, CA: Tina L Gaines](https://www.notarydepot.com/tinalgaines)
@@ -7889,4 +7890,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-08-27T15:11:02Z
+Updated at 2018-08-27T15:31:02Z
