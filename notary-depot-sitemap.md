@@ -876,6 +876,7 @@
     - [Notary Public in Frankfort, IN](https://www.notarydepot.com/notary-near-me/Indiana/Frankfort)
     - [Notary Public in Gary, IN](https://www.notarydepot.com/notary-near-me/Indiana/Gary)
     - [Notary Public in Granger, IN](https://www.notarydepot.com/notary-near-me/Indiana/Granger)
+    - [Notary Public in Greenfield, IN](https://www.notarydepot.com/notary-near-me/Indiana/Greenfield)
     - [Notary Public in Hartford City, IN](https://www.notarydepot.com/notary-near-me/Indiana/Hartford-City)
     - [Notary Public in Hobart, IN](https://www.notarydepot.com/notary-near-me/Indiana/Hobart)
     - [Notary Public in Indianapolis, IN](https://www.notarydepot.com/notary-near-me/Indiana/Indianapolis)
@@ -4524,6 +4525,7 @@
   - [Notary Public in Valley Stream, NY: Kasheika Brown](https://www.notarydepot.com/kasheikanbrown)
   - [Notary Public in Knoxville, TN: Kashi Farmer](https://www.notarydepot.com/kashifarmer)
   - [Notary Public in Danvers, MA: Katherine Cornetta](https://www.notarydepot.com/katcornetta)
+  - [Notary Public in Greenfield, IN: Kate](https://www.notarydepot.com/katedixon1)
   - [Notary Public in Philadelphia, PA: Kate Vizzard](https://www.notarydepot.com/katevizzard)
   - [Notary Public in Salem, OR: Katrina Hamlin](https://www.notarydepot.com/katflores)
   - [Notary Public in Salisbury, NC: Kathie Wilson](https://www.notarydepot.com/kathie)
@@ -7890,4 +7892,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-08-27T23:11:02Z
+Updated at 2018-08-27T23:31:02Z
