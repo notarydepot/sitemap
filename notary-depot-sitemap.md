@@ -4512,6 +4512,7 @@
   - [Notary Public in Fort Myers Beach, FL: Karen Nichols](https://www.notarydepot.com/karene)
   - [Notary Public in Gonzales, LA: Karen Hatcher](https://www.notarydepot.com/karenhatcher)
   - [Notary Public in Absecon, NJ: Karen Ganey](https://www.notarydepot.com/karenjill)
+  - [Notary Public in White Plains, NY: Karen Morra Mesh](https://www.notarydepot.com/karenmesh)
   - [Notary Public in Alvarado, TX: Karen Nolt](https://www.notarydepot.com/karenwho)
   - [Notary Public in Urbandale, IA: Kari Fitzgerrell](https://www.notarydepot.com/karikat)
   - [Notary Public in Coarsegold, CA: Kari Von Wagner](https://www.notarydepot.com/karistonge)
@@ -7892,4 +7893,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-08-28T20:51:02Z
+Updated at 2018-08-28T21:11:01Z
