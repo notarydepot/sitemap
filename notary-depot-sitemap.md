@@ -1708,6 +1708,7 @@
     - [Notary Public in Glenside, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Glenside)
     - [Notary Public in Greencastle, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Greencastle)
     - [Notary Public in Greensburg, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Greensburg)
+    - [Notary Public in Greentown, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Greentown)
     - [Notary Public in Harrisburg, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Harrisburg)
     - [Notary Public in Hatfield, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Hatfield)
     - [Notary Public in Hazleton, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Hazleton)
@@ -5780,6 +5781,7 @@
   - [Notary Public in Bellflower, CA: Nicole Raye](https://www.notarydepot.com/nraye)
   - [Notary Public in Jacksonville, NC: Jennifer L. Campbell](https://www.notarydepot.com/nsacampbell)
   - [Notary Public in Orlando, FL: Jerry Moore](https://www.notarydepot.com/nsacfla)
+  - [Notary Public in Greentown, PA: Christina Warman](https://www.notarydepot.com/nsawarman)
   - [Notary Public in Antioch, CA: Nicole Shannon](https://www.notarydepot.com/nshannon707)
   - [Notary Public in Montrose, AL: Necole Snider](https://www.notarydepot.com/nsnider1970)
   - [Notary Public in San Jose, CA: Kim Nguyen, Certified Signing Agent/Mobile Notary](https://www.notarydepot.com/nstenterprises)
@@ -7893,4 +7895,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-08-28T21:11:01Z
+Updated at 2018-08-28T21:31:02Z
