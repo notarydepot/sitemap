@@ -4961,7 +4961,6 @@
   - [Notary Public in Limestone, TN: Lori Mcginnis](https://www.notarydepot.com/lorirhae)
   - [Notary Public in Sarasota, FL: Lorna Sammoury](https://www.notarydepot.com/lornaaline)
   - [Notary Public in New York, NY: Lorraine Tom](https://www.notarydepot.com/lorrainetom)
-  - [Notary Public in Fremont, CA: L VanRod](https://www.notarydepot.com/lorrainevanrod)
   - [Notary Public in Los Angeles, CA: La Notary Now](https://www.notarydepot.com/losangelesnotarynow)
   - [Notary Public in CA: Louise Olin](https://www.notarydepot.com/louiseolin)
   - [Notary Public in Grand Prairie, TX: Lourae Crichton](https://www.notarydepot.com/lourae)
@@ -7895,4 +7894,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-08-28T23:11:02Z
+Updated at 2018-08-28T23:31:02Z
