@@ -2184,6 +2184,7 @@
     - [Notary Public in Almond, WI](https://www.notarydepot.com/notary-near-me/Wisconsin/Almond)
     - [Notary Public in Appleton, WI](https://www.notarydepot.com/notary-near-me/Wisconsin/Appleton)
     - [Notary Public in Brookfield, WI](https://www.notarydepot.com/notary-near-me/Wisconsin/Brookfield)
+    - [Notary Public in Burlington, WI](https://www.notarydepot.com/notary-near-me/Wisconsin/Burlington)
     - [Notary Public in Cecil, WI](https://www.notarydepot.com/notary-near-me/Wisconsin/Cecil)
     - [Notary Public in Clintonville, WI](https://www.notarydepot.com/notary-near-me/Wisconsin/Clintonville)
     - [Notary Public in Cottage Grove, WI](https://www.notarydepot.com/notary-near-me/Wisconsin/Cottage-Grove)
@@ -3599,6 +3600,7 @@
   - [Notary Public in Fort Smith, AR: Steven k. Rice](https://www.notarydepot.com/elitemobilenotary)
   - [Notary Public in Cañon City, CO: Janet Pickering](https://www.notarydepot.com/elitemobilenotaryllc)
   - [Notary Public in Portland, OR: EliteNotaryco Support Team](https://www.notarydepot.com/elitenotaryco)
+  - [Notary Public in Burlington, WI: Elizabeth Bostwick](https://www.notarydepot.com/elizabeth42)
   - [Notary Public in Aliso Viejo, CA: Elizabeth Bettin](https://www.notarydepot.com/elizabethbettin)
   - [Notary Public in Los Angeles, CA: Elizabeth Castro](https://www.notarydepot.com/elizarely)
   - [Notary Public in Oakland, CA: Ella R. Allen](https://www.notarydepot.com/ellarallen)
@@ -7894,4 +7896,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-08-29T16:31:02Z
+Updated at 2018-08-29T16:51:02Z
