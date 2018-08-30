@@ -3404,7 +3404,6 @@
   - [Notary Public in Arlington, TX: Donna Bara](https://www.notarydepot.com/djbara)
   - [Notary Public in Sarasota, FL: Dan Crowley](https://www.notarydepot.com/djcnotary)
   - [Notary Public in New Castle, PA: Dennis L. Thompson](https://www.notarydepot.com/djdennist)
-  - [Notary Public in Lafayette, IN: Douglas J. Diebolt](https://www.notarydepot.com/djdiebolt)
   - [Notary Public in Saint Cloud, FL: Deborah Haughton](https://www.notarydepot.com/djhaughton)
   - [Notary Public in Bracey, VA: Denise Johnson, Notary Public](https://www.notarydepot.com/djmobilenotary)
   - [Notary Public in Galt, CA: Denise Mulhern](https://www.notarydepot.com/djmulhern09)
@@ -7896,4 +7895,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-08-30T01:11:02Z
+Updated at 2018-08-30T01:31:02Z
