@@ -3142,6 +3142,7 @@
   - [Notary Public in Los Angeles, CA: Cindy Rehwald](https://www.notarydepot.com/crehwald)
   - [Notary Public in Vancouver, WA: Carmen Reynolds](https://www.notarydepot.com/creynolds)
   - [Notary Public in Santa Ana, CA: carl](https://www.notarydepot.com/crgaunt)
+  - [Notary Public in Locust Grove, VA: Carol Fowler](https://www.notarydepot.com/crich35)
   - [Notary Public in Miller Place, NY: Christine Hanson](https://www.notarydepot.com/crissy0420)
   - [Notary Public in Redmond, WA: Cristal D. Southerland](https://www.notarydepot.com/cristalsoutherland)
   - [Notary Public in Suwanee, GA: Trinity Unlimited Resources](https://www.notarydepot.com/cristian343)
@@ -7895,4 +7896,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-08-30T11:11:02Z
+Updated at 2018-08-30T11:31:02Z
