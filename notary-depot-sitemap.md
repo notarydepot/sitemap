@@ -2623,7 +2623,7 @@
   - [Notary Public in Hialeah, FL: Barbara E. Valdes](https://www.notarydepot.com/barbara25)
   - [Notary Public in Las Vegas, NV: Barbara Giglio](https://www.notarydepot.com/barbaragiglio)
   - [Notary Public in Gadsden, AL: Barbara Jurick](https://www.notarydepot.com/barbarajurick)
-  - [Notary Public in San Antonio, TX: Barbara Lane](https://www.notarydepot.com/barbaral)
+  - [Notary Public in Humble, TX: Barbara Lane Snowden Mobile Notary](https://www.notarydepot.com/barbaral)
   - [Notary Public in Vail, AZ: Barbara R. Linker](https://www.notarydepot.com/barbaralca)
   - [Notary Public in Richmond, VA: Barbara Noell Bartek](https://www.notarydepot.com/barbartk)
   - [Notary Public in Hialeah, FL: Barbara Sanchez](https://www.notarydepot.com/barbie74)
@@ -7896,4 +7896,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-08-30T15:31:02Z
+Updated at 2018-08-30T15:51:02Z
