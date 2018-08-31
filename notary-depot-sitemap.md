@@ -5966,6 +5966,7 @@
   - [Notary Public in West Haven, CT: Patrice Lofters](https://www.notarydepot.com/plofters)
   - [Notary Public in Bluffton, SC: Penny Reynolds](https://www.notarydepot.com/plreynolds)
   - [Notary Public in Lake Harmony, PA: Barbara Bittner](https://www.notarydepot.com/plumb54)
+  - [Notary Public in NJ: Michael Dow](https://www.notarydepot.com/plumber2030)
   - [Notary Public in Knightdale, NC: Precious Vines](https://www.notarydepot.com/plvines)
   - [Notary Public in Glendale, AZ: Dmitriy Binyaminov](https://www.notarydepot.com/plykak)
   - [Notary Public in Macomb, MI: Princess ](https://www.notarydepot.com/pmahabirmobilenotary)
@@ -7896,4 +7897,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-08-31T04:11:01Z
+Updated at 2018-08-31T04:31:02Z
