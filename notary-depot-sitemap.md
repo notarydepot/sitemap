@@ -5436,6 +5436,7 @@
   - [Notary Public in Palm Bay, FL: mark j. eden](https://www.notarydepot.com/mrbass111)
   - [Notary Public in Davenport, IA: Harlan Perry](https://www.notarydepot.com/mrbudget45)
   - [Notary Public in Danese, WV: Mary R. Carroll](https://www.notarydepot.com/mrcarroll)
+  - [Notary Public in Los Angeles, CA: Mauricio Ramos](https://www.notarydepot.com/mrfingerprints)
   - [Notary Public in Pensacola, FL: Marsha Glazier](https://www.notarydepot.com/mrglazier)
   - [Notary Public in Houston, TX: Marie Guidry](https://www.notarydepot.com/mrguidry)
   - [Notary Public in Atlanta, GA: Dayle A Hazel](https://www.notarydepot.com/mrhazel)
@@ -7894,4 +7895,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-01T00:31:02Z
+Updated at 2018-09-01T00:51:02Z
