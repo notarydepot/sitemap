@@ -712,6 +712,7 @@
     - [Notary Public in Venice, FL](https://www.notarydepot.com/notary-near-me/Florida/Venice)
     - [Notary Public in Vero Beach, FL](https://www.notarydepot.com/notary-near-me/Florida/Vero-Beach)
     - [Notary Public in Wesley Chapel, FL](https://www.notarydepot.com/notary-near-me/Florida/Wesley-Chapel)
+    - [Notary Public in West Melbourne, FL](https://www.notarydepot.com/notary-near-me/Florida/West-Melbourne)
     - [Notary Public in West Palm Beach, FL](https://www.notarydepot.com/notary-near-me/Florida/West-Palm-Beach)
     - [Notary Public in Winter Garden, FL](https://www.notarydepot.com/notary-near-me/Florida/Winter-Garden)
     - [Notary Public in Winter Haven, FL](https://www.notarydepot.com/notary-near-me/Florida/Winter-Haven)
@@ -3914,6 +3915,7 @@
   - [Notary Public in Pollock Pines, CA: Dawn Marie Hall](https://www.notarydepot.com/hallfamily99)
   - [Notary Public in Wichita Falls, TX: Hallmark Realtor Group and Notary Services](https://www.notarydepot.com/hallmarkrealtorgroup)
   - [Notary Public in Pahrump, NV: Denise Hall](https://www.notarydepot.com/hallsfast)
+  - [Notary Public in West Melbourne, FL: Heather Sandvick](https://www.notarydepot.com/hambamcam)
   - [Notary Public in Lake Elsinore, CA: nadia g tavakkoli](https://www.notarydepot.com/hamnad)
   - [Notary Public in Beaumont, TX: Hana Hamilton](https://www.notarydepot.com/hanahamilton95)
   - [Notary Public in Middleborough, MA: Hannah K Flamos](https://www.notarydepot.com/hannahkate9)
@@ -7896,4 +7898,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-04T14:11:02Z
+Updated at 2018-09-04T14:31:01Z
