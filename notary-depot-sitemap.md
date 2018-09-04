@@ -1059,7 +1059,6 @@
     - [Notary Public in Hingham, MA](https://www.notarydepot.com/notary-near-me/Massachusetts/Hingham)
     - [Notary Public in Holyoke, MA](https://www.notarydepot.com/notary-near-me/Massachusetts/Holyoke)
     - [Notary Public in Lawrence, MA](https://www.notarydepot.com/notary-near-me/Massachusetts/Lawrence)
-    - [Notary Public in Lowell, MA](https://www.notarydepot.com/notary-near-me/Massachusetts/Lowell)
     - [Notary Public in Middleborough, MA](https://www.notarydepot.com/notary-near-me/Massachusetts/Middleborough)
     - [Notary Public in Northborough, MA](https://www.notarydepot.com/notary-near-me/Massachusetts/Northborough)
     - [Notary Public in Pepperell, MA](https://www.notarydepot.com/notary-near-me/Massachusetts/Pepperell)
@@ -3522,7 +3521,7 @@
   - [Notary Public in Corona, CA: Debbie Dunham](https://www.notarydepot.com/dunhamd)
   - [Notary Public in El Dorado Hills, CA: Dustin Shea](https://www.notarydepot.com/dustinsea)
   - [Notary Public in Houston, TX: Deborah Bonner](https://www.notarydepot.com/dvncbonner)
-  - [Notary Public in Lowell, MA: Douglas E. Wiggins Jr.](https://www.notarydepot.com/dw978)
+  - [Notary Public in MA: Douglas E. Wiggins Jr.](https://www.notarydepot.com/dw978)
   - [Notary Public in Clintonville, WI: Donna Walton](https://www.notarydepot.com/dwalto01)
   - [Notary Public in Charleston, SC: Dawn Warnaar](https://www.notarydepot.com/dwarnaar)
   - [Notary Public in Bakersfield, CA: Denise A Wellborn](https://www.notarydepot.com/dwellborn)
@@ -7898,4 +7897,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-04T17:11:02Z
+Updated at 2018-09-04T17:31:02Z
