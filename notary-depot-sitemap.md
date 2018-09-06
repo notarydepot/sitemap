@@ -6624,7 +6624,7 @@
   - [Notary Public in Oklahoma City, OK: James E. Lloyd Iii](https://www.notarydepot.com/sooner310)
   - [Notary Public in San Diego, CA: Sophia Sanchez](https://www.notarydepot.com/sophiasan)
   - [Notary Public in Burlington, NJ: Yvette Ray](https://www.notarydepot.com/sotdl04)
-  - [Notary Public in Schwenksville, PA: Source One Auto Group, LLC](https://www.notarydepot.com/sourceoneautogroup)
+  - [Notary Public in Schwenksville, PA: MELANIE ALTEMUS](https://www.notarydepot.com/sourceoneautogroup)
   - [Notary Public in Torrance, CA: Steven Robledo](https://www.notarydepot.com/southbay_notary)
   - [Notary Public in Tampa, FL: Peter Cavalli, Mpa](https://www.notarydepot.com/southtampanotary)
   - [Notary Public in San Antonio, TX: Jessie Calderon](https://www.notarydepot.com/southtexasnotary)
@@ -7899,4 +7899,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-06T20:51:02Z
+Updated at 2018-09-06T21:11:02Z
