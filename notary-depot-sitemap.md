@@ -3393,6 +3393,7 @@
   - [Notary Public in Tolleson, AZ: Dina Schlosser](https://www.notarydepot.com/dinaschlosser)
   - [Notary Public in Jackson, NJ: Dineen M Iannice](https://www.notarydepot.com/dineen001)
   - [Notary Public in Brentwood, TN: Sorin Diosan](https://www.notarydepot.com/diotec)
+  - [Notary Public in Pleasanton, CA: Frederick Bandack](https://www.notarydepot.com/diplomaticone66)
   - [Notary Public in Denison, TX: Diane Ramey](https://www.notarydepot.com/diramey)
   - [Notary Public in Camp Hill, PA: Brandie Glass](https://www.notarydepot.com/distinguishednotarygmailcom)
   - [Notary Public in Philadelphia, PA: Dee](https://www.notarydepot.com/divadee)
@@ -7897,4 +7898,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-06T05:31:02Z
+Updated at 2018-09-06T05:51:02Z
