@@ -5915,6 +5915,7 @@
   - [Notary Public in Fresno, CA: Pahoua C. Lor](https://www.notarydepot.com/pclor22)
   - [Notary Public in Wylie, TX: Clay Mason](https://www.notarydepot.com/pcmason)
   - [Notary Public in Grand Blanc, MI: Pamela Dandachi](https://www.notarydepot.com/pdandachi)
+  - [Notary Public in Boynton Beach, FL: Patricia B Defreitas](https://www.notarydepot.com/pdefreitas)
   - [Notary Public in Benton Harbor, MI: Pam Dehring](https://www.notarydepot.com/pdehring)
   - [Notary Public in Quincy, FL: Priscilla McGriff](https://www.notarydepot.com/pdmcgriff)
   - [Notary Public in Baldwin, NY: Patrice Peterson](https://www.notarydepot.com/pdpnotaryservices)
@@ -7899,4 +7900,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-06T22:51:02Z
+Updated at 2018-09-06T23:11:02Z
