@@ -3197,6 +3197,7 @@
   - [Notary Public in Lewisville, TX: Cynthia R Thomas](https://www.notarydepot.com/cynthiathomas77)
   - [Notary Public in El Paso, TX: Cynthia Aleman](https://www.notarydepot.com/cynthia_aleman)
   - [Notary Public in Mandeville, LA: Chrissy Williams](https://www.notarydepot.com/cypressnotary)
+  - [Notary Public in Belleville, IL: Cynthia Smith](https://www.notarydepot.com/cysmith)
   - [Notary Public in Phoenix, AZ: Carmen Mingione](https://www.notarydepot.com/c_mingione)
   - [Notary Public in Indianapolis, IN: Damon A Bryant](https://www.notarydepot.com/dab1174)
   - [Notary Public in Delray Beach, FL: janina dabate](https://www.notarydepot.com/dabate12)
@@ -7898,4 +7899,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-06T09:31:01Z
+Updated at 2018-09-06T09:51:02Z
