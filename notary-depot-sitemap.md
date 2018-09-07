@@ -5651,6 +5651,7 @@
   - [Notary Public in Georgetown, TX: Sandra K. Collins](https://www.notarydepot.com/notary3040)
   - [Notary Public in Stockton, CA: Luis Castaneda](https://www.notarydepot.com/notary3122)
   - [Notary Public in Orlando, FL: Frances Garcia](https://www.notarydepot.com/notary32824)
+  - [Notary Public in Fairburn, GA: Dee Hill](https://www.notarydepot.com/notary357)
   - [Notary Public in Troy, MI: D McCaskill](https://www.notarydepot.com/notary365)
   - [Notary Public in Thousand Oaks, CA: Traci](https://www.notarydepot.com/notary4and2u)
   - [Notary Public in NY: Nyc Traveling Notary &amp; Apostille Service](https://www.notarydepot.com/notary4bp)
@@ -7900,4 +7901,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-07T17:31:02Z
+Updated at 2018-09-07T17:51:02Z
