@@ -2977,6 +2977,7 @@
   - [Notary Public in El Paso, TX: Jesus Mesta](https://www.notarydepot.com/chames)
   - [Notary Public in Katy, TX: Chandra Watson](https://www.notarydepot.com/chandrawatson)
   - [Notary Public in Miami Beach, FL: Chantal Murciano](https://www.notarydepot.com/chantalm1)
+  - [Notary Public in Jacksonville, FL: Polly Williams](https://www.notarydepot.com/chaplainnotary)
   - [Notary Public in Fort Worth, TX: Charlotte Baker](https://www.notarydepot.com/charbaker81)
   - [Notary Public in Erie, PA: Charlene J. Napierkowski](https://www.notarydepot.com/charcoal)
   - [Notary Public in Henderson, NV: Jennifer Irby, Cnsa](https://www.notarydepot.com/charismaticsigner)
@@ -7903,4 +7904,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-08T11:51:02Z
+Updated at 2018-09-08T12:11:02Z
