@@ -885,6 +885,7 @@
     - [Notary Public in Lafayette, IN](https://www.notarydepot.com/notary-near-me/Indiana/Lafayette)
     - [Notary Public in Lapel, IN](https://www.notarydepot.com/notary-near-me/Indiana/Lapel)
     - [Notary Public in Lawrenceburg, IN](https://www.notarydepot.com/notary-near-me/Indiana/Lawrenceburg)
+    - [Notary Public in Merrillville, IN](https://www.notarydepot.com/notary-near-me/Indiana/Merrillville)
     - [Notary Public in Middletown, IN](https://www.notarydepot.com/notary-near-me/Indiana/Middletown)
     - [Notary Public in Muncie, IN](https://www.notarydepot.com/notary-near-me/Indiana/Muncie)
     - [Notary Public in New Palestine, IN](https://www.notarydepot.com/notary-near-me/Indiana/New-Palestine)
@@ -3715,6 +3716,7 @@
   - [Notary Public in Santa Paula, CA: Jeff Carter](https://www.notarydepot.com/fireusar)
   - [Notary Public in Orangevale, CA: Rick Garces](https://www.notarydepot.com/fishhead)
   - [Notary Public in Panama City, FL: Candice Russell](https://www.notarydepot.com/fitpcchick)
+  - [Notary Public in Merrillville, IN: Falana Kidd](https://www.notarydepot.com/fkiddbowens)
   - [Notary Public in Flagstaff, AZ: Flagstaff Executive Courier](https://www.notarydepot.com/flagstaff)
   - [Notary Public in Miami, FL: Sabrina Sogbe](https://www.notarydepot.com/flanotary1)
   - [Notary Public in Menomonie, WI: Kyle Gregerson](https://www.notarydepot.com/flashlights)
@@ -7901,4 +7903,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-08T03:11:02Z
+Updated at 2018-09-08T03:31:02Z
