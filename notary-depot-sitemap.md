@@ -3732,7 +3732,7 @@
   - [Notary Public in Lakeland, FL: Mobile Florida Notary Service for Polk County](https://www.notarydepot.com/floridanotaryservice)
   - [Notary Public in Aberdeen, MD: Florence Rusche](https://www.notarydepot.com/flo_notary)
   - [Notary Public in Deltona, FL: Kelly Brill](https://www.notarydepot.com/flparalegal)
-  - [Notary Public in Fort Myers, FL: Landis Pettus, NNA Commissioned](https://www.notarydepot.com/flpremiernotary)
+  - [Notary Public in Fort Myers, FL: Landis Pettus, NNA Commissioned, NSA Certified](https://www.notarydepot.com/flpremiernotary)
   - [Notary Public in New York, NY: Florence](https://www.notarydepot.com/flrncwats)
   - [Notary Public in Great Falls, MT: Andrea Walsh-Dowell](https://www.notarydepot.com/fluffykarma)
   - [Notary Public in Dallas, TX: Felicia Young](https://www.notarydepot.com/flyoung)
@@ -7904,4 +7904,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-09T05:51:01Z
+Updated at 2018-09-09T06:11:01Z
