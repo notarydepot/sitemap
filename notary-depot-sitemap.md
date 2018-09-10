@@ -1825,6 +1825,7 @@
     - [Notary Public in Sisseton, SD](https://www.notarydepot.com/notary-near-me/South-Dakota/Sisseton)
     - [Notary Public in Wakonda, SD](https://www.notarydepot.com/notary-near-me/South-Dakota/Wakonda)
   - [Notaries Public in Tennessee](https://www.notarydepot.com/notary-near-me/Tennessee)
+    - [Notary Public in Apison, TN](https://www.notarydepot.com/notary-near-me/Tennessee/Apison)
     - [Notary Public in Arlington, TN](https://www.notarydepot.com/notary-near-me/Tennessee/Arlington)
     - [Notary Public in Bartlett, TN](https://www.notarydepot.com/notary-near-me/Tennessee/Bartlett)
     - [Notary Public in Bluff City, TN](https://www.notarydepot.com/notary-near-me/Tennessee/Bluff-City)
@@ -5571,6 +5572,7 @@
   - [Notary Public in Pahrump, NV: Amy Childress](https://www.notarydepot.com/nevadanotary)
   - [Notary Public in Los Angeles, CA: Monica Lambert](https://www.notarydepot.com/newday46_now)
   - [Notary Public in Concord, NC: Tiffany Newman](https://www.notarydepot.com/newmannotary)
+  - [Notary Public in Apison, TN: Teresa Lynne](https://www.notarydepot.com/newtonnotaryservice)
   - [Notary Public in Silver Spring, MD: Rosa Pichardo Ltp- NSA Mobile Notary Public](https://www.notarydepot.com/newventure)
   - [Notary Public in Odessa, NY: Irina Schmidt](https://www.notarydepot.com/newyorknotary)
   - [Notary Public in Baldwinsville, NY: Steven T. Milana](https://www.notarydepot.com/newyorknotaryyahoocom)
@@ -7904,4 +7906,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-10T14:31:02Z
+Updated at 2018-09-10T14:51:02Z
