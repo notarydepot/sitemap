@@ -131,6 +131,7 @@
     - [Notary Public in Rogers, AR](https://www.notarydepot.com/notary-near-me/Arkansas/Rogers)
     - [Notary Public in Russellville, AR](https://www.notarydepot.com/notary-near-me/Arkansas/Russellville)
     - [Notary Public in Siloam Springs, AR](https://www.notarydepot.com/notary-near-me/Arkansas/Siloam-Springs)
+    - [Notary Public in Springdale, AR](https://www.notarydepot.com/notary-near-me/Arkansas/Springdale)
     - [Notary Public in Texarkana, AR](https://www.notarydepot.com/notary-near-me/Arkansas/Texarkana)
     - [Notary Public in West Memphis, AR](https://www.notarydepot.com/notary-near-me/Arkansas/West-Memphis)
   - [Notaries Public in California](https://www.notarydepot.com/notary-near-me/California)
@@ -4104,6 +4105,7 @@
   - [Notary Public in Murrieta, CA: Cynthia/Ca](https://www.notarydepot.com/jamescy)
   - [Notary Public in McDonough, GA: Simone James](https://www.notarydepot.com/jamesmobilenotary)
   - [Notary Public in Bryceville, FL: James Ott](https://www.notarydepot.com/jamesott)
+  - [Notary Public in Springdale, AR: James R Latimer](https://www.notarydepot.com/jamesrlatimer)
   - [Notary Public in Colorado Springs, CO: James Runyon](https://www.notarydepot.com/jamesrunyon718)
   - [Notary Public in Kaysville, UT: James Lowery](https://www.notarydepot.com/jamesthenotary)
   - [Notary Public in Arkadelphia, AR: James Summerville](https://www.notarydepot.com/jamesummerville)
@@ -7906,4 +7908,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-11T02:31:02Z
+Updated at 2018-09-11T02:51:02Z
