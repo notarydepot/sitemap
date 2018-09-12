@@ -2017,6 +2017,7 @@
     - [Notary Public in Layton, UT](https://www.notarydepot.com/notary-near-me/Utah/Layton)
     - [Notary Public in Midvale, UT](https://www.notarydepot.com/notary-near-me/Utah/Midvale)
     - [Notary Public in Mona, UT](https://www.notarydepot.com/notary-near-me/Utah/Mona)
+    - [Notary Public in Murray, UT](https://www.notarydepot.com/notary-near-me/Utah/Murray)
     - [Notary Public in Orem, UT](https://www.notarydepot.com/notary-near-me/Utah/Orem)
     - [Notary Public in Price, UT](https://www.notarydepot.com/notary-near-me/Utah/Price)
     - [Notary Public in Salt Lake City, UT](https://www.notarydepot.com/notary-near-me/Utah/Salt-Lake-City)
@@ -6416,6 +6417,7 @@
   - [Notary Public in Pembroke Pines, FL: Scott Cutler](https://www.notarydepot.com/scottcutler)
   - [Notary Public in Lakewood, WA: Scott Kjendlie](https://www.notarydepot.com/scottkjendlie)
   - [Notary Public in Safety Harbor, FL: Scott Berman](https://www.notarydepot.com/scottsmobilenotary)
+  - [Notary Public in Murray, UT: Sandn Tratos](https://www.notarydepot.com/sctratos)
   - [Notary Public in Fishers, IN: Sherri L. Dabson](https://www.notarydepot.com/sdabson)
   - [Notary Public in Walterboro, SC: Sheri L DeFlorio](https://www.notarydepot.com/sdeflorio)
   - [Notary Public in West Palm Beach, FL: Steiman Desouvre](https://www.notarydepot.com/sdesouvre)
@@ -7908,4 +7910,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-12T01:31:02Z
+Updated at 2018-09-12T01:51:01Z
