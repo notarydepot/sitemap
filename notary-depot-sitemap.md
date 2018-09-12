@@ -1050,6 +1050,7 @@
     - [Notary Public in White Marsh, MD](https://www.notarydepot.com/notary-near-me/Maryland/White-Marsh)
   - [Notaries Public in Massachusetts](https://www.notarydepot.com/notary-near-me/Massachusetts)
     - [Notary Public in Andover, MA](https://www.notarydepot.com/notary-near-me/Massachusetts/Andover)
+    - [Notary Public in Ayer, MA](https://www.notarydepot.com/notary-near-me/Massachusetts/Ayer)
     - [Notary Public in Barnstable, MA](https://www.notarydepot.com/notary-near-me/Massachusetts/Barnstable)
     - [Notary Public in Boston, MA](https://www.notarydepot.com/notary-near-me/Massachusetts/Boston)
     - [Notary Public in Canton, MA](https://www.notarydepot.com/notary-near-me/Massachusetts/Canton)
@@ -4061,6 +4062,7 @@
   - [Notary Public in Scottsdale, AZ: Yana Morford](https://www.notarydepot.com/intervolga)
   - [Notary Public in Spokane, WA: Gina Cozza](https://www.notarydepot.com/invizbiz)
   - [Notary Public in Hazlet, NJ: Mary Kmiotek](https://www.notarydepot.com/ipaul23)
+  - [Notary Public in Ayer, MA: Korey Humphreys](https://www.notarydepot.com/ipsnotary)
   - [Notary Public in Odessa, NY: Irina Schmidt](https://www.notarydepot.com/irinaschmidt)
   - [Notary Public in American Canyon, CA: Anthony Fagen](https://www.notarydepot.com/irishrover94503)
   - [Notary Public in Hilton Head Island, SC: Ruqayyah Ar Raheem ](https://www.notarydepot.com/irisnotes007)
@@ -7910,4 +7912,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-12T21:11:01Z
+Updated at 2018-09-12T21:31:02Z
