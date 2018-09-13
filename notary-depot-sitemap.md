@@ -1089,7 +1089,6 @@
     - [Notary Public in Crystal Falls, MI](https://www.notarydepot.com/notary-near-me/Michigan/Crystal-Falls)
     - [Notary Public in Dearborn, MI](https://www.notarydepot.com/notary-near-me/Michigan/Dearborn)
     - [Notary Public in Detroit, MI](https://www.notarydepot.com/notary-near-me/Michigan/Detroit)
-    - [Notary Public in Dorr, MI](https://www.notarydepot.com/notary-near-me/Michigan/Dorr)
     - [Notary Public in Eastpointe, MI](https://www.notarydepot.com/notary-near-me/Michigan/Eastpointe)
     - [Notary Public in Farmington, MI](https://www.notarydepot.com/notary-near-me/Michigan/Farmington)
     - [Notary Public in Flint, MI](https://www.notarydepot.com/notary-near-me/Michigan/Flint)
@@ -2986,7 +2985,6 @@
   - [Notary Public in Erie, PA: Charlene J. Napierkowski](https://www.notarydepot.com/charcoal)
   - [Notary Public in Henderson, NV: Jennifer Irby, Cnsa](https://www.notarydepot.com/charismaticsigner)
   - [Notary Public in Wilmington, NC: Charlene M. Bradley](https://www.notarydepot.com/charleeb)
-  - [Notary Public in Dorr, MI: Charlene Hitchcock](https://www.notarydepot.com/charlenehitchcock)
   - [Notary Public in Atlanta, GA: Charlene Montgomery](https://www.notarydepot.com/charlenem1212)
   - [Notary Public in Seville, FL: Charles D. Rivers](https://www.notarydepot.com/charlesdrivers)
   - [Notary Public in Libby, MT: Sindy Filler](https://www.notarydepot.com/charlotica74)
@@ -7913,4 +7911,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-13T03:51:02Z
+Updated at 2018-09-13T04:11:02Z
