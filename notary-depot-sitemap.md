@@ -6370,6 +6370,7 @@
   - [Notary Public in Langhorne, PA: Sandra J. Pugliese](https://www.notarydepot.com/sandypa)
   - [Notary Public in Tarpon Springs, FL: Sandy Supanik](https://www.notarydepot.com/sandysupanik)
   - [Notary Public in Capitol Heights, MD: Sanita Battle](https://www.notarydepot.com/sanitabattle)
+  - [Notary Public in Irvine, CA: Sandy Yuen](https://www.notarydepot.com/sannotaryirvine)
   - [Notary Public in Santa Clara, CA: Dmitriy Skornyakov Certified Signing Agent](https://www.notarydepot.com/santaclaranotary)
   - [Notary Public in Santa Rosa, CA: Michael Boler](https://www.notarydepot.com/santarosamobilenotary)
   - [Notary Public in Middletown, OH: Gary Boehm](https://www.notarydepot.com/saonenotary)
@@ -7912,4 +7913,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-13T19:31:02Z
+Updated at 2018-09-13T19:51:02Z
