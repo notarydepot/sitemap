@@ -4600,6 +4600,7 @@
   - [Notary Public in Pomona, CA: Kelly Shah](https://www.notarydepot.com/kellyshah)
   - [Notary Public in San Antonio, TX: Ms. Kelly Spicer](https://www.notarydepot.com/kellyspicer)
   - [Notary Public in Okanogan, WA: Kelly Townsend](https://www.notarydepot.com/kellytownsend3)
+  - [Notary Public in Las Vegas, NV: Kelvie (Stamm) Shelton](https://www.notarydepot.com/kelviemalia)
   - [Notary Public in San Ramon, CA: Kemi Onifade](https://www.notarydepot.com/kemsho)
   - [Notary Public in Leesburg, VA: Kenan Goeller](https://www.notarydepot.com/kenan)
   - [Notary Public in Las Vegas, NV: Kendra Doyle](https://www.notarydepot.com/kendradoyle)
@@ -7912,4 +7913,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-13T00:31:02Z
+Updated at 2018-09-13T00:51:02Z
