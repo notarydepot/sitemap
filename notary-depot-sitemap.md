@@ -6862,6 +6862,7 @@
   - [Notary Public in St. Louis, MO: Leonard Hines](https://www.notarydepot.com/theeye)
   - [Notary Public in North Charleston, SC: Derrick Reese](https://www.notarydepot.com/thefactor)
   - [Notary Public in Niceville, FL: Brit Fidler](https://www.notarydepot.com/thefidler)
+  - [Notary Public in Flower Mound, TX: Reggie Osborne](https://www.notarydepot.com/thegoat68)
   - [Notary Public in Decatur, GA: Aaron Murrell](https://www.notarydepot.com/theloanarranger)
   - [Notary Public in Colton, CA: Renee Luckey](https://www.notarydepot.com/theluckeynotary)
   - [Notary Public in Anaheim, CA: Jesus Valdez Cebillos](https://www.notarydepot.com/themailroom)
@@ -7911,4 +7912,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-13T12:11:02Z
+Updated at 2018-09-13T12:31:02Z
