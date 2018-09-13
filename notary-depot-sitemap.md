@@ -7019,7 +7019,7 @@
   - [Notary Public in Arlington, VA: Dastagir Jahangir](https://www.notarydepot.com/tugril)
   - [Notary Public in Myerstown, PA: Tulpy Tax &amp; Tags](https://www.notarydepot.com/tulpytags)
   - [Notary Public in Tulsa, OK: Phyllis Moore, U. S. Notary Public](https://www.notarydepot.com/tulsanotary)
-  - [Notary Public in Anchorage, AK: Minnie OConnor](https://www.notarydepot.com/tundrades3)
+  - [Notary Public in Anchorage, AK: Desmond OConnor](https://www.notarydepot.com/tundrades3)
   - [Notary Public in NY: Gershom Mahon](https://www.notarydepot.com/turkey)
   - [Notary Public in NY: Gershom Mahon](https://www.notarydepot.com/turkeyne)
   - [Notary Public in Lynden, WA: Evelyn M Turner](https://www.notarydepot.com/turnerevelyn)
@@ -7911,4 +7911,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-13T09:31:02Z
+Updated at 2018-09-13T09:51:01Z
