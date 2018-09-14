@@ -6819,6 +6819,7 @@
   - [Notary Public in Elk Grove, CA: Tonya Correa](https://www.notarydepot.com/tcorrea)
   - [Notary Public in Paducah, KY: Teresa E Dawes](https://www.notarydepot.com/tdawes)
   - [Notary Public in CA: Taylor Jo Demorest](https://www.notarydepot.com/tdemorest)
+  - [Notary Public in Fair Oaks, CA: Theresa Leite](https://www.notarydepot.com/tdleite)
   - [Notary Public in Garner, NC: Theresa Dotson](https://www.notarydepot.com/tdotson)
   - [Notary Public in Quincy, CA: Traci M. Downey](https://www.notarydepot.com/tdowney)
   - [Notary Public in Tucson, AZ: Tia Peterson](https://www.notarydepot.com/tdpeterson)
@@ -7913,4 +7914,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-14T02:31:02Z
+Updated at 2018-09-14T02:51:02Z
