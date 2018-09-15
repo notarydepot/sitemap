@@ -6766,6 +6766,7 @@
   - [Notary Public in Oakboro, NC: Suzanne Whealan](https://www.notarydepot.com/swhealan)
   - [Notary Public in Santa Maria, CA: Stacey Wied ](https://www.notarydepot.com/swiednotary)
   - [Notary Public in San Diego, CA: Patrick J. Swies](https://www.notarydepot.com/swiesnotary)
+  - [Notary Public in Chino Hills, CA: Christen Peyjen Ho](https://www.notarydepot.com/swiftelite)
   - [Notary Public in Hampton, VA: Sara Williams](https://www.notarydepot.com/swilliams)
   - [Notary Public in Santa Fe, NM: Judy Sparks](https://www.notarydepot.com/swnotary)
   - [Notary Public in Raleigh, NC: Shirley Parker](https://www.notarydepot.com/swparker)
@@ -7914,4 +7915,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-15T00:11:02Z
+Updated at 2018-09-15T00:31:03Z
