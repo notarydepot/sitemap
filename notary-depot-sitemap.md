@@ -888,6 +888,7 @@
     - [Notary Public in Lawrenceburg, IN](https://www.notarydepot.com/notary-near-me/Indiana/Lawrenceburg)
     - [Notary Public in Merrillville, IN](https://www.notarydepot.com/notary-near-me/Indiana/Merrillville)
     - [Notary Public in Middletown, IN](https://www.notarydepot.com/notary-near-me/Indiana/Middletown)
+    - [Notary Public in Mishawaka, IN](https://www.notarydepot.com/notary-near-me/Indiana/Mishawaka)
     - [Notary Public in Muncie, IN](https://www.notarydepot.com/notary-near-me/Indiana/Muncie)
     - [Notary Public in New Palestine, IN](https://www.notarydepot.com/notary-near-me/Indiana/New-Palestine)
     - [Notary Public in Newburgh, IN](https://www.notarydepot.com/notary-near-me/Indiana/Newburgh)
@@ -2554,6 +2555,7 @@
   - [Notary Public in Stone Mountain, GA: Alice Artis-LaBorn](https://www.notarydepot.com/artislaborn)
   - [Notary Public in Paoli, PA: Arthur M Rosenbaum](https://www.notarydepot.com/artrose)
   - [Notary Public in Dallas, TX: Saheed Aiyeojenku](https://www.notarydepot.com/asaheed)
+  - [Notary Public in Mishawaka, IN: Ahmed Said](https://www.notarydepot.com/asaid)
   - [Notary Public in San Fernando, CA: Maria Diaz](https://www.notarydepot.com/asapnotary)
   - [Notary Public in Atlanta, GA: Eric McLean](https://www.notarydepot.com/asapnote)
   - [Notary Public in Stone Mountain, GA: Asap Professional Services](https://www.notarydepot.com/asapproservices)
@@ -7919,4 +7921,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-16T05:31:02Z
+Updated at 2018-09-16T05:51:02Z
