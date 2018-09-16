@@ -1768,6 +1768,7 @@
     - [Notary Public in Stroudsburg, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Stroudsburg)
     - [Notary Public in Sunbury, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Sunbury)
     - [Notary Public in Tamaqua, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Tamaqua)
+    - [Notary Public in Taylor, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Taylor)
     - [Notary Public in Tobyhanna, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Tobyhanna)
     - [Notary Public in Towanda, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Towanda)
     - [Notary Public in Trout Run, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Trout-Run)
@@ -3531,6 +3532,7 @@
   - [Notary Public in MA: Douglas E. Wiggins Jr.](https://www.notarydepot.com/dw978)
   - [Notary Public in Clintonville, WI: Donna Walton](https://www.notarydepot.com/dwalto01)
   - [Notary Public in Charleston, SC: Dawn Warnaar](https://www.notarydepot.com/dwarnaar)
+  - [Notary Public in Taylor, PA: Donna](https://www.notarydepot.com/dwartella507)
   - [Notary Public in Bakersfield, CA: Denise A Wellborn](https://www.notarydepot.com/dwellborn)
   - [Notary Public in Waldorf, MD: Donyelle Wester](https://www.notarydepot.com/dwester)
   - [Notary Public in Middleburg, FL: David W. Foret Sr.](https://www.notarydepot.com/dwforet)
@@ -7917,4 +7919,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-16T01:31:02Z
+Updated at 2018-09-16T01:51:02Z
