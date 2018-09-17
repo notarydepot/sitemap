@@ -5759,6 +5759,7 @@
   - [Notary Public in Knoxville, TN: Kurt Gross](https://www.notarydepot.com/notarypublictn)
   - [Notary Public in Los Angeles, CA: Powell Okpara](https://www.notarydepot.com/notarypublic_ronaldreganbuilding)
   - [Notary Public in San Antonio, TX: Robert Marin](https://www.notarydepot.com/notaryrob1800)
+  - [Notary Public in Oxnard, CA: Sonya Root](https://www.notarydepot.com/notaryroot)
   - [Notary Public in San Clemente, CA: Louis Pescarmona](https://www.notarydepot.com/notaryrunner)
   - [Notary Public in Los Angeles, CA: Mobile Notarys ________ Available ________ 24-Hrs](https://www.notarydepot.com/notarys1)
   - [Notary Public in Walnut, CA: Alyssia Grigsby](https://www.notarydepot.com/notarys2go)
@@ -7923,4 +7924,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-17T21:31:03Z
+Updated at 2018-09-17T21:51:02Z
