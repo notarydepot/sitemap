@@ -996,6 +996,7 @@
     - [Notary Public in Bangor, ME](https://www.notarydepot.com/notary-near-me/Maine/Bangor)
     - [Notary Public in Boothbay Harbor, ME](https://www.notarydepot.com/notary-near-me/Maine/Boothbay-Harbor)
     - [Notary Public in Brewer, ME](https://www.notarydepot.com/notary-near-me/Maine/Brewer)
+    - [Notary Public in Limington, ME](https://www.notarydepot.com/notary-near-me/Maine/Limington)
     - [Notary Public in North Berwick, ME](https://www.notarydepot.com/notary-near-me/Maine/North-Berwick)
     - [Notary Public in South Berwick, ME](https://www.notarydepot.com/notary-near-me/Maine/South-Berwick)
     - [Notary Public in South Portland, ME](https://www.notarydepot.com/notary-near-me/Maine/South-Portland)
@@ -5193,6 +5194,7 @@
   - [Notary Public in Warwick, RI: Michele Capelli](https://www.notarydepot.com/mcapelli66)
   - [Notary Public in Mission Viejo, CA: Mike Cardan](https://www.notarydepot.com/mcardan)
   - [Notary Public in Shepherd, TX: Megan Bailey](https://www.notarydepot.com/mcbailey1646)
+  - [Notary Public in Limington, ME: Bonnie McCarthy](https://www.notarydepot.com/mccarthynotary)
   - [Notary Public in Los Angeles, CA: Keith McGruder](https://www.notarydepot.com/mcgruder)
   - [Notary Public in Apopka, FL: Melanie J Wise](https://www.notarydepot.com/mchinadoll)
   - [Notary Public in Apollo Beach, FL: Melissa Christenson](https://www.notarydepot.com/mchristenson1)
@@ -7921,4 +7923,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-17T19:51:02Z
+Updated at 2018-09-17T20:11:01Z
