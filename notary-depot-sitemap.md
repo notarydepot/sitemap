@@ -2453,6 +2453,7 @@
   - [Notary Public in Round Rock, TX: Amy L. Kondrath](https://www.notarydepot.com/amykondrath)
   - [Notary Public in Dublin, CA: Amy Lin](https://www.notarydepot.com/amynotary)
   - [Notary Public in Biloxi, MS: Amy Olier](https://www.notarydepot.com/amyolier)
+  - [Notary Public in Dallas, TX: Amy Rosas](https://www.notarydepot.com/amyrosas)
   - [Notary Public in Hudson, NC: Amy Sullivan](https://www.notarydepot.com/amyvargas)
   - [Notary Public in New Carlisle, OH: Amy Wollenhaupt](https://www.notarydepot.com/amyw)
   - [Notary Public in Paso Robles, CA: Amy Wilson](https://www.notarydepot.com/amywilsonnotary)
@@ -7924,4 +7925,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-18T17:11:02Z
+Updated at 2018-09-18T17:31:02Z
