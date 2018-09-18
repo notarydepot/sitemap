@@ -6053,7 +6053,7 @@
   - [Notary Public in Greenwood, MO: Phillip D Thompson](https://www.notarydepot.com/pthompson54)
   - [Notary Public in Schertz, TX: Phyllis E. Traylor](https://www.notarydepot.com/ptraylor)
   - [Notary Public in Houston, TX: Ojay Grace](https://www.notarydepot.com/ptsouthwest)
-  - [Notary Public in Las Vegas, NV: Patricia Love](https://www.notarydepot.com/pttylv)
+  - [Notary Public in North Las Vegas, NV: Patricia Love](https://www.notarydepot.com/pttylv)
   - [Notary Public in Henderson, KY: Robin Pugh](https://www.notarydepot.com/pughy2003)
   - [Notary Public in Victorville, CA: Barbara Engen](https://www.notarydepot.com/pumpkin)
   - [Notary Public in Corpus Christi, TX: Punky Juarez](https://www.notarydepot.com/punkyjuarez)
@@ -7924,4 +7924,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-18T15:31:02Z
+Updated at 2018-09-18T15:51:02Z
