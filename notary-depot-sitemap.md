@@ -5514,6 +5514,7 @@
   - [Notary Public in Seattle, WA: Melissa Winters](https://www.notarydepot.com/mwinters)
   - [Notary Public in Bothell, WA: Chris White](https://www.notarydepot.com/mwnotarypublic)
   - [Notary Public in Fredericksburg, VA: Luz A Gonzalez (Lucy)](https://www.notarydepot.com/my1notary)
+  - [Notary Public in Clarksville, TN: Markel D Murrell](https://www.notarydepot.com/mychankel1969)
   - [Notary Public in Rock Hill, SC: Portia M Brown](https://www.notarydepot.com/myersp2)
   - [Notary Public in Miami, FL: Vandetta Thomas](https://www.notarydepot.com/myjosie5)
   - [Notary Public in Cedar Hill, TX: Janice  Adger](https://www.notarydepot.com/mynotaree1)
@@ -7926,4 +7927,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-19T03:51:02Z
+Updated at 2018-09-19T04:11:02Z
