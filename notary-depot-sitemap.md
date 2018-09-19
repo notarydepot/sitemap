@@ -5789,7 +5789,7 @@
   - [Notary Public in La Puente, CA: Violet Navarrete](https://www.notarydepot.com/notaryviolet)
   - [Notary Public in Menifee, CA: Rhonda L. S. Yadao](https://www.notarydepot.com/notarywithaloha)
   - [Notary Public in Crystal Lake, IL: Maija Steele](https://www.notarydepot.com/notarywithwheels)
-  - [Notary Public in Lithonia, GA: Saundra D. Echols](https://www.notarydepot.com/notarywoman)
+  - [Notary Public in Atlanta, GA: Saundra D. Echols](https://www.notarydepot.com/notarywoman)
   - [Notary Public in San Jose, CA: Raj Singh](https://www.notarydepot.com/notary_2004)
   - [Notary Public in Nashville, TN: Cherry Reve-Vidiaux](https://www.notarydepot.com/notary_at_ceonetwork)
   - [Notary Public in San Ramon, CA: Olin H. Covington dba Notary To Go](https://www.notarydepot.com/notary_to_go)
@@ -7927,4 +7927,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-19T16:11:01Z
+Updated at 2018-09-19T16:31:02Z
