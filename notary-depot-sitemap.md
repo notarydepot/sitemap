@@ -77,6 +77,7 @@
     - [Notary Public in Anchorage, AK](https://www.notarydepot.com/notary-near-me/Alaska/Anchorage)
     - [Notary Public in Fairbanks, AK](https://www.notarydepot.com/notary-near-me/Alaska/Fairbanks)
   - [Notaries Public in Arizona](https://www.notarydepot.com/notary-near-me/Arizona)
+    - [Notary Public in Avondale, AZ](https://www.notarydepot.com/notary-near-me/Arizona/Avondale)
     - [Notary Public in Buckeye, AZ](https://www.notarydepot.com/notary-near-me/Arizona/Buckeye)
     - [Notary Public in Chandler, AZ](https://www.notarydepot.com/notary-near-me/Arizona/Chandler)
     - [Notary Public in Chino Valley, AZ](https://www.notarydepot.com/notary-near-me/Arizona/Chino-Valley)
@@ -6090,6 +6091,7 @@
   - [Notary Public in Stillwater, MN: Rachael Harvey](https://www.notarydepot.com/rachael1952)
   - [Notary Public in Bristow, VA: Rachael Bacon](https://www.notarydepot.com/rachaelbacon)
   - [Notary Public in Palmdale, CA: Rachel Pena](https://www.notarydepot.com/rachelpena)
+  - [Notary Public in Avondale, AZ: Rachel](https://www.notarydepot.com/rachelstellarnotary)
   - [Notary Public in Wallingford, CT: Richard Claxton](https://www.notarydepot.com/raclaxton1)
   - [Notary Public in Grand Prairie, TX: Rachael Howell](https://www.notarydepot.com/raehowell)
   - [Notary Public in Miami, FL: Ashley Ragin](https://www.notarydepot.com/ragin84)
@@ -7928,4 +7930,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-19T19:51:01Z
+Updated at 2018-09-19T20:11:02Z
