@@ -6816,6 +6816,7 @@
   - [Notary Public in Crestview, FL: Tanya Rivera](https://www.notarydepot.com/tanyanadam)
   - [Notary Public in Providence, RI: Tara Latimer](https://www.notarydepot.com/taramobile)
   - [Notary Public in Galax, VA: Trina Miller](https://www.notarydepot.com/tarielm09)
+  - [Notary Public in Bridgeport, CT: Tasha Brown](https://www.notarydepot.com/tashabrown21414)
   - [Notary Public in Bound Brook, NJ: Tasheemah Johnson](https://www.notarydepot.com/tasheemah1)
   - [Notary Public in Bridgeport, CT: Tasha Brown](https://www.notarydepot.com/tashgirl226)
   - [Notary Public in Johnston, SC: Tashia Jackson](https://www.notarydepot.com/tashia)
@@ -7930,4 +7931,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-20T15:31:02Z
+Updated at 2018-09-20T15:51:01Z
