@@ -6092,7 +6092,7 @@
   - [Notary Public in Stillwater, MN: Rachael Harvey](https://www.notarydepot.com/rachael1952)
   - [Notary Public in Bristow, VA: Rachael Bacon](https://www.notarydepot.com/rachaelbacon)
   - [Notary Public in Palmdale, CA: Rachel Pena](https://www.notarydepot.com/rachelpena)
-  - [Notary Public in Avondale, AZ: Rachel](https://www.notarydepot.com/rachelstellarnotary)
+  - [Notary Public in Avondale, AZ: Rachel Cruz](https://www.notarydepot.com/rachelstellarnotaryandloansigningcom)
   - [Notary Public in Wallingford, CT: Richard Claxton](https://www.notarydepot.com/raclaxton1)
   - [Notary Public in Grand Prairie, TX: Rachael Howell](https://www.notarydepot.com/raehowell)
   - [Notary Public in Miami, FL: Ashley Ragin](https://www.notarydepot.com/ragin84)
@@ -7932,4 +7932,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-21T02:51:02Z
+Updated at 2018-09-21T03:11:02Z
