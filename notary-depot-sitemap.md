@@ -3466,7 +3466,7 @@
   - [Notary Public in Richmond, VA: Sylvia B. Jones](https://www.notarydepot.com/domono)
   - [Notary Public in PA: Donna L Glass](https://www.notarydepot.com/donaglass)
   - [Notary Public in Mesa, AZ: Nathan Moody](https://www.notarydepot.com/donerightdocs)
-  - [Notary Public in Belleville, IL: CYNTHIA](https://www.notarydepot.com/donewritenotary)
+  - [Notary Public in Belleville, IL: CYNTHIA SMITH](https://www.notarydepot.com/donewritenotary)
   - [Notary Public in Jacksonville, FL: Donica Hemmings](https://www.notarydepot.com/donica03)
   - [Notary Public in San Ramon, CA: Donna Fabian](https://www.notarydepot.com/donnafabian)
   - [Notary Public in Lakeland, FL: Donna Fleming](https://www.notarydepot.com/donnafleming)
@@ -7929,4 +7929,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-21T18:31:01Z
+Updated at 2018-09-21T18:51:02Z
