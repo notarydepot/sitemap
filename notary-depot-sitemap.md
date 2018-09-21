@@ -716,6 +716,7 @@
     - [Notary Public in Wesley Chapel, FL](https://www.notarydepot.com/notary-near-me/Florida/Wesley-Chapel)
     - [Notary Public in West Melbourne, FL](https://www.notarydepot.com/notary-near-me/Florida/West-Melbourne)
     - [Notary Public in West Palm Beach, FL](https://www.notarydepot.com/notary-near-me/Florida/West-Palm-Beach)
+    - [Notary Public in Weston, FL](https://www.notarydepot.com/notary-near-me/Florida/Weston)
     - [Notary Public in Winter Garden, FL](https://www.notarydepot.com/notary-near-me/Florida/Winter-Garden)
     - [Notary Public in Winter Haven, FL](https://www.notarydepot.com/notary-near-me/Florida/Winter-Haven)
     - [Notary Public in Winter Springs, FL](https://www.notarydepot.com/notary-near-me/Florida/Winter-Springs)
@@ -4381,6 +4382,7 @@
   - [Notary Public in Harrisburg, PA: Joel Vargas](https://www.notarydepot.com/joelvargaspanotary)
   - [Notary Public in San Ramon, CA: Joseph Noon](https://www.notarydepot.com/joenoon)
   - [Notary Public in Anaheim, CA: Johanna DeWitt](https://www.notarydepot.com/johannadewitt)
+  - [Notary Public in Weston, FL: Johanna Garcia](https://www.notarydepot.com/johannanotarygmailcom)
   - [Notary Public in Orangevale, CA: John L Savage](https://www.notarydepot.com/johannes6)
   - [Notary Public in Macon, GA: Johnny Mullis](https://www.notarydepot.com/johnboy1983)
   - [Notary Public in Missouri City, TX: Johnnie Moutra Jr](https://www.notarydepot.com/johnclutch222)
@@ -7929,4 +7931,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-21T21:31:01Z
+Updated at 2018-09-21T21:51:02Z
