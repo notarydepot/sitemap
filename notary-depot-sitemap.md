@@ -4393,7 +4393,6 @@
   - [Notary Public in Cape Coral, FL: Jacklin Johns, Licensed Title Producer](https://www.notarydepot.com/johns)
   - [Notary Public in Fort Worth, TX: Otis](https://www.notarydepot.com/johnson)
   - [Notary Public in Independence, MO: John Strapac](https://www.notarydepot.com/johnstrapac)
-  - [Notary Public in Milton, FL: John Martin](https://www.notarydepot.com/johntmartin)
   - [Notary Public in San Francisco, CA: John Wong](https://www.notarydepot.com/johnwong)
   - [Notary Public in Fresno, CA: John Yang](https://www.notarydepot.com/johnyangmobilenotary)
   - [Notary Public in St. Louis, MO: Jo A. Howard](https://www.notarydepot.com/johoward)
@@ -4465,7 +4464,6 @@
   - [Notary Public in Highland, CA: Jennifer R. Teames](https://www.notarydepot.com/jteames)
   - [Notary Public in Phoenix, AZ: Jennifer Thistel](https://www.notarydepot.com/jthistel)
   - [Notary Public in Lake Saint Louis, MO: Jerry O Thompson](https://www.notarydepot.com/jthompson)
-  - [Notary Public in Milton, FL: John Martin](https://www.notarydepot.com/jtmartin)
   - [Notary Public in East Stroudsburg, PA: Jennifer Valedofsky](https://www.notarydepot.com/jtvale)
   - [Notary Public in Randolph, NY: Judith Korff](https://www.notarydepot.com/judith_ny)
   - [Notary Public in South Elgin, IL: Judith Ann Berlin](https://www.notarydepot.com/judy)
@@ -6470,7 +6468,6 @@
   - [Notary Public in Emeryville, CA: Mohammad Malek](https://www.notarydepot.com/shahaib)
   - [Notary Public in Mesquite, TX: Ashish Alexander](https://www.notarydepot.com/shalom7784)
   - [Notary Public in Jurupa Valley, CA: S. Tracey](https://www.notarydepot.com/shalondat34)
-  - [Notary Public in Milton, FL: Shana Martin](https://www.notarydepot.com/shanamartin0322)
   - [Notary Public in Chicago, IL: Shanetra Wilson](https://www.notarydepot.com/shanetrawilson)
   - [Notary Public in Miami Gardens, FL: shania hall](https://www.notarydepot.com/shaniajam)
   - [Notary Public in Woodbridge, VA: Shanitra Johnson](https://www.notarydepot.com/shanitra_johnson)
@@ -7932,4 +7929,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-21T03:51:02Z
+Updated at 2018-09-21T04:11:02Z
