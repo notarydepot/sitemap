@@ -3626,7 +3626,6 @@
   - [Notary Public in Baytown, TX: Elon Green](https://www.notarydepot.com/ellie7991)
   - [Notary Public in Aguanga, CA: E. Louise Ceccarelli](https://www.notarydepot.com/elouisec)
   - [Notary Public in Holly, MI: Erika Pezold](https://www.notarydepot.com/elp1234)
-  - [Notary Public in Brighton, CO: Eric Alejandro Zimmermann Luja](https://www.notarydepot.com/elweko)
   - [Notary Public in Tustin, CA: Liz Bissell](https://www.notarydepot.com/elzbthn1)
   - [Notary Public in Islamorada, FL: P. Lindsay Prayne-Zuluaga](https://www.notarydepot.com/elzulu)
   - [Notary Public in Kansas City, MO: L. Denise Thomas](https://www.notarydepot.com/emahni88)
@@ -3772,6 +3771,7 @@
   - [Notary Public in Flowery Branch, GA: Fredia Rebecca Poss](https://www.notarydepot.com/frediap)
   - [Notary Public in Yarmouth, ME: Fred Richards](https://www.notarydepot.com/fredrich)
   - [Notary Public in Trenton, NJ: Melody P Freeman](https://www.notarydepot.com/freemanmel)
+  - [Notary Public in Port Hueneme, CA: Simone Lewis](https://www.notarydepot.com/frenchie)
   - [Notary Public in Canton, GA: Milton Nolen](https://www.notarydepot.com/freshvision)
   - [Notary Public in Clearwater, FL: Robert Charles](https://www.notarydepot.com/fritz8)
   - [Notary Public in Fort Lauderdale, FL: Kenya Frost](https://www.notarydepot.com/frostkenya)
@@ -7935,4 +7935,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-24T22:31:01Z
+Updated at 2018-09-24T22:51:02Z
