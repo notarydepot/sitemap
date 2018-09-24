@@ -3107,6 +3107,7 @@
   - [Notary Public in Sierra Vista, AZ: Cody Ryan](https://www.notarydepot.com/codyryan)
   - [Notary Public in Charlotte, NC: Theodore](https://www.notarydepot.com/cogginsgroup)
   - [Notary Public in Henrico, VA: Cynthia L. Radford](https://www.notarydepot.com/cole8488)
+  - [Notary Public in Reno, NV: Coleen Black](https://www.notarydepot.com/coleenblack)
   - [Notary Public in Indianapolis, IN: Kyle [Kee-Lee] Inez Cole](https://www.notarydepot.com/colefolk)
   - [Notary Public in Northglenn, CO: Kim Coleman](https://www.notarydepot.com/colemakr)
   - [Notary Public in Oakland, CA: Joanna M Cole, Notary Public](https://www.notarydepot.com/colesigningagent)
@@ -7932,4 +7933,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-24T10:31:02Z
+Updated at 2018-09-24T10:51:01Z
