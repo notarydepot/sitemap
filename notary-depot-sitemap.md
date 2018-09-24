@@ -1181,6 +1181,7 @@
     - [Notary Public in Lucedale, MS](https://www.notarydepot.com/notary-near-me/Mississippi/Lucedale)
     - [Notary Public in Madison, MS](https://www.notarydepot.com/notary-near-me/Mississippi/Madison)
     - [Notary Public in Meridian, MS](https://www.notarydepot.com/notary-near-me/Mississippi/Meridian)
+    - [Notary Public in Merigold, MS](https://www.notarydepot.com/notary-near-me/Mississippi/Merigold)
     - [Notary Public in Moss Point, MS](https://www.notarydepot.com/notary-near-me/Mississippi/Moss-Point)
     - [Notary Public in Ocean Springs, MS](https://www.notarydepot.com/notary-near-me/Mississippi/Ocean-Springs)
     - [Notary Public in Olive Branch, MS](https://www.notarydepot.com/notary-near-me/Mississippi/Olive-Branch)
@@ -2549,6 +2550,7 @@
   - [Notary Public in Lake Mary, FL: Arilee Rivera](https://www.notarydepot.com/arilee)
   - [Notary Public in Sapulpa, OK: Arlanda F. Smith](https://www.notarydepot.com/arlandasmith)
   - [Notary Public in Massapequa Park, NY: Arlene Mazzola](https://www.notarydepot.com/armazz)
+  - [Notary Public in Merigold, MS: Aneika Moore](https://www.notarydepot.com/armoore)
   - [Notary Public in Floresville, TX: Faye Taylor](https://www.notarydepot.com/arnionmobile)
   - [Notary Public in La Mirada, CA: Alma Rosales](https://www.notarydepot.com/arnotary77)
   - [Notary Public in Richmond, VA: Lora L. Worsley](https://www.notarydepot.com/arolmyk)
@@ -7933,4 +7935,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-24T17:31:02Z
+Updated at 2018-09-24T17:51:02Z
