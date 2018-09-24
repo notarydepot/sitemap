@@ -4535,6 +4535,7 @@
   - [Notary Public in Absecon, NJ: Karen Ganey](https://www.notarydepot.com/karenjill)
   - [Notary Public in White Plains, NY: Karen Morra Mesh](https://www.notarydepot.com/karenmesh)
   - [Notary Public in Alvarado, TX: Karen Nolt](https://www.notarydepot.com/karenwho)
+  - [Notary Public in Lubbock, TX: Kristy Ariaz](https://www.notarydepot.com/kariaz)
   - [Notary Public in Urbandale, IA: Kari Fitzgerrell](https://www.notarydepot.com/karikat)
   - [Notary Public in Coarsegold, CA: Kari Von Wagner](https://www.notarydepot.com/karistonge)
   - [Notary Public in CA: Karla Jaffe](https://www.notarydepot.com/karlacanotary)
@@ -7931,4 +7932,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-24T04:51:02Z
+Updated at 2018-09-24T05:11:02Z
