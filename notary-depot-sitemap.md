@@ -1326,6 +1326,7 @@
     - [Notary Public in Linwood, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Linwood)
     - [Notary Public in Livingston, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Livingston)
     - [Notary Public in Mahwah, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Mahwah)
+    - [Notary Public in Manasquan, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Manasquan)
     - [Notary Public in Manchester Township, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Manchester-Township)
     - [Notary Public in Manville, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Manville)
     - [Notary Public in Matawan, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Matawan)
@@ -6733,6 +6734,7 @@
   - [Notary Public in Los Angeles, CA: Stephen McClure](https://www.notarydepot.com/steve68)
   - [Notary Public in Northville, MI: Stephen Mackenzie](https://www.notarydepot.com/steveandjo1)
   - [Notary Public in Austin, TX: Steven B Merrick](https://www.notarydepot.com/stevenbmerrick)
+  - [Notary Public in Manasquan, NJ: Susan Tinacci](https://www.notarydepot.com/stinacci)
   - [Notary Public in La Vergne, TN: Sheila Thatcher](https://www.notarydepot.com/stnotary)
   - [Notary Public in West Chazy, NY: Carrie H. Stone](https://www.notarydepot.com/stoner)
   - [Notary Public in Albany, OR: Dave Reddington](https://www.notarydepot.com/store3044)
@@ -7934,4 +7936,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-26T00:11:02Z
+Updated at 2018-09-26T00:31:02Z
