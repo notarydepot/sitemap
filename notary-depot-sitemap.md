@@ -2488,6 +2488,7 @@
   - [Notary Public in Littlestown, PA: Angel A. Dunchack](https://www.notarydepot.com/angelsdream)
   - [Notary Public in Spring Hill, TN: Dorothy Wincenciak](https://www.notarydepot.com/angelsdw)
   - [Notary Public in Huntington Park, CA: Angelica Baker](https://www.notarydepot.com/angienotary)
+  - [Notary Public in Miami, FL: Angela Bonilla](https://www.notarydepot.com/angieosita)
   - [Notary Public in Nacogdoches, TX: Angie Langley](https://www.notarydepot.com/angierlangley)
   - [Notary Public in Fort Smith, AR: Sheila Sayers](https://www.notarydepot.com/angoraspaniel)
   - [Notary Public in Fontana, CA: Angelica Timlick](https://www.notarydepot.com/angtimlick)
@@ -7936,4 +7937,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-26T15:11:02Z
+Updated at 2018-09-26T15:31:02Z
