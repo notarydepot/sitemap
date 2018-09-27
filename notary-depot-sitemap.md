@@ -1377,6 +1377,7 @@
     - [Notary Public in Albuquerque, NM](https://www.notarydepot.com/notary-near-me/New-Mexico/Albuquerque)
     - [Notary Public in Belen, NM](https://www.notarydepot.com/notary-near-me/New-Mexico/Belen)
     - [Notary Public in Bernalillo, NM](https://www.notarydepot.com/notary-near-me/New-Mexico/Bernalillo)
+    - [Notary Public in Carlsbad, NM](https://www.notarydepot.com/notary-near-me/New-Mexico/Carlsbad)
     - [Notary Public in Corrales, NM](https://www.notarydepot.com/notary-near-me/New-Mexico/Corrales)
     - [Notary Public in Deming, NM](https://www.notarydepot.com/notary-near-me/New-Mexico/Deming)
     - [Notary Public in La Luz, NM](https://www.notarydepot.com/notary-near-me/New-Mexico/La-Luz)
@@ -3407,6 +3408,7 @@
   - [Notary Public in Wrightwood, CA: Candice Dillon](https://www.notarydepot.com/dilloncan)
   - [Notary Public in Manhattan, KS: Dillon Reiser](https://www.notarydepot.com/dillon_reiser)
   - [Notary Public in Philadelphia, PA: Dimitrios Louris](https://www.notarydepot.com/dimitrios)
+  - [Notary Public in Carlsbad, NM: Diana Wilson](https://www.notarydepot.com/dimomma)
   - [Notary Public in Natchitoches, LA: Dinah](https://www.notarydepot.com/dinahstallworth)
   - [Notary Public in Tolleson, AZ: Dina Schlosser](https://www.notarydepot.com/dinaschlosser)
   - [Notary Public in Jackson, NJ: Dineen M Iannice](https://www.notarydepot.com/dineen001)
@@ -7938,4 +7940,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-27T00:51:02Z
+Updated at 2018-09-27T01:11:02Z
