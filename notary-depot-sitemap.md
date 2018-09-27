@@ -1376,6 +1376,7 @@
   - [Notaries Public in New Mexico](https://www.notarydepot.com/notary-near-me/New-Mexico)
     - [Notary Public in Albuquerque, NM](https://www.notarydepot.com/notary-near-me/New-Mexico/Albuquerque)
     - [Notary Public in Belen, NM](https://www.notarydepot.com/notary-near-me/New-Mexico/Belen)
+    - [Notary Public in Bernalillo, NM](https://www.notarydepot.com/notary-near-me/New-Mexico/Bernalillo)
     - [Notary Public in Corrales, NM](https://www.notarydepot.com/notary-near-me/New-Mexico/Corrales)
     - [Notary Public in Deming, NM](https://www.notarydepot.com/notary-near-me/New-Mexico/Deming)
     - [Notary Public in La Luz, NM](https://www.notarydepot.com/notary-near-me/New-Mexico/La-Luz)
@@ -4151,7 +4152,7 @@
   - [Notary Public in Rancho Cucamonga, CA: Janet Lynch](https://www.notarydepot.com/janetlynch)
   - [Notary Public in Cameron, MO: Jan Gordon](https://www.notarydepot.com/jangordon39)
   - [Notary Public in Pomona, CA: Janet Avila](https://www.notarydepot.com/jangris)
-  - [Notary Public in Rio Rancho, NM: Janice Dudley](https://www.notarydepot.com/janiced111)
+  - [Notary Public in Bernalillo, NM: Janice Dudley](https://www.notarydepot.com/janiced111)
   - [Notary Public in Los Angeles, CA: Janice Ross](https://www.notarydepot.com/janicer)
   - [Notary Public in Goldendale, WA: Janine Overlie](https://www.notarydepot.com/janine2566)
   - [Notary Public in Visalia, CA: Jan Kohake](https://www.notarydepot.com/jankopetro)
@@ -7937,4 +7938,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-27T00:11:02Z
+Updated at 2018-09-27T00:31:01Z
