@@ -5623,6 +5623,7 @@
   - [Notary Public in Tehachapi, CA: Denise Evans](https://www.notarydepot.com/niesey0716)
   - [Notary Public in Bedford, TX: Nicole C. Spellman](https://www.notarydepot.com/nikki5150)
   - [Notary Public in Norfolk, VA: Kijuana &quot;Nikki&quot; Bratton, CSA](https://www.notarydepot.com/nikkib)
+  - [Notary Public in Goose Creek, SC: Renae &quot;Nikki&quot; Gaskins](https://www.notarydepot.com/nikkigaskins)
   - [Notary Public in West Palm Beach, FL: Marilyn Coppola](https://www.notarydepot.com/nikkobyrd)
   - [Notary Public in Vancouver, WA: Alicia Brown](https://www.notarydepot.com/ninotary)
   - [Notary Public in Carol Stream, IL: Nishi](https://www.notarydepot.com/nishikumari)
@@ -7940,4 +7941,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-28T01:51:02Z
+Updated at 2018-09-28T02:11:02Z
