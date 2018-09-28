@@ -5609,6 +5609,7 @@
   - [Notary Public in Tampa, FL: Nicholas J Menard](https://www.notarydepot.com/nickthenotary)
   - [Notary Public in Clearwater, FL: Nichole McGuff](https://www.notarydepot.com/nickymcguff85)
   - [Notary Public in Clearwater, FL: Nichole McGuff](https://www.notarydepot.com/nicky_mcguff)
+  - [Notary Public in Honolulu, HI: Nicolas Vargas Calvo](https://www.notarydepot.com/nicolasvargas)
   - [Notary Public in Humble, TX: lakesha hartsfield](https://www.notarydepot.com/nicole2)
   - [Notary Public in Soquel, CA: Nicole Spaulding](https://www.notarydepot.com/nicoleca)
   - [Notary Public in Hialeah, FL: Nicole Cerrato](https://www.notarydepot.com/nicolecerrato)
@@ -7938,4 +7939,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-28T22:11:02Z
+Updated at 2018-09-28T22:31:02Z
