@@ -3891,6 +3891,7 @@
   - [Notary Public in Rancho Palos Verdes, CA: Rhonda](https://www.notarydepot.com/grandmother)
   - [Notary Public in Savannah, GA: Kindall Grant](https://www.notarydepot.com/grantlawgroup)
   - [Notary Public in Vista, CA: Grant Siracusa](https://www.notarydepot.com/grant_s)
+  - [Notary Public in Easton, PA: Monica B. Voloshin](https://www.notarydepot.com/greaterlehighvalleynotary)
   - [Notary Public in Glendale, CA: Goren G Tatarian](https://www.notarydepot.com/greatimingnotary)
   - [Notary Public in Mooresville, NC: Greg Atkinson](https://www.notarydepot.com/gregatkinson)
   - [Notary Public in Long Beach, CA: Greg Brown](https://www.notarydepot.com/gregb)
@@ -7939,4 +7940,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-28T23:11:02Z
+Updated at 2018-09-28T23:31:02Z
