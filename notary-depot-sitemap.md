@@ -3455,7 +3455,6 @@
   - [Notary Public in Citrus Heights, CA: Daniel Miranda](https://www.notarydepot.com/dmlegal)
   - [Notary Public in Los Angeles, CA: d-Mobile Notary](https://www.notarydepot.com/dmobilenotary)
   - [Notary Public in Moreno Valley, CA: Denise Mason](https://www.notarydepot.com/dmsears)
-  - [Notary Public in CA: Dianne Samonas](https://www.notarydepot.com/dmsnotary)
   - [Notary Public in Port St. Lucie, FL: Dawn Steinhurst](https://www.notarydepot.com/dmsteinhurst)
   - [Notary Public in Santa Rosa, CA: Sergio Musetti](https://www.notarydepot.com/dmteam02)
   - [Notary Public in Charlotte, NC: Daniel Nance](https://www.notarydepot.com/dnance01)
@@ -7941,4 +7940,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-28T03:51:02Z
+Updated at 2018-09-28T04:11:02Z
