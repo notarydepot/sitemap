@@ -2647,7 +2647,6 @@
   - [Notary Public in Howard, OH: Barbara Katz](https://www.notarydepot.com/barbkatz)
   - [Notary Public in Fond du Lac, WI: Barbara Beregszazi](https://www.notarydepot.com/barbsnotary)
   - [Notary Public in Byron, CA: Barbara Trujillo](https://www.notarydepot.com/barbtrujillo)
-  - [Notary Public in Bellingham, WA: Irene Reynolds](https://www.notarydepot.com/barefootinthesand)
   - [Notary Public in Trinidad, CO: Carol Brimmeier](https://www.notarydepot.com/barney)
   - [Notary Public in Altus, OK: Carole Geigle](https://www.notarydepot.com/barrowsign)
   - [Notary Public in Charlotte, NC: Barry Muse](https://www.notarydepot.com/barrycarpeytc2012)
@@ -7942,4 +7941,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-29T23:31:02Z
+Updated at 2018-09-29T23:51:02Z
