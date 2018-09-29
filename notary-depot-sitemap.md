@@ -1093,6 +1093,7 @@
     - [Notary Public in Dearborn, MI](https://www.notarydepot.com/notary-near-me/Michigan/Dearborn)
     - [Notary Public in Detroit, MI](https://www.notarydepot.com/notary-near-me/Michigan/Detroit)
     - [Notary Public in Eastpointe, MI](https://www.notarydepot.com/notary-near-me/Michigan/Eastpointe)
+    - [Notary Public in Eau Claire, MI](https://www.notarydepot.com/notary-near-me/Michigan/Eau-Claire)
     - [Notary Public in Farmington, MI](https://www.notarydepot.com/notary-near-me/Michigan/Farmington)
     - [Notary Public in Flint, MI](https://www.notarydepot.com/notary-near-me/Michigan/Flint)
     - [Notary Public in Flushing, MI](https://www.notarydepot.com/notary-near-me/Michigan/Flushing)
@@ -5419,6 +5420,7 @@
   - [Notary Public in Evans, GA: Mona Stokes](https://www.notarydepot.com/monastokes)
   - [Notary Public in Freeland, MI: Tommy W Simpkins](https://www.notarydepot.com/moneytommy)
   - [Notary Public in Herriman, UT: Monica Anderson](https://www.notarydepot.com/monica7905)
+  - [Notary Public in Eau Claire, MI: Monica Borja](https://www.notarydepot.com/monicab)
   - [Notary Public in Colorado Springs, CO: Monica Myrick](https://www.notarydepot.com/monicaco74)
   - [Notary Public in Escondido, CA: Monica Johnston](https://www.notarydepot.com/monicajohnston)
   - [Notary Public in Selma, CA: No tme](https://www.notarydepot.com/monicakes)
@@ -7940,4 +7942,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-29T01:51:02Z
+Updated at 2018-09-29T02:11:01Z
