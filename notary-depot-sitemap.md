@@ -2234,7 +2234,6 @@
     - [Notary Public in Wilson, WY](https://www.notarydepot.com/notary-near-me/Wyoming/Wilson)
 - Notary Near Me Profiles
   - [Notary Public in Williamstown, KY: Stephen D Brock](https://www.notarydepot.com/123stephend)
-  - [Notary Public in Oceanside, CA: Linda Spanski](https://www.notarydepot.com/12callnotary)
   - [Notary Public in Houston, TX: Uzma Khan](https://www.notarydepot.com/12uzma)
   - [Notary Public in Weatherford, TX: Sid Johnson](https://www.notarydepot.com/134cppm)
   - [Notary Public in Auburn, WA: 24/7 Traveling Notary Service](https://www.notarydepot.com/1373)
@@ -7941,4 +7940,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-30T18:11:02Z
+Updated at 2018-09-30T18:31:01Z
