@@ -6757,7 +6757,6 @@
   - [Notary Public in Rancho Cucamonga, CA: Sue Slim](https://www.notarydepot.com/sueslim)
   - [Notary Public in Yorba Linda, CA: Suhasini Arlic](https://www.notarydepot.com/suhasiniarlic)
   - [Notary Public in Gainesville, FL: Rae Lochner](https://www.notarydepot.com/sunkissed1)
-  - [Notary Public in Steamboat Springs, CO: Sunny Brstina](https://www.notarydepot.com/sunnybrstina)
   - [Notary Public in Santa Rosa, CA: Donna Myers](https://www.notarydepot.com/sunnydsky)
   - [Notary Public in Oakland, CA: Sunil Jaswal](https://www.notarydepot.com/sunnyjaswal)
   - [Notary Public in Port Richey, FL: Herbert Willis](https://www.notarydepot.com/sunnysigning)
@@ -7940,4 +7939,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-09-30T19:31:02Z
+Updated at 2018-09-30T19:51:02Z
