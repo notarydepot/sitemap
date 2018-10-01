@@ -825,6 +825,7 @@
     - [Notary Public in Downers Grove, IL](https://www.notarydepot.com/notary-near-me/Illinois/Downers-Grove)
     - [Notary Public in Edwardsville, IL](https://www.notarydepot.com/notary-near-me/Illinois/Edwardsville)
     - [Notary Public in Elgin, IL](https://www.notarydepot.com/notary-near-me/Illinois/Elgin)
+    - [Notary Public in Flossmoor, IL](https://www.notarydepot.com/notary-near-me/Illinois/Flossmoor)
     - [Notary Public in Geneva, IL](https://www.notarydepot.com/notary-near-me/Illinois/Geneva)
     - [Notary Public in Godfrey, IL](https://www.notarydepot.com/notary-near-me/Illinois/Godfrey)
     - [Notary Public in Hamburg, IL](https://www.notarydepot.com/notary-near-me/Illinois/Hamburg)
@@ -2378,6 +2379,7 @@
   - [Notary Public in Somerset, KY: Janice Green](https://www.notarydepot.com/akynotary)
   - [Notary Public in San Antonio, TX: Alamo Notary &amp; Signing Agents](https://www.notarydepot.com/alamonotary)
   - [Notary Public in Alamosa, CO: Valerie Vigil](https://www.notarydepot.com/alamosanotarytogo)
+  - [Notary Public in Flossmoor, IL: Alan Scott Hahn](https://www.notarydepot.com/alanhahn)
   - [Notary Public in Hollywood, FL: Alanna M. Lamar](https://www.notarydepot.com/alannalamar)
   - [Notary Public in McCalla, AL: Linda Meadows](https://www.notarydepot.com/alanotary)
   - [Notary Public in Los Angeles, CA: Anne Larkin](https://www.notarydepot.com/alark22)
@@ -7939,4 +7941,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-10-01T21:51:02Z
+Updated at 2018-10-01T22:11:02Z
