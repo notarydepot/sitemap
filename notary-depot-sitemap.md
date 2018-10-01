@@ -6918,6 +6918,7 @@
   - [Notary Public in Cody, WY: Lauren Tibert Wells](https://www.notarydepot.com/tibertlm)
   - [Notary Public in Apple Valley, CA: Heidi Elliott](https://www.notarydepot.com/tidinhodd)
   - [Notary Public in NY: Tiffany Choice](https://www.notarydepot.com/tiffany)
+  - [Notary Public in Upland, CA: TIFFANY HARMS](https://www.notarydepot.com/tiffanyharms77)
   - [Notary Public in CA: Long Beach Mobile Notary 24/7](https://www.notarydepot.com/tiffanynotary)
   - [Notary Public in Carson, CA: Tiffany Reed](https://www.notarydepot.com/tiffanyvreed)
   - [Notary Public in Diamond Springs, CA: Timalynn Jaynes](https://www.notarydepot.com/timalynn)
@@ -7938,4 +7939,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-10-01T17:31:01Z
+Updated at 2018-10-01T17:51:02Z
