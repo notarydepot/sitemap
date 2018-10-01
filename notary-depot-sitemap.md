@@ -5625,7 +5625,6 @@
   - [Notary Public in Goose Creek, SC: Renae &quot;Nikki&quot; Gaskins](https://www.notarydepot.com/nikkigaskins)
   - [Notary Public in West Palm Beach, FL: Marilyn Coppola](https://www.notarydepot.com/nikkobyrd)
   - [Notary Public in Vancouver, WA: Alicia Brown](https://www.notarydepot.com/ninotary)
-  - [Notary Public in Carol Stream, IL: Nishi](https://www.notarydepot.com/nishikumari)
   - [Notary Public in Redford Charter Township, MI: Nitashia Harris](https://www.notarydepot.com/nitashia)
   - [Notary Public in Sicklerville, NJ: Leah Archer](https://www.notarydepot.com/nj856notary)
   - [Notary Public in Sandpoint, ID: Nora Kedish](https://www.notarydepot.com/njkwork)
@@ -7939,4 +7938,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-10-01T15:31:02Z
+Updated at 2018-10-01T15:51:02Z
