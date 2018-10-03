@@ -1835,6 +1835,7 @@
     - [Notary Public in Sioux Falls, SD](https://www.notarydepot.com/notary-near-me/South-Dakota/Sioux-Falls)
     - [Notary Public in Sisseton, SD](https://www.notarydepot.com/notary-near-me/South-Dakota/Sisseton)
     - [Notary Public in Wakonda, SD](https://www.notarydepot.com/notary-near-me/South-Dakota/Wakonda)
+    - [Notary Public in Watertown, SD](https://www.notarydepot.com/notary-near-me/South-Dakota/Watertown)
   - [Notaries Public in Tennessee](https://www.notarydepot.com/notary-near-me/Tennessee)
     - [Notary Public in Apison, TN](https://www.notarydepot.com/notary-near-me/Tennessee/Apison)
     - [Notary Public in Arlington, TN](https://www.notarydepot.com/notary-near-me/Tennessee/Arlington)
@@ -4201,6 +4202,7 @@
   - [Notary Public in Indianapolis, IN: Candice Holcomb](https://www.notarydepot.com/jcholcomb)
   - [Notary Public in Hazlet, NJ: Jennifer Columbi](https://www.notarydepot.com/jcolumbi)
   - [Notary Public in Framingham, MA: Christine Beaudin](https://www.notarydepot.com/jcougar69)
+  - [Notary Public in Watertown, SD: Richard Thompson](https://www.notarydepot.com/jcrat316)
   - [Notary Public in Winter Haven, FL: Jason R Crawford](https://www.notarydepot.com/jcrawford)
   - [Notary Public in Fort Myers, FL: Jim Crider](https://www.notarydepot.com/jcrider33908)
   - [Notary Public in Apple Valley, CA: Jackie Demonte](https://www.notarydepot.com/jd92307)
@@ -7941,4 +7943,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-10-03T13:11:02Z
+Updated at 2018-10-03T13:31:02Z
