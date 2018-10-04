@@ -6319,6 +6319,7 @@
   - [Notary Public in San Bernardino, CA: Robert E. Powell](https://www.notarydepot.com/rpowell)
   - [Notary Public in Tampa, FL: Renee Primus](https://www.notarydepot.com/rprimus)
   - [Notary Public in NY: Signature Notary Ink.](https://www.notarydepot.com/rquartey)
+  - [Notary Public in Oaklyn, NJ: Richard Rocco](https://www.notarydepot.com/rr243600)
   - [Notary Public in Indianapolis, IN: Rhonda Byers](https://www.notarydepot.com/rrbyers)
   - [Notary Public in Wichita, KS: Richelle Roybal](https://www.notarydepot.com/rroybal)
   - [Notary Public in Grapevine, TX: Richard S. Bivins, JD](https://www.notarydepot.com/rsbivins)
@@ -7944,4 +7945,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-10-04T17:11:03Z
+Updated at 2018-10-04T17:31:02Z
