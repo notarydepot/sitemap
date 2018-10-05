@@ -1384,8 +1384,8 @@
     - [Notary Public in Deming, NM](https://www.notarydepot.com/notary-near-me/New-Mexico/Deming)
     - [Notary Public in La Luz, NM](https://www.notarydepot.com/notary-near-me/New-Mexico/La-Luz)
     - [Notary Public in Las Cruces, NM](https://www.notarydepot.com/notary-near-me/New-Mexico/Las-Cruces)
-    - [Notary Public in Las Vegas, NM](https://www.notarydepot.com/notary-near-me/New-Mexico/Las-Vegas)
     - [Notary Public in Rio Rancho, NM](https://www.notarydepot.com/notary-near-me/New-Mexico/Rio-Rancho)
+    - [Notary Public in Roy, NM](https://www.notarydepot.com/notary-near-me/New-Mexico/Roy)
     - [Notary Public in Santa Fe, NM](https://www.notarydepot.com/notary-near-me/New-Mexico/Santa-Fe)
     - [Notary Public in Taos, NM](https://www.notarydepot.com/notary-near-me/New-Mexico/Taos)
   - [Notaries Public in New York](https://www.notarydepot.com/notary-near-me/New-York)
@@ -6119,7 +6119,7 @@
   - [Notary Public in Orlando, FL: Ramon](https://www.notarydepot.com/ramonp)
   - [Notary Public in Manassas, VA: Ram P Khanal](https://www.notarydepot.com/rampdkhanal)
   - [Notary Public in Los Angeles, CA: Randa Rose Casad](https://www.notarydepot.com/randa)
-  - [Notary Public in Las Vegas, NM: Randy D. Peña](https://www.notarydepot.com/randypena2002)
+  - [Notary Public in Roy, NM: Randy D. Peña](https://www.notarydepot.com/randypena2002)
   - [Notary Public in Miami, FL: Roudy Antenor](https://www.notarydepot.com/rantenor)
   - [Notary Public in Robertsdale, AL: Rosemary Gandy](https://www.notarydepot.com/rasbilling)
   - [Notary Public in Blissfield, MI: E-Z-1 Public Notary Public/ Closing Agent](https://www.notarydepot.com/rasin)
@@ -7945,4 +7945,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-10-05T06:31:02Z
+Updated at 2018-10-05T06:51:01Z
