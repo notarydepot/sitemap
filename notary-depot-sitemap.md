@@ -1569,7 +1569,6 @@
     - [Notary Public in Alliance, OH](https://www.notarydepot.com/notary-near-me/Ohio/Alliance)
     - [Notary Public in Amherst, OH](https://www.notarydepot.com/notary-near-me/Ohio/Amherst)
     - [Notary Public in Arcanum, OH](https://www.notarydepot.com/notary-near-me/Ohio/Arcanum)
-    - [Notary Public in Batavia, OH](https://www.notarydepot.com/notary-near-me/Ohio/Batavia)
     - [Notary Public in Beachwood, OH](https://www.notarydepot.com/notary-near-me/Ohio/Beachwood)
     - [Notary Public in Bedford, OH](https://www.notarydepot.com/notary-near-me/Ohio/Bedford)
     - [Notary Public in Belpre, OH](https://www.notarydepot.com/notary-near-me/Ohio/Belpre)
@@ -2653,7 +2652,6 @@
   - [Notary Public in Altus, OK: Carole Geigle](https://www.notarydepot.com/barrowsign)
   - [Notary Public in Charlotte, NC: Barry Muse](https://www.notarydepot.com/barrycarpeytc2012)
   - [Notary Public in Cape Coral, FL: Anita Foster](https://www.notarydepot.com/bassfoster)
-  - [Notary Public in Batavia, OH: Angela Bender](https://www.notarydepot.com/batavianotary)
   - [Notary Public in Clermont, FL: Robert Bates](https://www.notarydepot.com/bateskid2112)
   - [Notary Public in Dayton, OH: Brenda F. Bates](https://www.notarydepot.com/batesmotel)
   - [Notary Public in Allegan, MI: barbara s williamson](https://www.notarydepot.com/bawill50)
@@ -7945,4 +7943,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-10-05T18:51:03Z
+Updated at 2018-10-05T19:11:02Z
