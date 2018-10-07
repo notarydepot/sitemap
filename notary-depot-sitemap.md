@@ -4175,7 +4175,7 @@
   - [Notary Public in Fuquay Varina, NC: Nakia Jackson](https://www.notarydepot.com/jaxnnotary)
   - [Notary Public in Jacksonville, FL: Jaxnotary](https://www.notarydepot.com/jaxnotary)
   - [Notary Public in Marina del Rey, CA: Queen Bee Notary](https://www.notarydepot.com/jaye)
-  - [Notary Public in Houston, TX: Jelan Cato](https://www.notarydepot.com/jayec1987)
+  - [Notary Public in Spring, TX: Jelan Cato](https://www.notarydepot.com/jayec1987)
   - [Notary Public in Birmingham, AL: Jcynthia Moore](https://www.notarydepot.com/jaymoore)
   - [Notary Public in San Marcos, CA: jaynegarrow](https://www.notarydepot.com/jaynegarrow)
   - [Notary Public in Beaverton, OR: W. Jay Ready](https://www.notarydepot.com/jayready)
@@ -7945,4 +7945,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-10-07T02:11:02Z
+Updated at 2018-10-07T02:31:02Z
