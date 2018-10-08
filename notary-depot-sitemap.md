@@ -1336,6 +1336,7 @@
     - [Notary Public in Monmouth Beach, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Monmouth-Beach)
     - [Notary Public in Morristown, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Morristown)
     - [Notary Public in Mount Holly, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Mount-Holly)
+    - [Notary Public in Mount Olive Township, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Mount-Olive-Township)
     - [Notary Public in New Milford, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/New-Milford)
     - [Notary Public in Newark, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Newark)
     - [Notary Public in Oaklyn, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Oaklyn)
@@ -4602,6 +4603,7 @@
   - [Notary Public in Caledonia, IL: Julianne keeley](https://www.notarydepot.com/keeleynotary)
   - [Notary Public in Fort Lauderdale, FL: June Reid](https://www.notarydepot.com/keelyrich)
   - [Notary Public in Lehigh Acres, FL: George Duncan](https://www.notarydepot.com/keepitrealmobile)
+  - [Notary Public in Mount Olive Township, NJ: Philip Friedland](https://www.notarydepot.com/keeptaxes)
   - [Notary Public in Bellflower, CA: ***Lakeisha Howard***](https://www.notarydepot.com/keisha)
   - [Notary Public in Lancaster, TX: Keisha Pope](https://www.notarydepot.com/keishapope)
   - [Notary Public in Rocky Mount, NC: Keisha Ward](https://www.notarydepot.com/keishaward)
@@ -7945,4 +7947,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-10-08T02:51:02Z
+Updated at 2018-10-08T03:11:01Z
