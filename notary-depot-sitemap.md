@@ -7203,6 +7203,7 @@
   - [Notary Public in Chesterfield, VA: Wayne K Lewis](https://www.notarydepot.com/waynelewis19)
   - [Notary Public in Childersburg, AL: James Stephens Jr.](https://www.notarydepot.com/waywardgirls)
   - [Notary Public in Gilbert, AZ: Brandon Thomas](https://www.notarydepot.com/wbthomas)
+  - [Notary Public in Wichita Falls, TX: Teresa Roberts](https://www.notarydepot.com/wccs)
   - [Notary Public in Wichita Falls, TX: Teresa Roberts](https://www.notarydepot.com/wccstexas)
   - [Notary Public in Yonkers, NY: Wc Notary To Go](https://www.notarydepot.com/wcnotary2go)
   - [Notary Public in Hartford City, IN: William (bill) Dice](https://www.notarydepot.com/wdiceman)
@@ -7947,4 +7948,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-10-09T20:31:02Z
+Updated at 2018-10-09T20:51:02Z
