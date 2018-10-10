@@ -4960,7 +4960,6 @@
   - [Notary Public in Sioux City, IA: Linda L Kassis](https://www.notarydepot.com/lkassis)
   - [Notary Public in Nipomo, CA: Jodie Mclean](https://www.notarydepot.com/lkillackey)
   - [Notary Public in Mona, UT: Laurie Payton](https://www.notarydepot.com/lkpayton)
-  - [Notary Public in Upland, CA: Lisa Thornton](https://www.notarydepot.com/lkthornton)
   - [Notary Public in Dover, PA: Louis  LeGrant](https://www.notarydepot.com/llegrantlk)
   - [Notary Public in Parrish, FL: Janie Lehew](https://www.notarydepot.com/llehew)
   - [Notary Public in Union, OR: Lisa Lively](https://www.notarydepot.com/llively)
@@ -7948,4 +7947,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-10-10T07:31:02Z
+Updated at 2018-10-10T07:51:02Z
