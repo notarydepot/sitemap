@@ -5046,7 +5046,7 @@
   - [Notary Public in Orange, CA: Lorena Villarreal](https://www.notarydepot.com/lvillarreal)
   - [Notary Public in Carrollton, TX: Laura Miller](https://www.notarydepot.com/lvlmiller)
   - [Notary Public in North Las Vegas, NV: Pete Anderson](https://www.notarydepot.com/lvnotary)
-  - [Notary Public in Williamsburg, VA: LaTonya Wallace-Conyers](https://www.notarydepot.com/lwcvanotary)
+  - [Notary Public in Williamsburg, VA: LaTonya Wallace-Conyers](https://www.notarydepot.com/lwcvanotary77)
   - [Notary Public in Plainview, NY: Linda Wegman](https://www.notarydepot.com/lwegman)
   - [Notary Public in Woodbridge, VA: Lisa West](https://www.notarydepot.com/lwestn3)
   - [Notary Public in Newport News, VA: Lisa Harrell](https://www.notarydepot.com/lwharrell)
@@ -7948,4 +7948,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-10-10T19:11:02Z
+Updated at 2018-10-10T19:31:02Z
