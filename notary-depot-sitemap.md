@@ -3468,7 +3468,6 @@
   - [Notary Public in Pomona, CA: Betrayn Drinkard](https://www.notarydepot.com/docs2bsigned)
   - [Notary Public in Roseburg, OR: Michelle R. Spier](https://www.notarydepot.com/documentguru)
   - [Notary Public in Shreveport, LA: Audrey Patrice Russ](https://www.notarydepot.com/documentprep)
-  - [Notary Public in Ballwin, MO: Documents Delivered](https://www.notarydepot.com/documentsdelivered)
   - [Notary Public in Hollywood, FL: Michelle Young](https://www.notarydepot.com/dodda27)
   - [Notary Public in Fontana, CA: Sabrina Gutierrez](https://www.notarydepot.com/dollfin1204)
   - [Notary Public in Orlando, FL: Domingo Vazquez](https://www.notarydepot.com/domingovazquez)
@@ -7948,4 +7947,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-10-11T03:51:02Z
+Updated at 2018-10-11T04:11:02Z
