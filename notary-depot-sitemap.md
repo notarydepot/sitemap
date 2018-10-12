@@ -6600,6 +6600,7 @@
   - [Notary Public in Levelland, TX: Subrina J McClendon](https://www.notarydepot.com/sjmcclendon)
   - [Notary Public in Fairfield, CA: Stephen Mitchell, Professional Engineer](https://www.notarydepot.com/sjmitchell)
   - [Notary Public in Westville, NJ: Angela Whittaker](https://www.notarydepot.com/sjmobilenotary)
+  - [Notary Public in Jacksonville, FL: Stephanie Jones](https://www.notarydepot.com/sjones1019)
   - [Notary Public in Berkeley, CA: Notarys 4 Less](https://www.notarydepot.com/sjprice)
   - [Notary Public in Warm Springs, VA: Sherry Ryder](https://www.notarydepot.com/sjryder)
   - [Notary Public in Los Angeles, CA: Steve Jurado](https://www.notarydepot.com/sjurado1)
@@ -7947,4 +7948,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-10-12T02:51:02Z
+Updated at 2018-10-12T03:11:02Z
