@@ -1402,6 +1402,7 @@
     - [Notary Public in Brookhaven, NY](https://www.notarydepot.com/notary-near-me/New-York/Brookhaven)
     - [Notary Public in Buffalo, NY](https://www.notarydepot.com/notary-near-me/New-York/Buffalo)
     - [Notary Public in Carmel, NY](https://www.notarydepot.com/notary-near-me/New-York/Carmel)
+    - [Notary Public in Carmel Hamlet, NY](https://www.notarydepot.com/notary-near-me/New-York/Carmel-Hamlet)
     - [Notary Public in Central Islip, NY](https://www.notarydepot.com/notary-near-me/New-York/Central-Islip)
     - [Notary Public in Cicero, NY](https://www.notarydepot.com/notary-near-me/New-York/Cicero)
     - [Notary Public in Copiague, NY](https://www.notarydepot.com/notary-near-me/New-York/Copiague)
@@ -6402,6 +6403,7 @@
   - [Notary Public in Irvine, CA: Sandy Yuen](https://www.notarydepot.com/sannotaryirvine)
   - [Notary Public in Santa Clara, CA: Dmitriy Skornyakov Certified Signing Agent](https://www.notarydepot.com/santaclaranotary)
   - [Notary Public in Santa Rosa, CA: Michael Boler](https://www.notarydepot.com/santarosamobilenotary)
+  - [Notary Public in Carmel Hamlet, NY: William Santini](https://www.notarydepot.com/santiniwill)
   - [Notary Public in Middletown, OH: Gary Boehm](https://www.notarydepot.com/saonenotary)
   - [Notary Public in Denham Springs, LA: Al Weysham](https://www.notarydepot.com/sapphcco)
   - [Notary Public in Santa Ana, CA: Sara Maria Ighani](https://www.notarydepot.com/sarabear555)
@@ -7948,4 +7950,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-10-14T19:11:02Z
+Updated at 2018-10-14T19:31:01Z
