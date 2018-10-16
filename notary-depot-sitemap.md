@@ -872,6 +872,7 @@
     - [Notary Public in Cedar Lake, IN](https://www.notarydepot.com/notary-near-me/Indiana/Cedar-Lake)
     - [Notary Public in Chesterton, IN](https://www.notarydepot.com/notary-near-me/Indiana/Chesterton)
     - [Notary Public in Columbus, IN](https://www.notarydepot.com/notary-near-me/Indiana/Columbus)
+    - [Notary Public in Crown Point, IN](https://www.notarydepot.com/notary-near-me/Indiana/Crown-Point)
     - [Notary Public in Dugger, IN](https://www.notarydepot.com/notary-near-me/Indiana/Dugger)
     - [Notary Public in Dyer, IN](https://www.notarydepot.com/notary-near-me/Indiana/Dyer)
     - [Notary Public in Evansville, IN](https://www.notarydepot.com/notary-near-me/Indiana/Evansville)
@@ -5597,6 +5598,7 @@
   - [Notary Public in Mountain Top, PA: Donna Ansley](https://www.notarydepot.com/nepanotary)
   - [Notary Public in Lancaster, CA: Denese Stthomas](https://www.notarydepot.com/nesey1)
   - [Notary Public in Chino, CA: *Vanessa*](https://www.notarydepot.com/nessafern)
+  - [Notary Public in Crown Point, IN: Vanessa Nichols](https://www.notarydepot.com/nessanotary)
   - [Notary Public in Yreka, CA: Todd and Angie Gusaas](https://www.notarydepot.com/netdeputy)
   - [Notary Public in Pahrump, NV: Amy Childress](https://www.notarydepot.com/nevadanotary)
   - [Notary Public in Los Angeles, CA: Monica Lambert](https://www.notarydepot.com/newday46_now)
@@ -7951,4 +7953,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-10-16T21:51:02Z
+Updated at 2018-10-16T22:11:02Z
