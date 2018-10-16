@@ -6188,7 +6188,6 @@
   - [Notary Public in Murrieta, CA: John C. Villegas](https://www.notarydepot.com/resdive1972)
   - [Notary Public in Riverside, CA: Lorean Williamson ](https://www.notarydepot.com/resn)
   - [Notary Public in Milton, WI: James Myers](https://www.notarydepot.com/retiredarmynotary)
-  - [Notary Public in Alamosa, CO: John Bianca](https://www.notarydepot.com/retiredkop)
   - [Notary Public in Chino Valley, AZ: Renee Eubanks](https://www.notarydepot.com/reubanks)
   - [Notary Public in Los Angeles, CA: Reuben Zadeh](https://www.notarydepot.com/reubenzadeh)
   - [Notary Public in Camden, NJ: Levi](https://www.notarydepot.com/revlc3notary)
@@ -7950,4 +7949,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-10-16T03:51:02Z
+Updated at 2018-10-16T04:11:02Z
