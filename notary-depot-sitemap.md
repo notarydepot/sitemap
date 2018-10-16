@@ -7134,6 +7134,7 @@
   - [Notary Public in Beaverville, IL: LaVenia Readus](https://www.notarydepot.com/veanie)
   - [Notary Public in Alexandria, VA: Iris Vega](https://www.notarydepot.com/vegapardo)
   - [Notary Public in Las Vegas, NV: Shamica Candelario](https://www.notarydepot.com/vegasmeeka)
+  - [Notary Public in Las Vegas, NV: Susan Harris](https://www.notarydepot.com/vegassuzi)
   - [Notary Public in Hayward, CA: Venessa Nelson](https://www.notarydepot.com/venessanelson12)
   - [Notary Public in Raleigh, NC: Venita Peyton](https://www.notarydepot.com/venitapeyton)
   - [Notary Public in San Diego, CA: Virginia Elegado](https://www.notarydepot.com/venotary)
@@ -7950,4 +7951,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-10-16T20:51:02Z
+Updated at 2018-10-16T21:11:01Z
