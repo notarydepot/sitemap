@@ -6603,6 +6603,7 @@
   - [Notary Public in Westville, NJ: Angela Whittaker](https://www.notarydepot.com/sjmobilenotary)
   - [Notary Public in Jacksonville, FL: Stephanie Jones](https://www.notarydepot.com/sjones1019)
   - [Notary Public in Berkeley, CA: Notarys 4 Less](https://www.notarydepot.com/sjprice)
+  - [Notary Public in Tracy, CA: Stanley Price](https://www.notarydepot.com/sjpricejr52)
   - [Notary Public in Warm Springs, VA: Sherry Ryder](https://www.notarydepot.com/sjryder)
   - [Notary Public in Los Angeles, CA: Steve Jurado](https://www.notarydepot.com/sjurado1)
   - [Notary Public in Wailuku, HI: Christine Ortiz](https://www.notarydepot.com/skater39)
@@ -7949,4 +7950,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-10-16T20:31:02Z
+Updated at 2018-10-16T20:51:02Z
