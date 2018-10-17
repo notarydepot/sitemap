@@ -6500,6 +6500,7 @@
   - [Notary Public in Elmira, OR: Kimberly Taylor](https://www.notarydepot.com/shannonkt)
   - [Notary Public in Des Moines, IA: Shannon Wineland](https://www.notarydepot.com/shannonpw71)
   - [Notary Public in Loxley, AL: Shannon Reville](https://www.notarydepot.com/shannonreville)
+  - [Notary Public in Peoria, AZ: Shannon](https://www.notarydepot.com/shannonw)
   - [Notary Public in Oceanside, CA: Shantesa Brown](https://www.notarydepot.com/shantesa)
   - [Notary Public in McAlester, OK: Sharell Collins](https://www.notarydepot.com/sharelllarae)
   - [Notary Public in Elora, TN: Shari Hayden Eliff](https://www.notarydepot.com/sharihayden)
@@ -7954,4 +7955,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-10-17T15:11:02Z
+Updated at 2018-10-17T15:31:02Z
