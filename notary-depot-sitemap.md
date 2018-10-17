@@ -6597,6 +6597,7 @@
   - [Notary Public in NY: Ricardo Salmon](https://www.notarydepot.com/sirlordaries)
   - [Notary Public in Mary Esther, FL: Maureen Siron](https://www.notarydepot.com/sironme)
   - [Notary Public in Vicksburg, MS: Sylvester Davis](https://www.notarydepot.com/sivads)
+  - [Notary Public in Wellsboro, PA: CHRISTINA VANDERGRIFT](https://www.notarydepot.com/sixwestsettlements)
   - [Notary Public in Orlando, FL: Susanne Jansons](https://www.notarydepot.com/sjansons)
   - [Notary Public in Melrose Park, IL: Sandra Jones](https://www.notarydepot.com/sjjaka3gmailcom)
   - [Notary Public in Melrose Park, IL: Sandra Jones](https://www.notarydepot.com/sjjakamn)
@@ -7953,4 +7954,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-10-17T19:11:01Z
+Updated at 2018-10-17T19:31:02Z
