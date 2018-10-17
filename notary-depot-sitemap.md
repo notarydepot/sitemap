@@ -3981,8 +3981,6 @@
   - [Notary Public in Valparaiso, FL: Jarred Heath](https://www.notarydepot.com/heathmobilenotary)
   - [Notary Public in Okeechobee, FL: Heide Miller - Van Miller](https://www.notarydepot.com/heideleemiller)
   - [Notary Public in Ingalls, IN: Heidi Mcelroy](https://www.notarydepot.com/heidi)
-  - [Notary Public in Vancouver, WA: Kristine Imber](https://www.notarydepot.com/helloooo)
-  - [Notary Public in Hillsboro, OR: Kristine Imber](https://www.notarydepot.com/hellooooagain)
   - [Notary Public in Hemet, CA: Jacki Espino](https://www.notarydepot.com/hemetnotary)
   - [Notary Public in Hemet, CA: John Spranger](https://www.notarydepot.com/hemetpilot)
   - [Notary Public in Littlerock, CA: Hugo Estrada](https://www.notarydepot.com/henme0708)
@@ -7955,4 +7953,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-10-17T15:51:02Z
+Updated at 2018-10-17T16:11:01Z
