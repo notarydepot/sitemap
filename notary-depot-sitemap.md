@@ -1610,6 +1610,7 @@
     - [Notary Public in New Philadelphia, OH](https://www.notarydepot.com/notary-near-me/Ohio/New-Philadelphia)
     - [Notary Public in North Canton, OH](https://www.notarydepot.com/notary-near-me/Ohio/North-Canton)
     - [Notary Public in North Ridgeville, OH](https://www.notarydepot.com/notary-near-me/Ohio/North-Ridgeville)
+    - [Notary Public in North Royalton, OH](https://www.notarydepot.com/notary-near-me/Ohio/North-Royalton)
     - [Notary Public in Northfield, OH](https://www.notarydepot.com/notary-near-me/Ohio/Northfield)
     - [Notary Public in Oberlin, OH](https://www.notarydepot.com/notary-near-me/Ohio/Oberlin)
     - [Notary Public in Painesville, OH](https://www.notarydepot.com/notary-near-me/Ohio/Painesville)
@@ -3348,7 +3349,7 @@
   - [Notary Public in Jacksonville, NC: Denise Rivers](https://www.notarydepot.com/deerivers)
   - [Notary Public in Madison, WI: Frank Pabon](https://www.notarydepot.com/defroady)
   - [Notary Public in Bracey, VA: Denise Johnson](https://www.notarydepot.com/dej)
-  - [Notary Public in Mansfield, OH: Duane Lewis](https://www.notarydepot.com/delewis2)
+  - [Notary Public in North Royalton, OH: Duane Lewis](https://www.notarydepot.com/delewis2)
   - [Notary Public in Troy, TX: Delia Driscoll](https://www.notarydepot.com/deliaher1)
   - [Notary Public in Indianapolis, IN: Deirdre Hollowell](https://www.notarydepot.com/delorraine)
   - [Notary Public in Menifee, CA: Chuck Clark](https://www.notarydepot.com/deltachuck)
@@ -7954,4 +7955,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-10-19T01:11:02Z
+Updated at 2018-10-19T01:31:02Z
