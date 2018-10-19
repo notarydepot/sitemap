@@ -7108,6 +7108,7 @@
   - [Notary Public in Boca Raton, FL: Daniel Lee](https://www.notarydepot.com/us1notaryoffice)
   - [Notary Public in Pennsauken Township, NJ: Carmen Jimenez](https://www.notarydepot.com/user126257)
   - [Notary Public in Orem, UT: Clark Veylupek](https://www.notarydepot.com/utahclark)
+  - [Notary Public in Salt Lake City, UT: Dez Keene](https://www.notarydepot.com/utaheduc8or)
   - [Notary Public in Salt Lake City, UT: Matt Lloyd](https://www.notarydepot.com/utahnotary)
   - [Notary Public in Orem, UT: Dan Lopez](https://www.notarydepot.com/utahnotarydan)
   - [Notary Public in Opa-locka, FL: Valarie Ellis](https://www.notarydepot.com/valariellis)
@@ -7955,4 +7956,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-10-19T16:31:02Z
+Updated at 2018-10-19T16:51:02Z
