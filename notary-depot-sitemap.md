@@ -5224,6 +5224,7 @@
   - [Notary Public in Hazleton, PA: Mark W Demsko](https://www.notarydepot.com/mdemsko)
   - [Notary Public in Shreveport, LA: Michael Gray](https://www.notarydepot.com/mdgray60)
   - [Notary Public in Owings, MD: Doris Frazier](https://www.notarydepot.com/mdj9969)
+  - [Notary Public in Atlanta, GA: Michelle Jones](https://www.notarydepot.com/mdjonestech)
   - [Notary Public in St. Louis, MO: Micah Hall](https://www.notarydepot.com/mdmyles)
   - [Notary Public in Bel Air, MD: Jennifer Lynne Stevenson](https://www.notarydepot.com/mdnotary)
   - [Notary Public in Toledo, OH: Michael Sexton](https://www.notarydepot.com/mds0806)
@@ -7956,4 +7957,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-10-19T20:11:02Z
+Updated at 2018-10-19T20:31:03Z
