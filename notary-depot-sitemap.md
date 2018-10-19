@@ -2456,7 +2456,7 @@
   - [Notary Public in Ligonier, PA: Robert Amicone](https://www.notarydepot.com/amisports)
   - [Notary Public in Glen Burnie, MD: LaTrice ](https://www.notarydepot.com/amobilenotary)
   - [Notary Public in Spring Branch, TX: Anglenette Monroe](https://www.notarydepot.com/amonroe)
-  - [Notary Public in La Mirada, CA: Angela Stuart](https://www.notarydepot.com/amstuart)
+  - [Notary Public in Seal Beach, CA: Angela Stuart](https://www.notarydepot.com/amstuart)
   - [Notary Public in Ithaca, NY: Angel M Tompkins](https://www.notarydepot.com/amtompkins)
   - [Notary Public in Jacksonville, FL: Amy Dunaway](https://www.notarydepot.com/amy1705)
   - [Notary Public in Jamul, CA: Amy R Darroch](https://www.notarydepot.com/amydarroch)
@@ -7955,4 +7955,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-10-19T04:31:02Z
+Updated at 2018-10-19T04:51:02Z
