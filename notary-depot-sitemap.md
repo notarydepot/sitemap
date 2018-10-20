@@ -840,7 +840,6 @@
     - [Notary Public in Melrose Park, IL](https://www.notarydepot.com/notary-near-me/Illinois/Melrose-Park)
     - [Notary Public in Monee, IL](https://www.notarydepot.com/notary-near-me/Illinois/Monee)
     - [Notary Public in Mount Prospect, IL](https://www.notarydepot.com/notary-near-me/Illinois/Mount-Prospect)
-    - [Notary Public in Mount Vernon, IL](https://www.notarydepot.com/notary-near-me/Illinois/Mount-Vernon)
     - [Notary Public in Murphysboro, IL](https://www.notarydepot.com/notary-near-me/Illinois/Murphysboro)
     - [Notary Public in Naperville, IL](https://www.notarydepot.com/notary-near-me/Illinois/Naperville)
     - [Notary Public in New Lenox, IL](https://www.notarydepot.com/notary-near-me/Illinois/New-Lenox)
@@ -5639,7 +5638,6 @@
   - [Notary Public in Sicklerville, NJ: Leah Archer](https://www.notarydepot.com/nj856notary)
   - [Notary Public in Sandpoint, ID: Nora Kedish](https://www.notarydepot.com/njkwork)
   - [Notary Public in Toms River, NJ: Constance Santo](https://www.notarydepot.com/njnotaryexpress)
-  - [Notary Public in Trenton, NJ: Photios Pantzos](https://www.notarydepot.com/njnotaryexpressnj)
   - [Notary Public in Clearwater, FL: Norma J. Smith](https://www.notarydepot.com/njsmith)
   - [Notary Public in Hollywood, FL: Natasha Kendrick](https://www.notarydepot.com/nkendrick12)
   - [Notary Public in Santa Monica, CA: Nancy Kim](https://www.notarydepot.com/nkim7)
@@ -5999,7 +5997,6 @@
   - [Notary Public in Saint Petersburg, FL: Phyllis Dodge Cnsa W/Background Check](https://www.notarydepot.com/phyllis)
   - [Notary Public in Hollywood, FL: Pines Mobile Notary](https://www.notarydepot.com/pinesmobilenotary)
   - [Notary Public in Longview, TX: KAMILAH PIPKINS](https://www.notarydepot.com/pipkinsnotary)
-  - [Notary Public in Mount Vernon, IL: Peggy James](https://www.notarydepot.com/pjames)
   - [Notary Public in Richmond, VA: Philathea C Johnson](https://www.notarydepot.com/pjnotary99)
   - [Notary Public in Davis, WV: Patti J Scott](https://www.notarydepot.com/pjscott)
   - [Notary Public in Grand Saline, TX: Paula AroundtheClockMobileNotary](https://www.notarydepot.com/pkfleming57)
@@ -7958,4 +7955,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-10-20T21:31:02Z
+Updated at 2018-10-20T21:51:02Z
