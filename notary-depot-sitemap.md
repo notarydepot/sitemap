@@ -6836,6 +6836,7 @@
   - [Notary Public in Fort Lauderdale, FL: Cesar Ballerini](https://www.notarydepot.com/tano)
   - [Notary Public in Morgan City, LA: Tanya Escort](https://www.notarydepot.com/tanyaescort)
   - [Notary Public in Crestview, FL: Tanya Rivera](https://www.notarydepot.com/tanyanadam)
+  - [Notary Public in Los Angeles, CA: Tara Gipson](https://www.notarydepot.com/taradeng2)
   - [Notary Public in Providence, RI: Tara  M Latimer](https://www.notarydepot.com/taramobile)
   - [Notary Public in Galax, VA: Trina Miller](https://www.notarydepot.com/tarielm09)
   - [Notary Public in Bridgeport, CT: Tasha Brown](https://www.notarydepot.com/tashabrown21414)
@@ -7957,4 +7958,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-10-20T06:11:02Z
+Updated at 2018-10-20T06:31:02Z
