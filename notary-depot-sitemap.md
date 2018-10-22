@@ -1396,6 +1396,7 @@
     - [Notary Public in Baldwin, NY](https://www.notarydepot.com/notary-near-me/New-York/Baldwin)
     - [Notary Public in Baldwinsville, NY](https://www.notarydepot.com/notary-near-me/New-York/Baldwinsville)
     - [Notary Public in Bay Shore, NY](https://www.notarydepot.com/notary-near-me/New-York/Bay-Shore)
+    - [Notary Public in Bemus Point, NY](https://www.notarydepot.com/notary-near-me/New-York/Bemus-Point)
     - [Notary Public in Bridgeport, NY](https://www.notarydepot.com/notary-near-me/New-York/Bridgeport)
     - [Notary Public in Bronxville, NY](https://www.notarydepot.com/notary-near-me/New-York/Bronxville)
     - [Notary Public in Brookhaven, NY](https://www.notarydepot.com/notary-near-me/New-York/Brookhaven)
@@ -6623,6 +6624,7 @@
   - [Notary Public in Lithonia, GA: Selena R. Green](https://www.notarydepot.com/skyegreen12)
   - [Notary Public in Grass Valley, CA: sandy Laffins](https://www.notarydepot.com/slaffins)
   - [Notary Public in Bakersfield, CA: NotaryServicesEtc](https://www.notarydepot.com/slanda)
+  - [Notary Public in Bemus Point, NY: Stacey L. Caldwell](https://www.notarydepot.com/slbrowncourts)
   - [Notary Public in Scotts, MI: Sara L Carrier](https://www.notarydepot.com/slcarrier)
   - [Notary Public in Birmingham, AL: Barbara Penick](https://www.notarydepot.com/slevinblp)
   - [Notary Public in Rancho Cucamonga, CA: Mary Huerta](https://www.notarydepot.com/slinky)
@@ -7957,4 +7959,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-10-22T19:51:02Z
+Updated at 2018-10-22T20:11:02Z
