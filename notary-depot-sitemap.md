@@ -6782,6 +6782,7 @@
   - [Notary Public in Santa Fe, NM: Susan Billings](https://www.notarydepot.com/susanb)
   - [Notary Public in Webb City, MO: Susan Bryant](https://www.notarydepot.com/susanbryant)
   - [Notary Public in Simpsonville, SC: Susan Gray](https://www.notarydepot.com/susangray)
+  - [Notary Public in Bowie, MD: Susan Pfister ](https://www.notarydepot.com/susansnotary)
   - [Notary Public in Lake Placid, FL: Susan L Paramore](https://www.notarydepot.com/susiet57)
   - [Notary Public in NY, NY: Simon Utrera](https://www.notarydepot.com/sutrera)
   - [Notary Public in Whittier, CA: Suzette Cano](https://www.notarydepot.com/suzette)
@@ -7956,4 +7957,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-10-22T10:31:02Z
+Updated at 2018-10-22T10:51:02Z
