@@ -3124,7 +3124,7 @@
   - [Notary Public in Oakland, CA: Joanna M Cole, Notary Public](https://www.notarydepot.com/colesigningagent)
   - [Notary Public in Swartz Creek, MI: Colin Chea](https://www.notarydepot.com/colinchea)
   - [Notary Public in Chesapeake, VA: Colleen Holmes, CSA](https://www.notarydepot.com/colleen)
-  - [Notary Public in Lake Elsinore, CA: Colleen m gomez](https://www.notarydepot.com/colleengomez3)
+  - [Notary Public in Lake Elsinore, CA: Colleen M Gomez](https://www.notarydepot.com/colleengomez3)
   - [Notary Public in Fontana, CA: Marian Jackson](https://www.notarydepot.com/comet222)
   - [Notary Public in Columbia, MO: Ellen Rees](https://www.notarydepot.com/comonotary)
   - [Notary Public in Murrieta, CA: Connie Adams](https://www.notarydepot.com/connie)
@@ -7965,4 +7965,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-10-25T19:11:03Z
+Updated at 2018-10-25T19:31:02Z
