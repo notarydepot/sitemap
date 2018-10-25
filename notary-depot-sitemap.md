@@ -3150,7 +3150,7 @@
   - [Notary Public in Lake Havasu City, AZ: Christine Peterson ](https://www.notarydepot.com/cpeterson)
   - [Notary Public in Mililani, HI: Claire Pilar](https://www.notarydepot.com/cpilar6789)
   - [Notary Public in Los Angeles, CA: Catherine Pitman](https://www.notarydepot.com/cpitman)
-  - [Notary Public in Antioch, CA: Carolyn A. Powell](https://www.notarydepot.com/cpowell12)
+  - [Notary Public in Katy, TX: Carolyn A. Powell](https://www.notarydepot.com/cpowell12)
   - [Notary Public in Hesperia, CA: Christina Price](https://www.notarydepot.com/cprice)
   - [Notary Public in Hicksville, NY: CPS Dhillon](https://www.notarydepot.com/cpsdhillon)
   - [Notary Public in Carleton, MI: Margaret C. Quednau](https://www.notarydepot.com/cquednau)
@@ -7965,4 +7965,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-10-25T18:51:02Z
+Updated at 2018-10-25T19:11:03Z
