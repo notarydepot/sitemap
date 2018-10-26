@@ -5880,6 +5880,7 @@
   - [Notary Public in Modesto, CA: Beverly Stokke](https://www.notarydepot.com/ontherunnotary)
   - [Notary Public in Dallas, TX: Donna Gibson](https://www.notarydepot.com/ontimemobilenotary)
   - [Notary Public in Conroe, TX: Simone Shelton](https://www.notarydepot.com/ontimetosign)
+  - [Notary Public in Suffolk, VA: Ovedia Parker](https://www.notarydepot.com/oparker09)
   - [Notary Public in Ocean Park, WA: Gina Depriest](https://www.notarydepot.com/opnotary)
   - [Notary Public in Half Moon Bay, CA: Mrs.Bates](https://www.notarydepot.com/orion)
   - [Notary Public in Kissimmee, FL: Robert L. Loos](https://www.notarydepot.com/orostar)
@@ -7966,4 +7967,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-10-26T15:51:02Z
+Updated at 2018-10-26T16:11:02Z
