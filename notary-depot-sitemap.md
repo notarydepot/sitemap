@@ -3492,7 +3492,6 @@
   - [Notary Public in Rochester, NY: Donna Leonardo](https://www.notarydepot.com/donnaleonardo)
   - [Notary Public in Lafayette, LA: Donna Pourcio](https://www.notarydepot.com/donnanotary1954)
   - [Notary Public in Meadville, PA: Donna Sadwick](https://www.notarydepot.com/donnas)
-  - [Notary Public in St. Louis, MO: Donna &amp; John Wolf](https://www.notarydepot.com/donnawolf)
   - [Notary Public in Santa Ana, CA: don sneddon](https://www.notarydepot.com/donsneddon)
   - [Notary Public in Walnut, CA: Aileen Sabio](https://www.notarydepot.com/donyaleen)
   - [Notary Public in Costa Mesa, CA: Jill Bernshouse](https://www.notarydepot.com/door2doornotary)
@@ -7967,4 +7966,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-10-26T04:31:02Z
+Updated at 2018-10-26T04:51:01Z
