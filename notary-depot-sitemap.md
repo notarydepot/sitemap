@@ -863,6 +863,7 @@
     - [Notary Public in Springfield, IL](https://www.notarydepot.com/notary-near-me/Illinois/Springfield)
     - [Notary Public in Sycamore, IL](https://www.notarydepot.com/notary-near-me/Illinois/Sycamore)
     - [Notary Public in Waterloo, IL](https://www.notarydepot.com/notary-near-me/Illinois/Waterloo)
+    - [Notary Public in Waukegan, IL](https://www.notarydepot.com/notary-near-me/Illinois/Waukegan)
     - [Notary Public in Westchester, IL](https://www.notarydepot.com/notary-near-me/Illinois/Westchester)
     - [Notary Public in Woodridge, IL](https://www.notarydepot.com/notary-near-me/Illinois/Woodridge)
   - [Notaries Public in Indiana](https://www.notarydepot.com/notary-near-me/Indiana)
@@ -2605,6 +2606,7 @@
   - [Notary Public in Portsmouth, VA: Adrian Torres](https://www.notarydepot.com/atorres)
   - [Notary Public in Washington, DC: Tonya Butler-Truesdale](https://www.notarydepot.com/attytmbt)
   - [Notary Public in Grain Valley, MO: Anita Aubuchon](https://www.notarydepot.com/aubychon)
+  - [Notary Public in Waukegan, IL: Audra Bey](https://www.notarydepot.com/audrabey)
   - [Notary Public in FL: Audrey Davis](https://www.notarydepot.com/audreydavis)
   - [Notary Public in Aurora, CO: Denetria Walker](https://www.notarydepot.com/auroramobilenotaryservicesgmailcom)
   - [Notary Public in Austin, TX: www.MobileAustinNotary.com](https://www.notarydepot.com/austintexasnotary)
@@ -7967,4 +7969,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-10-26T19:11:02Z
+Updated at 2018-10-26T19:31:02Z
