@@ -1105,6 +1105,7 @@
     - [Notary Public in Grand Blanc, MI](https://www.notarydepot.com/notary-near-me/Michigan/Grand-Blanc)
     - [Notary Public in Grand Rapids, MI](https://www.notarydepot.com/notary-near-me/Michigan/Grand-Rapids)
     - [Notary Public in Grosse Pointe, MI](https://www.notarydepot.com/notary-near-me/Michigan/Grosse-Pointe)
+    - [Notary Public in Harrison charter Township, MI](https://www.notarydepot.com/notary-near-me/Michigan/Harrison-charter-Township)
     - [Notary Public in Hillsdale, MI](https://www.notarydepot.com/notary-near-me/Michigan/Hillsdale)
     - [Notary Public in Holland, MI](https://www.notarydepot.com/notary-near-me/Michigan/Holland)
     - [Notary Public in Holly, MI](https://www.notarydepot.com/notary-near-me/Michigan/Holly)
@@ -2966,6 +2967,7 @@
   - [Notary Public in Reynoldsburg, OH: Carl D DeMatteo](https://www.notarydepot.com/cdaved)
   - [Notary Public in Augusta, GA: Constance Davis](https://www.notarydepot.com/cdavis)
   - [Notary Public in High Point, NC: Christie Devine](https://www.notarydepot.com/cdevine)
+  - [Notary Public in Harrison charter Township, MI: Catherine A Dawley](https://www.notarydepot.com/cdnotarysigninggmailcom)
   - [Notary Public in Indianapolis, IN: Craig Douglass Betts](https://www.notarydepot.com/cdouglassb)
   - [Notary Public in Woodbridge, VA: Cds Notary Services](https://www.notarydepot.com/cds35)
   - [Notary Public in Waukesha, WI: Cheryl Yeko](https://www.notarydepot.com/cdyeko)
@@ -7965,4 +7967,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-10-26T01:51:02Z
+Updated at 2018-10-26T02:11:03Z
