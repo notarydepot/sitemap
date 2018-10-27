@@ -6181,6 +6181,7 @@
   - [Notary Public in McAllen, TX: Reggie Osborne](https://www.notarydepot.com/reggieosborne)
   - [Notary Public in Philadelphia, PA: Julius Williams ](https://www.notarydepot.com/reinajulius)
   - [Notary Public in Fort Lauderdale, FL: Ron Glazer](https://www.notarydepot.com/reliable)
+  - [Notary Public in NC: Angela Boone](https://www.notarydepot.com/reliablenotary)
   - [Notary Public in Pickerington, OH: Reliaclose.Com](https://www.notarydepot.com/reliaclose)
   - [Notary Public in Big Bear, CA: Janet A Sanchez](https://www.notarydepot.com/relyonmenotary)
   - [Notary Public in Temecula, CA: Rena Reinagel](https://www.notarydepot.com/rena)
@@ -7969,4 +7970,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-10-27T17:51:02Z
+Updated at 2018-10-27T18:11:02Z
