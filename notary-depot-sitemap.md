@@ -3958,7 +3958,6 @@
   - [Notary Public in Phoenix, AZ: Allisa Choate](https://www.notarydepot.com/happyvalleynotary)
   - [Notary Public in Las Vegas, NV: Cheryl B. Sirote](https://www.notarydepot.com/hardworker)
   - [Notary Public in San Marcos, CA: Heather Reinhold](https://www.notarydepot.com/hareinhold)
-  - [Notary Public in Port Angeles, WA: Layne Frehner](https://www.notarydepot.com/harley)
   - [Notary Public in Brownsboro, AL: Susan Harmening](https://www.notarydepot.com/harmening1)
   - [Notary Public in Harrison, AR: Catherine Minor](https://www.notarydepot.com/harp40)
   - [Notary Public in Birmingham, AL: Harriette Littleton](https://www.notarydepot.com/harrieo)
@@ -7971,4 +7970,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-10-27T23:31:02Z
+Updated at 2018-10-27T23:51:02Z
