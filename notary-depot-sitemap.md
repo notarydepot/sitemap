@@ -1492,6 +1492,7 @@
     - [Notary Public in Wurtsboro, NY](https://www.notarydepot.com/notary-near-me/New-York/Wurtsboro)
     - [Notary Public in Yonkers, NY](https://www.notarydepot.com/notary-near-me/New-York/Yonkers)
   - [Notaries Public in North Carolina](https://www.notarydepot.com/notary-near-me/North-Carolina)
+    - [Notary Public in Ahoskie, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Ahoskie)
     - [Notary Public in Alexander, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Alexander)
     - [Notary Public in Andrews, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Andrews)
     - [Notary Public in Apex, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Apex)
@@ -6181,7 +6182,7 @@
   - [Notary Public in McAllen, TX: Reggie Osborne](https://www.notarydepot.com/reggieosborne)
   - [Notary Public in Philadelphia, PA: Julius Williams ](https://www.notarydepot.com/reinajulius)
   - [Notary Public in Fort Lauderdale, FL: Ron Glazer](https://www.notarydepot.com/reliable)
-  - [Notary Public in NC: Angela Boone](https://www.notarydepot.com/reliablenotary)
+  - [Notary Public in Ahoskie, NC: Angela Boone](https://www.notarydepot.com/reliablenotary)
   - [Notary Public in Pickerington, OH: Reliaclose.Com](https://www.notarydepot.com/reliaclose)
   - [Notary Public in Big Bear, CA: Janet A Sanchez](https://www.notarydepot.com/relyonmenotary)
   - [Notary Public in Temecula, CA: Rena Reinagel](https://www.notarydepot.com/rena)
@@ -7970,4 +7971,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-10-27T18:11:02Z
+Updated at 2018-10-27T18:31:02Z
