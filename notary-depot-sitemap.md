@@ -4540,7 +4540,6 @@
   - [Notary Public in CA: Kapil Kumar](https://www.notarydepot.com/kapilk)
   - [Notary Public in Washington, DC: Craig Pooler](https://www.notarydepot.com/kappa98)
   - [Notary Public in Colorado Springs, CO: Kimberly Aquino](https://www.notarydepot.com/kaquino1986)
-  - [Notary Public in Duluth, MN: Kara R. Gunderson](https://www.notarydepot.com/kara4308)
   - [Notary Public in Brookhaven, MS: Kara Dawn Forman](https://www.notarydepot.com/karadawn)
   - [Notary Public in San Marcos, CA: Karen L. Farley](https://www.notarydepot.com/karen1227)
   - [Notary Public in Manchester, NH: Karen L. Brown](https://www.notarydepot.com/karen1958)
@@ -7969,4 +7968,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-10-28T23:11:02Z
+Updated at 2018-10-28T23:31:02Z
