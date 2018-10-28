@@ -7314,6 +7314,7 @@
   - [Notary Public in Salem, OR: Dustin](https://www.notarydepot.com/younginc)
   - [Notary Public in Shillington, PA: Jacquelline Powers](https://www.notarydepot.com/yournotary72021)
   - [Notary Public in Los Angeles, CA: Lisa San Miguel](https://www.notarydepot.com/yoursigningagent)
+  - [Notary Public in Placerville, CA: Leonard Land](https://www.notarydepot.com/yourstruly)
   - [Notary Public in Murdock, FL: Ronald Gillis](https://www.notarydepot.com/yourswflnotary)
   - [Notary Public in NY: Yelena Rodnyanskaya](https://www.notarydepot.com/yrasap)
   - [Notary Public in Oceanside, CA: Yvonne S Walsh](https://www.notarydepot.com/yswalsh)
@@ -7968,4 +7969,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-10-28T20:31:02Z
+Updated at 2018-10-28T20:51:02Z
