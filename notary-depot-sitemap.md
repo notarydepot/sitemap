@@ -4508,6 +4508,7 @@
   - [Notary Public in NY: Yadhira Gonzalez-Taylor](https://www.notarydepot.com/jurist2002)
   - [Notary Public in Middletown, PA: Beth C. Lawson](https://www.notarydepot.com/jury1996)
   - [Notary Public in Casselberry, FL: Lucille O&#39;Reilly](https://www.notarydepot.com/justclosings)
+  - [Notary Public in CA: Julin Geba](https://www.notarydepot.com/justdeed)
   - [Notary Public in Mission Viejo, CA: Justin Yagher](https://www.notarydepot.com/justinyagher)
   - [Notary Public in Baton Rouge, LA: Veronica Mathis](https://www.notarydepot.com/justlegalbusiness)
   - [Notary Public in Bowie, MD: Marie La Fontaine](https://www.notarydepot.com/justrt4u)
@@ -7969,4 +7970,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-10-29T21:11:02Z
+Updated at 2018-10-29T21:31:02Z
