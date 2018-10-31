@@ -4843,7 +4843,7 @@
   - [Notary Public in Martinez, CA: Lisa Zaragoza](https://www.notarydepot.com/lazaragoza72)
   - [Notary Public in Baltimore, MD: Lazette A Wells](https://www.notarydepot.com/lazettewellsmobilenotary)
   - [Notary Public in Sanger, CA: Chuck Goff](https://www.notarydepot.com/lbchuck)
-  - [Notary Public in Irvine, CA: Lina Beydoun](https://www.notarydepot.com/lbeydoun)
+  - [Notary Public in Garden Grove, CA: Lina Beydoun](https://www.notarydepot.com/lbeydoun)
   - [Notary Public in Florence, MS: Pat Boyd](https://www.notarydepot.com/lboyd09331)
   - [Notary Public in Jersey City, NJ: Tmgm Notary Services](https://www.notarydepot.com/lbradley06)
   - [Notary Public in Sheridan, IL: Lynn Marie Brown](https://www.notarydepot.com/lbrown137)
@@ -7970,4 +7970,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-10-31T01:51:02Z
+Updated at 2018-10-31T02:11:02Z
