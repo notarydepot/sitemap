@@ -741,6 +741,7 @@
     - [Notary Public in Covington, GA](https://www.notarydepot.com/notary-near-me/Georgia/Covington)
     - [Notary Public in Dallas, GA](https://www.notarydepot.com/notary-near-me/Georgia/Dallas)
     - [Notary Public in Decatur, GA](https://www.notarydepot.com/notary-near-me/Georgia/Decatur)
+    - [Notary Public in Doerun, GA](https://www.notarydepot.com/notary-near-me/Georgia/Doerun)
     - [Notary Public in Douglasville, GA](https://www.notarydepot.com/notary-near-me/Georgia/Douglasville)
     - [Notary Public in Duluth, GA](https://www.notarydepot.com/notary-near-me/Georgia/Duluth)
     - [Notary Public in Evans, GA](https://www.notarydepot.com/notary-near-me/Georgia/Evans)
@@ -3976,6 +3977,7 @@
   - [Notary Public in Medford, OR: Hilda Pantoja](https://www.notarydepot.com/hbpantoja)
   - [Notary Public in Palm Beach Gardens, FL: Humberto Velasco](https://www.notarydepot.com/hbtousa)
   - [Notary Public in Cantonment, FL: Beverly Nichols](https://www.notarydepot.com/hcampers)
+  - [Notary Public in Doerun, GA: Heidi Cannon](https://www.notarydepot.com/hcannonr)
   - [Notary Public in Cedar Park, TX: Carlene Foley](https://www.notarydepot.com/hcnotary)
   - [Notary Public in Idaho Falls, ID: Helen Guymon](https://www.notarydepot.com/hdservices)
   - [Notary Public in Spring Grove, PA: Teresa Klinedinst](https://www.notarydepot.com/hdvrod1)
@@ -7972,4 +7974,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-11-02T01:11:02Z
+Updated at 2018-11-02T01:31:02Z
