@@ -2611,7 +2611,6 @@
   - [Notary Public in Waukegan, IL: Audra Bey](https://www.notarydepot.com/audrabey)
   - [Notary Public in FL: Audrey Davis](https://www.notarydepot.com/audreydavis)
   - [Notary Public in Aurora, CO: Denetria Walker](https://www.notarydepot.com/auroramobilenotaryservicesgmailcom)
-  - [Notary Public in Austin, TX: www.MobileAustinNotary.com](https://www.notarydepot.com/austintexasnotary)
   - [Notary Public in South Berwick, ME: Amanda M. Valli](https://www.notarydepot.com/avalli7)
   - [Notary Public in Lula, GA: Alyssa Vaughn](https://www.notarydepot.com/avaughn)
   - [Notary Public in Lathrop, CA: Angeles Velasco](https://www.notarydepot.com/avelasco)
@@ -7974,4 +7973,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-11-02T21:31:01Z
+Updated at 2018-11-02T21:51:01Z
