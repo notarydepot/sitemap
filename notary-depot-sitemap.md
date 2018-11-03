@@ -1088,6 +1088,7 @@
     - [Notary Public in Bay City, MI](https://www.notarydepot.com/notary-near-me/Michigan/Bay-City)
     - [Notary Public in Benton Harbor, MI](https://www.notarydepot.com/notary-near-me/Michigan/Benton-Harbor)
     - [Notary Public in Berkley, MI](https://www.notarydepot.com/notary-near-me/Michigan/Berkley)
+    - [Notary Public in Big Rapids, MI](https://www.notarydepot.com/notary-near-me/Michigan/Big-Rapids)
     - [Notary Public in Birmingham, MI](https://www.notarydepot.com/notary-near-me/Michigan/Birmingham)
     - [Notary Public in Blissfield, MI](https://www.notarydepot.com/notary-near-me/Michigan/Blissfield)
     - [Notary Public in Bronson, MI](https://www.notarydepot.com/notary-near-me/Michigan/Bronson)
@@ -2821,6 +2822,7 @@
   - [Notary Public in Stow, OH: Brandy Money](https://www.notarydepot.com/brandymny)
   - [Notary Public in Snellville, GA: Brandy Gifford](https://www.notarydepot.com/brandy_g2)
   - [Notary Public in Lake Forest, CA: J. M. Smith](https://www.notarydepot.com/brasring)
+  - [Notary Public in Big Rapids, MI: Brayden Kessler](https://www.notarydepot.com/braydenkessler)
   - [Notary Public in Clermont, FL: Brenda DeArmond](https://www.notarydepot.com/brdearmond)
   - [Notary Public in Brea, CA: Ken Case](https://www.notarydepot.com/breakenn)
   - [Notary Public in El Monte, CA: Brenda Galindo](https://www.notarydepot.com/brenda1227)
@@ -7974,4 +7976,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-11-03T10:51:02Z
+Updated at 2018-11-03T11:11:02Z
