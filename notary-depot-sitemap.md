@@ -2314,6 +2314,7 @@
   - [Notary Public in Oakland, CA: Janie Brown](https://www.notarydepot.com/abundantlyblessed69)
   - [Notary Public in Riverside, CA: Jennifer West](https://www.notarydepot.com/acaangelsfan)
   - [Notary Public in Fair Oaks, CA: Demian Ross](https://www.notarydepot.com/acaciacon)
+  - [Notary Public in Crisfield, MD: Alexis Carter](https://www.notarydepot.com/acarter)
   - [Notary Public in Littleton, CO: Arthur Carlson](https://www.notarydepot.com/acc169)
   - [Notary Public in Las Vegas, NV: Ronald Gephart](https://www.notarydepot.com/accurateloansigning)
   - [Notary Public in Homosassa, FL: Janet Simmons](https://www.notarydepot.com/accurize)
@@ -7976,4 +7977,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-11-04T00:11:02Z
+Updated at 2018-11-04T00:31:02Z
