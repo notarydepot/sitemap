@@ -2809,7 +2809,7 @@
   - [Notary Public in Ocala, FL: Diana Schmidt](https://www.notarydepot.com/boopster)
   - [Notary Public in Riverside, CA: Cindy D. Hamilton](https://www.notarydepot.com/bootrell)
   - [Notary Public in Deltona, FL: Sarina Kelly](https://www.notarydepot.com/bosslady)
-  - [Notary Public in Nashville, TN: Lynn E Cadabra](https://www.notarydepot.com/bossladynotary)
+  - [Notary Public in Nashville, TN: Lynn E Slusher](https://www.notarydepot.com/bossladynotary)
   - [Notary Public in La Marque, TX: Ceratha Henderson](https://www.notarydepot.com/bottomlinenotary)
   - [Notary Public in Suncook, NH: David P Boucher](https://www.notarydepot.com/boucher03275)
   - [Notary Public in South Orange, NJ: Duane Mccalla](https://www.notarydepot.com/boxx)
@@ -7978,4 +7978,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-11-05T18:11:03Z
+Updated at 2018-11-05T18:31:02Z
