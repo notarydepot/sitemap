@@ -7171,6 +7171,7 @@
   - [Notary Public in Largo, FL: Veronica Tyler](https://www.notarydepot.com/veronicat06)
   - [Notary Public in Jacksonville, FL: Verssie V. Randolph](https://www.notarydepot.com/verssie2)
   - [Notary Public in Middletown, NY: Victoria Estridge](https://www.notarydepot.com/vestridge)
+  - [Notary Public in Wilmington, DE: VETA MCCARTHER](https://www.notarydepot.com/veta)
   - [Notary Public in Clinton, MS: Jeffre Thompson](https://www.notarydepot.com/vevanotary)
   - [Notary Public in Spartanburg, SC: Virginia Adams](https://www.notarydepot.com/vewatson)
   - [Notary Public in Mayfield, KY: Amy Pember](https://www.notarydepot.com/vexxtra)
@@ -7978,4 +7979,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-11-07T02:12:02Z
+Updated at 2018-11-07T02:32:02Z
