@@ -3766,6 +3766,7 @@
   - [Notary Public in Deltona, FL: Kelly Brill](https://www.notarydepot.com/flparalegal)
   - [Notary Public in Fort Myers, FL: Landis Pettus, NNA Commissioned, NSA Certified](https://www.notarydepot.com/flpremiernotary)
   - [Notary Public in New York, NY: Florence](https://www.notarydepot.com/flrncwats)
+  - [Notary Public in East Brunswick, NJ: Zaman Eid](https://www.notarydepot.com/fluentlaw)
   - [Notary Public in Great Falls, MT: Andrea Walsh-Dowell](https://www.notarydepot.com/fluffykarma)
   - [Notary Public in Dallas, TX: Felicia Young](https://www.notarydepot.com/flyoung)
   - [Notary Public in Hernando, FL: Cheryl Aerts](https://www.notarydepot.com/fl_doc_runner)
@@ -7978,4 +7979,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-11-07T23:12:01Z
+Updated at 2018-11-07T23:32:02Z
