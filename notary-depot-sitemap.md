@@ -4725,7 +4725,6 @@
   - [Notary Public in Los Angeles, CA: Amir Tabrizi](https://www.notarydepot.com/kodakmacysplaza)
   - [Notary Public in Noblesville, IN: Kerri Officer-Young](https://www.notarydepot.com/kofficer)
   - [Notary Public in Wenatchee, WA: Kori Stuber](https://www.notarydepot.com/kori)
-  - [Notary Public in Orange, CA: Korrine Simon](https://www.notarydepot.com/korrinesimon)
   - [Notary Public in Reedsburg, WI: Kara Olson Sullivan](https://www.notarydepot.com/kosullivanaway)
   - [Notary Public in Piqua, OH: Kristine Pence](https://www.notarydepot.com/kpence70)
   - [Notary Public in Jacksonville, FL: Kiala Pigott](https://www.notarydepot.com/kpnotary_)
@@ -7979,4 +7978,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-11-07T18:52:02Z
+Updated at 2018-11-07T19:12:02Z
