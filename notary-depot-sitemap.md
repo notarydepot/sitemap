@@ -5445,7 +5445,6 @@
   - [Notary Public in Tolleson, AZ: Monica](https://www.notarydepot.com/monicamilleraz)
   - [Notary Public in El Centro, CA: Monica M Leon](https://www.notarydepot.com/monicamleon)
   - [Notary Public in Los Angeles, CA: Monica Radulescu](https://www.notarydepot.com/monicaradulescu)
-  - [Notary Public in South Elgin, IL: Anette Burris](https://www.notarydepot.com/monika)
   - [Notary Public in West Covina, CA: Monica Ortiz](https://www.notarydepot.com/moniortiz90)
   - [Notary Public in Louisville, KY: Monique marshall](https://www.notarydepot.com/monique)
   - [Notary Public in Louisville, KY: Monique Marshall](https://www.notarydepot.com/moniquemarshall)
@@ -7979,4 +7978,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-11-08T09:52:02Z
+Updated at 2018-11-08T10:12:02Z
