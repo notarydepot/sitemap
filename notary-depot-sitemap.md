@@ -4733,6 +4733,7 @@
   - [Notary Public in Jacksonville, FL: Krystal Powell](https://www.notarydepot.com/kpowell0219)
   - [Notary Public in Las Vegas, NV: Kendall L Prazzo](https://www.notarydepot.com/kprazzo)
   - [Notary Public in Lynnwood, WA: Karla Stevens](https://www.notarydepot.com/kraestevens)
+  - [Notary Public in San Diego, CA: Kevin Croteau](https://www.notarydepot.com/krcroteau)
   - [Notary Public in Dallas, TX: Keisha](https://www.notarydepot.com/krhodes35)
   - [Notary Public in Bismarck, ND: Kevin T Richmond](https://www.notarydepot.com/krichmond)
   - [Notary Public in NJ: Kristen Bannon](https://www.notarydepot.com/krisbannon)
@@ -7979,4 +7980,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-11-08T18:12:02Z
+Updated at 2018-11-08T18:32:02Z
