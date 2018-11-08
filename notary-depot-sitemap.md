@@ -2901,6 +2901,7 @@
   - [Notary Public in Oklahoma City, OK: Caleb Dickenson ](https://www.notarydepot.com/calebthenotary)
   - [Notary Public in Murrieta, CA: Marie Armenta](https://www.notarydepot.com/caligirlz111)
   - [Notary Public in Louisville, KY: Callie Baker](https://www.notarydepot.com/calliebaker)
+  - [Notary Public in Los Angeles, CA: Mendel Plotke](https://www.notarydepot.com/calnotary)
   - [Notary Public in Fayette, MS: Calvin Muhammad](https://www.notarydepot.com/calvinjam)
   - [Notary Public in Dexter, MO: Camie Jelinek](https://www.notarydepot.com/camiejelinek)
   - [Notary Public in Brentwood, CA: Sheree Mischelle Valadez](https://www.notarydepot.com/camobilenotary)
@@ -7980,4 +7981,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-11-08T20:12:02Z
+Updated at 2018-11-08T20:32:02Z
