@@ -4231,6 +4231,7 @@
   - [Notary Public in Wurtsboro, NY: Jean M. Dougherty](https://www.notarydepot.com/jeand)
   - [Notary Public in NY: Jeanette Wilson](https://www.notarydepot.com/jeanettewilson)
   - [Notary Public in Cleveland, OH: Jeanine Sims](https://www.notarydepot.com/jeaninesims)
+  - [Notary Public in FL: Jean Meyer](https://www.notarydepot.com/jeanmeyer)
   - [Notary Public in Bradenton, FL: Jean Meyer](https://www.notarydepot.com/jeanmeyer247)
   - [Notary Public in North Berwick, ME: Jeannie Provencher](https://www.notarydepot.com/jeannie50mp469)
   - [Notary Public in Chicago, IL: Jean Zei](https://www.notarydepot.com/jeanzei)
@@ -5291,6 +5292,7 @@
   - [Notary Public in Denham Springs, LA: Mary Glover](https://www.notarydepot.com/mglover71)
   - [Notary Public in Chino, CA: Mike Goodey](https://www.notarydepot.com/mgn)
   - [Notary Public in Mastic Beach, NY: Maria Ganci](https://www.notarydepot.com/mgnotarypublic)
+  - [Notary Public in Framingham, MA: joseph garcia](https://www.notarydepot.com/mgobluejo)
   - [Notary Public in Redlands, CA: Maria R Gonzalez](https://www.notarydepot.com/mgonzalez)
   - [Notary Public in Bend, OR: Melissa Gottlieb](https://www.notarydepot.com/mgottlieb73)
   - [Notary Public in Oaklyn, NJ: Mary Grear](https://www.notarydepot.com/mgrear7)
@@ -7978,4 +7980,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-11-08T15:52:02Z
+Updated at 2018-11-08T16:12:03Z
