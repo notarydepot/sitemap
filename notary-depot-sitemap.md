@@ -6926,6 +6926,7 @@
   - [Notary Public in Niceville, FL: Brit Fidler](https://www.notarydepot.com/thefidler)
   - [Notary Public in Flower Mound, TX: Reggie Osborne](https://www.notarydepot.com/thegoat68)
   - [Notary Public in Decatur, GA: Aaron Murrell](https://www.notarydepot.com/theloanarranger)
+  - [Notary Public in Tyler, TX: Barbara Duffey](https://www.notarydepot.com/thelonestarnotary)
   - [Notary Public in Colton, CA: Renee Luckey](https://www.notarydepot.com/theluckeynotary)
   - [Notary Public in Anaheim, CA: Jesus Valdez Cebillos](https://www.notarydepot.com/themailroom)
   - [Notary Public in Mount Holly, NJ: Matty Midura](https://www.notarydepot.com/thematt)
@@ -7981,4 +7982,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-11-09T07:12:02Z
+Updated at 2018-11-09T07:32:02Z
