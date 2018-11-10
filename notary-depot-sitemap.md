@@ -3034,6 +3034,7 @@
   - [Notary Public in Kingsport, TN: Cherie Lavon](https://www.notarydepot.com/cherjer)
   - [Notary Public in Montgomery, AL: Cheryl M Henderson ](https://www.notarydepot.com/chermarie)
   - [Notary Public in Lindenhurst, NY: Cheryl L. Diehl](https://www.notarydepot.com/cheryld)
+  - [Notary Public in Carson, CA: CHERYL D CARTER-HARRIS](https://www.notarydepot.com/cherylharris)
   - [Notary Public in Gulf Breeze, FL: Cheryl Maniscalco](https://www.notarydepot.com/cherylmnotary)
   - [Notary Public in Jasper, FL: Cheryl Young](https://www.notarydepot.com/cherylyoung)
   - [Notary Public in Chicago, IL: Carrie Rivera](https://www.notarydepot.com/chicagoparalegalnotaryservices)
@@ -7982,4 +7983,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-11-10T13:52:02Z
+Updated at 2018-11-10T14:12:02Z
