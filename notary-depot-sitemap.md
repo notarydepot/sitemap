@@ -1197,6 +1197,7 @@
     - [Notary Public in Ridgeland, MS](https://www.notarydepot.com/notary-near-me/Mississippi/Ridgeland)
     - [Notary Public in Saucier, MS](https://www.notarydepot.com/notary-near-me/Mississippi/Saucier)
     - [Notary Public in Terry, MS](https://www.notarydepot.com/notary-near-me/Mississippi/Terry)
+    - [Notary Public in Tupelo, MS](https://www.notarydepot.com/notary-near-me/Mississippi/Tupelo)
     - [Notary Public in Vancleave, MS](https://www.notarydepot.com/notary-near-me/Mississippi/Vancleave)
     - [Notary Public in Vicksburg, MS](https://www.notarydepot.com/notary-near-me/Mississippi/Vicksburg)
   - [Notaries Public in Missouri](https://www.notarydepot.com/notary-near-me/Missouri)
@@ -4055,6 +4056,7 @@
   - [Notary Public in Moreno Valley, CA: Irene Anderson](https://www.notarydepot.com/ianders411)
   - [Notary Public in Urbandale, IA: Julie Sleep](https://www.notarydepot.com/ianotary)
   - [Notary Public in Laguna Vista, TX: Amy E. Robinson](https://www.notarydepot.com/ibisamy)
+  - [Notary Public in Tupelo, MS: Isreal. Clark](https://www.notarydepot.com/icreddtoppus)
   - [Notary Public in Boise, ID: Tamara Scott](https://www.notarydepot.com/idahonotary)
   - [Notary Public in West New York, NJ: Idania Lorenti](https://www.notarydepot.com/idania)
   - [Notary Public in Baytown, TX: Imelda Donaldson](https://www.notarydepot.com/idonaldson58)
@@ -7984,4 +7986,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-11-11T20:32:01Z
+Updated at 2018-11-11T20:52:02Z
