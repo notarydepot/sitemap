@@ -6505,6 +6505,7 @@
   - [Notary Public in Emeryville, CA: Mohammad Malek](https://www.notarydepot.com/shahaib)
   - [Notary Public in Mesquite, TX: Ashish Alexander](https://www.notarydepot.com/shalom7784)
   - [Notary Public in Jurupa Valley, CA: S. Tracey](https://www.notarydepot.com/shalondat34)
+  - [Notary Public in NV: Shannon L Hammond](https://www.notarydepot.com/shammond)
   - [Notary Public in Chicago, IL: Shanetra Wilson](https://www.notarydepot.com/shanetrawilson)
   - [Notary Public in Miami Gardens, FL: shania hall](https://www.notarydepot.com/shaniajam)
   - [Notary Public in Woodbridge, VA: Shanitra Johnson](https://www.notarydepot.com/shanitra_johnson)
@@ -7983,4 +7984,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-11-11T17:52:02Z
+Updated at 2018-11-11T18:12:02Z
