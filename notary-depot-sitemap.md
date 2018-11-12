@@ -5310,6 +5310,7 @@
   - [Notary Public in Yuba City, CA: Michael Muse](https://www.notarydepot.com/michael49)
   - [Notary Public in Liberty, MS: Lisa Forman](https://www.notarydepot.com/michaelisa)
   - [Notary Public in El Paso, TX: Michael K. Wade](https://www.notarydepot.com/michaelkwade)
+  - [Notary Public in Greenville, NC: Michael](https://www.notarydepot.com/michaelowens)
   - [Notary Public in Joliet, IL: Michael Sheehan](https://www.notarydepot.com/michaelsheehan)
   - [Notary Public in Los Angeles, CA: Michael Yamamoto](https://www.notarydepot.com/michaely69)
   - [Notary Public in Citrus Heights, CA: Michele Avila](https://www.notarydepot.com/micheleavila)
@@ -7986,4 +7987,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-11-12T20:52:02Z
+Updated at 2018-11-12T21:12:02Z
