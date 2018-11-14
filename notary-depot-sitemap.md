@@ -6335,6 +6335,7 @@
   - [Notary Public in Dallas, TX: Roxanne Hollingsworth](https://www.notarydepot.com/roxienotary)
   - [Notary Public in Bethany, MO: Roxann Rickey](https://www.notarydepot.com/roxierickey)
   - [Notary Public in Calumet City, IL: Renee A Washington](https://www.notarydepot.com/roxy101)
+  - [Notary Public in Ontario, CA: Lakesha Royal](https://www.notarydepot.com/royalseal)
   - [Notary Public in Houston, TX: Datronaye Jones](https://www.notarydepot.com/royaltax)
   - [Notary Public in Los Angeles, CA: Roy Dubos](https://www.notarydepot.com/roydubos)
   - [Notary Public in Chicago, IL: Geraldine Green](https://www.notarydepot.com/roylt222)
@@ -7987,4 +7988,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-11-14T15:12:02Z
+Updated at 2018-11-14T15:32:03Z
