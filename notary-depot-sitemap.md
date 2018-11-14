@@ -7049,7 +7049,6 @@
   - [Notary Public in Des Moines, IA: Traci Klein](https://www.notarydepot.com/tracis)
   - [Notary Public in Manassas, VA: Rita J Crepeau](https://www.notarydepot.com/trackers55)
   - [Notary Public in Pawhuska, OK: Tracy Easley](https://www.notarydepot.com/tracyeasley)
-  - [Notary Public in Crawfordville, FL: Tracy Guidi](https://www.notarydepot.com/tracyguidi)
   - [Notary Public in L&#39;Anse, MI: Tracy Kahkonen](https://www.notarydepot.com/tracykahkonen)
   - [Notary Public in Edmonds, WA: Tracy Perkins-Chopra](https://www.notarydepot.com/tracyl5)
   - [Notary Public in Huntington, WV: Travis King](https://www.notarydepot.com/travcam)
@@ -7988,4 +7987,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-11-14T12:52:02Z
+Updated at 2018-11-14T13:12:02Z
