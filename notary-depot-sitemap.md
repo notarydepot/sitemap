@@ -5044,7 +5044,6 @@
   - [Notary Public in Baton Rouge, LA: Luke Morris, JD](https://www.notarydepot.com/lsulaw2013)
   - [Notary Public in Elk Grove, CA: Lindsey Temple](https://www.notarydepot.com/ltemple)
   - [Notary Public in Chino, CA: Erika Garcia](https://www.notarydepot.com/ltlbg731)
-  - [Notary Public in Atlanta, GA: Lucretia T. Marshall](https://www.notarydepot.com/ltmsignatureservices)
   - [Notary Public in Tobyhanna, PA: Marta E. Torres](https://www.notarydepot.com/ltorres129)
   - [Notary Public in Casper, WY: Luana Emmons](https://www.notarydepot.com/luanae)
   - [Notary Public in San Antonio, TX: Tom Lucas](https://www.notarydepot.com/lucaslegalnotary)
@@ -7990,4 +7989,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-11-16T18:52:02Z
+Updated at 2018-11-16T19:12:02Z
