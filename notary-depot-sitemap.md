@@ -853,6 +853,7 @@
     - [Notary Public in Oak Park, IL](https://www.notarydepot.com/notary-near-me/Illinois/Oak-Park)
     - [Notary Public in Orland Park, IL](https://www.notarydepot.com/notary-near-me/Illinois/Orland-Park)
     - [Notary Public in Park Ridge, IL](https://www.notarydepot.com/notary-near-me/Illinois/Park-Ridge)
+    - [Notary Public in Paxton, IL](https://www.notarydepot.com/notary-near-me/Illinois/Paxton)
     - [Notary Public in Peoria, IL](https://www.notarydepot.com/notary-near-me/Illinois/Peoria)
     - [Notary Public in Princeton, IL](https://www.notarydepot.com/notary-near-me/Illinois/Princeton)
     - [Notary Public in Rockford, IL](https://www.notarydepot.com/notary-near-me/Illinois/Rockford)
@@ -3527,6 +3528,7 @@
   - [Notary Public in Oxnard, CA: Dale Morris](https://www.notarydepot.com/dpknotary)
   - [Notary Public in Midvale, UT: Dian D Pollard](https://www.notarydepot.com/dpollard)
   - [Notary Public in West Harrison, OH: Timothy Turner](https://www.notarydepot.com/dracer377m)
+  - [Notary Public in Paxton, IL: Don Ragan](https://www.notarydepot.com/dragan)
   - [Notary Public in Middletown, DE: LaShawn Draper](https://www.notarydepot.com/drapernotary)
   - [Notary Public in Sun City, AZ: Debra Edwards](https://www.notarydepot.com/dreamnotary)
   - [Notary Public in West Palm Beach, FL: Andrew Wilson](https://www.notarydepot.com/drewcity)
@@ -7987,4 +7989,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-11-19T02:12:02Z
+Updated at 2018-11-19T02:32:02Z
