@@ -2437,7 +2437,7 @@
   - [Notary Public in Tampa, FL: Julissa Alvarez](https://www.notarydepot.com/alvarez8533)
   - [Notary Public in Boynton Beach, FL: Terri T Golden](https://www.notarydepot.com/alwaysavailable)
   - [Notary Public in Ionia, MI: Alice L. Samani-zozo](https://www.notarydepot.com/alzsamani)
-  - [Notary Public in Elkton, MD: Ann Marie Williams](https://www.notarydepot.com/am24wnotarydepot)
+  - [Notary Public in Beverly Hills, FL: Ann Marie Williams](https://www.notarydepot.com/am24wnotarydepot)
   - [Notary Public in Miami, FL: Amabel Gonzalez](https://www.notarydepot.com/amabelgonzalez1)
   - [Notary Public in Palmdale, CA: Anthony Madera](https://www.notarydepot.com/amadera)
   - [Notary Public in Chula Vista, CA: Martha C. Amador](https://www.notarydepot.com/amadornotary)
@@ -7990,4 +7990,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-11-21T16:32:02Z
+Updated at 2018-11-21T16:52:01Z
