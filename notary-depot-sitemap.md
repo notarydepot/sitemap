@@ -5517,6 +5517,7 @@
   - [Notary Public in Clovis, CA: Monique Sharp](https://www.notarydepot.com/msharp)
   - [Notary Public in New York, NY: 24 Hour New York City Mobile Notary](https://www.notarydepot.com/mshohet11)
   - [Notary Public in Atlanta, GA: Marcia Sigler](https://www.notarydepot.com/msigler)
+  - [Notary Public in Memphis, TN: Marilyn B. Simmons](https://www.notarydepot.com/msimmons38109)
   - [Notary Public in San Diego, CA: Monique Simpao](https://www.notarydepot.com/msimpao)
   - [Notary Public in Miami, FL: Matilde Y. Valdez](https://www.notarydepot.com/msmatilde)
   - [Notary Public in Cary, NC: Tracey S. Matthews](https://www.notarydepot.com/msmatthews)
@@ -7990,4 +7991,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-11-21T08:52:02Z
+Updated at 2018-11-21T09:12:02Z
