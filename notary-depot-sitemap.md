@@ -748,6 +748,7 @@
     - [Notary Public in Fairburn, GA](https://www.notarydepot.com/notary-near-me/Georgia/Fairburn)
     - [Notary Public in Fayetteville, GA](https://www.notarydepot.com/notary-near-me/Georgia/Fayetteville)
     - [Notary Public in Flowery Branch, GA](https://www.notarydepot.com/notary-near-me/Georgia/Flowery-Branch)
+    - [Notary Public in Fort Oglethorpe, GA](https://www.notarydepot.com/notary-near-me/Georgia/Fort-Oglethorpe)
     - [Notary Public in Gainesville, GA](https://www.notarydepot.com/notary-near-me/Georgia/Gainesville)
     - [Notary Public in Hahira, GA](https://www.notarydepot.com/notary-near-me/Georgia/Hahira)
     - [Notary Public in Hephzibah, GA](https://www.notarydepot.com/notary-near-me/Georgia/Hephzibah)
@@ -3820,6 +3821,7 @@
   - [Notary Public in CA: Garrett Anderson](https://www.notarydepot.com/ganders)
   - [Notary Public in Matthews, NC: Deborah Griswell](https://www.notarydepot.com/ganotary)
   - [Notary Public in Augusta, GA: Avanti Williams](https://www.notarydepot.com/ganotaryasw)
+  - [Notary Public in Fort Oglethorpe, GA: Jamison Smith](https://www.notarydepot.com/ganotaryjamison)
   - [Notary Public in Los Angeles, CA: George A. Pinedo](https://www.notarydepot.com/gapnedo)
   - [Notary Public in Kennesaw, GA: Alex Garcia](https://www.notarydepot.com/garciaal)
   - [Notary Public in Saylorsburg, PA: Gareth Denniston](https://www.notarydepot.com/gareth)
@@ -7989,4 +7991,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-11-22T21:12:02Z
+Updated at 2018-11-22T21:32:02Z
