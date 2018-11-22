@@ -5697,7 +5697,6 @@
   - [Notary Public in San Diego, CA: Kerry George](https://www.notarydepot.com/notarizethis)
   - [Notary Public in San Diego, CA: Leigh Walker](https://www.notarydepot.com/notarleigh)
   - [Notary Public in Orlando, FL: Ronda G Veal](https://www.notarydepot.com/notary007)
-  - [Notary Public in Stockton, CA: John K. Wadsworth](https://www.notarydepot.com/notary01)
   - [Notary Public in Bakersfield, CA: Violeta Lopez-Pacheco](https://www.notarydepot.com/notary03)
   - [Notary Public in NY: Harry Singh](https://www.notarydepot.com/notary101)
   - [Notary Public in Fort Worth, TX: Marian Watson](https://www.notarydepot.com/notary2009)
@@ -7990,4 +7989,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-11-22T04:52:01Z
+Updated at 2018-11-22T05:12:02Z
