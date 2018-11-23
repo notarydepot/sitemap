@@ -199,6 +199,7 @@
     - [Notary Public in Colton, CA](https://www.notarydepot.com/notary-near-me/California/Colton)
     - [Notary Public in Compton, CA](https://www.notarydepot.com/notary-near-me/California/Compton)
     - [Notary Public in Cool, CA](https://www.notarydepot.com/notary-near-me/California/Cool)
+    - [Notary Public in Corning, CA](https://www.notarydepot.com/notary-near-me/California/Corning)
     - [Notary Public in Corona, CA](https://www.notarydepot.com/notary-near-me/California/Corona)
     - [Notary Public in Costa Mesa, CA](https://www.notarydepot.com/notary-near-me/California/Costa-Mesa)
     - [Notary Public in Cottonwood, CA](https://www.notarydepot.com/notary-near-me/California/Cottonwood)
@@ -7349,6 +7350,7 @@
   - [Notary Public in Sebastian, FL: Manuel Sanchez](https://www.notarydepot.com/zacarias)
   - [Notary Public in Downey, CA: Zalynda Shields](https://www.notarydepot.com/zalynda)
   - [Notary Public in East Brunswick, NJ: George Bandy](https://www.notarydepot.com/zamankeid)
+  - [Notary Public in Corning, CA: Amanda Real ](https://www.notarydepot.com/zavaglia21)
   - [Notary Public in Gainesville, FL: Bradford S MarElia](https://www.notarydepot.com/zbestcloser)
   - [Notary Public in Cocoa, FL: Christina Ryder](https://www.notarydepot.com/zcar2375)
   - [Notary Public in Tenino, WA: Zeke Akins](https://www.notarydepot.com/zekeakins)
@@ -7991,4 +7993,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-11-23T08:12:02Z
+Updated at 2018-11-23T08:32:02Z
