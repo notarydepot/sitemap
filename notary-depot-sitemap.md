@@ -5758,6 +5758,7 @@
   - [Notary Public in Winston-Salem, NC: Frank Modica (over 10yrs experience!)](https://www.notarydepot.com/notaryfrankws)
   - [Notary Public in Longview, WA: Teresa Spain](https://www.notarydepot.com/notarygal1)
   - [Notary Public in Anaheim, CA: Geoff H](https://www.notarydepot.com/notarygift1)
+  - [Notary Public in Bellevue, WA: Desiree A York ](https://www.notarydepot.com/notarygirlllc)
   - [Notary Public in Richmond, VA: Alicia DiMartino](https://www.notarydepot.com/notarygo2)
   - [Notary Public in Kelso, WA: Destiny D Taylor](https://www.notarydepot.com/notarygrl1)
   - [Notary Public in Castro Valley, CA: Heather Boyce](https://www.notarydepot.com/notaryheatherb)
@@ -7995,4 +7996,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-11-24T22:12:02Z
+Updated at 2018-11-24T22:32:02Z
