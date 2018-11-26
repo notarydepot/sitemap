@@ -6724,7 +6724,7 @@
   - [Notary Public in Charlotte, NC: Nancy Taylor](https://www.notarydepot.com/spoiledpup)
   - [Notary Public in Nottingham, MD: Dave Schaeffer](https://www.notarydepot.com/spotmagoo)
   - [Notary Public in Springfield, MO: notary public](https://www.notarydepot.com/springfieldmissourimobilenotarypublic)
-  - [Notary Public in West Springfield, VA: Daniel P. Kane](https://www.notarydepot.com/springfieldmobilenotary)
+  - [Notary Public in West Springfield, VA: Dominion Springfield Mobile Notary](https://www.notarydepot.com/springfieldmobilenotary)
   - [Notary Public in Cecil, WI: Ron Friedl](https://www.notarydepot.com/spursboss1)
   - [Notary Public in Parksley, VA: Sheryl Foley](https://www.notarydepot.com/squirrellee01)
   - [Notary Public in Pea Ridge, AR: Sherri L. Ragland](https://www.notarydepot.com/sragland)
@@ -7997,4 +7997,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-11-26T15:12:02Z
+Updated at 2018-11-26T15:32:01Z
