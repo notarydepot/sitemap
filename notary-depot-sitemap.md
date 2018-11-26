@@ -7284,6 +7284,7 @@
   - [Notary Public in Lambertville, MI: Richard Lake Jr](https://www.notarydepot.com/wingsrl)
   - [Notary Public in Crestview, FL: Adrian Winstead](https://www.notarydepot.com/winsteaa)
   - [Notary Public in MI: Bonnie Jo Miller](https://www.notarydepot.com/wiseowl2111)
+  - [Notary Public in Worcester, MA: Adam P Pasquale](https://www.notarydepot.com/witnesspro)
   - [Notary Public in Macedon, NY: Warren Jeffries](https://www.notarydepot.com/wjeffriesny)
   - [Notary Public in Massena, NY: Wendy Vice](https://www.notarydepot.com/wjvice1)
   - [Notary Public in Holtwood, PA: Walter Rees](https://www.notarydepot.com/wlrees)
@@ -7997,4 +7998,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-11-26T22:52:02Z
+Updated at 2018-11-26T23:12:02Z
