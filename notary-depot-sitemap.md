@@ -7264,6 +7264,7 @@
   - [Notary Public in Westlake Village, CA: Westlake Notary](https://www.notarydepot.com/westlakenotary2)
   - [Notary Public in Willits, CA: Grace M. Westlund](https://www.notarydepot.com/westlund)
   - [Notary Public in Kailua-Kona, HI: J. Lorelle Carter](https://www.notarydepot.com/westsidenotary)
+  - [Notary Public in Weymouth, MA: Greg Agnew](https://www.notarydepot.com/weymouthnotary)
   - [Notary Public in Dover, DE: Mary Garfinkel](https://www.notarydepot.com/wgarfinkel)
   - [Notary Public in Aylett, VA: Wm. Gregory Burkett](https://www.notarydepot.com/wgburkett)
   - [Notary Public in Stewartstown, NH: Cindy M. Dorman](https://www.notarydepot.com/whistlingbrz)
@@ -7998,4 +7999,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-11-27T19:52:02Z
+Updated at 2018-11-27T20:12:02Z
