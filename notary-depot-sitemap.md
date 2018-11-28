@@ -5422,7 +5422,6 @@
   - [Notary Public in Fallon, NV: Greg Anderson](https://www.notarydepot.com/mobilenotarygreg)
   - [Notary Public in San Diego, CA: ronald link](https://www.notarydepot.com/mobilenotaryguy)
   - [Notary Public in Urbana, OH: Rhonda M Lippencott](https://www.notarydepot.com/mobilenotaryinohiogmailcom)
-  - [Notary Public in Fort Worth, TX: Kaylee](https://www.notarydepot.com/mobilenotarykaylee)
   - [Notary Public in Los Angeles, CA: Charles Ross](https://www.notarydepot.com/mobilenotarylaxcrossgmailcom)
   - [Notary Public in Alexandria, VA: Lisa D Brightsen](https://www.notarydepot.com/mobilenotarylisa)
   - [Notary Public in Mount Airy, NC: Davee Daughenbaugh ](https://www.notarydepot.com/mobilenotaryondemand)
@@ -7999,4 +7998,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-11-28T01:52:01Z
+Updated at 2018-11-28T02:12:02Z
