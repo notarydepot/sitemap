@@ -742,6 +742,7 @@
     - [Notary Public in Covington, GA](https://www.notarydepot.com/notary-near-me/Georgia/Covington)
     - [Notary Public in Dallas, GA](https://www.notarydepot.com/notary-near-me/Georgia/Dallas)
     - [Notary Public in Decatur, GA](https://www.notarydepot.com/notary-near-me/Georgia/Decatur)
+    - [Notary Public in Demorest, GA](https://www.notarydepot.com/notary-near-me/Georgia/Demorest)
     - [Notary Public in Doerun, GA](https://www.notarydepot.com/notary-near-me/Georgia/Doerun)
     - [Notary Public in Douglasville, GA](https://www.notarydepot.com/notary-near-me/Georgia/Douglasville)
     - [Notary Public in Duluth, GA](https://www.notarydepot.com/notary-near-me/Georgia/Duluth)
@@ -5371,6 +5372,7 @@
   - [Notary Public in Lillington, NC: Sophia A Spencer](https://www.notarydepot.com/missspence04)
   - [Notary Public in Englewood, FL: Misty L Rogers](https://www.notarydepot.com/mistarella)
   - [Notary Public in Tavares, FL: Misti Morgan](https://www.notarydepot.com/mistimorgan)
+  - [Notary Public in Demorest, GA: Misty Abernathy](https://www.notarydepot.com/mistyabernathy)
   - [Notary Public in Naples, FL: Melvin Bodnarchuk](https://www.notarydepot.com/mitch0217)
   - [Notary Public in Oakland, CA: Mitzi Yvonne Smith](https://www.notarydepot.com/mitzismith)
   - [Notary Public in Houston, TX: Maritza Chavez](https://www.notarydepot.com/mitzy_chvz)
@@ -7997,4 +7999,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-11-29T23:32:02Z
+Updated at 2018-11-29T23:52:02Z
