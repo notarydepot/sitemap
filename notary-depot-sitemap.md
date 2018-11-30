@@ -3586,6 +3586,7 @@
   - [Notary Public in Clementon, NJ: Anita Braun](https://www.notarydepot.com/earlgreylady)
   - [Notary Public in Peyton, CO: Jill Rivera](https://www.notarydepot.com/eastplainsnotary)
   - [Notary Public in Winchester, CA: Colette Tariqi](https://www.notarydepot.com/easydocs)
+  - [Notary Public in Jacksonville, FL: Ammon Eaves](https://www.notarydepot.com/eavesammon)
   - [Notary Public in Bronxville, NY: Elizabeth Betrand](https://www.notarydepot.com/ebetrand)
   - [Notary Public in Washington, DC: Esther T. Blackwell ](https://www.notarydepot.com/eblackwell)
   - [Notary Public in Fayette, MS: Jaharah Muhammad](https://www.notarydepot.com/ebonyice79)
@@ -7999,4 +8000,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-11-30T12:32:02Z
+Updated at 2018-11-30T12:52:02Z
