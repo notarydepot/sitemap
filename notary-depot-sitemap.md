@@ -4070,7 +4070,6 @@
   - [Notary Public in Laguna Vista, TX: Amy E. Robinson](https://www.notarydepot.com/ibisamy)
   - [Notary Public in Tupelo, MS: Isreal. Clark](https://www.notarydepot.com/icreddtoppus)
   - [Notary Public in Boise, ID: Tamara Scott](https://www.notarydepot.com/idahonotary)
-  - [Notary Public in West New York, NJ: Idania Lorenti](https://www.notarydepot.com/idania)
   - [Notary Public in Baytown, TX: Imelda Donaldson](https://www.notarydepot.com/idonaldson58)
   - [Notary Public in Riverside, CA: Irene Estrada](https://www.notarydepot.com/iestrada)
   - [Notary Public in Orlando, FL: Ingrid Gordon](https://www.notarydepot.com/igordonrelief)
@@ -8002,4 +8001,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-12-02T20:52:01Z
+Updated at 2018-12-02T21:12:02Z
