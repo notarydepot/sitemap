@@ -6556,6 +6556,7 @@
   - [Notary Public in Jackson, MI: Sharon Moyer](https://www.notarydepot.com/shazing)
   - [Notary Public in Chicago, IL: Chicago Notary 4 U](https://www.notarydepot.com/sheababy1968)
   - [Notary Public in Kansas City, MO: Sheila Gissentoner](https://www.notarydepot.com/sheelafox)
+  - [Notary Public in Los Angeles, CA: Alex Mazahri](https://www.notarydepot.com/sheen69)
   - [Notary Public in Des Moines, IA: Omar Colwell](https://www.notarydepot.com/sheiklic)
   - [Notary Public in Carnation, WA: sheila anderson](https://www.notarydepot.com/sheilaanderson)
   - [Notary Public in Auburn, WA: Sheila Bailey](https://www.notarydepot.com/sheilab28)
@@ -8001,4 +8002,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-12-09T09:52:02Z
+Updated at 2018-12-09T10:12:02Z
