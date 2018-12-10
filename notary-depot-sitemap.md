@@ -6030,6 +6030,7 @@
   - [Notary Public in Hollywood, FL: Pines Mobile Notary](https://www.notarydepot.com/pinesmobilenotary)
   - [Notary Public in Longview, TX: KAMILAH PIPKINS](https://www.notarydepot.com/pipkinsnotary)
   - [Notary Public in Los Angeles, CA: Tina Mazahri](https://www.notarydepot.com/pishi123)
+  - [Notary Public in Los Angeles, CA: Tina Mazahri](https://www.notarydepot.com/pishi1234)
   - [Notary Public in Richmond, VA: Philathea C Johnson](https://www.notarydepot.com/pjnotary99)
   - [Notary Public in Davis, WV: Patti J Scott](https://www.notarydepot.com/pjscott)
   - [Notary Public in Grand Saline, TX: Paula AroundtheClockMobileNotary](https://www.notarydepot.com/pkfleming57)
@@ -8004,4 +8005,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-12-10T21:12:02Z
+Updated at 2018-12-10T21:32:02Z
