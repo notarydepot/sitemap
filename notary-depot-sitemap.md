@@ -4667,6 +4667,7 @@
   - [Notary Public in Palm Bay, FL: Tessa Thomas](https://www.notarydepot.com/khadeshea)
   - [Notary Public in Dothan, AL: Katrina Hagler](https://www.notarydepot.com/khagler)
   - [Notary Public in Bakersfield, CA: Harcharan Kaur K Singh](https://www.notarydepot.com/khalsanotary)
+  - [Notary Public in Grand Junction, CO: Kelly Haselhorst](https://www.notarydepot.com/khaselhorst)
   - [Notary Public in Largo, FL: Kathleen Christie](https://www.notarydepot.com/khinakat)
   - [Notary Public in San Bernardino, CA: Karen Hutton-Lopez](https://www.notarydepot.com/khlmobilenotary)
   - [Notary Public in Huntington Beach, CA: Kim Hoffman](https://www.notarydepot.com/khoff)
@@ -8002,4 +8003,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-12-10T12:52:03Z
+Updated at 2018-12-10T13:12:02Z
