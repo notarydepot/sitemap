@@ -6056,7 +6056,7 @@
   - [Notary Public in Nashville, TN: Piper Niemann](https://www.notarydepot.com/pniemann)
   - [Notary Public in Bolingbrook, IL: Phillip Burks](https://www.notarydepot.com/poburks)
   - [Notary Public in Reading, PA: Subpoena And Civil Process Services](https://www.notarydepot.com/pollywog)
-  - [Notary Public in Bellefonte, PA: Paul &amp; Rametta](https://www.notarydepot.com/polram)
+  - [Notary Public in Bellefonte, PA: Paul Rametta](https://www.notarydepot.com/polram)
   - [Notary Public in Spring Grove, PA: Carrie Jedlinsky](https://www.notarydepot.com/pookiejo)
   - [Notary Public in Poplar Bluff, MO: Brenda Hanner](https://www.notarydepot.com/poppie)
   - [Notary Public in Kingsport, TN: kenneth rose](https://www.notarydepot.com/poppop)
@@ -8005,4 +8005,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-12-11T17:52:02Z
+Updated at 2018-12-11T18:12:02Z
