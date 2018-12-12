@@ -205,7 +205,6 @@
     - [Notary Public in Cottonwood, CA](https://www.notarydepot.com/notary-near-me/California/Cottonwood)
     - [Notary Public in Covina, CA](https://www.notarydepot.com/notary-near-me/California/Covina)
     - [Notary Public in Crestline, CA](https://www.notarydepot.com/notary-near-me/California/Crestline)
-    - [Notary Public in Culver City, CA](https://www.notarydepot.com/notary-near-me/California/Culver-City)
     - [Notary Public in Cypress, CA](https://www.notarydepot.com/notary-near-me/California/Cypress)
     - [Notary Public in Daly City, CA](https://www.notarydepot.com/notary-near-me/California/Daly-City)
     - [Notary Public in Danville, CA](https://www.notarydepot.com/notary-near-me/California/Danville)
@@ -486,6 +485,7 @@
     - [Notary Public in Brighton, CO](https://www.notarydepot.com/notary-near-me/Colorado/Brighton)
     - [Notary Public in Broomfield, CO](https://www.notarydepot.com/notary-near-me/Colorado/Broomfield)
     - [Notary Public in Cañon City, CO](https://www.notarydepot.com/notary-near-me/Colorado/Ca-on-City)
+    - [Notary Public in Castle Rock, CO](https://www.notarydepot.com/notary-near-me/Colorado/Castle-Rock)
     - [Notary Public in Colorado Springs, CO](https://www.notarydepot.com/notary-near-me/Colorado/Colorado-Springs)
     - [Notary Public in Conifer, CO](https://www.notarydepot.com/notary-near-me/Colorado/Conifer)
     - [Notary Public in Denver, CO](https://www.notarydepot.com/notary-near-me/Colorado/Denver)
@@ -3751,7 +3751,7 @@
   - [Notary Public in Rancho Mirage, CA: Fernando Jimenez](https://www.notarydepot.com/ferjim)
   - [Notary Public in Fernley, NV: Lindsey Opperman](https://www.notarydepot.com/fernleynotary)
   - [Notary Public in Tallahassee, FL: Fritznel Estimond](https://www.notarydepot.com/festimond)
-  - [Notary Public in Culver City, CA: Fredrica Fowle](https://www.notarydepot.com/ffowle)
+  - [Notary Public in Castle Rock, CO: Fredrica Fowle](https://www.notarydepot.com/ffowle)
   - [Notary Public in Big Pine Key, FL: F. Crystal Iannetta](https://www.notarydepot.com/fiannetta2)
   - [Notary Public in Bowie, MD: Denise Hayden](https://www.notarydepot.com/finelinesv)
   - [Notary Public in Vienna, VA: Eric Finke](https://www.notarydepot.com/finkeeg)
@@ -8005,4 +8005,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-12-12T02:52:03Z
+Updated at 2018-12-12T03:12:02Z
