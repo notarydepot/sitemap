@@ -3910,7 +3910,7 @@
   - [Notary Public in NY: Dmitriy Pagul](https://www.notarydepot.com/goldenapplerealty)
   - [Notary Public in Morganton, NC: Cassie Caldwell](https://www.notarydepot.com/golfergal)
   - [Notary Public in Compton, CA: Rosalba Gonzalez](https://www.notarydepot.com/gonzaleznotary)
-  - [Notary Public in Albany, OR: Laura J Goodwin](https://www.notarydepot.com/goodwinlj)
+  - [Notary Public in Lebanon, OR: Laura J Goodwin](https://www.notarydepot.com/goodwinlj)
   - [Notary Public in Ocala, FL: Patrick G. Rodriguez](https://www.notarydepot.com/googoomuck01)
   - [Notary Public in Norfolk, VA: Leigh Mendoza](https://www.notarydepot.com/gopheru)
   - [Notary Public in Stuart, FL: Jg](https://www.notarydepot.com/grabenmj)
@@ -8005,4 +8005,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-12-12T22:52:03Z
+Updated at 2018-12-12T23:12:02Z
