@@ -4825,7 +4825,7 @@
   - [Notary Public in Macomb, MI: Rhonda Larkins](https://www.notarydepot.com/lanelle22)
   - [Notary Public in Doylestown, PA: Elaine L Johnson](https://www.notarydepot.com/laneyj91)
   - [Notary Public in Pomona, CA: Lara Hernandez](https://www.notarydepot.com/larahernandez)
-  - [Notary Public in CA: Larcenia Freeman](https://www.notarydepot.com/larcyfree)
+  - [Notary Public in Long Beach, CA: Larcenia Freeman](https://www.notarydepot.com/larcyfree)
   - [Notary Public in Laredo, TX: Jaime Nunez](https://www.notarydepot.com/laredonotaryservices)
   - [Notary Public in Jacksonville, NC: Tia L. LaRock](https://www.notarydepot.com/larock6)
   - [Notary Public in Richmond, CA: Rene Smith](https://www.notarydepot.com/larone21)
@@ -8007,4 +8007,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-12-13T18:13:02Z
+Updated at 2018-12-13T18:33:02Z
