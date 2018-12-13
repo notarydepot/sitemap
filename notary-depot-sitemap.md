@@ -959,6 +959,7 @@
     - [Notary Public in Hopkinsville, KY](https://www.notarydepot.com/notary-near-me/Kentucky/Hopkinsville)
     - [Notary Public in Hueysville, KY](https://www.notarydepot.com/notary-near-me/Kentucky/Hueysville)
     - [Notary Public in Kings Mountain, KY](https://www.notarydepot.com/notary-near-me/Kentucky/Kings-Mountain)
+    - [Notary Public in La Grange, KY](https://www.notarydepot.com/notary-near-me/Kentucky/La-Grange)
     - [Notary Public in Lexington, KY](https://www.notarydepot.com/notary-near-me/Kentucky/Lexington)
     - [Notary Public in Louisville, KY](https://www.notarydepot.com/notary-near-me/Kentucky/Louisville)
     - [Notary Public in Mayfield, KY](https://www.notarydepot.com/notary-near-me/Kentucky/Mayfield)
@@ -3721,6 +3722,7 @@
   - [Notary Public in Brookfield, WI: Express Notary and Closing Services, Llc](https://www.notarydepot.com/expressncs)
   - [Notary Public in Perris, CA: Wendy M. Waits](https://www.notarydepot.com/eyeore)
   - [Notary Public in Corpus Christi, TX: Juanita Maria Lamas](https://www.notarydepot.com/ezclosing)
+  - [Notary Public in La Grange, KY: Eziamara Oguibe-Shepherd](https://www.notarydepot.com/eziinotary)
   - [Notary Public in West Covina, CA: Richard Lee](https://www.notarydepot.com/eznotaryla)
   - [Notary Public in Fresno, CA: Esmeralda Pumarejo](https://www.notarydepot.com/ezzie)
   - [Notary Public in White Plains, NY: Tiffany Choice](https://www.notarydepot.com/fairechoice)
@@ -8005,4 +8007,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-12-13T05:32:02Z
+Updated at 2018-12-13T05:52:02Z
