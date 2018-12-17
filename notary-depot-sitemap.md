@@ -5814,6 +5814,7 @@
   - [Notary Public in San Antonio, TX: Robert Marin](https://www.notarydepot.com/notaryrob1800)
   - [Notary Public in Oxnard, CA: Sonya Root](https://www.notarydepot.com/notaryroot)
   - [Notary Public in San Clemente, CA: Louis Pescarmona](https://www.notarydepot.com/notaryrunner)
+  - [Notary Public in San Clemente, CA: Louis Pescarmona](https://www.notarydepot.com/notaryrunnr)
   - [Notary Public in Los Angeles, CA: Mobile Notarys ________ Available ________ 24-Hrs](https://www.notarydepot.com/notarys1)
   - [Notary Public in Walnut, CA: Alyssia Grigsby](https://www.notarydepot.com/notarys2go)
   - [Notary Public in Stockton, CA: Rebecca or Sara Thornton](https://www.notarydepot.com/notarysara)
@@ -8006,4 +8007,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-12-17T17:53:02Z
+Updated at 2018-12-17T18:13:02Z
