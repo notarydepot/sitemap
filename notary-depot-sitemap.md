@@ -1805,6 +1805,7 @@
     - [Notary Public in Wellsboro, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Wellsboro)
     - [Notary Public in Westfield, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Westfield)
     - [Notary Public in Willow Grove, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Willow-Grove)
+    - [Notary Public in Windber, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Windber)
     - [Notary Public in York, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/York)
   - [Notaries Public in Rhode Island](https://www.notarydepot.com/notary-near-me/Rhode-Island)
     - [Notary Public in Cranston, RI](https://www.notarydepot.com/notary-near-me/Rhode-Island/Cranston)
@@ -3246,6 +3247,7 @@
   - [Notary Public in St. Louis, MO: Dustin M. Underwood](https://www.notarydepot.com/dabigd03)
   - [Notary Public in Geneva, NY: Daphne M. Moschiano](https://www.notarydepot.com/daisy0919)
   - [Notary Public in New York, NY: Damariz Valentin](https://www.notarydepot.com/daisyd)
+  - [Notary Public in Windber, PA: Dale Tomlinson](https://www.notarydepot.com/dalet1978)
   - [Notary Public in Clive, IA: Donald P. Alexander](https://www.notarydepot.com/dalexander)
   - [Notary Public in Loxahatchee, FL: Dalia Isr](https://www.notarydepot.com/dalia)
   - [Notary Public in Rockville, MD: Dalia Smith](https://www.notarydepot.com/daliasmith)
@@ -8004,4 +8006,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-12-20T02:53:02Z
+Updated at 2018-12-20T03:13:02Z
