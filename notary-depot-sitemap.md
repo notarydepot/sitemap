@@ -1660,6 +1660,7 @@
     - [Notary Public in Yukon, OK](https://www.notarydepot.com/notary-near-me/Oklahoma/Yukon)
   - [Notaries Public in Oregon](https://www.notarydepot.com/notary-near-me/Oregon)
     - [Notary Public in Albany, OR](https://www.notarydepot.com/notary-near-me/Oregon/Albany)
+    - [Notary Public in Ashland, OR](https://www.notarydepot.com/notary-near-me/Oregon/Ashland)
     - [Notary Public in Beaverton, OR](https://www.notarydepot.com/notary-near-me/Oregon/Beaverton)
     - [Notary Public in Bend, OR](https://www.notarydepot.com/notary-near-me/Oregon/Bend)
     - [Notary Public in Canby, OR](https://www.notarydepot.com/notary-near-me/Oregon/Canby)
@@ -2616,6 +2617,7 @@
   - [Notary Public in Tampa, FL: Cassandra Michel](https://www.notarydepot.com/atlasdocs)
   - [Notary Public in Portsmouth, VA: Adrian Torres](https://www.notarydepot.com/atorres)
   - [Notary Public in Washington, DC: Tonya Butler-Truesdale](https://www.notarydepot.com/attytmbt)
+  - [Notary Public in Ashland, OR: Amber Nelson](https://www.notarydepot.com/atyourservicesigning)
   - [Notary Public in Grain Valley, MO: Anita Aubuchon](https://www.notarydepot.com/aubychon)
   - [Notary Public in Waukegan, IL: Audra Bey](https://www.notarydepot.com/audrabey)
   - [Notary Public in FL: Audrey Davis](https://www.notarydepot.com/audreydavis)
@@ -8006,4 +8008,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-12-20T16:33:01Z
+Updated at 2018-12-20T16:53:02Z
