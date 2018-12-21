@@ -2575,6 +2575,7 @@
   - [Notary Public in Sapulpa, OK: Arlanda F. Smith](https://www.notarydepot.com/arlandasmith)
   - [Notary Public in Massapequa Park, NY: Arlene Mazzola](https://www.notarydepot.com/armazz)
   - [Notary Public in Merigold, MS: Aneika Moore](https://www.notarydepot.com/armoore)
+  - [Notary Public in Atlanta, GA: Bruce Wayne Anderson](https://www.notarydepot.com/armyvet)
   - [Notary Public in Floresville, TX: Faye Taylor](https://www.notarydepot.com/arnionmobile)
   - [Notary Public in La Mirada, CA: Alma Rosales](https://www.notarydepot.com/arnotary77)
   - [Notary Public in Richmond, VA: Lora L. Worsley](https://www.notarydepot.com/arolmyk)
@@ -8007,4 +8008,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-12-21T15:13:02Z
+Updated at 2018-12-21T15:33:02Z
