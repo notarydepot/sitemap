@@ -4722,6 +4722,7 @@
   - [Notary Public in Chester, VA: Karin K. Konseck, CNSA](https://www.notarydepot.com/kkonseck)
   - [Notary Public in Janesville, WI: Kelly Kurtz](https://www.notarydepot.com/kkpro)
   - [Notary Public in Denton, TX: Karen Krailo](https://www.notarydepot.com/kkrailo)
+  - [Notary Public in Pelham, AL: Kerri O Kuykendall](https://www.notarydepot.com/kkuykendall78)
   - [Notary Public in Woodridge, IL: Kermina Lacy](https://www.notarydepot.com/klacy30)
   - [Notary Public in Gloucester Courthouse, VA: Karen Lawson](https://www.notarydepot.com/klawson8)
   - [Notary Public in Napa, CA: Kerri Josslin-Falk](https://www.notarydepot.com/kljossl)
@@ -8009,4 +8010,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-12-23T09:53:02Z
+Updated at 2018-12-23T10:13:02Z
