@@ -3845,6 +3845,7 @@
   - [Notary Public in Stockton, CA: Gavina Franklin](https://www.notarydepot.com/gavina)
   - [Notary Public in Helena, MT: Gayle Astore](https://www.notarydepot.com/gaylea)
   - [Notary Public in San Diego, CA: Gayle Gibson](https://www.notarydepot.com/gaylegibson)
+  - [Notary Public in Manchester, NH: Gayle Lee-Babineau ](https://www.notarydepot.com/gayleleebabineau)
   - [Notary Public in Tampa, FL: Mobile Notary Solutions - Ginger](https://www.notarydepot.com/gbibiloni)
   - [Notary Public in Humble, TX: Gisele Boudreaux](https://www.notarydepot.com/gboudro)
   - [Notary Public in Rock Hill, SC: Gloria C. Jones](https://www.notarydepot.com/gcjones)
@@ -8013,4 +8014,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-12-25T21:53:01Z
+Updated at 2018-12-25T22:13:02Z
