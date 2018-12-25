@@ -955,6 +955,7 @@
     - [Notary Public in Erlanger, KY](https://www.notarydepot.com/notary-near-me/Kentucky/Erlanger)
     - [Notary Public in Fort Knox, KY](https://www.notarydepot.com/notary-near-me/Kentucky/Fort-Knox)
     - [Notary Public in Grayson, KY](https://www.notarydepot.com/notary-near-me/Kentucky/Grayson)
+    - [Notary Public in Hartford, KY](https://www.notarydepot.com/notary-near-me/Kentucky/Hartford)
     - [Notary Public in Henderson, KY](https://www.notarydepot.com/notary-near-me/Kentucky/Henderson)
     - [Notary Public in Hopkinsville, KY](https://www.notarydepot.com/notary-near-me/Kentucky/Hopkinsville)
     - [Notary Public in Hueysville, KY](https://www.notarydepot.com/notary-near-me/Kentucky/Hueysville)
@@ -6909,6 +6910,7 @@
   - [Notary Public in Garner, NC: Theresa Dotson](https://www.notarydepot.com/tdotson)
   - [Notary Public in Quincy, CA: Traci M. Downey](https://www.notarydepot.com/tdowney)
   - [Notary Public in Tucson, AZ: Tia Peterson](https://www.notarydepot.com/tdpeterson)
+  - [Notary Public in Hartford, KY: Tracye Westerfield](https://www.notarydepot.com/tdwester)
   - [Notary Public in Nokesville, VA: Tayshawn Duncan-whitcomb](https://www.notarydepot.com/tdwnotary)
   - [Notary Public in Rancho Cucamonga, CA: Teala Duhaime](https://www.notarydepot.com/teala22)
   - [Notary Public in Reading, PA: Ted Chase](https://www.notarydepot.com/tedchase)
@@ -8011,4 +8013,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-12-24T23:53:01Z
+Updated at 2018-12-25T00:13:02Z
