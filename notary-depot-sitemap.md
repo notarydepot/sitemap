@@ -574,6 +574,7 @@
     - [Notary Public in Clermont, FL](https://www.notarydepot.com/notary-near-me/Florida/Clermont)
     - [Notary Public in Cocoa, FL](https://www.notarydepot.com/notary-near-me/Florida/Cocoa)
     - [Notary Public in Coral Gables, FL](https://www.notarydepot.com/notary-near-me/Florida/Coral-Gables)
+    - [Notary Public in Coral Springs, FL](https://www.notarydepot.com/notary-near-me/Florida/Coral-Springs)
     - [Notary Public in Crawfordville, FL](https://www.notarydepot.com/notary-near-me/Florida/Crawfordville)
     - [Notary Public in Crestview, FL](https://www.notarydepot.com/notary-near-me/Florida/Crestview)
     - [Notary Public in Dade City, FL](https://www.notarydepot.com/notary-near-me/Florida/Dade-City)
@@ -4101,7 +4102,7 @@
   - [Notary Public in Evansville, IN: Elizabeth Harris](https://www.notarydepot.com/inparalegal)
   - [Notary Public in Omaha, NE: Lisa A. Hardy](https://www.notarydepot.com/inrelisa)
   - [Notary Public in Fremont, CA: Udaya K Padmanabhuni](https://www.notarydepot.com/instanatnotaryservice)
-  - [Notary Public in Pompano Beach, FL: Mitchell Rudin](https://www.notarydepot.com/insurancenotary)
+  - [Notary Public in Coral Springs, FL: Mitchell Rudin](https://www.notarydepot.com/insurancenotary)
   - [Notary Public in Pittsburgh, PA: Charlean M. Jones](https://www.notarydepot.com/integritynotary)
   - [Notary Public in Hesperia, CA: Gabriela Vasquez](https://www.notarydepot.com/intercrew48)
   - [Notary Public in Scottsdale, AZ: Yana Morford](https://www.notarydepot.com/intervolga)
@@ -8013,4 +8014,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-12-27T18:53:02Z
+Updated at 2018-12-27T19:13:02Z
