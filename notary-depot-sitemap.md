@@ -6247,6 +6247,7 @@
   - [Notary Public in Riverbank, CA: Rose Hernandez](https://www.notarydepot.com/rhernandez)
   - [Notary Public in Dania Beach, FL: Robert Tresh](https://www.notarydepot.com/rherst)
   - [Notary Public in Wakonda, SD: Ruth Hessman](https://www.notarydepot.com/rhessman)
+  - [Notary Public in Houston, TX: Roderick Holt](https://www.notarydepot.com/rholtnotary)
   - [Notary Public in Newport Beach, CA: Rhonda Luna](https://www.notarydepot.com/rhondaluna)
   - [Notary Public in Jersey City, NJ: Rhonda Sumter](https://www.notarydepot.com/rhondasumter)
   - [Notary Public in Brentwood, CA: Rhonda Oliva](https://www.notarydepot.com/rhondidit)
@@ -8012,4 +8013,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-12-27T00:13:01Z
+Updated at 2018-12-27T00:33:02Z
