@@ -1321,6 +1321,7 @@
     - [Notary Public in Englishtown, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Englishtown)
     - [Notary Public in Ewing Township, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Ewing-Township)
     - [Notary Public in Franklin Lakes, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Franklin-Lakes)
+    - [Notary Public in Franklin Township, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Franklin-Township)
     - [Notary Public in Garfield, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Garfield)
     - [Notary Public in Glassboro, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Glassboro)
     - [Notary Public in Glen Gardner, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Glen-Gardner)
@@ -7284,6 +7285,7 @@
   - [Notary Public in Weymouth, MA: Greg Agnew](https://www.notarydepot.com/weymouthnotary)
   - [Notary Public in Dover, DE: Mary Garfinkel](https://www.notarydepot.com/wgarfinkel)
   - [Notary Public in Aylett, VA: Wm. Gregory Burkett](https://www.notarydepot.com/wgburkett)
+  - [Notary Public in Franklin Township, NJ: Keith Wheeler](https://www.notarydepot.com/wheeleke)
   - [Notary Public in Stewartstown, NH: Cindy M. Dorman](https://www.notarydepot.com/whistlingbrz)
   - [Notary Public in Princeton, IL: A Notary Direct 2 U](https://www.notarydepot.com/whitestache)
   - [Notary Public in Lake Charles, LA: Candice Menard](https://www.notarydepot.com/whodat)
@@ -8016,4 +8018,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2018-12-31T01:33:01Z
+Updated at 2018-12-31T01:53:02Z
