@@ -5888,7 +5888,7 @@
   - [Notary Public in New York, NY: Joseph C. Thompson](https://www.notarydepot.com/nysofficialnotary)
   - [Notary Public in Englishtown, NJ: Elaine Mezzo](https://www.notarydepot.com/oakwoodlane9)
   - [Notary Public in Homestead, FL: Oswaldo Anglero](https://www.notarydepot.com/oanglero)
-  - [Notary Public in Newark, NJ: Sonja Holloway](https://www.notarydepot.com/oasisassociates)
+  - [Notary Public in Newark, NJ: Sonja Holloway-Fish](https://www.notarydepot.com/oasisassociates)
   - [Notary Public in Miami Gardens, FL: Tamara Horne](https://www.notarydepot.com/oasisnotary)
   - [Notary Public in Henderson, NV: Robert Silverman](https://www.notarydepot.com/ocmobilenotary)
   - [Notary Public in Miami, FL: F. Guevara](https://www.notarydepot.com/ocndocuments)
@@ -8019,4 +8019,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-02T22:13:01Z
+Updated at 2019-01-02T22:33:01Z
