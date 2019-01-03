@@ -5475,7 +5475,7 @@
   - [Notary Public in West Covina, CA: Monica Ortiz](https://www.notarydepot.com/moniortiz90)
   - [Notary Public in Louisville, KY: Monique marshall](https://www.notarydepot.com/monique)
   - [Notary Public in Louisville, KY: Monique Marshall](https://www.notarydepot.com/moniquemarshall)
-  - [Notary Public in Blue Springs, MO: Roy C McCallop](https://www.notarydepot.com/monotary)
+  - [Notary Public in Blue Springs, MO: Roy McCallop](https://www.notarydepot.com/monotary)
   - [Notary Public in Cleveland, OH: Monique Strange](https://www.notarydepot.com/monotary211)
   - [Notary Public in Chino, CA: Monti Johnson](https://www.notarydepot.com/montij)
   - [Notary Public in Claremont, CA: R. Ivery](https://www.notarydepot.com/moonisha)
@@ -8019,4 +8019,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-03T14:53:02Z
+Updated at 2019-01-03T15:13:02Z
