@@ -5501,6 +5501,7 @@
   - [Notary Public in Northfield, OH: David](https://www.notarydepot.com/moyerparalegal)
   - [Notary Public in Eustis, FL: Mary-Beth Palerino](https://www.notarydepot.com/mpalerino)
   - [Notary Public in White Marsh, MD: Maria Papavasilis ](https://www.notarydepot.com/mpapavasilis70)
+  - [Notary Public in Hendersonville, NC: Melissa Pettit](https://www.notarydepot.com/mpettit)
   - [Notary Public in Towanda, PA: Mary Pierce](https://www.notarydepot.com/mpiercenotary)
   - [Notary Public in Kingston, NY: Francis Smith](https://www.notarydepot.com/mpismith)
   - [Notary Public in Geneva, IL: Heather Smith](https://www.notarydepot.com/mpoppins)
@@ -8019,4 +8020,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-03T15:33:01Z
+Updated at 2019-01-03T15:53:02Z
