@@ -2012,7 +2012,6 @@
     - [Notary Public in Royse City, TX](https://www.notarydepot.com/notary-near-me/Texas/Royse-City)
     - [Notary Public in Sachse, TX](https://www.notarydepot.com/notary-near-me/Texas/Sachse)
     - [Notary Public in San Antonio, TX](https://www.notarydepot.com/notary-near-me/Texas/San-Antonio)
-    - [Notary Public in San Marcos, TX](https://www.notarydepot.com/notary-near-me/Texas/San-Marcos)
     - [Notary Public in Schertz, TX](https://www.notarydepot.com/notary-near-me/Texas/Schertz)
     - [Notary Public in Seabrook, TX](https://www.notarydepot.com/notary-near-me/Texas/Seabrook)
     - [Notary Public in Shepherd, TX](https://www.notarydepot.com/notary-near-me/Texas/Shepherd)
@@ -5708,7 +5707,6 @@
   - [Notary Public in Milwaukee, WI: Chequetta Ferguson](https://www.notarydepot.com/notariesbycferguson)
   - [Notary Public in Land O&#39; Lakes, FL: Charles ](https://www.notarydepot.com/notariesdepot)
   - [Notary Public in Palm Coast, FL: Notariestogo](https://www.notarydepot.com/notariestogo)
-  - [Notary Public in San Marcos, TX: Donald G. Dickey](https://www.notarydepot.com/notarize4u)
   - [Notary Public in Cochranton, PA: Daisylynn M. Tafoya](https://www.notarydepot.com/notarizeit)
   - [Notary Public in Maumelle, AR: Carol Wilson](https://www.notarydepot.com/notarizeme)
   - [Notary Public in San Diego, CA: Notarize San Diego](https://www.notarydepot.com/notarizesandiego)
@@ -8020,4 +8018,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-04T22:53:02Z
+Updated at 2019-01-04T23:13:01Z
