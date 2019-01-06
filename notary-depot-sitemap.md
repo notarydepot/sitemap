@@ -536,6 +536,7 @@
     - [Notary Public in Wallingford, CT](https://www.notarydepot.com/notary-near-me/Connecticut/Wallingford)
     - [Notary Public in West Hartford, CT](https://www.notarydepot.com/notary-near-me/Connecticut/West-Hartford)
     - [Notary Public in West Haven, CT](https://www.notarydepot.com/notary-near-me/Connecticut/West-Haven)
+    - [Notary Public in Westport, CT](https://www.notarydepot.com/notary-near-me/Connecticut/Westport)
     - [Notary Public in Windsor, CT](https://www.notarydepot.com/notary-near-me/Connecticut/Windsor)
     - [Notary Public in Wolcott, CT](https://www.notarydepot.com/notary-near-me/Connecticut/Wolcott)
   - [Notaries Public in Delaware](https://www.notarydepot.com/notary-near-me/Delaware)
@@ -3121,6 +3122,7 @@
   - [Notary Public in Rohnert Park, CA: Celina Bertolina](https://www.notarydepot.com/cmbnotary)
   - [Notary Public in Lansing, MI: Connie Powers](https://www.notarydepot.com/cmcdade)
   - [Notary Public in Foxboro, WI: Christine Mcdonald](https://www.notarydepot.com/cmcdonald)
+  - [Notary Public in Westport, CT: claudia ](https://www.notarydepot.com/cmdesalas)
   - [Notary Public in Wallington, NJ: Cheryl Mihalik](https://www.notarydepot.com/cmihalik)
   - [Notary Public in Chesterfield, VA: Wendy Hevener](https://www.notarydepot.com/cmnllc)
   - [Notary Public in Pelion, SC: Chadwick H Moore Notary Public South Carolina](https://www.notarydepot.com/cmnotarysite)
@@ -8019,4 +8021,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-06T19:13:02Z
+Updated at 2019-01-06T19:33:02Z
