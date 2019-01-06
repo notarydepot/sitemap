@@ -4195,6 +4195,7 @@
   - [Notary Public in Denver, CO: Diana Yvonne Munoz](https://www.notarydepot.com/jared2003)
   - [Notary Public in Lebanon, PA: Jared](https://www.notarydepot.com/jaredclong)
   - [Notary Public in Orlando, FL: Jasmin L. Devitt](https://www.notarydepot.com/jasmindevitt)
+  - [Notary Public in Wallington, NJ: Jason DeStefano](https://www.notarydepot.com/jasond)
   - [Notary Public in Ankeny, IA: Jason Welch](https://www.notarydepot.com/jasonlw)
   - [Notary Public in Laguna Beach, CA: Heidi Bounds](https://www.notarydepot.com/jaszzee)
   - [Notary Public in Phoenix, AZ: Jennifer Towner - Precise Notary Service](https://www.notarydepot.com/jatowner)
@@ -8018,4 +8019,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-06T03:13:02Z
+Updated at 2019-01-06T03:33:02Z
