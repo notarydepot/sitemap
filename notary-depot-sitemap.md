@@ -2728,6 +2728,7 @@
   - [Notary Public in Moody, AL: Shev Singleton](https://www.notarydepot.com/bestcloser)
   - [Notary Public in West Palm Beach, FL: Betania Valente Nassar](https://www.notarydepot.com/betaniavalente)
   - [Notary Public in Myrtle Creek, OR: Bethany H. Peterman](https://www.notarydepot.com/bethany)
+  - [Notary Public in Chino Hills, CA: Bethany ](https://www.notarydepot.com/bethanyyaroma)
   - [Notary Public in Cape Coral, FL: B. L. Devlin](https://www.notarydepot.com/bettdev)
   - [Notary Public in NJ: Sw Notary Services LLC](https://www.notarydepot.com/betterdays)
   - [Notary Public in Orlando, FL: Liz Leon](https://www.notarydepot.com/betty07)
@@ -8021,4 +8022,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-07T00:13:02Z
+Updated at 2019-01-07T00:33:02Z
