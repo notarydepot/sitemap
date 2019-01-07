@@ -7207,6 +7207,7 @@
   - [Notary Public in Virginia Beach, VA: Vergie Smith](https://www.notarydepot.com/vergiesmith)
   - [Notary Public in Princeton, IL: Vernice R Begly](https://www.notarydepot.com/vernice14)
   - [Notary Public in Phoenix, AZ: Veronica Herrera](https://www.notarydepot.com/vero07)
+  - [Notary Public in Chicago, IL: Veronica Hardge](https://www.notarydepot.com/veronicamobilenotary)
   - [Notary Public in Largo, FL: Veronica Tyler](https://www.notarydepot.com/veronicat06)
   - [Notary Public in Jacksonville, FL: Verssie V. Randolph](https://www.notarydepot.com/verssie2)
   - [Notary Public in Middletown, NY: Victoria Estridge](https://www.notarydepot.com/vestridge)
@@ -8022,4 +8023,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-07T17:33:02Z
+Updated at 2019-01-07T17:53:02Z
