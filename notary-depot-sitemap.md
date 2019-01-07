@@ -5722,7 +5722,7 @@
   - [Notary Public in Fort Worth, TX: Marian Watson](https://www.notarydepot.com/notary2009)
   - [Notary Public in Mahwah, NJ: Patrick Williams](https://www.notarydepot.com/notary284)
   - [Notary Public in Noblesville, IN: Richard Scott Stern](https://www.notarydepot.com/notary2939)
-  - [Notary Public in Bella Vista, AR: Rebecka Ebsen](https://www.notarydepot.com/notary2coxnet)
+  - [Notary Public in Springdale, AR: Rebecka Ebsen](https://www.notarydepot.com/notary2coxnet)
   - [Notary Public in Houston, TX: Wayne Hamilton, Certified Signing Agent](https://www.notarydepot.com/notary2notary)
   - [Notary Public in Uniontown, PA: Judith A. Carter](https://www.notarydepot.com/notary2travel)
   - [Notary Public in Whittier, CA: Linda J. Ortega](https://www.notarydepot.com/notary2u)
@@ -8022,4 +8022,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-07T12:33:02Z
+Updated at 2019-01-07T12:53:02Z
