@@ -4254,7 +4254,6 @@
   - [Notary Public in Wurtsboro, NY: Jean M. Dougherty](https://www.notarydepot.com/jeand)
   - [Notary Public in NY: Jeanette Wilson](https://www.notarydepot.com/jeanettewilson)
   - [Notary Public in Cleveland, OH: Jeanine Sims](https://www.notarydepot.com/jeaninesims)
-  - [Notary Public in FL: Jean Meyer](https://www.notarydepot.com/jeanmeyer)
   - [Notary Public in Bradenton, FL: Jean Meyer](https://www.notarydepot.com/jeanmeyer247)
   - [Notary Public in North Berwick, ME: Jeannie Provencher](https://www.notarydepot.com/jeannie50mp469)
   - [Notary Public in Chicago, IL: Jean Zei](https://www.notarydepot.com/jeanzei)
@@ -8023,4 +8022,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-08T16:54:01Z
+Updated at 2019-01-08T17:14:01Z
