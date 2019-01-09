@@ -2251,6 +2251,7 @@
     - [Notary Public in Casper, WY](https://www.notarydepot.com/notary-near-me/Wyoming/Casper)
     - [Notary Public in Cheyenne, WY](https://www.notarydepot.com/notary-near-me/Wyoming/Cheyenne)
     - [Notary Public in Cody, WY](https://www.notarydepot.com/notary-near-me/Wyoming/Cody)
+    - [Notary Public in Lovell, WY](https://www.notarydepot.com/notary-near-me/Wyoming/Lovell)
     - [Notary Public in Riverton, WY](https://www.notarydepot.com/notary-near-me/Wyoming/Riverton)
     - [Notary Public in Story, WY](https://www.notarydepot.com/notary-near-me/Wyoming/Story)
     - [Notary Public in Thermopolis, WY](https://www.notarydepot.com/notary-near-me/Wyoming/Thermopolis)
@@ -3365,6 +3366,7 @@
   - [Notary Public in Baton Rouge, LA: Debra J. Roberson](https://www.notarydepot.com/debroby)
   - [Notary Public in Lapeer, MI: Rachelle Debroske](https://www.notarydepot.com/debroske)
   - [Notary Public in Wausau, WI: Deb Smith](https://www.notarydepot.com/debsmith4759)
+  - [Notary Public in Lovell, WY: Deborah A. Wambeke](https://www.notarydepot.com/debwambeke)
   - [Notary Public in Hudson, FL: Donna DeCeco](https://www.notarydepot.com/dececo)
   - [Notary Public in Temple, TX: Dana McKinney](https://www.notarydepot.com/dede1107)
   - [Notary Public in Houston, TX: Lateasha Kelley](https://www.notarydepot.com/dedicatedparalegal)
@@ -8023,4 +8025,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-09T17:34:02Z
+Updated at 2019-01-09T17:54:02Z
