@@ -4783,7 +4783,7 @@
   - [Notary Public in Santa Ana, CA: Ana Karina Rodriguez](https://www.notarydepot.com/krodriguez28)
   - [Notary Public in Fort Myers, FL: Kelly R Turner](https://www.notarydepot.com/krshrum)
   - [Notary Public in Fort Edward, NY: Kevin Snell](https://www.notarydepot.com/krsnell57)
-  - [Notary Public in Fort Lauderdale, FL: Kyle Russell](https://www.notarydepot.com/krussell)
+  - [Notary Public in Hollywood, FL: Kyle Russell](https://www.notarydepot.com/krussell)
   - [Notary Public in Miami, FL: Katherine J. Santana](https://www.notarydepot.com/ksantana)
   - [Notary Public in Johnson City, TN: Kenneth Burnette](https://www.notarydepot.com/ksburnette)
   - [Notary Public in Charlotte, NC: Katrina Screen](https://www.notarydepot.com/kscreen)
@@ -8027,4 +8027,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-10T16:54:02Z
+Updated at 2019-01-10T17:14:02Z
