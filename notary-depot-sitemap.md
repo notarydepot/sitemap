@@ -7026,6 +7026,7 @@
   - [Notary Public in Omaha, NE: Trisha K. McCormick-Baker](https://www.notarydepot.com/tkmccormick)
   - [Notary Public in Knoxville, TN: Teola Kaye Terry](https://www.notarydepot.com/tkt5757)
   - [Notary Public in Tampa, FL: Terence Wolfe](https://www.notarydepot.com/tkwolfe)
+  - [Notary Public in Morristown, TN: Kelsey Miller](https://www.notarydepot.com/tkwolfe08)
   - [Notary Public in Raleigh, NC: Tonya Burton](https://www.notarydepot.com/tlburton)
   - [Notary Public in Elk Grove, CA: Tari Clair-Parsons](https://www.notarydepot.com/tlcnotarypublic)
   - [Notary Public in Simi Valley, CA: Teresa L. Crow](https://www.notarydepot.com/tlcrow)
@@ -8028,4 +8029,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-10T04:34:02Z
+Updated at 2019-01-10T04:54:02Z
