@@ -3689,6 +3689,7 @@
   - [Notary Public in Eugene, OR: Elizabeth Oleson](https://www.notarydepot.com/eoleson85)
   - [Notary Public in Baldwin Park, CA: Esther Perez-Hernandez, Notary Public](https://www.notarydepot.com/ep2007)
   - [Notary Public in NY: Elisa Pickel](https://www.notarydepot.com/ep2boys)
+  - [Notary Public in Greensboro, NC: Stormie](https://www.notarydepot.com/epicstorm)
   - [Notary Public in Upper Marlboro, MD: Edward R. Bowles](https://www.notarydepot.com/erbowles1955)
   - [Notary Public in Owensboro, KY: J. Eric Spence](https://www.notarydepot.com/eric2oo2)
   - [Notary Public in Bremerton, WA: Eric Hall](https://www.notarydepot.com/eric30fnp)
@@ -8027,4 +8028,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-10T03:14:02Z
+Updated at 2019-01-10T03:34:02Z
