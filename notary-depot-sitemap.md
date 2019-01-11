@@ -5369,7 +5369,7 @@
   - [Notary Public in Cleveland, TN: April Miles ](https://www.notarydepot.com/miles1422)
   - [Notary Public in Sacramento, CA: Tobias Scott](https://www.notarydepot.com/milesbenedicene)
   - [Notary Public in Royersford, PA: Sherry L. Miller](https://www.notarydepot.com/miller68)
-  - [Notary Public in San Ramon, CA: Bruce David Horti](https://www.notarydepot.com/millionaire)
+  - [Notary Public in Macon, GA: Bruce Horti](https://www.notarydepot.com/millionaire)
   - [Notary Public in Hollywood, FL: Milton Ramirez](https://www.notarydepot.com/miltinote)
   - [Notary Public in South Lyon, MI: Sheri Lynn Prielipp-Falzone](https://www.notarydepot.com/mimcam2)
   - [Notary Public in Olivehurst, CA: Mindi Whittaker](https://www.notarydepot.com/mindithenotary)
@@ -8030,4 +8030,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-11T07:54:02Z
+Updated at 2019-01-11T08:14:02Z
