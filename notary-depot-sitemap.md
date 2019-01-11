@@ -748,6 +748,7 @@
     - [Notary Public in Doerun, GA](https://www.notarydepot.com/notary-near-me/Georgia/Doerun)
     - [Notary Public in Douglasville, GA](https://www.notarydepot.com/notary-near-me/Georgia/Douglasville)
     - [Notary Public in Duluth, GA](https://www.notarydepot.com/notary-near-me/Georgia/Duluth)
+    - [Notary Public in Ellenwood, GA](https://www.notarydepot.com/notary-near-me/Georgia/Ellenwood)
     - [Notary Public in Evans, GA](https://www.notarydepot.com/notary-near-me/Georgia/Evans)
     - [Notary Public in Fairburn, GA](https://www.notarydepot.com/notary-near-me/Georgia/Fairburn)
     - [Notary Public in Fayetteville, GA](https://www.notarydepot.com/notary-near-me/Georgia/Fayetteville)
@@ -3737,6 +3738,7 @@
   - [Notary Public in West Covina, CA: Richard Lee](https://www.notarydepot.com/eznotaryla)
   - [Notary Public in Fresno, CA: Esmeralda Pumarejo](https://www.notarydepot.com/ezzie)
   - [Notary Public in White Plains, NY: Tiffany Choice](https://www.notarydepot.com/fairechoice)
+  - [Notary Public in Ellenwood, GA: Shemi Smith](https://www.notarydepot.com/faithfulstar06)
   - [Notary Public in Riverview, FL: Falicia Lisa Newsome](https://www.notarydepot.com/falicia)
   - [Notary Public in Westland, MI: Lori L. Pesavento](https://www.notarydepot.com/family)
   - [Notary Public in San Jacinto, CA: Frank Martinez](https://www.notarydepot.com/fanko99)
@@ -7041,6 +7043,7 @@
   - [Notary Public in Miami, FL: Tanya M Melendez](https://www.notarydepot.com/tmarrisa)
   - [Notary Public in West Sacramento, CA: Tamara Mata](https://www.notarydepot.com/tmata)
   - [Notary Public in Erlanger, KY: Teresa J. McDowell](https://www.notarydepot.com/tmcdowell)
+  - [Notary Public in Gastonia, NC: Tangela Caldwell](https://www.notarydepot.com/tmcexpress)
   - [Notary Public in Quincy, CA: Traci M. Downey](https://www.notarydepot.com/tmdowney)
   - [Notary Public in Covington, GA: Tyeasha Minor](https://www.notarydepot.com/tminor1)
   - [Notary Public in Austin, TX: Tommy Oates](https://www.notarydepot.com/tmoates)
@@ -8027,4 +8030,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-11T02:14:02Z
+Updated at 2019-01-11T02:34:02Z
