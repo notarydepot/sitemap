@@ -6409,7 +6409,7 @@
   - [Notary Public in Scottsdale, AZ: Ryan Lee](https://www.notarydepot.com/ryan380golf)
   - [Notary Public in Oklahoma City, OK: Ryan Wager](https://www.notarydepot.com/ryan_wager)
   - [Notary Public in Irvington, NJ: Ryder Cortes](https://www.notarydepot.com/rydercortes)
-  - [Notary Public in Carrollton, TX: saba Chaudhry](https://www.notarydepot.com/sabanotary)
+  - [Notary Public in Lewisville, TX: saba Chaudhry](https://www.notarydepot.com/sabanotary)
   - [Notary Public in Los Angeles, CA: Sabrina D. Machado](https://www.notarydepot.com/sabrinamachado)
   - [Notary Public in Santa Clara, CA: Kelby Olson](https://www.notarydepot.com/sac22)
   - [Notary Public in Floresville, TX: Chi Hung Loo](https://www.notarydepot.com/sacnotary)
@@ -8030,4 +8030,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-11T03:54:02Z
+Updated at 2019-01-11T04:14:02Z
