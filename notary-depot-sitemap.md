@@ -3141,7 +3141,6 @@
   - [Notary Public in Lancaster, CA: Elizabeth Ann Ballentine](https://www.notarydepot.com/code3mobilenotary)
   - [Notary Public in Anaheim, CA: Cathy L O&#39;Dell Town](https://www.notarydepot.com/codell65)
   - [Notary Public in NY: Charles N Cook](https://www.notarydepot.com/codyjarrett)
-  - [Notary Public in Nashville, TN: L C McKeithan](https://www.notarydepot.com/codymcknav)
   - [Notary Public in Corvallis, OR: Cody Patton](https://www.notarydepot.com/codypattonz)
   - [Notary Public in Sierra Vista, AZ: Cody Ryan](https://www.notarydepot.com/codyryan)
   - [Notary Public in Charlotte, NC: Theodore](https://www.notarydepot.com/cogginsgroup)
@@ -5444,6 +5443,7 @@
   - [Notary Public in Fallon, NV: Greg Anderson](https://www.notarydepot.com/mobilenotarygreg)
   - [Notary Public in San Diego, CA: ronald link](https://www.notarydepot.com/mobilenotaryguy)
   - [Notary Public in Urbana, OH: Rhonda M Lippencott](https://www.notarydepot.com/mobilenotaryinohiogmailcom)
+  - [Notary Public in Nashville, TN: Cody McKeithan](https://www.notarydepot.com/mobilenotaryintn)
   - [Notary Public in Los Angeles, CA: Charles Ross](https://www.notarydepot.com/mobilenotarylaxcrossgmailcom)
   - [Notary Public in Alexandria, VA: Lisa D Brightsen](https://www.notarydepot.com/mobilenotarylisa)
   - [Notary Public in Mount Airy, NC: Davee Daughenbaugh ](https://www.notarydepot.com/mobilenotaryondemand)
@@ -8030,4 +8030,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-12T03:54:02Z
+Updated at 2019-01-12T04:14:02Z
