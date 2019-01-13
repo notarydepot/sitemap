@@ -4657,6 +4657,7 @@
   - [Notary Public in Sparta, TN: Kellie A. Salley](https://www.notarydepot.com/kelliesa)
   - [Notary Public in Murfreesboro, TN: kelly adams](https://www.notarydepot.com/kellyadams)
   - [Notary Public in Santa Monica, CA: Santa Monica Notary](https://www.notarydepot.com/kellycharpenet)
+  - [Notary Public in Lompoc, CA: Kelly Clark](https://www.notarydepot.com/kellyclark)
   - [Notary Public in Fairfax, VA: Kelly Gulich](https://www.notarydepot.com/kellygulich)
   - [Notary Public in Pomona, CA: Kelly Shah](https://www.notarydepot.com/kellyshah)
   - [Notary Public in San Antonio, TX: Ms. Kelly Spicer](https://www.notarydepot.com/kellyspicer)
@@ -8031,4 +8032,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-13T03:34:02Z
+Updated at 2019-01-13T03:54:02Z
