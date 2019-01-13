@@ -1816,7 +1816,6 @@
   - [Notaries Public in Rhode Island](https://www.notarydepot.com/notary-near-me/Rhode-Island)
     - [Notary Public in Cranston, RI](https://www.notarydepot.com/notary-near-me/Rhode-Island/Cranston)
     - [Notary Public in Providence, RI](https://www.notarydepot.com/notary-near-me/Rhode-Island/Providence)
-    - [Notary Public in Tiverton, RI](https://www.notarydepot.com/notary-near-me/Rhode-Island/Tiverton)
     - [Notary Public in Warwick, RI](https://www.notarydepot.com/notary-near-me/Rhode-Island/Warwick)
   - [Notaries Public in South Carolina](https://www.notarydepot.com/notary-near-me/South-Carolina)
     - [Notary Public in Aiken, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Aiken)
@@ -3897,7 +3896,7 @@
   - [Notary Public in Riverside, CA: Gina Valvo](https://www.notarydepot.com/ginavalvonotary)
   - [Notary Public in Las Vegas, NV: Lori Noon](https://www.notarydepot.com/ginger)
   - [Notary Public in West Sacramento, CA: Giselle Rodriguez](https://www.notarydepot.com/gisell7)
-  - [Notary Public in Tiverton, RI: Giselle Abdul](https://www.notarydepot.com/gisellea)
+  - [Notary Public in Brandon, FL: Giselle Abdul](https://www.notarydepot.com/gisellea)
   - [Notary Public in Pinellas Park, FL: G. Jasuwan](https://www.notarydepot.com/gjasuwan)
   - [Notary Public in Spring, TX: Gregg Kirby](https://www.notarydepot.com/gkirby28)
   - [Notary Public in Bettendorf, IA: Glen Wooldridge](https://www.notarydepot.com/gknicks)
@@ -8032,4 +8031,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-13T05:14:02Z
+Updated at 2019-01-13T05:34:01Z
