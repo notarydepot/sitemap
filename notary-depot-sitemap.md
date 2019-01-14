@@ -2431,6 +2431,7 @@
   - [Notary Public in Oak Lawn, IL: Kathleen M. Spies](https://www.notarydepot.com/alleykat114)
   - [Notary Public in Southfield, MI: Allison Maxwell](https://www.notarydepot.com/allisonm)
   - [Notary Public in NJ: Allison McCafferty](https://www.notarydepot.com/allisonnj)
+  - [Notary Public in Sacramento, CA: Jordan Ruelas](https://www.notarydepot.com/alljordan)
   - [Notary Public in Manhattan, MT: April Lucore-Christensen](https://www.notarydepot.com/allnotaryservices)
   - [Notary Public in Stanford, KY: Robin](https://www.notarydepot.com/allrightnotary)
   - [Notary Public in Carlsbad, CA: Autumn Marie Soto](https://www.notarydepot.com/allstarnotary)
@@ -8031,4 +8032,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-14T16:14:02Z
+Updated at 2019-01-14T16:34:02Z
