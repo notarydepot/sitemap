@@ -2172,7 +2172,6 @@
     - [Notary Public in Kennewick, WA](https://www.notarydepot.com/notary-near-me/Washington/Kennewick)
     - [Notary Public in Kent, WA](https://www.notarydepot.com/notary-near-me/Washington/Kent)
     - [Notary Public in Lacey, WA](https://www.notarydepot.com/notary-near-me/Washington/Lacey)
-    - [Notary Public in Lakewood, WA](https://www.notarydepot.com/notary-near-me/Washington/Lakewood)
     - [Notary Public in Longview, WA](https://www.notarydepot.com/notary-near-me/Washington/Longview)
     - [Notary Public in Lynden, WA](https://www.notarydepot.com/notary-near-me/Washington/Lynden)
     - [Notary Public in Lynnwood, WA](https://www.notarydepot.com/notary-near-me/Washington/Lynnwood)
@@ -6506,7 +6505,7 @@
   - [Notary Public in Bradenton, FL: Scott Lindsay](https://www.notarydepot.com/scotlind12)
   - [Notary Public in Bethesda, MD: Scott Blumenfeld](https://www.notarydepot.com/scottblu)
   - [Notary Public in Pembroke Pines, FL: Scott Cutler](https://www.notarydepot.com/scottcutler)
-  - [Notary Public in Lakewood, WA: Scott Kjendlie](https://www.notarydepot.com/scottkjendlie)
+  - [Notary Public in Tacoma, WA: Scott Kjendlie](https://www.notarydepot.com/scottkjendlie)
   - [Notary Public in Safety Harbor, FL: Scott Berman](https://www.notarydepot.com/scottsmobilenotary)
   - [Notary Public in Murray, UT: Sandn Tratos](https://www.notarydepot.com/sctratos)
   - [Notary Public in Fishers, IN: Sherri L. Dabson](https://www.notarydepot.com/sdabson)
@@ -8032,4 +8031,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-14T18:34:02Z
+Updated at 2019-01-14T18:54:02Z
