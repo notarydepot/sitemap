@@ -6693,7 +6693,7 @@
   - [Notary Public in Portland, OR: Sloan Patterson](https://www.notarydepot.com/sloan88)
   - [Notary Public in San Luis Obispo, CA: Holly Campuzano](https://www.notarydepot.com/slonotary)
   - [Notary Public in Saucier, MS: Shasta Wood](https://www.notarydepot.com/slwood3)
-  - [Notary Public in Elk Grove, CA: Shonja D. Mainor](https://www.notarydepot.com/smainor)
+  - [Notary Public in Sacramento, CA: Shonja D Mainor](https://www.notarydepot.com/smainor)
   - [Notary Public in Davenport, FL: Cassandre Martin](https://www.notarydepot.com/smart1249)
   - [Notary Public in Fernandina Beach, FL: Sylvie McCann](https://www.notarydepot.com/smccann)
   - [Notary Public in Jonesboro, AR: Sherry McLaughlin](https://www.notarydepot.com/smclaughlin)
@@ -8031,4 +8031,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-14T15:34:02Z
+Updated at 2019-01-14T15:54:03Z
