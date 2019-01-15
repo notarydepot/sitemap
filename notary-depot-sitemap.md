@@ -3647,7 +3647,6 @@
   - [Notary Public in Santa Clarita, CA: Eleana Burroughs 818.335.6567](https://www.notarydepot.com/eleanabl)
   - [Notary Public in Chino Hills, CA: Lynita Scott](https://www.notarydepot.com/elegantnotary)
   - [Notary Public in CA: Elena Togoe](https://www.notarydepot.com/elena052560)
-  - [Notary Public in Petersburg, VA: Thelma E Johnson](https://www.notarydepot.com/elena23805)
   - [Notary Public in La Mesa, CA: Chelsea Addison](https://www.notarydepot.com/eleventhhourmobilenotary)
   - [Notary Public in Chino Hills, CA: Kim Pitts](https://www.notarydepot.com/elijah99)
   - [Notary Public in San Mateo, CA: The Best Bay Area Notaryâ„¢](https://www.notarydepot.com/elijones)
@@ -8031,4 +8030,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-14T23:54:02Z
+Updated at 2019-01-15T00:14:02Z
