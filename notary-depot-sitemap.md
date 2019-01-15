@@ -6281,6 +6281,7 @@
   - [Notary Public in Gulfport, MS: Ritha Fuller](https://www.notarydepot.com/rithafull63)
   - [Notary Public in Tempe, AZ: Renault Carrington](https://www.notarydepot.com/rjc198003)
   - [Notary Public in Bedford, OH: Rhonda Jennings](https://www.notarydepot.com/rjennings)
+  - [Notary Public in Orlando, FL: Robert Goldman](https://www.notarydepot.com/rjgnotary)
   - [Notary Public in Lathrop, CA: Reba Williams-Jones](https://www.notarydepot.com/rjones03)
   - [Notary Public in Charlotte, NC: Raymon Hunt](https://www.notarydepot.com/rjoyassociatesnotary)
   - [Notary Public in Ponca City, OK: Robin Abshire](https://www.notarydepot.com/rkabshire)
@@ -8030,4 +8031,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-15T22:54:02Z
+Updated at 2019-01-15T23:14:02Z
