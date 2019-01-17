@@ -6733,7 +6733,7 @@
   - [Notary Public in Beaumont, CA: Sonja Avitia](https://www.notarydepot.com/sonjanotary)
   - [Notary Public in Oklahoma City, OK: James E. Lloyd Iii](https://www.notarydepot.com/sooner310)
   - [Notary Public in San Diego, CA: Sophia Sanchez](https://www.notarydepot.com/sophiasan)
-  - [Notary Public in Burlington, NJ: Yvette Ray](https://www.notarydepot.com/sotdl04)
+  - [Notary Public in Mount Holly, NJ: Yvette Ray](https://www.notarydepot.com/sotdl04)
   - [Notary Public in Schwenksville, PA: MELANIE ALTEMUS](https://www.notarydepot.com/sourceoneautogroup)
   - [Notary Public in Torrance, CA: Steven Robledo](https://www.notarydepot.com/southbay_notary)
   - [Notary Public in Tampa, FL: Peter Cavalli, Mpa](https://www.notarydepot.com/southtampanotary)
@@ -8033,4 +8033,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-17T16:54:03Z
+Updated at 2019-01-17T17:14:02Z
