@@ -4340,7 +4340,7 @@
   - [Notary Public in Pompano Beach, FL: Judy Ferris, CPA](https://www.notarydepot.com/jferris)
   - [Notary Public in Baton Rouge, LA: Janet Lee French](https://www.notarydepot.com/jfsobers)
   - [Notary Public in Centre, AL: Jennifer Garner](https://www.notarydepot.com/jgarner)
-  - [Notary Public in Greensboro, NC: Gary Dean](https://www.notarydepot.com/jgdean)
+  - [Notary Public in Greensboro, NC: James Dean](https://www.notarydepot.com/jgdean)
   - [Notary Public in Lake Oswego, OR: Jean Griffin](https://www.notarydepot.com/jghenke)
   - [Notary Public in Schenectady, NY: Julie A. Grasso](https://www.notarydepot.com/jgrasso)
   - [Notary Public in Roseville, CA: Jennifer Grinder](https://www.notarydepot.com/jgrinder)
@@ -8033,4 +8033,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-17T17:14:02Z
+Updated at 2019-01-17T17:34:02Z
