@@ -7152,7 +7152,6 @@
   - [Notary Public in Humble, TX: Vernesia Voltz](https://www.notarydepot.com/txsignsrv13)
   - [Notary Public in KY: Tyler Reiser](https://www.notarydepot.com/tylerreiser)
   - [Notary Public in San Antonio, TX: Tyler Renae Pruitt](https://www.notarydepot.com/tylerrenaekalusevic)
-  - [Notary Public in Stockton, CA: Tyler Soares](https://www.notarydepot.com/tylersoares)
   - [Notary Public in Central Point, OR: Nicole Caballero](https://www.notarydepot.com/typeitright)
   - [Notary Public in Fullerton, CA: Mark Philipp Lorico](https://www.notarydepot.com/typeone8)
   - [Notary Public in Savannah, GA: Pheon Tyson](https://www.notarydepot.com/tysonph1)
@@ -8035,4 +8034,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-18T19:54:01Z
+Updated at 2019-01-18T20:14:02Z
