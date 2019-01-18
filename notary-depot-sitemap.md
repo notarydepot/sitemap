@@ -6483,6 +6483,7 @@
   - [Notary Public in White Plains, NY: Shana](https://www.notarydepot.com/sbeckford)
   - [Notary Public in Terry, MS: Sabrina L. Benson](https://www.notarydepot.com/sbenson1985)
   - [Notary Public in Boynton Beach, FL: Sandra E. Brooks](https://www.notarydepot.com/sbnotary)
+  - [Notary Public in Hesperia, CA: Sue Brennan](https://www.notarydepot.com/sbrennan)
   - [Notary Public in Fayette, MS: La Tonya Muhammad](https://www.notarydepot.com/sbsnotary)
   - [Notary Public in Houston, TX: Shari Burke](https://www.notarydepot.com/sburke)
   - [Notary Public in Minneapolis, MN: Sheena Linnea Butler](https://www.notarydepot.com/sbutler1982)
@@ -6829,7 +6830,6 @@
   - [Notary Public in Tahoe City, CA: Vincent E. Alfano](https://www.notarydepot.com/stvincent)
   - [Notary Public in St. Louis, MO: Patricia Watson](https://www.notarydepot.com/success87)
   - [Notary Public in Westbury, NY: Sue Diglio](https://www.notarydepot.com/sued)
-  - [Notary Public in Hesperia, CA: Sue Brennan](https://www.notarydepot.com/suekay)
   - [Notary Public in Mesa, AZ: Sue Higbee](https://www.notarydepot.com/sueserrands)
   - [Notary Public in Rancho Cucamonga, CA: Sue Slim](https://www.notarydepot.com/sueslim)
   - [Notary Public in Yorba Linda, CA: Suhasini Arlic](https://www.notarydepot.com/suhasiniarlic)
@@ -8034,4 +8034,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-18T04:14:02Z
+Updated at 2019-01-18T04:34:02Z
