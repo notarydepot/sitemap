@@ -1122,6 +1122,7 @@
     - [Notary Public in Holland, MI](https://www.notarydepot.com/notary-near-me/Michigan/Holland)
     - [Notary Public in Holly, MI](https://www.notarydepot.com/notary-near-me/Michigan/Holly)
     - [Notary Public in Hudsonville, MI](https://www.notarydepot.com/notary-near-me/Michigan/Hudsonville)
+    - [Notary Public in Inkster, MI](https://www.notarydepot.com/notary-near-me/Michigan/Inkster)
     - [Notary Public in Ionia, MI](https://www.notarydepot.com/notary-near-me/Michigan/Ionia)
     - [Notary Public in Jackson, MI](https://www.notarydepot.com/notary-near-me/Michigan/Jackson)
     - [Notary Public in Kalamazoo, MI](https://www.notarydepot.com/notary-near-me/Michigan/Kalamazoo)
@@ -4321,7 +4322,7 @@
   - [Notary Public in Collins, MO: Jerry O Thompson](https://www.notarydepot.com/jerryothompsonreagancom)
   - [Notary Public in Sarasota, FL: Jerry Hoey](https://www.notarydepot.com/jerry_hoey)
   - [Notary Public in Kingsville, TX: Diana C. Miller](https://www.notarydepot.com/jesamlee)
-  - [Notary Public in New York, NY: Jesse james](https://www.notarydepot.com/jessejamesnotary)
+  - [Notary Public in Inkster, MI: Jesse](https://www.notarydepot.com/jessejamesnotary)
   - [Notary Public in Bellflower, CA: Jessica](https://www.notarydepot.com/jessica)
   - [Notary Public in Las Vegas, NV: Andrew Springfield](https://www.notarydepot.com/jessica02)
   - [Notary Public in Spring Hill, FL: Jessica Ahearn](https://www.notarydepot.com/jessicaahearn)
@@ -8035,4 +8036,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-18T11:14:02Z
+Updated at 2019-01-18T11:34:02Z
