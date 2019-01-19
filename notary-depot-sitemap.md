@@ -3822,6 +3822,7 @@
   - [Notary Public in Rahway, NJ: Francine Smith](https://www.notarydepot.com/fsmith)
   - [Notary Public in Spring Hill, FL: Patricia B. Herpy](https://www.notarydepot.com/fsmmobileclosers)
   - [Notary Public in Albany, OR: William Rogers ](https://www.notarydepot.com/fsmn17)
+  - [Notary Public in Fort Stockton, TX: Michael Luna](https://www.notarydepot.com/fsnotary432)
   - [Notary Public in Lehigh Acres, FL: Gabriela Fuster](https://www.notarydepot.com/fustergabriela7)
   - [Notary Public in Amelia Court House, VA: Georgia Banks](https://www.notarydepot.com/gabanks2)
   - [Notary Public in Houston, TX: Gabriela Rodriguez](https://www.notarydepot.com/gabulous1)
@@ -8034,4 +8035,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-19T11:34:02Z
+Updated at 2019-01-19T11:54:02Z
