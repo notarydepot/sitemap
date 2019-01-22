@@ -3342,7 +3342,7 @@
   - [Notary Public in Brentwood, MD: Derek](https://www.notarydepot.com/ddcooke)
   - [Notary Public in Syracuse, NY: Daniel Debrucker](https://www.notarydepot.com/ddebrucker)
   - [Notary Public in Drums, PA: Diana L Donahue](https://www.notarydepot.com/ddonahue)
-  - [Notary Public in Bracey, VA: Denise Johnson, Notary Public](https://www.notarydepot.com/de63038)
+  - [Notary Public in Bracey, VA: Denise Johnson](https://www.notarydepot.com/de63038)
   - [Notary Public in Phoenix, AZ: Deana Lowrance, Professional &quot;Mobile&quot; Signing Agent &amp; Notary](https://www.notarydepot.com/deanaj)
   - [Notary Public in Hampton, VA: David E. Dean](https://www.notarydepot.com/deande)
   - [Notary Public in Rocky Point, NC: Deborah A. Newkirk](https://www.notarydepot.com/deb)
@@ -8038,4 +8038,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-22T14:14:02Z
+Updated at 2019-01-22T14:34:02Z
