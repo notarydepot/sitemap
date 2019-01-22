@@ -2325,6 +2325,7 @@
   - [Notary Public in Wixom, MI: Susan Becker](https://www.notarydepot.com/absolutenotary)
   - [Notary Public in Shirley, NY: Gyneth Goldstein](https://www.notarydepot.com/abstractsplus)
   - [Notary Public in Oakland, CA: Janie Brown](https://www.notarydepot.com/abundantlyblessed69)
+  - [Notary Public in Las Vegas, NV: Adrienne  Bourque ](https://www.notarydepot.com/abusybee)
   - [Notary Public in Riverside, CA: Jennifer West](https://www.notarydepot.com/acaangelsfan)
   - [Notary Public in Fair Oaks, CA: Demian Ross](https://www.notarydepot.com/acaciacon)
   - [Notary Public in Crisfield, MD: Alexis Carter](https://www.notarydepot.com/acarter)
@@ -8037,4 +8038,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-22T06:14:02Z
+Updated at 2019-01-22T06:34:02Z
