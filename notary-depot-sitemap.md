@@ -1730,7 +1730,6 @@
     - [Notary Public in Columbia, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Columbia)
     - [Notary Public in Coraopolis, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Coraopolis)
     - [Notary Public in Curwensville, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Curwensville)
-    - [Notary Public in Dauphin, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Dauphin)
     - [Notary Public in Dover, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Dover)
     - [Notary Public in Downingtown, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Downingtown)
     - [Notary Public in Doylestown, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Doylestown)
@@ -4969,7 +4968,6 @@
   - [Notary Public in Fort Collins, CO: Linda Castell](https://www.notarydepot.com/lindacastell)
   - [Notary Public in Bell Gardens, CA: Linda Contreras](https://www.notarydepot.com/lindacontreras)
   - [Notary Public in Fort White, FL: Linda J. Hubbell](https://www.notarydepot.com/lindah)
-  - [Notary Public in Dauphin, PA: Linda Herr](https://www.notarydepot.com/lindaherr)
   - [Notary Public in Phoenix, AZ: Linda Hodges](https://www.notarydepot.com/lindahodges)
   - [Notary Public in Sylvania, OH: Linda Huddleston](https://www.notarydepot.com/lindalee)
   - [Notary Public in Hayden, ID: Linda L Harrison](https://www.notarydepot.com/lindalharrison)
@@ -8041,4 +8039,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-23T17:34:02Z
+Updated at 2019-01-23T17:54:02Z
