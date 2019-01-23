@@ -720,6 +720,7 @@
     - [Notary Public in West Melbourne, FL](https://www.notarydepot.com/notary-near-me/Florida/West-Melbourne)
     - [Notary Public in West Palm Beach, FL](https://www.notarydepot.com/notary-near-me/Florida/West-Palm-Beach)
     - [Notary Public in Weston, FL](https://www.notarydepot.com/notary-near-me/Florida/Weston)
+    - [Notary Public in Wimauma, FL](https://www.notarydepot.com/notary-near-me/Florida/Wimauma)
     - [Notary Public in Winter Garden, FL](https://www.notarydepot.com/notary-near-me/Florida/Winter-Garden)
     - [Notary Public in Winter Haven, FL](https://www.notarydepot.com/notary-near-me/Florida/Winter-Haven)
     - [Notary Public in Winter Springs, FL](https://www.notarydepot.com/notary-near-me/Florida/Winter-Springs)
@@ -4071,6 +4072,7 @@
   - [Notary Public in Bay City, MI: Shirley Houston](https://www.notarydepot.com/houston55)
   - [Notary Public in Deerfield Beach, FL: HOWARD SILVERSTEIN](https://www.notarydepot.com/howardthenotary)
   - [Notary Public in Ledyard, CT: Howard J. Craig, Jr.](https://www.notarydepot.com/howie35ct)
+  - [Notary Public in Wimauma, FL: Heather Ray](https://www.notarydepot.com/hray)
   - [Notary Public in Escondido, CA: Heather Reinhold](https://www.notarydepot.com/hreinhold)
   - [Notary Public in White Pine, TN: Jonathan W Stewart](https://www.notarydepot.com/hscomp)
   - [Notary Public in Hayward, CA: Fay Hudson](https://www.notarydepot.com/hudsonbay)
@@ -8039,4 +8041,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-23T16:14:02Z
+Updated at 2019-01-23T16:34:02Z
