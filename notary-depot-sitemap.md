@@ -4021,6 +4021,7 @@
   - [Notary Public in Pasco, WA: Heather Ortiz](https://www.notarydepot.com/heather)
   - [Notary Public in Murrieta, CA: Heather Mattson](https://www.notarydepot.com/heathermattson)
   - [Notary Public in Wyandotte, MI: Heather R. Thornsberry](https://www.notarydepot.com/heathert729)
+  - [Notary Public in Houston, TX: Heather Cumer](https://www.notarydepot.com/heathery35)
   - [Notary Public in Valparaiso, FL: Jarred Heath](https://www.notarydepot.com/heathmobilenotary)
   - [Notary Public in Okeechobee, FL: Heide Miller - Van Miller](https://www.notarydepot.com/heideleemiller)
   - [Notary Public in Ingalls, IN: Heidi Mcelroy](https://www.notarydepot.com/heidi)
@@ -8040,4 +8041,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-24T15:54:02Z
+Updated at 2019-01-24T16:14:02Z
