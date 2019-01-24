@@ -4573,6 +4573,7 @@
   - [Notary Public in Felton, CA: kadidia cooper](https://www.notarydepot.com/kadidia)
   - [Notary Public in Elk Grove, CA: Kai Brinkley](https://www.notarydepot.com/kaibrinkley)
   - [Notary Public in Beverly Hills, CA: Kaitlynn Lam](https://www.notarydepot.com/kaitlynnlam)
+  - [Notary Public in Irvine, CA: Annie Kim](https://www.notarydepot.com/kakongbear)
   - [Notary Public in Henrico, VA: Kenya Hacker](https://www.notarydepot.com/kamori_mobile_notary)
   - [Notary Public in Carlsbad, CA: Kandice Ward](https://www.notarydepot.com/kandiceward)
   - [Notary Public in Tulsa, OK: Karen J. O&#39;Brien](https://www.notarydepot.com/kandonotary)
@@ -8039,4 +8040,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-24T01:34:02Z
+Updated at 2019-01-24T01:54:02Z
