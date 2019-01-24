@@ -6782,6 +6782,7 @@
   - [Notary Public in Southlake, TX: Steve Sawyer](https://www.notarydepot.com/ssawyer1)
   - [Notary Public in Ventura, CA: Sharon S. Young](https://www.notarydepot.com/ssayoung)
   - [Notary Public in Wentzville, MO: Stacey Scholle](https://www.notarydepot.com/sscholle)
+  - [Notary Public in San Dimas, CA: Joyce Lau](https://www.notarydepot.com/ssdnotary)
   - [Notary Public in Geraldine, AL: Samantha Flaherty ](https://www.notarydepot.com/ssflaherty)
   - [Notary Public in Saint Charles, MO: Suzanne Burton](https://www.notarydepot.com/sshotze50)
   - [Notary Public in Santa Ana, CA: Sasha Lopez](https://www.notarydepot.com/ssl0123)
@@ -8041,4 +8042,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-24T19:14:02Z
+Updated at 2019-01-24T19:34:02Z
