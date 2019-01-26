@@ -6713,6 +6713,7 @@
   - [Notary Public in Norwood, LA: Susan Erkel](https://www.notarydepot.com/smerkel)
   - [Notary Public in Garner, NC: Kristine Leighton](https://www.notarydepot.com/smiley0730)
   - [Notary Public in Orange Park, FL: Donnie R. Atkinson](https://www.notarydepot.com/smilingdon)
+  - [Notary Public in Dallas, TX: Shay](https://www.notarydepot.com/smilingnotary)
   - [Notary Public in Sacramento, CA: Shaharzen Milsap](https://www.notarydepot.com/smilsap)
   - [Notary Public in Ridgeland, MS: Taunya Smith ](https://www.notarydepot.com/smithtaxprep)
   - [Notary Public in Vancouver, WA: A Notary Service](https://www.notarydepot.com/smitty)
@@ -8042,4 +8043,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-26T21:34:02Z
+Updated at 2019-01-26T21:54:02Z
