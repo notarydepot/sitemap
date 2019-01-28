@@ -2763,6 +2763,7 @@
   - [Notary Public in Fort Washington, MD: Lemar Creel](https://www.notarydepot.com/biglc)
   - [Notary Public in Las Cruces, NM: Daryl Brown](https://www.notarydepot.com/bigpoppa58)
   - [Notary Public in Freeport, NY: Sandra J Bigelow](https://www.notarydepot.com/bigs1212)
+  - [Notary Public in Colorado Springs, CO: Melissa Engeseth](https://www.notarydepot.com/bijounotary)
   - [Notary Public in Grand Prairie, TX: Lidia Molina](https://www.notarydepot.com/bilingualnotary)
   - [Notary Public in Benicia, CA: William Hertan Iii](https://www.notarydepot.com/bill)
   - [Notary Public in Owenton, KY: William P. O&#39;Banion](https://www.notarydepot.com/billyo)
@@ -8043,4 +8044,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-28T19:14:02Z
+Updated at 2019-01-28T19:34:02Z
