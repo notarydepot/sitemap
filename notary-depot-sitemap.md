@@ -5732,7 +5732,6 @@
   - [Notary Public in Orlando, FL: Ronda G Veal](https://www.notarydepot.com/notary007)
   - [Notary Public in Bakersfield, CA: Violeta Lopez-Pacheco](https://www.notarydepot.com/notary03)
   - [Notary Public in NY: Harry Singh](https://www.notarydepot.com/notary101)
-  - [Notary Public in Fort Worth, TX: Marian Watson](https://www.notarydepot.com/notary2009)
   - [Notary Public in Mahwah, NJ: Patrick Williams](https://www.notarydepot.com/notary284)
   - [Notary Public in Noblesville, IN: Richard Scott Stern](https://www.notarydepot.com/notary2939)
   - [Notary Public in Springdale, AR: Rebecka Ebsen](https://www.notarydepot.com/notary2coxnet)
@@ -7289,6 +7288,7 @@
   - [Notary Public in Lancaster, CA: Wanda Smith](https://www.notarydepot.com/wansmobilenotary)
   - [Notary Public in Falls Church, VA: Mary E. Warren](https://www.notarydepot.com/warren1721)
   - [Notary Public in Wichita, KS: Stephanie Niedens](https://www.notarydepot.com/watchyousign)
+  - [Notary Public in Fort Worth, TX: Marian Watson](https://www.notarydepot.com/watsonnotary)
   - [Notary Public in Chesterfield, VA: Wayne K Lewis](https://www.notarydepot.com/waynelewis19)
   - [Notary Public in Childersburg, AL: James Stephens Jr.](https://www.notarydepot.com/waywardgirls)
   - [Notary Public in Gilbert, AZ: Brandon Thomas](https://www.notarydepot.com/wbthomas)
@@ -8043,4 +8043,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-28T02:34:02Z
+Updated at 2019-01-28T02:54:02Z
