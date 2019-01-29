@@ -344,7 +344,6 @@
     - [Notary Public in Oxnard, CA](https://www.notarydepot.com/notary-near-me/California/Oxnard)
     - [Notary Public in Palm Desert, CA](https://www.notarydepot.com/notary-near-me/California/Palm-Desert)
     - [Notary Public in Palmdale, CA](https://www.notarydepot.com/notary-near-me/California/Palmdale)
-    - [Notary Public in Paradise, CA](https://www.notarydepot.com/notary-near-me/California/Paradise)
     - [Notary Public in Paramount, CA](https://www.notarydepot.com/notary-near-me/California/Paramount)
     - [Notary Public in Pasadena, CA](https://www.notarydepot.com/notary-near-me/California/Pasadena)
     - [Notary Public in Paso Robles, CA](https://www.notarydepot.com/notary-near-me/California/Paso-Robles)
@@ -2794,7 +2793,7 @@
   - [Notary Public in Oakland, CA: Bianka Brooks](https://www.notarydepot.com/bluenotenotary)
   - [Notary Public in Memphis, TN: Adam Simpson](https://www.notarydepot.com/bluffcitynotaries)
   - [Notary Public in Bluffton, SC: Ilene Shiansky](https://www.notarydepot.com/blufftonnotary)
-  - [Notary Public in Paradise, CA: Mychel Ann Jeffrey](https://www.notarydepot.com/blujade)
+  - [Notary Public in Lake Forest, CA: Mychel Ann Jeffrey](https://www.notarydepot.com/blujade)
   - [Notary Public in Lake City, FL: Patsy Allen](https://www.notarydepot.com/blumagicnotarysigningagent)
   - [Notary Public in Massapequa Park, NY: Bernadette Masiello](https://www.notarydepot.com/bmasiello)
   - [Notary Public in Lithonia, GA: Bernita Banks](https://www.notarydepot.com/bmbjnotary)
@@ -8042,4 +8041,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-29T16:34:02Z
+Updated at 2019-01-29T16:54:02Z
