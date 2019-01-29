@@ -333,6 +333,7 @@
     - [Notary Public in Oakhurst, CA](https://www.notarydepot.com/notary-near-me/California/Oakhurst)
     - [Notary Public in Oakland, CA](https://www.notarydepot.com/notary-near-me/California/Oakland)
     - [Notary Public in Oakley, CA](https://www.notarydepot.com/notary-near-me/California/Oakley)
+    - [Notary Public in Oceano, CA](https://www.notarydepot.com/notary-near-me/California/Oceano)
     - [Notary Public in Oceanside, CA](https://www.notarydepot.com/notary-near-me/California/Oceanside)
     - [Notary Public in Olivehurst, CA](https://www.notarydepot.com/notary-near-me/California/Olivehurst)
     - [Notary Public in Ontario, CA](https://www.notarydepot.com/notary-near-me/California/Ontario)
@@ -6848,7 +6849,7 @@
   - [Notary Public in Marion, VA: Angela D Blevins](https://www.notarydepot.com/sunshine0569)
   - [Notary Public in Dallas, TX: Kourtne M Price](https://www.notarydepot.com/sunshine1978)
   - [Notary Public in Port Richey, FL: Sunshine Signing Connection](https://www.notarydepot.com/sunshinesigning)
-  - [Notary Public in Santa Maria, CA: Susan M. Schrader](https://www.notarydepot.com/supers)
+  - [Notary Public in Oceano, CA: Susan M. Schrader](https://www.notarydepot.com/supers)
   - [Notary Public in Westbury, NY: William A Walker](https://www.notarydepot.com/surfcaster)
   - [Notary Public in Worcester, MA: Tina M. Hood](https://www.notarydepot.com/surmisez)
   - [Notary Public in Tucson, AZ: Susan Simmons](https://www.notarydepot.com/susan1)
@@ -8041,4 +8042,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-29T16:54:02Z
+Updated at 2019-01-29T17:14:02Z
