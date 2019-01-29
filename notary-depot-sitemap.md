@@ -3387,7 +3387,7 @@
   - [Notary Public in Madison, WI: Frank Pabon](https://www.notarydepot.com/defroady)
   - [Notary Public in Bracey, VA: Denise Johnson](https://www.notarydepot.com/dej)
   - [Notary Public in North Royalton, OH: Duane Lewis](https://www.notarydepot.com/delewis2)
-  - [Notary Public in Troy, TX: Delia Driscoll](https://www.notarydepot.com/deliaher1)
+  - [Notary Public in Troy, TX: Delia Driscoll](https://www.notarydepot.com/deliadri)
   - [Notary Public in Indianapolis, IN: Deirdre Hollowell](https://www.notarydepot.com/delorraine)
   - [Notary Public in Menifee, CA: Chuck Clark](https://www.notarydepot.com/deltachuck)
   - [Notary Public in American Canyon, CA: Deltrina Moss](https://www.notarydepot.com/deltrina)
@@ -8042,4 +8042,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-29T17:54:02Z
+Updated at 2019-01-29T18:14:02Z
