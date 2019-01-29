@@ -1992,6 +1992,7 @@
     - [Notary Public in McKinney, TX](https://www.notarydepot.com/notary-near-me/Texas/McKinney)
     - [Notary Public in Mesquite, TX](https://www.notarydepot.com/notary-near-me/Texas/Mesquite)
     - [Notary Public in Midland, TX](https://www.notarydepot.com/notary-near-me/Texas/Midland)
+    - [Notary Public in Midlothian, TX](https://www.notarydepot.com/notary-near-me/Texas/Midlothian)
     - [Notary Public in Missouri City, TX](https://www.notarydepot.com/notary-near-me/Texas/Missouri-City)
     - [Notary Public in Nacogdoches, TX](https://www.notarydepot.com/notary-near-me/Texas/Nacogdoches)
     - [Notary Public in Nederland, TX](https://www.notarydepot.com/notary-near-me/Texas/Nederland)
@@ -4182,6 +4183,7 @@
   - [Notary Public in Hendersonville, NC: Jamie Stark](https://www.notarydepot.com/jamiestark)
   - [Notary Public in North Tonawanda, NY: James Barnes](https://www.notarydepot.com/jamm1972)
   - [Notary Public in Richmond, CA: Nicole Welch](https://www.notarydepot.com/jammy1922)
+  - [Notary Public in Midlothian, TX: Jana Fallen](https://www.notarydepot.com/jana072566)
   - [Notary Public in MA: Jana Grady](https://www.notarydepot.com/janagrady)
   - [Notary Public in Los Angeles, CA: Jeanette Atlas](https://www.notarydepot.com/janatlas)
   - [Notary Public in Modesto, CA: Cindy Garcia and Jan Sawyer](https://www.notarydepot.com/jancin)
@@ -8042,4 +8044,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-29T20:14:02Z
+Updated at 2019-01-29T20:34:02Z
