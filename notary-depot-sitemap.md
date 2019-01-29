@@ -4040,7 +4040,6 @@
   - [Notary Public in Napa, CA: Hope](https://www.notarydepot.com/hfabiani)
   - [Notary Public in Orlando, FL: Hope Frazier](https://www.notarydepot.com/hfrazierga)
   - [Notary Public in Costa Mesa, CA: Hiba K Kairouz](https://www.notarydepot.com/hiba1019)
-  - [Notary Public in Sugar Land, TX: Hien Le](https://www.notarydepot.com/hienle73)
   - [Notary Public in Toledo, OH: STEPHANA GALLOWAY](https://www.notarydepot.com/higalloway)
   - [Notary Public in Toledo, OH: Stephana Galloway](https://www.notarydepot.com/higallowayyahoocom)
   - [Notary Public in Weaver, AL: Teal Higgins](https://www.notarydepot.com/higgins)
@@ -8043,4 +8042,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-29T04:14:02Z
+Updated at 2019-01-29T04:34:02Z
