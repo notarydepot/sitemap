@@ -3959,6 +3959,7 @@
   - [Notary Public in Portsmouth, VA: Gladys Sample Andrews](https://www.notarydepot.com/gsa757)
   - [Notary Public in Lathrop, CA: Gary Sidhu](https://www.notarydepot.com/gsidhu)
   - [Notary Public in Canyon Lake, CA: Gina Smith](https://www.notarydepot.com/gsmith776)
+  - [Notary Public in Midland, TX: Gigi Smith](https://www.notarydepot.com/gsmithdock610)
   - [Notary Public in Union, NJ: Marilyn Sanders](https://www.notarydepot.com/gsn123)
   - [Notary Public in Rowland, NC: George S. Pate](https://www.notarydepot.com/gspate)
   - [Notary Public in Philadelphia, PA: Gloria J Stepherson](https://www.notarydepot.com/gstepherson)
@@ -8044,4 +8045,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-30T00:54:02Z
+Updated at 2019-01-30T01:14:03Z
