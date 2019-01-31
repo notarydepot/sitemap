@@ -5062,6 +5062,7 @@
   - [Notary Public in Florence, CO: Cynthia Wriske](https://www.notarydepot.com/lpncd)
   - [Notary Public in CA: Lupe Preciado](https://www.notarydepot.com/lpreciado)
   - [Notary Public in Henrico, VA: Lisa Tinsley](https://www.notarydepot.com/lptinsley)
+  - [Notary Public in Middleburg, FL: Lisa P Thomas](https://www.notarydepot.com/lptnotary)
   - [Notary Public in Crosby, TX: Linda Reigard](https://www.notarydepot.com/lreigard)
   - [Notary Public in Miami, FL: Lisa Rosedietcher](https://www.notarydepot.com/lrosedietcher)
   - [Notary Public in Jonesboro, GA: Lona Taylor](https://www.notarydepot.com/lrussum)
@@ -8048,4 +8049,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-31T00:54:02Z
+Updated at 2019-01-31T01:14:02Z
