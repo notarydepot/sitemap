@@ -2136,6 +2136,7 @@
     - [Notary Public in Stevensburg, VA](https://www.notarydepot.com/notary-near-me/Virginia/Stevensburg)
     - [Notary Public in Suffolk, VA](https://www.notarydepot.com/notary-near-me/Virginia/Suffolk)
     - [Notary Public in Tazewell, VA](https://www.notarydepot.com/notary-near-me/Virginia/Tazewell)
+    - [Notary Public in Tysons, VA](https://www.notarydepot.com/notary-near-me/Virginia/Tysons)
     - [Notary Public in Vienna, VA](https://www.notarydepot.com/notary-near-me/Virginia/Vienna)
     - [Notary Public in Virginia Beach, VA](https://www.notarydepot.com/notary-near-me/Virginia/Virginia-Beach)
     - [Notary Public in Warm Springs, VA](https://www.notarydepot.com/notary-near-me/Virginia/Warm-Springs)
@@ -3339,6 +3340,7 @@
   - [Notary Public in Denison, TX: Deanna k Chilton](https://www.notarydepot.com/dchilton)
   - [Notary Public in Phillipsburg, NJ: Doug Clegg](https://www.notarydepot.com/dcleg82)
   - [Notary Public in Hollywood, FL: Denise](https://www.notarydepot.com/dcmartin31)
+  - [Notary Public in Washington, DC: DC Mobile Notary](https://www.notarydepot.com/dcmobilenotary)
   - [Notary Public in Locust Grove, VA: Diane Nichols](https://www.notarydepot.com/dcnichols15)
   - [Notary Public in San Marcos, CA: Deanna Console](https://www.notarydepot.com/dconsole)
   - [Notary Public in Portsmouth, VA: Don Cuffy Ii](https://www.notarydepot.com/dcuffy)
@@ -3500,6 +3502,7 @@
   - [Notary Public in Moreno Valley, CA: Denise Mason](https://www.notarydepot.com/dmsears)
   - [Notary Public in Port St. Lucie, FL: Dawn Steinhurst](https://www.notarydepot.com/dmsteinhurst)
   - [Notary Public in Santa Rosa, CA: Sergio Musetti](https://www.notarydepot.com/dmteam02)
+  - [Notary Public in Tysons, VA: DMV Traveling Notary &amp; Apostille](https://www.notarydepot.com/dmvtravelingnotaryapostille)
   - [Notary Public in Charlotte, NC: Daniel Nance](https://www.notarydepot.com/dnance01)
   - [Notary Public in Chicago, IL: Dawn Brim](https://www.notarydepot.com/dnb79)
   - [Notary Public in Chicago, IL: Dorothy McKinnie](https://www.notarydepot.com/dnmnotary)
@@ -8045,4 +8048,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-31T00:14:02Z
+Updated at 2019-01-31T00:34:01Z
