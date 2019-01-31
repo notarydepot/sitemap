@@ -117,7 +117,6 @@
     - [Notary Public in Bella Vista, AR](https://www.notarydepot.com/notary-near-me/Arkansas/Bella-Vista)
     - [Notary Public in Benton, AR](https://www.notarydepot.com/notary-near-me/Arkansas/Benton)
     - [Notary Public in Cherokee Village, AR](https://www.notarydepot.com/notary-near-me/Arkansas/Cherokee-Village)
-    - [Notary Public in El Dorado, AR](https://www.notarydepot.com/notary-near-me/Arkansas/El-Dorado)
     - [Notary Public in Fort Smith, AR](https://www.notarydepot.com/notary-near-me/Arkansas/Fort-Smith)
     - [Notary Public in Fouke, AR](https://www.notarydepot.com/notary-near-me/Arkansas/Fouke)
     - [Notary Public in Harrison, AR](https://www.notarydepot.com/notary-near-me/Arkansas/Harrison)
@@ -4707,7 +4706,6 @@
   - [Notary Public in Rifle, CO: Kim Baldwin NSA](https://www.notarydepot.com/kim)
   - [Notary Public in Ormond Beach, FL: Kim Bell](https://www.notarydepot.com/kimbellnotary)
   - [Notary Public in Vacaville, CA: Kimberly Bell](https://www.notarydepot.com/kimberlybell)
-  - [Notary Public in El Dorado, AR: Kimberly Giacona](https://www.notarydepot.com/kimberlygiacona)
   - [Notary Public in North Myrtle Beach, SC: Kimberly Paul](https://www.notarydepot.com/kimberlyp6)
   - [Notary Public in Alliance, OH: Kim Henderson](https://www.notarydepot.com/kimboohio)
   - [Notary Public in Chino Hills, CA: Kim Inola Brunier](https://www.notarydepot.com/kimbrunier)
@@ -8049,4 +8047,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-31T21:34:02Z
+Updated at 2019-01-31T21:54:02Z
