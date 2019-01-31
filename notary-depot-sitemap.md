@@ -769,6 +769,7 @@
     - [Notary Public in Marietta, GA](https://www.notarydepot.com/notary-near-me/Georgia/Marietta)
     - [Notary Public in McDonough, GA](https://www.notarydepot.com/notary-near-me/Georgia/McDonough)
     - [Notary Public in Milledgeville, GA](https://www.notarydepot.com/notary-near-me/Georgia/Milledgeville)
+    - [Notary Public in Newnan, GA](https://www.notarydepot.com/notary-near-me/Georgia/Newnan)
     - [Notary Public in Norcross, GA](https://www.notarydepot.com/notary-near-me/Georgia/Norcross)
     - [Notary Public in Oakwood, GA](https://www.notarydepot.com/notary-near-me/Georgia/Oakwood)
     - [Notary Public in Powder Springs, GA](https://www.notarydepot.com/notary-near-me/Georgia/Powder-Springs)
@@ -4793,6 +4794,7 @@
   - [Notary Public in Williamsburg, VA: Kristy Smith](https://www.notarydepot.com/kristynsmith)
   - [Notary Public in Fort Madison, IA: Kristy Regennitter](https://www.notarydepot.com/kristyreg)
   - [Notary Public in Saratoga, CA: krithiga](https://www.notarydepot.com/krithiga81)
+  - [Notary Public in Newnan, GA: Kimberly Mckenzie](https://www.notarydepot.com/krmnotaryservices)
   - [Notary Public in Navarre, FL: Katherine A Robinson Buchanan](https://www.notarydepot.com/krobinson)
   - [Notary Public in Santa Ana, CA: Ana Karina Rodriguez](https://www.notarydepot.com/krodriguez28)
   - [Notary Public in Fort Myers, FL: Kelly R Turner](https://www.notarydepot.com/krshrum)
@@ -8047,4 +8049,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-01-31T22:54:02Z
+Updated at 2019-01-31T23:14:02Z
