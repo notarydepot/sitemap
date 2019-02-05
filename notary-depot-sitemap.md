@@ -4913,7 +4913,7 @@
   - [Notary Public in New York, NY: Leah Woods](https://www.notarydepot.com/leah3036)
   - [Notary Public in Collinsville, MS: Leandra C. Marable](https://www.notarydepot.com/leandra)
   - [Notary Public in Hillside, NJ: Lemard](https://www.notarydepot.com/leclarke)
-  - [Notary Public in Philadelphia, PA: Laurithia L Edlow](https://www.notarydepot.com/ledlow)
+  - [Notary Public in Philadelphia, PA: Laurithia Edlow](https://www.notarydepot.com/ledlow)
   - [Notary Public in Glendora, CA: Vera Green](https://www.notarydepot.com/leegreen10)
   - [Notary Public in Los Angeles, CA: Lee Fruchter](https://www.notarydepot.com/leeinla)
   - [Notary Public in Temecula, CA: Lee Anne Kawaguchi](https://www.notarydepot.com/leekawa001)
@@ -8049,4 +8049,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-02-05T23:14:02Z
+Updated at 2019-02-05T23:34:02Z
