@@ -6402,6 +6402,7 @@
   - [Notary Public in Oklahoma City, OK: Robert Shand](https://www.notarydepot.com/rshand)
   - [Notary Public in Dallas, TX: Raquel Sigler](https://www.notarydepot.com/rsigler)
   - [Notary Public in Fayetteville, GA: Rs Johnson Legal Pc](https://www.notarydepot.com/rsjohnsonlegal)
+  - [Notary Public in Gig Harbor, WA: Rene Stephens-Kresse](https://www.notarydepot.com/rskmobilenotary)
   - [Notary Public in Muncie, IN: Robin Sloan](https://www.notarydepot.com/rsloanrealtor)
   - [Notary Public in Fort Lauderdale, FL: Marceline Fiorini](https://www.notarydepot.com/rspct4trth)
   - [Notary Public in Stonington, CT: Richard E. Thewissen](https://www.notarydepot.com/rthewissen)
@@ -8049,4 +8050,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-02-07T00:14:03Z
+Updated at 2019-02-07T00:34:02Z
