@@ -5072,7 +5072,6 @@
   - [Notary Public in Tampa, FL: Lashonda Wilson](https://www.notarydepot.com/lrwilson)
   - [Notary Public in Allen, TX: Laura Salomone](https://www.notarydepot.com/lsalomone)
   - [Notary Public in Birmingham, AL: Linda S. Brewer](https://www.notarydepot.com/lsbrewer)
-  - [Notary Public in McDonough, GA: Mary C Hardy](https://www.notarydepot.com/lsc7416)
   - [Notary Public in Palm Coast, FL: Louie Scavetta](https://www.notarydepot.com/lscavetta)
   - [Notary Public in Fincastle, VA: Lynn S. Hall](https://www.notarydepot.com/lshall)
   - [Notary Public in Mobile, AL: Lakeisha Milligan-shoots](https://www.notarydepot.com/lshoots)
@@ -8052,4 +8051,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-02-08T04:14:02Z
+Updated at 2019-02-08T04:34:02Z
