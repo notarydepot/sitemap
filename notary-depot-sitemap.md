@@ -1835,6 +1835,7 @@
     - [Notary Public in Irmo, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Irmo)
     - [Notary Public in Johnston, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Johnston)
     - [Notary Public in Ladson, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Ladson)
+    - [Notary Public in Lexington, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Lexington)
     - [Notary Public in Mayesville, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Mayesville)
     - [Notary Public in Moncks Corner, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Moncks-Corner)
     - [Notary Public in Mount Pleasant, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Mount-Pleasant)
@@ -6831,6 +6832,7 @@
   - [Notary Public in Los Angeles, CA: Stephen McClure](https://www.notarydepot.com/steve68)
   - [Notary Public in Northville, MI: Stephen Mackenzie](https://www.notarydepot.com/steveandjo1)
   - [Notary Public in Austin, TX: Steven B Merrick](https://www.notarydepot.com/stevenbmerrick)
+  - [Notary Public in Lexington, SC: Steven Scheeler](https://www.notarydepot.com/stevenscheelersc)
   - [Notary Public in Manasquan, NJ: Susan Tinacci](https://www.notarydepot.com/stinacci)
   - [Notary Public in La Vergne, TN: Sheila Thatcher](https://www.notarydepot.com/stnotary)
   - [Notary Public in West Chazy, NY: Carrie H. Stone](https://www.notarydepot.com/stoner)
@@ -8050,4 +8052,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-02-08T02:54:02Z
+Updated at 2019-02-08T03:14:02Z
