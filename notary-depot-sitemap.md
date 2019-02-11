@@ -6602,6 +6602,7 @@
   - [Notary Public in Los Angeles, CA: Alex Mazahri](https://www.notarydepot.com/sheen69)
   - [Notary Public in Des Moines, IA: Omar Colwell](https://www.notarydepot.com/sheiklic)
   - [Notary Public in Carnation, WA: sheila anderson](https://www.notarydepot.com/sheilaanderson)
+  - [Notary Public in Auburn, WA: Sheila Bailey](https://www.notarydepot.com/sheilab28)
   - [Notary Public in Owings Mills, MD: Sheila K. Blackshear](https://www.notarydepot.com/shelab69)
   - [Notary Public in Elizabeth City, NC: Shelia H. Williams](https://www.notarydepot.com/sheliawilliams)
   - [Notary Public in Swartz Creek, MI: Shelley Thompson ](https://www.notarydepot.com/shelleymt)
@@ -8052,4 +8053,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-02-11T22:54:02Z
+Updated at 2019-02-11T23:14:02Z
