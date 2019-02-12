@@ -3491,7 +3491,7 @@
   - [Notary Public in South Bend, IN: Dianna L. Pittman](https://www.notarydepot.com/dlpitt)
   - [Notary Public in Millington, TN: Daniel L. Stephens](https://www.notarydepot.com/dlstephens)
   - [Notary Public in Sparks, NV: Dave Lueders](https://www.notarydepot.com/dlueds)
-  - [Notary Public in North Lauderdale, FL: Dana Williams](https://www.notarydepot.com/dlwilliams6)
+  - [Notary Public in Carson, CA: Dana Williams](https://www.notarydepot.com/dlwilliams6)
   - [Notary Public in Hamilton, MT: Donna Wulfemeyer](https://www.notarydepot.com/dlwulfe)
   - [Notary Public in AR: Denise R. Maciel](https://www.notarydepot.com/dmaciel)
   - [Notary Public in Houston, TX: Donna D. Nash](https://www.notarydepot.com/dmaxtho)
@@ -8054,4 +8054,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-02-12T22:14:02Z
+Updated at 2019-02-12T22:34:02Z
