@@ -5467,6 +5467,7 @@
   - [Notary Public in Glendale, AZ: Shawna Smith](https://www.notarydepot.com/mobilenotaryphx)
   - [Notary Public in Fort Stockton, TX: Michael Luna](https://www.notarydepot.com/mobilenotarypublic)
   - [Notary Public in El Paso, TX: Soledad Contreras](https://www.notarydepot.com/mobilenotarypublicep)
+  - [Notary Public in Los Angeles, CA: Ron Aloni](https://www.notarydepot.com/mobilenotarysanfernandovalleyca)
   - [Notary Public in Nashville, TN: Lindsey Ellison](https://www.notarydepot.com/mobilenotarytn)
   - [Notary Public in Yuma, AZ: Araceli Cervantes ](https://www.notarydepot.com/mobilenotaryyuma)
   - [Notary Public in Montgomery, AL: Shirley T. Nelson](https://www.notarydepot.com/mobilesigneralabama)
@@ -8053,4 +8054,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-02-12T18:14:02Z
+Updated at 2019-02-12T18:34:02Z
