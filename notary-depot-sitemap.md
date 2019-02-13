@@ -3503,6 +3503,7 @@
   - [Notary Public in Moreno Valley, CA: Denise Mason](https://www.notarydepot.com/dmsears)
   - [Notary Public in Port St. Lucie, FL: Dawn Steinhurst](https://www.notarydepot.com/dmsteinhurst)
   - [Notary Public in Santa Rosa, CA: Sergio Musetti](https://www.notarydepot.com/dmteam02)
+  - [Notary Public in Washington, DC: Troy Toliver](https://www.notarydepot.com/dmvnotarymobile)
   - [Notary Public in Tysons, VA: DMV Traveling Notary &amp; Apostille](https://www.notarydepot.com/dmvtravelingnotaryapostille)
   - [Notary Public in Charlotte, NC: Daniel Nance](https://www.notarydepot.com/dnance01)
   - [Notary Public in Chicago, IL: Dawn Brim](https://www.notarydepot.com/dnb79)
@@ -8054,4 +8055,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-02-13T05:34:02Z
+Updated at 2019-02-13T05:54:02Z
