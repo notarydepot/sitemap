@@ -6437,7 +6437,6 @@
   - [Notary Public in Middletown, NY: David Green](https://www.notarydepot.com/safenotary)
   - [Notary Public in Jacksonville, FL: Sagitta Woodie](https://www.notarydepot.com/sagitta35)
   - [Notary Public in San Clemente, CA: Sahil Desai](https://www.notarydepot.com/sahilpdesai)
-  - [Notary Public in Newport News, VA: Sheree Jenkins dba SAJ Business Services, LLC](https://www.notarydepot.com/sajbizsvcsllc)
   - [Notary Public in Bakersfield, CA: Sal Avalos](https://www.notarydepot.com/salavalos)
   - [Notary Public in Fort Worth, TX: Valerie Salazar](https://www.notarydepot.com/salazarnotary)
   - [Notary Public in Reisterstown, MD: Salena Turner](https://www.notarydepot.com/salena20)
@@ -8055,4 +8054,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-02-13T04:14:02Z
+Updated at 2019-02-13T04:34:02Z
