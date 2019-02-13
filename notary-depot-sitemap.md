@@ -3704,6 +3704,7 @@
   - [Notary Public in Sanger, CA: Erica Quintero](https://www.notarydepot.com/ericaq)
   - [Notary Public in Springfield, MO: Adam and Erica Shaw](https://www.notarydepot.com/ericashaw)
   - [Notary Public in Brandon, FL: Eric D Eatman, Notary](https://www.notarydepot.com/ericeatman)
+  - [Notary Public in Springfield, MA: Eric Hill](https://www.notarydepot.com/erichill)
   - [Notary Public in Omaha, NE: Eric A Pullum](https://www.notarydepot.com/ericpullum)
   - [Notary Public in Pensacola, FL: Eric J Sewell](https://www.notarydepot.com/ericsewell)
   - [Notary Public in Los Angeles, CA: Erika D Colins](https://www.notarydepot.com/erikanotary)
@@ -8054,4 +8055,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-02-13T00:54:02Z
+Updated at 2019-02-13T01:14:02Z
