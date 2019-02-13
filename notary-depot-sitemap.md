@@ -6671,6 +6671,7 @@
   - [Notary Public in New York, NY: Byron D. Robinson](https://www.notarydepot.com/simplifynotaryinc)
   - [Notary Public in Jonesboro, GA: Shannon Sims](https://www.notarydepot.com/simsnotary)
   - [Notary Public in Jonesboro, GA: Shannon Sims](https://www.notarydepot.com/simsnotarymobile)
+  - [Notary Public in Jonesboro, GA: Shannon Sims](https://www.notarydepot.com/simsnotarypublic)
   - [Notary Public in Edenton, NC: Jannifer H. Sykes](https://www.notarydepot.com/sing7)
   - [Notary Public in Gastonia, NC: Angela](https://www.notarydepot.com/singing1098)
   - [Notary Public in Miami Beach, FL: Christopher Sinyei](https://www.notarydepot.com/sinyei007)
@@ -8055,4 +8056,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-02-13T20:54:01Z
+Updated at 2019-02-13T21:14:02Z
