@@ -7070,6 +7070,7 @@
   - [Notary Public in West Sacramento, CA: Tamara Mata](https://www.notarydepot.com/tmata)
   - [Notary Public in Erlanger, KY: Teresa J. McDowell](https://www.notarydepot.com/tmcdowell)
   - [Notary Public in Gastonia, NC: Tangela Caldwell](https://www.notarydepot.com/tmcexpress)
+  - [Notary Public in Camarillo, CA: Theresa Marie Cronin](https://www.notarydepot.com/tmcnotarycali58)
   - [Notary Public in Quincy, CA: Traci M. Downey](https://www.notarydepot.com/tmdowney)
   - [Notary Public in Covington, GA: Tyeasha Minor](https://www.notarydepot.com/tminor1)
   - [Notary Public in Austin, TX: Tommy Oates](https://www.notarydepot.com/tmoates)
@@ -8056,4 +8057,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-02-15T20:14:02Z
+Updated at 2019-02-15T20:34:01Z
