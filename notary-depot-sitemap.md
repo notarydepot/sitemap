@@ -3525,6 +3525,7 @@
   - [Notary Public in Jacksonville, FL: Donica Hemmings](https://www.notarydepot.com/donica03)
   - [Notary Public in San Ramon, CA: Donna Fabian](https://www.notarydepot.com/donnafabian)
   - [Notary Public in Lakeland, FL: Donna Fleming](https://www.notarydepot.com/donnafleming)
+  - [Notary Public in Austin, TX: Donna Flynn](https://www.notarydepot.com/donnaflynnyahoocom)
   - [Notary Public in RI: Donna A. Greene](https://www.notarydepot.com/donnag)
   - [Notary Public in Windham, ME: Donna Grass](https://www.notarydepot.com/donnagrass)
   - [Notary Public in Coos Bay, OR: Donna Croswell](https://www.notarydepot.com/donnajean)
@@ -8056,4 +8057,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-02-18T04:34:02Z
+Updated at 2019-02-18T04:54:02Z
