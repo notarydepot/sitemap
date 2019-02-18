@@ -3559,6 +3559,7 @@
   - [Notary Public in Paxton, IL: Don Ragan](https://www.notarydepot.com/dragan)
   - [Notary Public in Middletown, DE: LaShawn Draper](https://www.notarydepot.com/drapernotary)
   - [Notary Public in Sun City, AZ: Debra Edwards](https://www.notarydepot.com/dreamnotary)
+  - [Notary Public in Atlanta, GA: DeAngela Reid](https://www.notarydepot.com/dreid2019)
   - [Notary Public in West Palm Beach, FL: Andrew Wilson](https://www.notarydepot.com/drewcity)
   - [Notary Public in Fredericksburg, VA: Andrew W. Jenkins](https://www.notarydepot.com/drewnotary)
   - [Notary Public in Suisun City, CA: Andrew Shott](https://www.notarydepot.com/drewstealth)
@@ -8057,4 +8058,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-02-18T19:14:02Z
+Updated at 2019-02-18T19:34:02Z
