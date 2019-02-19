@@ -695,7 +695,6 @@
     - [Notary Public in Sanford, FL](https://www.notarydepot.com/notary-near-me/Florida/Sanford)
     - [Notary Public in Sarasota, FL](https://www.notarydepot.com/notary-near-me/Florida/Sarasota)
     - [Notary Public in Sebastian, FL](https://www.notarydepot.com/notary-near-me/Florida/Sebastian)
-    - [Notary Public in Sebring, FL](https://www.notarydepot.com/notary-near-me/Florida/Sebring)
     - [Notary Public in Seffner, FL](https://www.notarydepot.com/notary-near-me/Florida/Seffner)
     - [Notary Public in Seminole, FL](https://www.notarydepot.com/notary-near-me/Florida/Seminole)
     - [Notary Public in Seville, FL](https://www.notarydepot.com/notary-near-me/Florida/Seville)
@@ -7266,7 +7265,6 @@
   - [Notary Public in Seattle, WA: Daniela Borovska](https://www.notarydepot.com/virove1)
   - [Notary Public in New Braunfels, TX: Miriam Fairchild](https://www.notarydepot.com/virtualfairchild)
   - [Notary Public in DeKalb, IL: Katrina Brown](https://www.notarydepot.com/virtualkat)
-  - [Notary Public in Sebring, FL: Vivian E Benvenuto](https://www.notarydepot.com/vivianb)
   - [Notary Public in Villa Park, CA: Vivien A. Phan](https://www.notarydepot.com/vivienaphan)
   - [Notary Public in Asheville, NC: Vivian Gaddy](https://www.notarydepot.com/vjones1152)
   - [Notary Public in Pompano Beach, FL: Vera Silveri](https://www.notarydepot.com/vjsfla1)
@@ -8057,4 +8055,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-02-19T17:34:02Z
+Updated at 2019-02-19T17:54:02Z
