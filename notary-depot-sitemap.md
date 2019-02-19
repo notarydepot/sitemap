@@ -432,7 +432,6 @@
     - [Notary Public in South Gate, CA](https://www.notarydepot.com/notary-near-me/California/South-Gate)
     - [Notary Public in South Lake Tahoe, CA](https://www.notarydepot.com/notary-near-me/California/South-Lake-Tahoe)
     - [Notary Public in Spring Valley, CA](https://www.notarydepot.com/notary-near-me/California/Spring-Valley)
-    - [Notary Public in Stevenson Ranch, CA](https://www.notarydepot.com/notary-near-me/California/Stevenson-Ranch)
     - [Notary Public in Stockton, CA](https://www.notarydepot.com/notary-near-me/California/Stockton)
     - [Notary Public in Suisun City, CA](https://www.notarydepot.com/notary-near-me/California/Suisun-City)
     - [Notary Public in Tahoe City, CA](https://www.notarydepot.com/notary-near-me/California/Tahoe-City)
@@ -7049,7 +7048,7 @@
   - [Notary Public in Bessemer, AL: Kimberly Terry](https://www.notarydepot.com/tkimmie)
   - [Notary Public in Catonsville, MD: Tony Kinsler](https://www.notarydepot.com/tkins1000)
   - [Notary Public in Palmdale, CA: T.Kitchen](https://www.notarydepot.com/tkitchen)
-  - [Notary Public in Stevenson Ranch, CA: Tania Klein](https://www.notarydepot.com/tklein84)
+  - [Notary Public in Santa Clarita, CA: Tania Klein](https://www.notarydepot.com/tklein84)
   - [Notary Public in Omaha, NE: Trisha K. McCormick-Baker](https://www.notarydepot.com/tkmccormick)
   - [Notary Public in Knoxville, TN: Teola Kaye Terry](https://www.notarydepot.com/tkt5757)
   - [Notary Public in Tampa, FL: Terence Wolfe](https://www.notarydepot.com/tkwolfe)
@@ -8058,4 +8057,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-02-19T16:54:02Z
+Updated at 2019-02-19T17:14:02Z
