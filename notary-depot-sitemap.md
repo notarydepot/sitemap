@@ -1962,6 +1962,7 @@
     - [Notary Public in Hewitt, TX](https://www.notarydepot.com/notary-near-me/Texas/Hewitt)
     - [Notary Public in Hitchcock, TX](https://www.notarydepot.com/notary-near-me/Texas/Hitchcock)
     - [Notary Public in Houston, TX](https://www.notarydepot.com/notary-near-me/Texas/Houston)
+    - [Notary Public in Huffman, TX](https://www.notarydepot.com/notary-near-me/Texas/Huffman)
     - [Notary Public in Humble, TX](https://www.notarydepot.com/notary-near-me/Texas/Humble)
     - [Notary Public in Hurst, TX](https://www.notarydepot.com/notary-near-me/Texas/Hurst)
     - [Notary Public in Irving, TX](https://www.notarydepot.com/notary-near-me/Texas/Irving)
@@ -4018,6 +4019,7 @@
   - [Notary Public in Litchfield Park, AZ: Kelly](https://www.notarydepot.com/hasslefreenotary)
   - [Notary Public in Moreno Valley, CA: Hatice Emanet](https://www.notarydepot.com/hatice)
   - [Notary Public in Anaheim, CA: Hatice Emanet](https://www.notarydepot.com/hattie)
+  - [Notary Public in Huffman, TX: Lynne Ward](https://www.notarydepot.com/havenotarywilltravel)
   - [Notary Public in Grants Pass, OR: Peggy Mazziotti](https://www.notarydepot.com/havestampwilltravel)
   - [Notary Public in Cleveland, MO: Theresa Hawkins](https://www.notarydepot.com/hawkins)
   - [Notary Public in Plainfield, NJ: Clarissa Hawkins](https://www.notarydepot.com/hawkinsnotary)
@@ -8055,4 +8057,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-02-19T22:34:02Z
+Updated at 2019-02-19T22:54:02Z
