@@ -4183,6 +4183,7 @@
   - [Notary Public in Murrieta, CA: Cynthia/Ca](https://www.notarydepot.com/jamescy)
   - [Notary Public in McDonough, GA: Simone James](https://www.notarydepot.com/jamesmobilenotary)
   - [Notary Public in Bryceville, FL: James Ott](https://www.notarydepot.com/jamesott)
+  - [Notary Public in Chattanooga, TN: James Hatcher](https://www.notarydepot.com/jamesrh)
   - [Notary Public in Springdale, AR: James R Latimer](https://www.notarydepot.com/jamesrlatimer)
   - [Notary Public in Colorado Springs, CO: James Runyon](https://www.notarydepot.com/jamesrunyon718)
   - [Notary Public in Kaysville, UT: James Lowery](https://www.notarydepot.com/jamesthenotary)
@@ -8059,4 +8060,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-02-20T18:14:02Z
+Updated at 2019-02-20T18:34:03Z
