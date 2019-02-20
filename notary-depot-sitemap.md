@@ -1100,6 +1100,7 @@
     - [Notary Public in Big Rapids, MI](https://www.notarydepot.com/notary-near-me/Michigan/Big-Rapids)
     - [Notary Public in Birmingham, MI](https://www.notarydepot.com/notary-near-me/Michigan/Birmingham)
     - [Notary Public in Blissfield, MI](https://www.notarydepot.com/notary-near-me/Michigan/Blissfield)
+    - [Notary Public in Bloomfield Township, MI](https://www.notarydepot.com/notary-near-me/Michigan/Bloomfield-Township)
     - [Notary Public in Bronson, MI](https://www.notarydepot.com/notary-near-me/Michigan/Bronson)
     - [Notary Public in Camden, MI](https://www.notarydepot.com/notary-near-me/Michigan/Camden)
     - [Notary Public in Carleton, MI](https://www.notarydepot.com/notary-near-me/Michigan/Carleton)
@@ -6801,6 +6802,7 @@
   - [Notary Public in Santa Ana, CA: Sasha Lopez](https://www.notarydepot.com/ssl0123)
   - [Notary Public in Southfield, MI: Sharon Smith](https://www.notarydepot.com/ssmith)
   - [Notary Public in Los Angeles, CA: Stacey Robinson](https://www.notarydepot.com/stace123)
+  - [Notary Public in Bloomfield Township, MI: Stacey Cornelius](https://www.notarydepot.com/staceylc)
   - [Notary Public in Fincastle, VA: Stacey Frechette](https://www.notarydepot.com/staceylf)
   - [Notary Public in MA: Stacey Elin Rossi, Esq.](https://www.notarydepot.com/staceyrossi)
   - [Notary Public in Palm Desert, CA: Staci Kolbeck](https://www.notarydepot.com/stacikolbeck)
@@ -8057,4 +8059,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-02-20T16:54:02Z
+Updated at 2019-02-20T17:14:02Z
