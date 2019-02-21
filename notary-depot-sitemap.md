@@ -2286,6 +2286,7 @@
   - [Notary Public in Downey, CA: Christina](https://www.notarydepot.com/562downeynotary)
   - [Notary Public in Corinth, TX: DeMonica A Morton](https://www.notarydepot.com/5starnotary)
   - [Notary Public in Winchester, KY: Lee Kendrick](https://www.notarydepot.com/67ferrari)
+  - [Notary Public in SC: TonyaJohnson](https://www.notarydepot.com/67tonya)
   - [Notary Public in Danville, CA: Gerald Sixkiller](https://www.notarydepot.com/6killer)
   - [Notary Public in Las Vegas, NV: Monashea Moore](https://www.notarydepot.com/702notaryplus)
   - [Notary Public in Chesapeake, VA: Brandi Shumadine-Weast](https://www.notarydepot.com/757paralegal)
@@ -8060,4 +8061,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-02-21T05:34:02Z
+Updated at 2019-02-21T05:54:02Z
