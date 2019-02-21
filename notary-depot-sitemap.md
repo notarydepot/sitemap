@@ -1852,6 +1852,7 @@
     - [Notary Public in Simpsonville, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Simpsonville)
     - [Notary Public in Spartanburg, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Spartanburg)
     - [Notary Public in Summerville, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Summerville)
+    - [Notary Public in Wadmalaw Island, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Wadmalaw-Island)
     - [Notary Public in Walterboro, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Walterboro)
     - [Notary Public in York, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/York)
   - [Notaries Public in South Dakota](https://www.notarydepot.com/notary-near-me/South-Dakota)
@@ -4149,6 +4150,7 @@
   - [Notary Public in Santa Maria, CA: Live Scan &amp; Mobile Notary Solutions](https://www.notarydepot.com/isimobilenotary)
   - [Notary Public in Mansfield, TX: Deborah Renee Quarles](https://www.notarydepot.com/islanddebbie)
   - [Notary Public in Alameda, CA: Emi Johnston](https://www.notarydepot.com/islandnotary)
+  - [Notary Public in Wadmalaw Island, SC: LaQuan T. Freeman](https://www.notarydepot.com/island_notary)
   - [Notary Public in Sacramento, CA: Sabrina Donelli](https://www.notarydepot.com/italiana1972)
   - [Notary Public in Vista, CA: Annette Webb](https://www.notarydepot.com/itsawebb)
   - [Notary Public in Phoenix, AZ: Jennifer Hayes](https://www.notarydepot.com/itsnatalieanouk)
@@ -8061,4 +8063,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-02-21T20:14:02Z
+Updated at 2019-02-21T20:34:02Z
