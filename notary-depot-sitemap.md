@@ -1621,7 +1621,6 @@
     - [Notary Public in Mansfield, OH](https://www.notarydepot.com/notary-near-me/Ohio/Mansfield)
     - [Notary Public in Maple Heights, OH](https://www.notarydepot.com/notary-near-me/Ohio/Maple-Heights)
     - [Notary Public in Maumee, OH](https://www.notarydepot.com/notary-near-me/Ohio/Maumee)
-    - [Notary Public in Mentor, OH](https://www.notarydepot.com/notary-near-me/Ohio/Mentor)
     - [Notary Public in Middletown, OH](https://www.notarydepot.com/notary-near-me/Ohio/Middletown)
     - [Notary Public in Mount Vernon, OH](https://www.notarydepot.com/notary-near-me/Ohio/Mount-Vernon)
     - [Notary Public in Napoleon, OH](https://www.notarydepot.com/notary-near-me/Ohio/Napoleon)
@@ -1639,6 +1638,7 @@
     - [Notary Public in Reynoldsburg, OH](https://www.notarydepot.com/notary-near-me/Ohio/Reynoldsburg)
     - [Notary Public in Springfield, OH](https://www.notarydepot.com/notary-near-me/Ohio/Springfield)
     - [Notary Public in Stow, OH](https://www.notarydepot.com/notary-near-me/Ohio/Stow)
+    - [Notary Public in Streetsboro, OH](https://www.notarydepot.com/notary-near-me/Ohio/Streetsboro)
     - [Notary Public in Sunbury, OH](https://www.notarydepot.com/notary-near-me/Ohio/Sunbury)
     - [Notary Public in Sylvania, OH](https://www.notarydepot.com/notary-near-me/Ohio/Sylvania)
     - [Notary Public in Toledo, OH](https://www.notarydepot.com/notary-near-me/Ohio/Toledo)
@@ -5556,7 +5556,7 @@
   - [Notary Public in Stafford, TX: La Keisha Redd](https://www.notarydepot.com/mrsnotary)
   - [Notary Public in Spring, TX: Juwana Turner](https://www.notarydepot.com/mrs_turner28)
   - [Notary Public in Saint Petersburg, FL: Michael D.Wright Sr.](https://www.notarydepot.com/mrwright)
-  - [Notary Public in Mentor, OH: Mary Saks](https://www.notarydepot.com/msaks61)
+  - [Notary Public in Streetsboro, OH: Mary Saks](https://www.notarydepot.com/msaks61)
   - [Notary Public in Los Angeles, CA: Yvonne Key](https://www.notarydepot.com/msbelle51)
   - [Notary Public in Portsmouth, VA: Delores Shepherd](https://www.notarydepot.com/mscab1099)
   - [Notary Public in Country Club Hills, IL: Shirley Reynolds](https://www.notarydepot.com/msdamars2001)
@@ -8061,4 +8061,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-02-21T17:14:02Z
+Updated at 2019-02-21T17:34:02Z
