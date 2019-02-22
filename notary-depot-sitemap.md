@@ -7228,6 +7228,7 @@
   - [Notary Public in Detroit, MI: Vanessa Otero](https://www.notarydepot.com/vanessa)
   - [Notary Public in Pittsburgh, PA: Vanessa Rose Serafini](https://www.notarydepot.com/vanessastoerkel)
   - [Notary Public in Burke, VA: Michelle Cousins](https://www.notarydepot.com/vanotary4u)
+  - [Notary Public in Okeechobee, FL: Van Robert](https://www.notarydepot.com/vanrobertmilleroutlookcom)
   - [Notary Public in Salt Lake City, UT: Robert Orrigoni](https://www.notarydepot.com/varese)
   - [Notary Public in Trabuco Canyon, CA: Maria Vasquez](https://www.notarydepot.com/vasquez)
   - [Notary Public in CA: Vazrik Sarafians](https://www.notarydepot.com/vazrik)
@@ -8063,4 +8064,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-02-22T13:14:02Z
+Updated at 2019-02-22T13:34:01Z
