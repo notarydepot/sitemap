@@ -290,6 +290,7 @@
     - [Notary Public in Linden, CA](https://www.notarydepot.com/notary-near-me/California/Linden)
     - [Notary Public in Littlerock, CA](https://www.notarydepot.com/notary-near-me/California/Littlerock)
     - [Notary Public in Livermore, CA](https://www.notarydepot.com/notary-near-me/California/Livermore)
+    - [Notary Public in Livingston, CA](https://www.notarydepot.com/notary-near-me/California/Livingston)
     - [Notary Public in Lodi, CA](https://www.notarydepot.com/notary-near-me/California/Lodi)
     - [Notary Public in Lomita, CA](https://www.notarydepot.com/notary-near-me/California/Lomita)
     - [Notary Public in Lompoc, CA](https://www.notarydepot.com/notary-near-me/California/Lompoc)
@@ -3186,6 +3187,7 @@
   - [Notary Public in Voorhees Township, NJ: Patricia Covington](https://www.notarydepot.com/covingtono)
   - [Notary Public in Corona, CA: Celeste Pafford](https://www.notarydepot.com/cpafford)
   - [Notary Public in Kansas City, MO: Charlene R Payne](https://www.notarydepot.com/cpayne816)
+  - [Notary Public in Livingston, CA: Christine P. Dunham](https://www.notarydepot.com/cpdmobilenotary)
   - [Notary Public in Lake Havasu City, AZ: Christine Peterson ](https://www.notarydepot.com/cpeterson)
   - [Notary Public in Mililani, HI: Claire Pilar](https://www.notarydepot.com/cpilar6789)
   - [Notary Public in Los Angeles, CA: Catherine Pitman](https://www.notarydepot.com/cpitman)
@@ -8064,4 +8066,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-02-24T01:14:02Z
+Updated at 2019-02-24T01:34:02Z
