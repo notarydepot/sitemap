@@ -737,7 +737,6 @@
     - [Notary Public in Byron, GA](https://www.notarydepot.com/notary-near-me/Georgia/Byron)
     - [Notary Public in Canton, GA](https://www.notarydepot.com/notary-near-me/Georgia/Canton)
     - [Notary Public in College Park, GA](https://www.notarydepot.com/notary-near-me/Georgia/College-Park)
-    - [Notary Public in Conley, GA](https://www.notarydepot.com/notary-near-me/Georgia/Conley)
     - [Notary Public in Conyers, GA](https://www.notarydepot.com/notary-near-me/Georgia/Conyers)
     - [Notary Public in Cordele, GA](https://www.notarydepot.com/notary-near-me/Georgia/Cordele)
     - [Notary Public in Covington, GA](https://www.notarydepot.com/notary-near-me/Georgia/Covington)
@@ -6996,7 +6995,6 @@
   - [Notary Public in New London, MO: Sarah Hathaway](https://www.notarydepot.com/the4hathawaysgmailcom)
   - [Notary Public in CA: Debra Perkins](https://www.notarydepot.com/the75bug)
   - [Notary Public in Rochelle Park, NJ: Diane Nissen](https://www.notarydepot.com/thealexandritegroup)
-  - [Notary Public in Conley, GA: Patricia Montgomery](https://www.notarydepot.com/thebestone)
   - [Notary Public in Philadelphia, PA: Tonya Respes](https://www.notarydepot.com/thebest_pa)
   - [Notary Public in Los Angeles, CA: Steve Snyder](https://www.notarydepot.com/thecloser101)
   - [Notary Public in St. Louis, MO: Leonard Hines](https://www.notarydepot.com/theeye)
@@ -8066,4 +8064,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-02-25T18:54:02Z
+Updated at 2019-02-25T19:14:01Z
