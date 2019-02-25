@@ -826,6 +826,7 @@
     - [Notary Public in Cary, IL](https://www.notarydepot.com/notary-near-me/Illinois/Cary)
     - [Notary Public in Channahon, IL](https://www.notarydepot.com/notary-near-me/Illinois/Channahon)
     - [Notary Public in Chicago, IL](https://www.notarydepot.com/notary-near-me/Illinois/Chicago)
+    - [Notary Public in Chicago Heights, IL](https://www.notarydepot.com/notary-near-me/Illinois/Chicago-Heights)
     - [Notary Public in Country Club Hills, IL](https://www.notarydepot.com/notary-near-me/Illinois/Country-Club-Hills)
     - [Notary Public in Crystal Lake, IL](https://www.notarydepot.com/notary-near-me/Illinois/Crystal-Lake)
     - [Notary Public in Danville, IL](https://www.notarydepot.com/notary-near-me/Illinois/Danville)
@@ -4213,6 +4214,7 @@
   - [Notary Public in Minong, WI: Janel Lee And Larry Lee](https://www.notarydepot.com/janellee)
   - [Notary Public in Kent, WA: Janene Mapes](https://www.notarydepot.com/janenej)
   - [Notary Public in NY: Jane Pantalone- Preferred Nsa](https://www.notarydepot.com/janepantalone)
+  - [Notary Public in Aliso Viejo, CA: Janet Philamalee](https://www.notarydepot.com/janet)
   - [Notary Public in Damascus, MD: Janet G. Cueto](https://www.notarydepot.com/janet305)
   - [Notary Public in Rochester, MI: Janet Lee Angi](https://www.notarydepot.com/janetangi)
   - [Notary Public in Lehigh Acres, FL: Janet Boffill](https://www.notarydepot.com/janetboffill)
@@ -5127,7 +5129,7 @@
   - [Notary Public in Marshall, TX: Ms. Lea Harden](https://www.notarydepot.com/lyharden)
   - [Notary Public in Meridian, MS: Lyle Rose](https://www.notarydepot.com/lylerose)
   - [Notary Public in Sun City, AZ: Lyn Baker](https://www.notarydepot.com/lynbaker)
-  - [Notary Public in Homewood, IL: Lynda Jordan](https://www.notarydepot.com/lyndaj7673)
+  - [Notary Public in Chicago Heights, IL: Lynda Jordan](https://www.notarydepot.com/lyndaj7673)
   - [Notary Public in Austell, GA: Lynita Mitchell-Blackwell](https://www.notarydepot.com/lynitablackwell)
   - [Notary Public in Blue Island, IL: Lynita D Phillips](https://www.notarydepot.com/lynitap)
   - [Notary Public in Hampton, VA: Rebecca Sedgwick](https://www.notarydepot.com/lynn0909)
@@ -7336,7 +7338,6 @@
   - [Notary Public in Stewartstown, NH: Cindy M. Dorman](https://www.notarydepot.com/whistlingbrz)
   - [Notary Public in Princeton, IL: A Notary Direct 2 U](https://www.notarydepot.com/whitestache)
   - [Notary Public in Lake Charles, LA: Candice Menard](https://www.notarydepot.com/whodat)
-  - [Notary Public in Lancaster, CA: Janet Philamalee](https://www.notarydepot.com/wicked)
   - [Notary Public in Marietta, GA: A W E. Inc](https://www.notarydepot.com/willall)
   - [Notary Public in Miami, FL: Willie L. Alston](https://www.notarydepot.com/willalston)
   - [Notary Public in Kissimmee, FL: Shirley Willhide](https://www.notarydepot.com/willhide)
@@ -8065,4 +8066,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-02-25T17:34:02Z
+Updated at 2019-02-25T17:54:02Z
