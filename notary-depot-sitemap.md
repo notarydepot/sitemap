@@ -1575,7 +1575,6 @@
     - [Notary Public in Saint Pauls, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Saint-Pauls)
     - [Notary Public in Salisbury, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Salisbury)
     - [Notary Public in South Mills, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/South-Mills)
-    - [Notary Public in Southport, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Southport)
     - [Notary Public in Statesville, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Statesville)
     - [Notary Public in Tarboro, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Tarboro)
     - [Notary Public in Thomasville, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Thomasville)
@@ -6333,7 +6332,6 @@
   - [Notary Public in Arlington, TX: Roneasha Neal ](https://www.notarydepot.com/rneal134)
   - [Notary Public in Sorrento, FL: Lisa Milligan](https://www.notarydepot.com/rnlmilligan)
   - [Notary Public in Phoenix, AZ: Richard](https://www.notarydepot.com/rnotary)
-  - [Notary Public in Southport, NC: Richard Espinoza](https://www.notarydepot.com/rnoza)
   - [Notary Public in Kissimmee, FL: Dale D. Graham](https://www.notarydepot.com/roadnotaryinc)
   - [Notary Public in Redlands, CA: Diane](https://www.notarydepot.com/roadrunners)
   - [Notary Public in Hollywood, FL: Mary Tirado](https://www.notarydepot.com/roamingshades)
@@ -8064,4 +8062,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-02-27T18:54:02Z
+Updated at 2019-02-27T19:14:02Z
