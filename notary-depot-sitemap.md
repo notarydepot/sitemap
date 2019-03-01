@@ -3062,6 +3062,7 @@
   - [Notary Public in Carson, CA: CHERYL D CARTER-HARRIS](https://www.notarydepot.com/cherylharris)
   - [Notary Public in Gulf Breeze, FL: Cheryl Maniscalco](https://www.notarydepot.com/cherylmnotary)
   - [Notary Public in Jasper, FL: Cheryl Young](https://www.notarydepot.com/cherylyoung)
+  - [Notary Public in Chicago, IL: Carrie Rivera](https://www.notarydepot.com/chicagomobilenotaries)
   - [Notary Public in Chicago, IL: Chicago Prime Notary](https://www.notarydepot.com/chicagoprimenotary)
   - [Notary Public in Auburn, ME: Donald Robbins](https://www.notarydepot.com/chiefdon)
   - [Notary Public in Palmdale, CA: Chirnese Liverpool](https://www.notarydepot.com/chirnese_liverpool)
@@ -8063,4 +8064,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-01T20:34:01Z
+Updated at 2019-03-01T20:54:02Z
