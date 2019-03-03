@@ -3002,6 +3002,7 @@
   - [Notary Public in Reynoldsburg, OH: Carl D DeMatteo](https://www.notarydepot.com/cdaved)
   - [Notary Public in Augusta, GA: Constance Davis](https://www.notarydepot.com/cdavis)
   - [Notary Public in High Point, NC: Christie Devine](https://www.notarydepot.com/cdevine)
+  - [Notary Public in Panama City, FL: CHANNING LIPTROT](https://www.notarydepot.com/cdl085)
   - [Notary Public in Harrison charter Township, MI: Catherine A Dawley](https://www.notarydepot.com/cdnotarysigninggmailcom)
   - [Notary Public in Indianapolis, IN: Craig Douglass Betts](https://www.notarydepot.com/cdouglassb)
   - [Notary Public in Woodbridge, VA: Cds Notary Services](https://www.notarydepot.com/cds35)
@@ -8067,4 +8068,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-03T21:34:02Z
+Updated at 2019-03-03T21:54:02Z
