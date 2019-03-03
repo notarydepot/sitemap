@@ -870,6 +870,7 @@
     - [Notary Public in South Holland, IL](https://www.notarydepot.com/notary-near-me/Illinois/South-Holland)
     - [Notary Public in Spring Grove, IL](https://www.notarydepot.com/notary-near-me/Illinois/Spring-Grove)
     - [Notary Public in Springfield, IL](https://www.notarydepot.com/notary-near-me/Illinois/Springfield)
+    - [Notary Public in Streamwood, IL](https://www.notarydepot.com/notary-near-me/Illinois/Streamwood)
     - [Notary Public in Sycamore, IL](https://www.notarydepot.com/notary-near-me/Illinois/Sycamore)
     - [Notary Public in Waterloo, IL](https://www.notarydepot.com/notary-near-me/Illinois/Waterloo)
     - [Notary Public in Waukegan, IL](https://www.notarydepot.com/notary-near-me/Illinois/Waukegan)
@@ -6575,6 +6576,7 @@
   - [Notary Public in Hephzibah, GA: Shameca Whitfield](https://www.notarydepot.com/shameca86)
   - [Notary Public in NV: Shannon L Hammond](https://www.notarydepot.com/shammond)
   - [Notary Public in Chicago, IL: Shanetra Wilson](https://www.notarydepot.com/shanetrawilson)
+  - [Notary Public in Streamwood, IL: Chernise D. Williams](https://www.notarydepot.com/shani1016)
   - [Notary Public in Miami Gardens, FL: shania hall](https://www.notarydepot.com/shaniajam)
   - [Notary Public in Woodbridge, VA: Shanitra Johnson](https://www.notarydepot.com/shanitra_johnson)
   - [Notary Public in West Bloomfield Township, MI: Shannel Konja](https://www.notarydepot.com/shannel307)
@@ -8064,4 +8066,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-03T17:34:02Z
+Updated at 2019-03-03T17:54:01Z
