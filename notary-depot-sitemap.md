@@ -3744,6 +3744,7 @@
   - [Notary Public in West New York, NJ: Everth Maradiaga](https://www.notarydepot.com/everthm007)
   - [Notary Public in Pasadena, CA: Evette Torrence](https://www.notarydepot.com/evettelt)
   - [Notary Public in Deer Park, TX: Evie L Morrison](https://www.notarydepot.com/evie)
+  - [Notary Public in Gastonia, NC: Amesha Dawkins](https://www.notarydepot.com/exclusivemobilenotary)
   - [Notary Public in San Juan Capistrano, CA: Eric Stuckey](https://www.notarydepot.com/experiencedlocalprofessional)
   - [Notary Public in Spring, TX: Kathleen Reynolds](https://www.notarydepot.com/experiencednotary)
   - [Notary Public in Beverly Hills, FL: Richard Simms, 7 Counties, Licensed, Bonded, Insured](https://www.notarydepot.com/expertnotaries)
@@ -8066,4 +8067,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-03T17:54:01Z
+Updated at 2019-03-03T18:14:02Z
