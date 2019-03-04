@@ -941,7 +941,6 @@
     - [Notary Public in Waukee, IA](https://www.notarydepot.com/notary-near-me/Iowa/Waukee)
     - [Notary Public in Windsor Heights, IA](https://www.notarydepot.com/notary-near-me/Iowa/Windsor-Heights)
   - [Notaries Public in Kansas](https://www.notarydepot.com/notary-near-me/Kansas)
-    - [Notary Public in Clearwater, KS](https://www.notarydepot.com/notary-near-me/Kansas/Clearwater)
     - [Notary Public in Holton, KS](https://www.notarydepot.com/notary-near-me/Kansas/Holton)
     - [Notary Public in Junction City, KS](https://www.notarydepot.com/notary-near-me/Kansas/Junction-City)
     - [Notary Public in Lawrence, KS](https://www.notarydepot.com/notary-near-me/Kansas/Lawrence)
@@ -2597,7 +2596,6 @@
   - [Notary Public in Sanborn, IA: Heather Simons](https://www.notarydepot.com/aroundtheclocknotary)
   - [Notary Public in Pompano Beach, FL: Ann Sedrish](https://www.notarydepot.com/arsedrish)
   - [Notary Public in Paoli, PA: Arthur M Rosenbaum, Esquire](https://www.notarydepot.com/art)
-  - [Notary Public in Clearwater, KS: Arthur Gentry](https://www.notarydepot.com/artg)
   - [Notary Public in Stone Mountain, GA: Alice Artis-LaBorn](https://www.notarydepot.com/artislaborn)
   - [Notary Public in Paoli, PA: Arthur M Rosenbaum](https://www.notarydepot.com/artrose)
   - [Notary Public in Dallas, TX: Saheed Aiyeojenku](https://www.notarydepot.com/asaheed)
@@ -8068,4 +8066,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-04T16:34:02Z
+Updated at 2019-03-04T16:54:02Z
