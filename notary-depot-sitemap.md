@@ -6844,6 +6844,7 @@
   - [Notary Public in Union City, GA: Stephanie Sims](https://www.notarydepot.com/stepsims1)
   - [Notary Public in Danville, IL: Sterling Closing Notary](https://www.notarydepot.com/sterlingnotary)
   - [Notary Public in Phoenix, AZ: Tricia Lemons](https://www.notarydepot.com/sterling_servicesllc)
+  - [Notary Public in Richmond, VA: Sophia Terrell](https://www.notarydepot.com/sterrell5467)
   - [Notary Public in Los Angeles, CA: Stephen McClure](https://www.notarydepot.com/steve68)
   - [Notary Public in Northville, MI: Stephen Mackenzie](https://www.notarydepot.com/steveandjo1)
   - [Notary Public in Austin, TX: Steven B Merrick](https://www.notarydepot.com/stevenbmerrick)
@@ -8066,4 +8067,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-04T17:14:01Z
+Updated at 2019-03-04T17:34:02Z
