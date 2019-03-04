@@ -2095,6 +2095,7 @@
     - [Notary Public in Fairfax, VA](https://www.notarydepot.com/notary-near-me/Virginia/Fairfax)
     - [Notary Public in Falls Church, VA](https://www.notarydepot.com/notary-near-me/Virginia/Falls-Church)
     - [Notary Public in Fincastle, VA](https://www.notarydepot.com/notary-near-me/Virginia/Fincastle)
+    - [Notary Public in Ford, VA](https://www.notarydepot.com/notary-near-me/Virginia/Ford)
     - [Notary Public in Fredericksburg, VA](https://www.notarydepot.com/notary-near-me/Virginia/Fredericksburg)
     - [Notary Public in Front Royal, VA](https://www.notarydepot.com/notary-near-me/Virginia/Front-Royal)
     - [Notary Public in Gainesville, VA](https://www.notarydepot.com/notary-near-me/Virginia/Gainesville)
@@ -3155,7 +3156,7 @@
   - [Notary Public in Corvallis, OR: Cody Patton](https://www.notarydepot.com/codypattonz)
   - [Notary Public in Sierra Vista, AZ: Cody Ryan](https://www.notarydepot.com/codyryan)
   - [Notary Public in Charlotte, NC: Theodore](https://www.notarydepot.com/cogginsgroup)
-  - [Notary Public in Henrico, VA: Cynthia L. Radford](https://www.notarydepot.com/cole8488)
+  - [Notary Public in Ford, VA: Cynthia L. Radford](https://www.notarydepot.com/cole8488)
   - [Notary Public in Reno, NV: Coleen Black](https://www.notarydepot.com/coleenblack)
   - [Notary Public in Indianapolis, IN: Kyle [Kee-Lee] Inez Cole](https://www.notarydepot.com/colefolk)
   - [Notary Public in Northglenn, CO: Kim Coleman](https://www.notarydepot.com/colemakr)
@@ -8067,4 +8068,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-04T18:54:02Z
+Updated at 2019-03-04T19:14:02Z
