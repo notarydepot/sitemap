@@ -4137,6 +4137,7 @@
   - [Notary Public in Omaha, NE: Lisa A. Hardy](https://www.notarydepot.com/inrelisa)
   - [Notary Public in Fremont, CA: Udaya K Padmanabhuni](https://www.notarydepot.com/instanatnotaryservice)
   - [Notary Public in Coral Springs, FL: Mitchell Rudin](https://www.notarydepot.com/insurancenotary)
+  - [Notary Public in Colorado Springs, CO: Sandra issacs](https://www.notarydepot.com/integritydriven)
   - [Notary Public in Pittsburgh, PA: Charlean M. Jones](https://www.notarydepot.com/integritynotary)
   - [Notary Public in Hesperia, CA: Gabriela Vasquez](https://www.notarydepot.com/intercrew48)
   - [Notary Public in Scottsdale, AZ: Yana Morford](https://www.notarydepot.com/intervolga)
@@ -8068,4 +8069,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-04T21:34:02Z
+Updated at 2019-03-04T21:54:03Z
