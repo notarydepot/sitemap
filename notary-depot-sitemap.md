@@ -6095,6 +6095,7 @@
   - [Notary Public in Knightdale, NC: Precious Vines](https://www.notarydepot.com/plvines)
   - [Notary Public in Glendale, AZ: Dmitriy Binyaminov](https://www.notarydepot.com/plykak)
   - [Notary Public in Macomb, MI: Princess ](https://www.notarydepot.com/pmahabirmobilenotary)
+  - [Notary Public in Petersburg, VA: Pamela Williams](https://www.notarydepot.com/pmariaw)
   - [Notary Public in Jacksonville, FL: Pamela Mitchell ](https://www.notarydepot.com/pmarsh)
   - [Notary Public in Hayward, CA: Paulette Marshall](https://www.notarydepot.com/pmarshall42)
   - [Notary Public in Chula Vista, CA: Patricia A. McDonald](https://www.notarydepot.com/pmcdonald917)
@@ -8069,4 +8070,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-04T22:54:02Z
+Updated at 2019-03-04T23:14:02Z
