@@ -4670,6 +4670,7 @@
   - [Notary Public in Deer Park, NY: Kim McGuire](https://www.notarydepot.com/kdchad)
   - [Notary Public in Long Beach, CA: Kris De Jesus](https://www.notarydepot.com/kdejesus)
   - [Notary Public in Fort Myers, FL: Kristy Dennison](https://www.notarydepot.com/kdennison)
+  - [Notary Public in Matthews, NC: Kendra Hart](https://www.notarydepot.com/kdhart)
   - [Notary Public in CA: Kirsten Keating](https://www.notarydepot.com/keatingnotary1)
   - [Notary Public in Grosse Pointe, MI: Kari Basacchi](https://www.notarydepot.com/kebnotaryservices)
   - [Notary Public in Granite Falls, NC: Bob Taylor](https://www.notarydepot.com/keeanu)
@@ -8072,4 +8073,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-05T18:14:02Z
+Updated at 2019-03-05T18:34:01Z
