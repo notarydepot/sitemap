@@ -1135,6 +1135,7 @@
     - [Notary Public in Macomb, MI](https://www.notarydepot.com/notary-near-me/Michigan/Macomb)
     - [Notary Public in Mancelona, MI](https://www.notarydepot.com/notary-near-me/Michigan/Mancelona)
     - [Notary Public in Milan, MI](https://www.notarydepot.com/notary-near-me/Michigan/Milan)
+    - [Notary Public in Milford Charter Township, MI](https://www.notarydepot.com/notary-near-me/Michigan/Milford-Charter-Township)
     - [Notary Public in Montague, MI](https://www.notarydepot.com/notary-near-me/Michigan/Montague)
     - [Notary Public in Mount Clemens, MI](https://www.notarydepot.com/notary-near-me/Michigan/Mount-Clemens)
     - [Notary Public in Mount Morris, MI](https://www.notarydepot.com/notary-near-me/Michigan/Mount-Morris)
@@ -4425,6 +4426,7 @@
   - [Notary Public in Fouke, AR: Jonathan McIntyre](https://www.notarydepot.com/jmcintyre)
   - [Notary Public in Bettendorf, IA: Janiece M Goldsberry](https://www.notarydepot.com/jmgberry)
   - [Notary Public in Roseville, CA: Jennifer Grinder](https://www.notarydepot.com/jmgrinder)
+  - [Notary Public in Milford Charter Township, MI: John Micallef](https://www.notarydepot.com/jmicallefnotary)
   - [Notary Public in Molalla, OR: Jeanine Miles](https://www.notarydepot.com/jmiles)
   - [Notary Public in Gobles, MI: J. Michael James](https://www.notarydepot.com/jmjames)
   - [Notary Public in White Plains, NY: Jean Kennedy](https://www.notarydepot.com/jmk)
@@ -8070,4 +8072,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-05T17:14:02Z
+Updated at 2019-03-05T17:34:02Z
