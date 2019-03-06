@@ -5796,6 +5796,7 @@
   - [Notary Public in Los Alamitos, CA: Tracy L. Martinez](https://www.notarydepot.com/notarybytracy)
   - [Notary Public in Los Angeles, CA: NotaryC](https://www.notarydepot.com/notaryc)
   - [Notary Public in Crestview, FL: Deborah Winstead](https://www.notarydepot.com/notarychick)
+  - [Notary Public in Pittsburgh, PA: Carol Barbour](https://www.notarydepot.com/notarychickpgh)
   - [Notary Public in Fredericksburg, VA: Cynthia M Stuart](https://www.notarydepot.com/notarycindy)
   - [Notary Public in Fayetteville, GA: Dominic Brown](https://www.notarydepot.com/notarycourier)
   - [Notary Public in Hobe Sound, FL: Deidra Mccaslin](https://www.notarydepot.com/notarydede)
@@ -8073,4 +8074,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-06T02:54:03Z
+Updated at 2019-03-06T03:14:02Z
