@@ -2221,6 +2221,7 @@
     - [Notary Public in Harpers Ferry, WV](https://www.notarydepot.com/notary-near-me/West-Virginia/Harpers-Ferry)
     - [Notary Public in Huntington, WV](https://www.notarydepot.com/notary-near-me/West-Virginia/Huntington)
     - [Notary Public in Keyser, WV](https://www.notarydepot.com/notary-near-me/West-Virginia/Keyser)
+    - [Notary Public in Rainelle, WV](https://www.notarydepot.com/notary-near-me/West-Virginia/Rainelle)
     - [Notary Public in Vienna, WV](https://www.notarydepot.com/notary-near-me/West-Virginia/Vienna)
   - [Notaries Public in Wisconsin](https://www.notarydepot.com/notary-near-me/Wisconsin)
     - [Notary Public in Almond, WI](https://www.notarydepot.com/notary-near-me/Wisconsin/Almond)
@@ -5552,6 +5553,7 @@
   - [Notary Public in Bay City, MI: Mary Jackson](https://www.notarydepot.com/mpsnotary)
   - [Notary Public in Abingdon, MD: Mary P. Staron ~ Ltp](https://www.notarydepot.com/mpstaron)
   - [Notary Public in Palm Bay, FL: mark j. eden](https://www.notarydepot.com/mrbass111)
+  - [Notary Public in Rainelle, WV: Brandon L Terry](https://www.notarydepot.com/mrbrandonterry)
   - [Notary Public in Davenport, IA: Harlan Perry](https://www.notarydepot.com/mrbudget45)
   - [Notary Public in Danese, WV: Mary R. Carroll](https://www.notarydepot.com/mrcarroll)
   - [Notary Public in Los Angeles, CA: Mauricio Ramos](https://www.notarydepot.com/mrfingerprints)
@@ -8074,4 +8076,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-06T03:54:02Z
+Updated at 2019-03-06T04:14:03Z
