@@ -2433,6 +2433,7 @@
   - [Notary Public in Northville, NY: amy l frasier](https://www.notarydepot.com/alfrasier12)
   - [Notary Public in Olympia, WA: Angel Hodge](https://www.notarydepot.com/alhnotary)
   - [Notary Public in Tempe, AZ: Carol Lara-Navarro](https://www.notarydepot.com/alianzanavarro)
+  - [Notary Public in Indianapolis, IN: Alice Miller](https://www.notarydepot.com/alicemmiller)
   - [Notary Public in Milford, CT: Alicia R Gonzalez](https://www.notarydepot.com/aliciag)
   - [Notary Public in Blue Ridge, VA: Alicia Phillips](https://www.notarydepot.com/alicphllps)
   - [Notary Public in Goleta, CA: Aeria Bolden](https://www.notarydepot.com/alily50)
@@ -8078,4 +8079,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-07T17:54:01Z
+Updated at 2019-03-07T18:14:02Z
