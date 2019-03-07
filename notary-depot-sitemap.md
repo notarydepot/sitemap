@@ -2718,6 +2718,7 @@
   - [Notary Public in Ceres, CA: Corinne Pereira](https://www.notarydepot.com/bear87)
   - [Notary Public in Vero Beach, FL: Rebecca D. Fair](https://www.notarydepot.com/beccafl)
   - [Notary Public in Belpre, OH: Becky McCue](https://www.notarydepot.com/becky1111)
+  - [Notary Public in Independence, MO: Rebecca A. Miles](https://www.notarydepot.com/becky1950)
   - [Notary Public in Staunton, VA: Becky Adams](https://www.notarydepot.com/beckya)
   - [Notary Public in Barnstable, MA: Rebecca Kaczowski](https://www.notarydepot.com/beckykacz)
   - [Notary Public in Layton, UT: Rebecca Miller](https://www.notarydepot.com/becmiller)
@@ -6211,7 +6212,7 @@
   - [Notary Public in Las Vegas, NV: Reza S. Akhavan](https://www.notarydepot.com/rakhavan)
   - [Notary Public in Windsor charter Township, MI: Ronnie Albert](https://www.notarydepot.com/ralbert)
   - [Notary Public in Alexander, NC: Ralph Roberts](https://www.notarydepot.com/ralphwroberts)
-  - [Notary Public in Hacienda Heights, CA: Ramon Diaz](https://www.notarydepot.com/ramonmynotary)
+  - [Notary Public in La Puente, CA: Ramon Diaz](https://www.notarydepot.com/ramonmynotary)
   - [Notary Public in Orlando, FL: Ramon](https://www.notarydepot.com/ramonp)
   - [Notary Public in Manassas, VA: Ram P Khanal](https://www.notarydepot.com/rampdkhanal)
   - [Notary Public in Los Angeles, CA: Randa Rose Casad](https://www.notarydepot.com/randa)
@@ -8079,4 +8080,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-07T20:14:02Z
+Updated at 2019-03-07T20:34:02Z
