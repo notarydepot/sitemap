@@ -460,6 +460,7 @@
     - [Notary Public in Watsonville, CA](https://www.notarydepot.com/notary-near-me/California/Watsonville)
     - [Notary Public in Weed, CA](https://www.notarydepot.com/notary-near-me/California/Weed)
     - [Notary Public in West Covina, CA](https://www.notarydepot.com/notary-near-me/California/West-Covina)
+    - [Notary Public in West Hollywood, CA](https://www.notarydepot.com/notary-near-me/California/West-Hollywood)
     - [Notary Public in West Sacramento, CA](https://www.notarydepot.com/notary-near-me/California/West-Sacramento)
     - [Notary Public in Westlake Village, CA](https://www.notarydepot.com/notary-near-me/California/Westlake-Village)
     - [Notary Public in Westminster, CA](https://www.notarydepot.com/notary-near-me/California/Westminster)
@@ -3247,6 +3248,7 @@
   - [Notary Public in Silver Spring, MD: carlos vasquez](https://www.notarydepot.com/cvasquez)
   - [Notary Public in Richmond, VA: Alison Pantele](https://www.notarydepot.com/cvds)
   - [Notary Public in Lawrence, MA: Carlos L Vieira](https://www.notarydepot.com/cvieira)
+  - [Notary Public in West Hollywood, CA: Caroline Koller](https://www.notarydepot.com/cvkoller1)
   - [Notary Public in Milford, CT: Carol Void](https://www.notarydepot.com/cvoid56)
   - [Notary Public in Yucaipa, CA: Crystal Vande Poppe](https://www.notarydepot.com/cvpnotary)
   - [Notary Public in Cape Coral, FL: Craig W Christianson](https://www.notarydepot.com/cwchristianson)
@@ -8080,4 +8082,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-08T03:14:02Z
+Updated at 2019-03-08T03:34:02Z
