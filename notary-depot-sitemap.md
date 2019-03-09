@@ -1562,6 +1562,7 @@
     - [Notary Public in Morganton, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Morganton)
     - [Notary Public in Mount Airy, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Mount-Airy)
     - [Notary Public in Murphy, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Murphy)
+    - [Notary Public in Oak Ridge, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Oak-Ridge)
     - [Notary Public in Oakboro, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Oakboro)
     - [Notary Public in Parkton, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Parkton)
     - [Notary Public in Pfafftown, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Pfafftown)
@@ -5480,6 +5481,7 @@
   - [Notary Public in Corona, CA: Julia Ortiz, Mobile Notary/Loan Signing Specialist](https://www.notarydepot.com/mobilenotary247)
   - [Notary Public in Harpers Ferry, WV: Candace Rowan](https://www.notarydepot.com/mobilenotary25425)
   - [Notary Public in Elk Grove, CA: Bianca Towns](https://www.notarydepot.com/mobilenotary2me)
+  - [Notary Public in Oak Ridge, NC: Amanda](https://www.notarydepot.com/mobilenotary4u)
   - [Notary Public in Fallon, NV: Greg Anderson](https://www.notarydepot.com/mobilenotarygreg)
   - [Notary Public in San Diego, CA: ronald link](https://www.notarydepot.com/mobilenotaryguy)
   - [Notary Public in Urbana, OH: Rhonda M Lippencott](https://www.notarydepot.com/mobilenotaryinohiogmailcom)
@@ -8082,4 +8084,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-09T06:14:01Z
+Updated at 2019-03-09T06:34:02Z
