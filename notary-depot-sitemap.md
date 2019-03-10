@@ -6199,6 +6199,7 @@
   - [Notary Public in Greensburg, PA: Robert Nowlin](https://www.notarydepot.com/quicksigners)
   - [Notary Public in Saint Paul, MN: Joseph P. Kelly](https://www.notarydepot.com/quillnotary)
   - [Notary Public in Winter Springs, FL: Nequisha Stuckey](https://www.notarydepot.com/quishafla)
+  - [Notary Public in Chicago, IL: Franklin](https://www.notarydepot.com/quizhpi2)
   - [Notary Public in Bellevue, WA: Bellevue Notary](https://www.notarydepot.com/qweester)
   - [Notary Public in Oviedo, FL: Rhonda Dietz](https://www.notarydepot.com/r0nnisd)
   - [Notary Public in Jacksonville, FL: Roy A. Anderson](https://www.notarydepot.com/ra1222)
@@ -8084,4 +8085,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-10T00:14:02Z
+Updated at 2019-03-10T00:34:02Z
