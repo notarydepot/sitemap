@@ -3094,6 +3094,7 @@
   - [Notary Public in Wilbraham, MA: Christine M Moran](https://www.notarydepot.com/christinemmoran)
   - [Notary Public in New York, NY: Christine Yanire Rivera](https://www.notarydepot.com/christineyrivera)
   - [Notary Public in Brentwood, CA: Christine Rudolph](https://www.notarydepot.com/christine_rudolph)
+  - [Notary Public in Lucedale, MS: Christi Nichols](https://www.notarydepot.com/christinichols)
   - [Notary Public in Port St. Lucie, FL: Christy Church](https://www.notarydepot.com/christychurch)
   - [Notary Public in Petaluma, CA: Christie Allen](https://www.notarydepot.com/christysonomanotary)
   - [Notary Public in Galt, CA: Chrystal Damazio](https://www.notarydepot.com/chrysdam123)
@@ -8085,4 +8086,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-13T04:14:02Z
+Updated at 2019-03-13T04:34:02Z
