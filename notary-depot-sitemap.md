@@ -5840,6 +5840,7 @@
   - [Notary Public in Pembroke Pines, FL: Ukeme Ekpo-Hagewood](https://www.notarydepot.com/notarykeme)
   - [Notary Public in Los Angeles, CA: Howard K. Lee](https://www.notarydepot.com/notarykorean)
   - [Notary Public in Grand Prairie, TX: katy cleek](https://www.notarydepot.com/notarykt)
+  - [Notary Public in Louisville, KY: Brittney Johnson ](https://www.notarydepot.com/notaryky)
   - [Notary Public in Grants Pass, OR: Peggy L Mazziotti](https://www.notarydepot.com/notarylady)
   - [Notary Public in Jonesboro, GA: Francena](https://www.notarydepot.com/notaryladyofga)
   - [Notary Public in Las Vegas, NV: John Bobe](https://www.notarydepot.com/notarylv)
@@ -8088,4 +8089,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-13T11:34:02Z
+Updated at 2019-03-13T11:54:02Z
