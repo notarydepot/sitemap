@@ -1732,6 +1732,7 @@
     - [Notary Public in Collingdale, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Collingdale)
     - [Notary Public in Columbia, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Columbia)
     - [Notary Public in Coraopolis, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Coraopolis)
+    - [Notary Public in Covington, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Covington)
     - [Notary Public in Curwensville, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Curwensville)
     - [Notary Public in Dover, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Dover)
     - [Notary Public in Downingtown, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Downingtown)
@@ -2631,6 +2632,7 @@
   - [Notary Public in Panama City, FL: Amanda Watson](https://www.notarydepot.com/asurbeam)
   - [Notary Public in St. Louis, MO: Dionne Davidson](https://www.notarydepot.com/asuresign)
   - [Notary Public in Loxley, AL: Amber Wallace ](https://www.notarydepot.com/aswallace)
+  - [Notary Public in Covington, PA: Abbey Taft](https://www.notarydepot.com/ataft3)
   - [Notary Public in PA: Arendell Allison](https://www.notarydepot.com/atalli4)
   - [Notary Public in Victorville, CA: miguel barrios](https://www.notarydepot.com/atalo)
   - [Notary Public in Yonkers, NY: Angele Tchouke](https://www.notarydepot.com/atchouke)
@@ -8089,4 +8091,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-13T17:14:02Z
+Updated at 2019-03-13T17:34:02Z
