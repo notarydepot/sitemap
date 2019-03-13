@@ -4427,6 +4427,7 @@
   - [Notary Public in Scotch Plains, NJ: Jim Lissemore](https://www.notarydepot.com/jlissem)
   - [Notary Public in Antioch, CA: Jessica Mendiola](https://www.notarydepot.com/jlmendiola)
   - [Notary Public in Glendale, CA: Jeannie LoBue](https://www.notarydepot.com/jlobue)
+  - [Notary Public in Augusta, GA: Jared Lopez](https://www.notarydepot.com/jlopeznotary)
   - [Notary Public in Powder Springs, GA: Janice L. Moore](https://www.notarydepot.com/jlorraine)
   - [Notary Public in Knoxville, TN: Jamie Romines](https://www.notarydepot.com/jlromines)
   - [Notary Public in Ormond Beach, FL: Jennifer Tiede ](https://www.notarydepot.com/jltiedensa)
@@ -8091,4 +8092,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-13T21:54:02Z
+Updated at 2019-03-13T22:14:01Z
