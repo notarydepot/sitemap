@@ -245,6 +245,7 @@
     - [Notary Public in Glendale, CA](https://www.notarydepot.com/notary-near-me/California/Glendale)
     - [Notary Public in Glendora, CA](https://www.notarydepot.com/notary-near-me/California/Glendora)
     - [Notary Public in Goleta, CA](https://www.notarydepot.com/notary-near-me/California/Goleta)
+    - [Notary Public in Grand Terrace, CA](https://www.notarydepot.com/notary-near-me/California/Grand-Terrace)
     - [Notary Public in Grass Valley, CA](https://www.notarydepot.com/notary-near-me/California/Grass-Valley)
     - [Notary Public in Gridley, CA](https://www.notarydepot.com/notary-near-me/California/Gridley)
     - [Notary Public in Grover Beach, CA](https://www.notarydepot.com/notary-near-me/California/Grover-Beach)
@@ -5341,6 +5342,7 @@
   - [Notary Public in Richmond, VA: Melody N. Skinner](https://www.notarydepot.com/melodyskinner)
   - [Notary Public in Camarillo, CA: Melissa Snodgrass](https://www.notarydepot.com/melsnod)
   - [Notary Public in Arroyo Grande, CA: Melissa Giovanazzi](https://www.notarydepot.com/melvel29)
+  - [Notary Public in Grand Terrace, CA: Melissa Wilson](https://www.notarydepot.com/melwilson)
   - [Notary Public in DeLand, FL: Patricia Bartolucci](https://www.notarydepot.com/memas4)
   - [Notary Public in Buena Park, CA: Guillermo Espinoza](https://www.notarydepot.com/memogza911)
   - [Notary Public in Bartlett, TN: Donald Lowry](https://www.notarydepot.com/memphisnotary)
@@ -8086,4 +8088,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-13T04:54:02Z
+Updated at 2019-03-13T05:14:02Z
