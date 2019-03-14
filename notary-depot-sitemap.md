@@ -5331,7 +5331,6 @@
   - [Notary Public in Goose Creek, SC: Mark Johnson](https://www.notarydepot.com/mej42000)
   - [Notary Public in Jacksonville, FL: Melinda Rellford](https://www.notarydepot.com/mel4610)
   - [Notary Public in Gulfport, MS: Mary Lee](https://www.notarydepot.com/mel4895)
-  - [Notary Public in Los Angeles, CA: Melanie N. Fuentes](https://www.notarydepot.com/melanie8383)
   - [Notary Public in Lomita, CA: Melanie Mahkorn ](https://www.notarydepot.com/melaniemahkorn)
   - [Notary Public in Clermont, FL: Melissa Devitt](https://www.notarydepot.com/meldev73)
   - [Notary Public in Gadsden, AL: Melissa G. Gorham](https://www.notarydepot.com/melee)
@@ -8092,4 +8091,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-14T16:34:02Z
+Updated at 2019-03-14T16:54:02Z
