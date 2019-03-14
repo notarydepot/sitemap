@@ -6095,6 +6095,7 @@
   - [Notary Public in Battle Ground, WA: Philip Johnson](https://www.notarydepot.com/philipj)
   - [Notary Public in Dallas, TX: Phillip Frazier](https://www.notarydepot.com/philliptx)
   - [Notary Public in Wildomar, CA: Gail Willis](https://www.notarydepot.com/phillygirl215)
+  - [Notary Public in New London, MO: Sarah Hathaway](https://www.notarydepot.com/phishphan419)
   - [Notary Public in San Diego, CA: Phong Long](https://www.notarydepot.com/phonglong)
   - [Notary Public in Saint Petersburg, FL: Phyllis Dodge Cnsa W/Background Check](https://www.notarydepot.com/phyllis)
   - [Notary Public in Hollywood, FL: Pines Mobile Notary](https://www.notarydepot.com/pinesmobilenotary)
@@ -8091,4 +8092,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-14T19:14:02Z
+Updated at 2019-03-14T19:34:03Z
