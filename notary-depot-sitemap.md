@@ -6487,6 +6487,7 @@
   - [Notary Public in Gig Harbor, WA: David Morse](https://www.notarydepot.com/samfbm)
   - [Notary Public in Los Angeles, CA: Samira Sharif](https://www.notarydepot.com/samira)
   - [Notary Public in Colorado Springs, CO: Sam Lucas](https://www.notarydepot.com/samlucas)
+  - [Notary Public in Kissimmee, FL: Samuel](https://www.notarydepot.com/sammalave)
   - [Notary Public in San Jose, CA: Sheila Meinecke](https://www.notarydepot.com/samri)
   - [Notary Public in Elk Grove, CA: Sam M.](https://www.notarydepot.com/samsnotaryca)
   - [Notary Public in Exton, PA: Nora Sanchez-Prado](https://www.notarydepot.com/sanchen)
@@ -8092,4 +8093,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-16T22:54:02Z
+Updated at 2019-03-16T23:14:02Z
