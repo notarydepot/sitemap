@@ -5779,6 +5779,7 @@
   - [Notary Public in Houston, TX: Wayne Hamilton, Certified Signing Agent](https://www.notarydepot.com/notary2notary)
   - [Notary Public in Uniontown, PA: Judith A. Carter](https://www.notarydepot.com/notary2travel)
   - [Notary Public in Whittier, CA: Linda J. Ortega](https://www.notarydepot.com/notary2u)
+  - [Notary Public in Wallingford, CT: Madison ](https://www.notarydepot.com/notary2you)
   - [Notary Public in Fontana, CA: Debra A. Stewart](https://www.notarydepot.com/notary2yourdoor)
   - [Notary Public in Georgetown, TX: Sandra K. Collins](https://www.notarydepot.com/notary3040)
   - [Notary Public in Stockton, CA: Luis Castaneda](https://www.notarydepot.com/notary3122)
@@ -8093,4 +8094,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-17T19:14:01Z
+Updated at 2019-03-17T19:34:02Z
