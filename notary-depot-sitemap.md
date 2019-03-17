@@ -7354,6 +7354,7 @@
   - [Notary Public in Eustis, FL: Cathy Wegner](https://www.notarydepot.com/wegzoo)
   - [Notary Public in Roseburg, OR: Wendi J. Tubbs](https://www.notarydepot.com/wenditubbs)
   - [Notary Public in Temecula, CA: Wendy de Vera](https://www.notarydepot.com/wendydevera)
+  - [Notary Public in El Dorado Hills, CA: Wendy Evans](https://www.notarydepot.com/wendyevans)
   - [Notary Public in Redding, CA: Wendy Rehberg](https://www.notarydepot.com/wendyo)
   - [Notary Public in Arcanum, OH: Scott Wert](https://www.notarydepot.com/wertscott)
   - [Notary Public in Westlake Village, CA: Westlake Notary](https://www.notarydepot.com/westlakenotary2)
@@ -8094,4 +8095,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-17T23:34:02Z
+Updated at 2019-03-17T23:54:02Z
