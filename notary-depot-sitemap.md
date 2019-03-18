@@ -2063,6 +2063,7 @@
     - [Notary Public in Ogden, UT](https://www.notarydepot.com/notary-near-me/Utah/Ogden)
     - [Notary Public in Orem, UT](https://www.notarydepot.com/notary-near-me/Utah/Orem)
     - [Notary Public in Price, UT](https://www.notarydepot.com/notary-near-me/Utah/Price)
+    - [Notary Public in Provo, UT](https://www.notarydepot.com/notary-near-me/Utah/Provo)
     - [Notary Public in Salt Lake City, UT](https://www.notarydepot.com/notary-near-me/Utah/Salt-Lake-City)
     - [Notary Public in Sandy, UT](https://www.notarydepot.com/notary-near-me/Utah/Sandy)
     - [Notary Public in Springville, UT](https://www.notarydepot.com/notary-near-me/Utah/Springville)
@@ -4519,6 +4520,7 @@
   - [Notary Public in Bogota, NJ: Joie Polimeda](https://www.notarydepot.com/jplynn10)
   - [Notary Public in Manchester, NH: Myra Anne Mullen](https://www.notarydepot.com/jpmyra)
   - [Notary Public in Napa, CA: Jim Pettis](https://www.notarydepot.com/jpnotary)
+  - [Notary Public in Provo, UT: John Poelman](https://www.notarydepot.com/jpoelman)
   - [Notary Public in Portland, OR: Jennifer N Powell](https://www.notarydepot.com/jpowellnsa)
   - [Notary Public in San Dimas, CA: Jeanne Pratt](https://www.notarydepot.com/jprattnotary)
   - [Notary Public in Abingdon, MD: John P Scollan](https://www.notarydepot.com/jpscollan)
@@ -8095,4 +8097,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-18T14:54:02Z
+Updated at 2019-03-18T15:14:02Z
