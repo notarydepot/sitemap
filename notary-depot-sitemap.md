@@ -4366,7 +4366,6 @@
   - [Notary Public in Collins, MO: Jerry O Thompson](https://www.notarydepot.com/jerryothompsonreagancom)
   - [Notary Public in Sarasota, FL: Jerry Hoey](https://www.notarydepot.com/jerry_hoey)
   - [Notary Public in Kingsville, TX: Diana C. Miller](https://www.notarydepot.com/jesamlee)
-  - [Notary Public in Livonia, MI: Jesse](https://www.notarydepot.com/jessejamesnotary)
   - [Notary Public in Bellflower, CA: Jessica](https://www.notarydepot.com/jessica)
   - [Notary Public in Las Vegas, NV: Andrew Springfield](https://www.notarydepot.com/jessica02)
   - [Notary Public in Spring Hill, FL: Jessica Ahearn](https://www.notarydepot.com/jessicaahearn)
@@ -8099,4 +8098,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-19T14:34:02Z
+Updated at 2019-03-19T14:54:02Z
