@@ -2125,6 +2125,7 @@
     - [Notary Public in Marshall, VA](https://www.notarydepot.com/notary-near-me/Virginia/Marshall)
     - [Notary Public in Mechanicsville, VA](https://www.notarydepot.com/notary-near-me/Virginia/Mechanicsville)
     - [Notary Public in Midlothian, VA](https://www.notarydepot.com/notary-near-me/Virginia/Midlothian)
+    - [Notary Public in Montclair, VA](https://www.notarydepot.com/notary-near-me/Virginia/Montclair)
     - [Notary Public in Mount Sidney, VA](https://www.notarydepot.com/notary-near-me/Virginia/Mount-Sidney)
     - [Notary Public in Newport News, VA](https://www.notarydepot.com/notary-near-me/Virginia/Newport-News)
     - [Notary Public in Nokesville, VA](https://www.notarydepot.com/notary-near-me/Virginia/Nokesville)
@@ -5755,6 +5756,7 @@
   - [Notary Public in Louisville, KY: Peggy Dockery](https://www.notarydepot.com/noblenotaries)
   - [Notary Public in Bermuda Dunes, CA: Maria Lozano](https://www.notarydepot.com/noblenotary)
   - [Notary Public in Piedmont, AL: Twyla Baggett](https://www.notarydepot.com/nokisi)
+  - [Notary Public in Montclair, VA: Nolita Long](https://www.notarydepot.com/nolitanotary)
   - [Notary Public in Woodland, CA: Deanna Petersen](https://www.notarydepot.com/norcalnsa)
   - [Notary Public in MA: noreen manzo](https://www.notarydepot.com/noreenmanzo)
   - [Notary Public in Petersburg, VA: Norman O Johnson](https://www.notarydepot.com/norm23805)
@@ -8097,4 +8099,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-19T00:54:02Z
+Updated at 2019-03-19T01:14:02Z
