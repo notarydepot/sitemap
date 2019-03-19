@@ -2566,7 +2566,7 @@
   - [Notary Public in Overland Park, KS: Julie B. Dailey, E.a., KCMobileNotary.com](https://www.notarydepot.com/anotablenotary)
   - [Notary Public in San Diego, CA: Auddie Ehricke](https://www.notarydepot.com/anotary)
   - [Notary Public in Bolton, CT: Anja Hoffmann](https://www.notarydepot.com/anotary247)
-  - [Notary Public in Lakewood, CA: La Tanya Welton](https://www.notarydepot.com/anotary4u)
+  - [Notary Public in Long Beach, CA: Tanya Welton](https://www.notarydepot.com/anotary4u)
   - [Notary Public in Chula Vista, CA: Lisa D. Pippen](https://www.notarydepot.com/anotaryonthego)
   - [Notary Public in Morgan City, LA: Rebecca L. Adams, CNSA](https://www.notarydepot.com/anotarytogo)
   - [Notary Public in Bellmawr, NJ: Reginald Achilles](https://www.notarydepot.com/ans)
@@ -8098,4 +8098,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-19T17:14:02Z
+Updated at 2019-03-19T17:34:02Z
