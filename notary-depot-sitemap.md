@@ -5027,7 +5027,7 @@
   - [Notary Public in Huntington Station, NY: Lisa Cotoia](https://www.notarydepot.com/lisacotoia)
   - [Notary Public in Miami, FL: Lisa Francisque](https://www.notarydepot.com/lisaf7225)
   - [Notary Public in Moses Lake, WA: Lisa Garmon](https://www.notarydepot.com/lisagarmon)
-  - [Notary Public in North Fort Myers, FL: Lisa Scanlon](https://www.notarydepot.com/lisagof)
+  - [Notary Public in Bradenton, FL: Lisa Scanlon](https://www.notarydepot.com/lisagof)
   - [Notary Public in Edmonds, WA: Michael B. Joehnk](https://www.notarydepot.com/lisajfaith)
   - [Notary Public in Stevens Point, WI: Lisa Kimmel](https://www.notarydepot.com/lisak)
   - [Notary Public in Yukon, OK: Lisa Brimacombe](https://www.notarydepot.com/lisakay311)
@@ -8099,4 +8099,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-19T12:54:02Z
+Updated at 2019-03-19T13:14:03Z
