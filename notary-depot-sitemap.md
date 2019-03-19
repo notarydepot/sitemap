@@ -3617,7 +3617,6 @@
   - [Notary Public in Taylor, PA: Donna](https://www.notarydepot.com/dwartella507)
   - [Notary Public in Bakersfield, CA: Denise A Wellborn](https://www.notarydepot.com/dwellborn)
   - [Notary Public in Waldorf, MD: Donyelle Wester](https://www.notarydepot.com/dwester)
-  - [Notary Public in Middleburg, FL: David W. Foret Sr.](https://www.notarydepot.com/dwforet)
   - [Notary Public in Los Angeles, CA: Dennis Nguyen](https://www.notarydepot.com/dxunit)
   - [Notary Public in Louisville, KY: Mike Hendricksen](https://www.notarydepot.com/dynamark)
   - [Notary Public in Bush, LA: Donna Zoller](https://www.notarydepot.com/dzoller)
@@ -8099,4 +8098,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-19T20:34:02Z
+Updated at 2019-03-19T20:54:02Z
