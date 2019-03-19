@@ -5488,7 +5488,7 @@
   - [Notary Public in Corona, CA: Julia Ortiz, Mobile Notary/Loan Signing Specialist](https://www.notarydepot.com/mobilenotary247)
   - [Notary Public in Harpers Ferry, WV: Candace Rowan](https://www.notarydepot.com/mobilenotary25425)
   - [Notary Public in Elk Grove, CA: Bianca Towns](https://www.notarydepot.com/mobilenotary2me)
-  - [Notary Public in Oak Ridge, NC: Amanda](https://www.notarydepot.com/mobilenotary4u)
+  - [Notary Public in Oak Ridge, NC: The Korreks](https://www.notarydepot.com/mobilenotary4u)
   - [Notary Public in Fallon, NV: Greg Anderson](https://www.notarydepot.com/mobilenotarygreg)
   - [Notary Public in San Diego, CA: ronald link](https://www.notarydepot.com/mobilenotaryguy)
   - [Notary Public in Urbana, OH: Rhonda M Lippencott](https://www.notarydepot.com/mobilenotaryinohiogmailcom)
@@ -8098,4 +8098,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-19T15:34:02Z
+Updated at 2019-03-19T15:54:02Z
