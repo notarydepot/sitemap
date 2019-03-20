@@ -2069,6 +2069,7 @@
     - [Notary Public in Sandy, UT](https://www.notarydepot.com/notary-near-me/Utah/Sandy)
     - [Notary Public in Springville, UT](https://www.notarydepot.com/notary-near-me/Utah/Springville)
     - [Notary Public in St. George, UT](https://www.notarydepot.com/notary-near-me/Utah/St-George)
+    - [Notary Public in Stansbury Park, UT](https://www.notarydepot.com/notary-near-me/Utah/Stansbury-Park)
     - [Notary Public in West Jordan, UT](https://www.notarydepot.com/notary-near-me/Utah/West-Jordan)
   - [Notaries Public in Vermont](https://www.notarydepot.com/notary-near-me/Vermont)
     - [Notary Public in Castleton, VT](https://www.notarydepot.com/notary-near-me/Vermont/Castleton)
@@ -6937,6 +6938,7 @@
   - [Notary Public in San Diego, CA: Patrick J. Swies](https://www.notarydepot.com/swiesnotary)
   - [Notary Public in Chino Hills, CA: Christen Peyjen Ho](https://www.notarydepot.com/swiftelite)
   - [Notary Public in Hampton, VA: Sara Williams](https://www.notarydepot.com/swilliams)
+  - [Notary Public in Stansbury Park, UT: Scott Mortensen](https://www.notarydepot.com/swmortensen)
   - [Notary Public in Santa Fe, NM: Judy Sparks](https://www.notarydepot.com/swnotary)
   - [Notary Public in Raleigh, NC: Shirley Parker](https://www.notarydepot.com/swparker)
   - [Notary Public in Allentown, PA: Shirley Wright](https://www.notarydepot.com/swright)
@@ -8102,4 +8104,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-20T22:14:03Z
+Updated at 2019-03-20T22:34:03Z
