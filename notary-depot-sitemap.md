@@ -3910,6 +3910,7 @@
   - [Notary Public in Santa Ynez, CA: Steve Druian](https://www.notarydepot.com/georiter)
   - [Notary Public in Clackamas, OR: Geraldine Rismoen](https://www.notarydepot.com/geraldinerismoen)
   - [Notary Public in Littleton, CO: Geraldine Roble](https://www.notarydepot.com/geraldineroble)
+  - [Notary Public in Miami, FL: gerardine pierre](https://www.notarydepot.com/gerardine12)
   - [Notary Public in Dallas, TX: Gevona Lee](https://www.notarydepot.com/gevonal)
   - [Notary Public in Aurora, CO: Gail A. Edwards](https://www.notarydepot.com/gfacini)
   - [Notary Public in West Caldwell, NJ: Gina Fazzini](https://www.notarydepot.com/gfazzini)
@@ -8099,4 +8100,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-20T14:34:02Z
+Updated at 2019-03-20T14:54:02Z
