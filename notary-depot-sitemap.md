@@ -4254,6 +4254,7 @@
   - [Notary Public in Palmdale, CA: Javanna Palm](https://www.notarydepot.com/javanna79)
   - [Notary Public in Palmdale, CA: Javanna Palm](https://www.notarydepot.com/javannap)
   - [Notary Public in Hemet, CA: Cheryl Lee Handavaka](https://www.notarydepot.com/javen_ca)
+  - [Notary Public in Palm Beach Gardens, FL: Jamie Avoletta](https://www.notarydepot.com/javoletta)
   - [Notary Public in Columbia, MO: Mostafa Jawadi Ph.D.](https://www.notarydepot.com/jawadi)
   - [Notary Public in Garland, TX: Walters Notary Agency](https://www.notarydepot.com/jawalters)
   - [Notary Public in Fuquay Varina, NC: Nakia Jackson](https://www.notarydepot.com/jaxnnotary)
@@ -8098,4 +8099,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-20T00:54:02Z
+Updated at 2019-03-20T01:14:02Z
