@@ -3714,6 +3714,7 @@
   - [Notary Public in San Clemente, CA: Emily Lisa Martinez](https://www.notarydepot.com/emma02boo)
   - [Notary Public in Sheboygan, WI: Exact Mobile Notaries - Dianne Tripoli](https://www.notarydepot.com/emndianne)
   - [Notary Public in Middletown, NY: Emily Pacella](https://www.notarydepot.com/emsybell)
+  - [Notary Public in Bessemer, AL: Falecia Goldsby](https://www.notarydepot.com/enbs)
   - [Notary Public in Riverside, CA: Dora Lopez](https://www.notarydepot.com/enci92)
   - [Notary Public in Los Angeles, CA: Enjoli Cormier](https://www.notarydepot.com/enjoli)
   - [Notary Public in Boca Raton, FL: Uri Yudewitz](https://www.notarydepot.com/enotarypro)
@@ -3954,7 +3955,6 @@
   - [Notary Public in Deerfield Beach, FL: Gloriaivette Melendez](https://www.notarydepot.com/gmelendez)
   - [Notary Public in Marcus Hook, PA: Gerald M Geimer](https://www.notarydepot.com/gmgeimer)
   - [Notary Public in Seattle, WA: Gabriel McTigue](https://www.notarydepot.com/gmnotary)
-  - [Notary Public in Bessemer, AL: Falecia Goldsby](https://www.notarydepot.com/gmns)
   - [Notary Public in Sarasota, FL: Yolanda Gaines](https://www.notarydepot.com/gmobilenotary)
   - [Notary Public in Pittsburgh, PA: Bonnie J. Bokor](https://www.notarydepot.com/goalhinj)
   - [Notary Public in Baltimore, MD: Darlene M Glover-Sommers](https://www.notarydepot.com/godschild)
@@ -8104,4 +8104,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-21T17:54:02Z
+Updated at 2019-03-21T18:14:02Z
