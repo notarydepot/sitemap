@@ -2676,6 +2676,7 @@
   - [Notary Public in Jacksonville, AR: Sherry A. Stevenson](https://www.notarydepot.com/babyblue69)
   - [Notary Public in Tucson, AZ: Michelle Wences](https://www.notarydepot.com/babyjake07)
   - [Notary Public in Horseheads, NY: Margaret McDermott](https://www.notarydepot.com/baccilep)
+  - [Notary Public in San Diego, CA: Ahmed Bader](https://www.notarydepot.com/badera687)
   - [Notary Public in Porterville, CA: Marlo Badillo](https://www.notarydepot.com/badillomarlo)
   - [Notary Public in Manchester Township, NJ: William Baglieri Jr.](https://www.notarydepot.com/baglieri)
   - [Notary Public in Knoxville, TN: Shari Hays](https://www.notarydepot.com/bahshari)
@@ -8104,4 +8105,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-22T23:34:02Z
+Updated at 2019-03-22T23:54:02Z
