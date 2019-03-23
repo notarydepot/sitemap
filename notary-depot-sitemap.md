@@ -3856,6 +3856,7 @@
   - [Notary Public in Canton, GA: Milton Nolen](https://www.notarydepot.com/freshvision)
   - [Notary Public in Clearwater, FL: Robert Charles](https://www.notarydepot.com/fritz8)
   - [Notary Public in Fort Lauderdale, FL: Kenya Frost](https://www.notarydepot.com/frostkenya)
+  - [Notary Public in North Little Rock, AR: Amon](https://www.notarydepot.com/frostymay23)
   - [Notary Public in Woodbridge, VA: Frederick Shaw](https://www.notarydepot.com/fshaw)
   - [Notary Public in Rahway, NJ: Francine Smith](https://www.notarydepot.com/fsmith)
   - [Notary Public in Spring Hill, FL: Patricia B. Herpy](https://www.notarydepot.com/fsmmobileclosers)
@@ -8105,4 +8106,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-23T01:14:02Z
+Updated at 2019-03-23T01:34:02Z
