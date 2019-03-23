@@ -4586,6 +4586,7 @@
   - [Notary Public in Redwood City, CA: Julie Daciuk](https://www.notarydepot.com/juliednotary)
   - [Notary Public in Salt Lake City, UT: Julie Harward](https://www.notarydepot.com/julieharward)
   - [Notary Public in Perris, CA: Julie Jones](https://www.notarydepot.com/juliej)
+  - [Notary Public in Los Angeles, CA: Julie Rice](https://www.notarydepot.com/julierice)
   - [Notary Public in Spring Valley, CA: Julie Salvato](https://www.notarydepot.com/juliesalvato)
   - [Notary Public in Conyers, GA: Julie S Strane](https://www.notarydepot.com/juliestrane)
   - [Notary Public in Los Angeles, CA: Eric Andrist](https://www.notarydepot.com/july1962)
@@ -8106,4 +8107,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-23T02:34:02Z
+Updated at 2019-03-23T02:54:03Z
