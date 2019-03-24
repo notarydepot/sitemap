@@ -6958,6 +6958,7 @@
   - [Notary Public in CA: Tabitha Martin](https://www.notarydepot.com/tabithamartin)
   - [Notary Public in Orlando, FL: Teresa A. Burrell](https://www.notarydepot.com/taburrell)
   - [Notary Public in Wichita Falls, TX: Michael Dowd](https://www.notarydepot.com/tacs411)
+  - [Notary Public in Atlanta, GA: Tajuansar ](https://www.notarydepot.com/tajdiallo)
   - [Notary Public in New York, NY: Taliah Karim](https://www.notarydepot.com/taliah)
   - [Notary Public in Los Angeles, CA: Talmadge Haven](https://www.notarydepot.com/talmadge)
   - [Notary Public in NY: Tamara Bourdeau](https://www.notarydepot.com/tamarabourdeau)
@@ -8110,4 +8111,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-24T15:14:02Z
+Updated at 2019-03-24T15:34:02Z
