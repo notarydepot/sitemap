@@ -1840,6 +1840,7 @@
     - [Notary Public in Irmo, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Irmo)
     - [Notary Public in Johnston, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Johnston)
     - [Notary Public in Ladson, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Ladson)
+    - [Notary Public in Landrum, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Landrum)
     - [Notary Public in Lexington, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Lexington)
     - [Notary Public in Mayesville, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Mayesville)
     - [Notary Public in Moncks Corner, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Moncks-Corner)
@@ -6569,7 +6570,7 @@
   - [Notary Public in Sarasota, FL: Michelle Schwartz](https://www.notarydepot.com/schwartz1611)
   - [Notary Public in Cincinnati, OH: Robert M. Schwartz](https://www.notarydepot.com/schwartz42)
   - [Notary Public in Rock Hill, SC: April Michelle Helms ](https://www.notarydepot.com/scmnservices)
-  - [Notary Public in Conyers, GA: Chase Mason](https://www.notarydepot.com/scnotarychase)
+  - [Notary Public in Landrum, SC: Chase Mason](https://www.notarydepot.com/scnotarychase)
   - [Notary Public in Chicago, IL: Sophia Ojukwu](https://www.notarydepot.com/scojukwu)
   - [Notary Public in Palmdale, CA: Sandra A. Conde](https://www.notarydepot.com/sconde)
   - [Notary Public in Bradenton, FL: Scott Lindsay](https://www.notarydepot.com/scotlind12)
@@ -8109,4 +8110,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-24T05:34:03Z
+Updated at 2019-03-24T05:54:02Z
