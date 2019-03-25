@@ -5331,6 +5331,7 @@
   - [Notary Public in Bristol, VA: Walter H Schilling Jr.](https://www.notarydepot.com/meatman21)
   - [Notary Public in Glendale, AZ: Mechelle Tucker](https://www.notarydepot.com/mechelle)
   - [Notary Public in Glendale, AZ: Mechelle](https://www.notarydepot.com/mechelle1st)
+  - [Notary Public in Santa Clara, CA: Meenakshi Certified Signing Agent    ](https://www.notarydepot.com/meenakshicertifiedloansigning)
   - [Notary Public in Fresno, CA: Jamie Davis](https://www.notarydepot.com/megan1)
   - [Notary Public in Fort Worth, TX: megan Fields](https://www.notarydepot.com/megan23247)
   - [Notary Public in Irvine, CA: Megan Day](https://www.notarydepot.com/meganday)
@@ -8111,4 +8112,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-25T04:34:02Z
+Updated at 2019-03-25T04:54:02Z
