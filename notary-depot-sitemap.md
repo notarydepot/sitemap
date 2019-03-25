@@ -4954,6 +4954,7 @@
   - [Notary Public in Fargo, ND: Lana Feeley](https://www.notarydepot.com/lduffey)
   - [Notary Public in New York, NY: Leah Woods](https://www.notarydepot.com/leah3036)
   - [Notary Public in Collinsville, MS: Leandra C. Marable](https://www.notarydepot.com/leandra)
+  - [Notary Public in Tulsa, OK: Rebeka L Smith](https://www.notarydepot.com/leannsmith)
   - [Notary Public in Hillside, NJ: Lemard](https://www.notarydepot.com/leclarke)
   - [Notary Public in Philadelphia, PA: Laurithia Edlow](https://www.notarydepot.com/ledlow)
   - [Notary Public in Glendora, CA: Vera Green](https://www.notarydepot.com/leegreen10)
@@ -8112,4 +8113,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-25T12:54:03Z
+Updated at 2019-03-25T13:14:03Z
