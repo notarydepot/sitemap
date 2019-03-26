@@ -1831,6 +1831,7 @@
     - [Notary Public in Beaufort, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Beaufort)
     - [Notary Public in Bluffton, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Bluffton)
     - [Notary Public in Charleston, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Charleston)
+    - [Notary Public in Clover, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Clover)
     - [Notary Public in Columbia, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Columbia)
     - [Notary Public in Fort Mill, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Fort-Mill)
     - [Notary Public in Gaston, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Gaston)
@@ -6608,6 +6609,7 @@
   - [Notary Public in Nashville, TN: Servicio Internacional](https://www.notarydepot.com/serviciointl)
   - [Notary Public in Fontana, CA: Sandra E. Schickel](https://www.notarydepot.com/ses)
   - [Notary Public in Pasadena, CA: Robert P. Wheaton](https://www.notarydepot.com/sevendaynotary)
+  - [Notary Public in Clover, SC: Cedric D.Seymour](https://www.notarydepot.com/seymournotary)
   - [Notary Public in Liberty Hill, TX: Busy Bee Notary](https://www.notarydepot.com/sfnaus12)
   - [Notary Public in Alexandria, VA: Susan F. Solomon](https://www.notarydepot.com/sfsolomon)
   - [Notary Public in NC: Sherri Gabel](https://www.notarydepot.com/sgabel)
@@ -8115,4 +8117,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-26T17:54:02Z
+Updated at 2019-03-26T18:14:02Z
