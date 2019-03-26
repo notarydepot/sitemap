@@ -3202,6 +3202,7 @@
   - [Notary Public in Deltona, FL: Cynthia Sullivan](https://www.notarydepot.com/cosullivan)
   - [Notary Public in Yuba City, CA: Kandi Murray](https://www.notarydepot.com/countrysidemobile)
   - [Notary Public in Voorhees Township, NJ: Patricia Covington](https://www.notarydepot.com/covingtono)
+  - [Notary Public in Bristow, VA: Connie Cowthran](https://www.notarydepot.com/cowthran55)
   - [Notary Public in Corona, CA: Celeste Pafford](https://www.notarydepot.com/cpafford)
   - [Notary Public in Kansas City, MO: Charlene R Payne](https://www.notarydepot.com/cpayne816)
   - [Notary Public in Livingston, CA: Christine P. Dunham](https://www.notarydepot.com/cpdmobilenotary)
@@ -8113,4 +8114,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-26T11:54:02Z
+Updated at 2019-03-26T12:14:02Z
