@@ -7313,7 +7313,7 @@
   - [Notary Public in Middletown, NJ: Hudson&#39;s Notary Service](https://www.notarydepot.com/vhudson)
   - [Notary Public in NY: Vicki Brathwaite](https://www.notarydepot.com/vicbrath87)
   - [Notary Public in Douglasville, GA: Vicki Acker](https://www.notarydepot.com/vickack)
-  - [Notary Public in Los Angeles, CA: Victoria Blackwood](https://www.notarydepot.com/vickie)
+  - [Notary Public in Thousand Oaks, CA: Victoria Blackwood](https://www.notarydepot.com/vickie)
   - [Notary Public in San Diego, CA: Vicki Sedano](https://www.notarydepot.com/vickonian)
   - [Notary Public in Cleburne, TX: Vickie Tidwell](https://www.notarydepot.com/vicktidwell)
   - [Notary Public in Boston, MA: Victor Bishop](https://www.notarydepot.com/victorgbishop)
@@ -8118,4 +8118,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-26T23:34:02Z
+Updated at 2019-03-26T23:54:02Z
