@@ -1588,6 +1588,7 @@
     - [Notary Public in Wilmington, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Wilmington)
     - [Notary Public in Winston Salem, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Winston-Salem)
     - [Notary Public in Winterville, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Winterville)
+    - [Notary Public in Winton, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Winton)
   - [Notaries Public in North Dakota](https://www.notarydepot.com/notary-near-me/North-Dakota)
     - [Notary Public in Bismarck, ND](https://www.notarydepot.com/notary-near-me/North-Dakota/Bismarck)
     - [Notary Public in Fargo, ND](https://www.notarydepot.com/notary-near-me/North-Dakota/Fargo)
@@ -3448,6 +3449,7 @@
   - [Notary Public in Matawan, NJ: David Fuhrman](https://www.notarydepot.com/dfuhrman)
   - [Notary Public in Spring Hill, FL: Debra Gabriel](https://www.notarydepot.com/dgabriel)
   - [Notary Public in Orange, CA: Donna Garrett](https://www.notarydepot.com/dgarrett)
+  - [Notary Public in Winton, NC: Deborah S. Gatling](https://www.notarydepot.com/dgatling)
   - [Notary Public in Americus, GA: Dale Caldwell](https://www.notarydepot.com/dgcaldwell10)
   - [Notary Public in Tyler, TX: Deborah Genoway](https://www.notarydepot.com/dgenoway)
   - [Notary Public in CA: Dianna Gonzalez](https://www.notarydepot.com/dgfirstclassnotary)
@@ -8114,4 +8116,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-26T12:54:02Z
+Updated at 2019-03-26T13:14:02Z
