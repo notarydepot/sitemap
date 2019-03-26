@@ -7206,7 +7206,6 @@
   - [Notary Public in Philadelphia, PA: Tanya Solomon](https://www.notarydepot.com/tsolomon2020)
   - [Notary Public in Hooksett, NH: Sue Parnell](https://www.notarydepot.com/tsparnell)
   - [Notary Public in Denton, TX: Todd Spigener](https://www.notarydepot.com/tspigener)
-  - [Notary Public in Haltom City, TX: Tony Strubberg](https://www.notarydepot.com/tstrub01)
   - [Notary Public in Bellflower, CA: Tugoa Maria Towles](https://www.notarydepot.com/ttowles)
   - [Notary Public in Eugene, OR: Tuana Schirmer](https://www.notarydepot.com/tuanaschirmer)
   - [Notary Public in Hamilton, OH: Tuesday A. Brehm](https://www.notarydepot.com/tuesdayb)
@@ -8116,4 +8115,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-26T16:54:01Z
+Updated at 2019-03-26T17:14:03Z
