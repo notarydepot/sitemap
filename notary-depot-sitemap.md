@@ -6834,6 +6834,7 @@
   - [Notary Public in Springfield, MO: notary public](https://www.notarydepot.com/springfieldmissourimobilenotarypublic)
   - [Notary Public in West Springfield, VA: Dominion Springfield Mobile Notary](https://www.notarydepot.com/springfieldmobilenotary)
   - [Notary Public in Cecil, WI: Ron Friedl](https://www.notarydepot.com/spursboss1)
+  - [Notary Public in Pearland, TX: Cuong Le](https://www.notarydepot.com/squaresignings)
   - [Notary Public in Parksley, VA: Sheryl Foley](https://www.notarydepot.com/squirrellee01)
   - [Notary Public in Pea Ridge, AR: Sherri L. Ragland](https://www.notarydepot.com/sragland)
   - [Notary Public in Rockland, MA: Shannan Lee Reis, Esq.](https://www.notarydepot.com/sreis25)
@@ -8117,4 +8118,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-26T20:14:02Z
+Updated at 2019-03-26T20:34:02Z
