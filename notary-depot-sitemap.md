@@ -6440,6 +6440,7 @@
   - [Notary Public in Statesville, NC: Barbara Rosenkranz](https://www.notarydepot.com/rosiebaby)
   - [Notary Public in Everett, WA: Anna M. Lawton](https://www.notarydepot.com/rovingnotary)
   - [Notary Public in Englewood, FL: Jason R Yates](https://www.notarydepot.com/rowdeyy)
+  - [Notary Public in Roxbury Township, NJ: Anne Rich](https://www.notarydepot.com/roxburynotary)
   - [Notary Public in Dallas, TX: Roxanne Hollingsworth](https://www.notarydepot.com/roxienotary)
   - [Notary Public in Bethany, MO: Roxann Rickey](https://www.notarydepot.com/roxierickey)
   - [Notary Public in Calumet City, IL: Renee A Washington](https://www.notarydepot.com/roxy101)
@@ -8123,4 +8124,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-27T16:54:02Z
+Updated at 2019-03-27T17:14:02Z
