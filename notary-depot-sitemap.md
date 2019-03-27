@@ -7099,6 +7099,7 @@
   - [Notary Public in Andover, MA: Tina Enrico](https://www.notarydepot.com/tinaenrico1)
   - [Notary Public in Los Angeles, CA: Tina L Gaines](https://www.notarydepot.com/tinalgaines)
   - [Notary Public in Oakland, CA: Tina Phillips](https://www.notarydepot.com/tinanotary)
+  - [Notary Public in Matthews, NC: Tina Witt](https://www.notarydepot.com/tinawittsa)
   - [Notary Public in Folsom, CA: Christina Koepke](https://www.notarydepot.com/tinerb)
   - [Notary Public in Washington, DC: Traci Long Morris-NNA Certified/Background Screened](https://www.notarydepot.com/tinka2)
   - [Notary Public in NJ: Deborah A. Sterling](https://www.notarydepot.com/tioga74)
@@ -8119,4 +8120,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-27T01:54:02Z
+Updated at 2019-03-27T02:14:02Z
