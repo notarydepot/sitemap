@@ -1051,6 +1051,7 @@
     - [Notary Public in Hagerstown, MD](https://www.notarydepot.com/notary-near-me/Maryland/Hagerstown)
     - [Notary Public in Huntingtown, MD](https://www.notarydepot.com/notary-near-me/Maryland/Huntingtown)
     - [Notary Public in Hyattsville, MD](https://www.notarydepot.com/notary-near-me/Maryland/Hyattsville)
+    - [Notary Public in Marlow Heights, MD](https://www.notarydepot.com/notary-near-me/Maryland/Marlow-Heights)
     - [Notary Public in North East, MD](https://www.notarydepot.com/notary-near-me/Maryland/North-East)
     - [Notary Public in Nottingham, MD](https://www.notarydepot.com/notary-near-me/Maryland/Nottingham)
     - [Notary Public in Ocean City, MD](https://www.notarydepot.com/notary-near-me/Maryland/Ocean-City)
@@ -4914,6 +4915,7 @@
   - [Notary Public in West Memphis, AR: Donitrie Sanders Sr](https://www.notarydepot.com/lastsecond72303)
   - [Notary Public in Las Vegas, NV: Terri](https://www.notarydepot.com/lasvegasnotary)
   - [Notary Public in Columbia, SC: latascha](https://www.notarydepot.com/lataschamclauchlingmailcom)
+  - [Notary Public in Marlow Heights, MD: Latashia](https://www.notarydepot.com/latashia)
   - [Notary Public in Charlotte, NC: Francisco Salazar](https://www.notarydepot.com/latinsigner)
   - [Notary Public in Addison, TX: LaToya Smith](https://www.notarydepot.com/latoyasmith1985)
   - [Notary Public in Norcross, GA: LaToya Butler](https://www.notarydepot.com/latoyawbutler)
@@ -8120,4 +8122,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-27T14:14:02Z
+Updated at 2019-03-27T14:34:02Z
