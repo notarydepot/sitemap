@@ -386,7 +386,6 @@
     - [Notary Public in Roseville, CA](https://www.notarydepot.com/notary-near-me/California/Roseville)
     - [Notary Public in Rowland Heights, CA](https://www.notarydepot.com/notary-near-me/California/Rowland-Heights)
     - [Notary Public in Sacramento, CA](https://www.notarydepot.com/notary-near-me/California/Sacramento)
-    - [Notary Public in Salida, CA](https://www.notarydepot.com/notary-near-me/California/Salida)
     - [Notary Public in Salinas, CA](https://www.notarydepot.com/notary-near-me/California/Salinas)
     - [Notary Public in San Anselmo, CA](https://www.notarydepot.com/notary-near-me/California/San-Anselmo)
     - [Notary Public in San Bernardino, CA](https://www.notarydepot.com/notary-near-me/California/San-Bernardino)
@@ -7083,7 +7082,6 @@
   - [Notary Public in Richmond, VA: Tracey V. Hinkle](https://www.notarydepot.com/thinkle)
   - [Notary Public in Fort Knox, KY: Heather Dougherty](https://www.notarydepot.com/thkc4)
   - [Notary Public in Temecula, CA: Theresa H. Minder](https://www.notarydepot.com/thm0759)
-  - [Notary Public in Salida, CA: Thom Barner](https://www.notarydepot.com/thombarner)
   - [Notary Public in Clarendon, NC: Angela Thompson](https://www.notarydepot.com/thopson7285)
   - [Notary Public in Roxboro, NC: Tiffany Yarboro](https://www.notarydepot.com/threewingedfury)
   - [Notary Public in Philadelphia, PA: Shirley Thrower](https://www.notarydepot.com/throwers)
@@ -8126,4 +8124,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-28T05:34:02Z
+Updated at 2019-03-28T05:54:02Z
