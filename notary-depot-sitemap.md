@@ -590,7 +590,6 @@
     - [Notary Public in Delray Beach, FL](https://www.notarydepot.com/notary-near-me/Florida/Delray-Beach)
     - [Notary Public in Deltona, FL](https://www.notarydepot.com/notary-near-me/Florida/Deltona)
     - [Notary Public in Dover, FL](https://www.notarydepot.com/notary-near-me/Florida/Dover)
-    - [Notary Public in Dunnellon, FL](https://www.notarydepot.com/notary-near-me/Florida/Dunnellon)
     - [Notary Public in Ellenton, FL](https://www.notarydepot.com/notary-near-me/Florida/Ellenton)
     - [Notary Public in Englewood, FL](https://www.notarydepot.com/notary-near-me/Florida/Englewood)
     - [Notary Public in Eustis, FL](https://www.notarydepot.com/notary-near-me/Florida/Eustis)
@@ -2339,7 +2338,6 @@
   - [Notary Public in Rockville, MD: Anna Behnam](https://www.notarydepot.com/abehnam)
   - [Notary Public in Linden, CA: Anna Bell](https://www.notarydepot.com/abell)
   - [Notary Public in Abilene, TX: Bob Herndon](https://www.notarydepot.com/abibob)
-  - [Notary Public in Dunnellon, FL: Betty B. Douglas](https://www.notarydepot.com/abigail)
   - [Notary Public in Phoenix, AZ: Abigail A Petty-Kuntz](https://www.notarydepot.com/abigailpetty)
   - [Notary Public in Charlotte, NC: Tangie M. Able](https://www.notarydepot.com/ablenotary)
   - [Notary Public in La Mirada, CA: Amber L Bailey](https://www.notarydepot.com/ablmobilenotary)
@@ -6241,9 +6239,6 @@
   - [Notary Public in Wallingford, CT: Richard Claxton](https://www.notarydepot.com/raclaxton1)
   - [Notary Public in Grand Prairie, TX: Rachael Howell](https://www.notarydepot.com/raehowell)
   - [Notary Public in Miami, FL: Ashley Ragin](https://www.notarydepot.com/ragin84)
-  - [Notary Public in Dunnellon, FL: Leon C. Douglas](https://www.notarydepot.com/railroads)
-  - [Notary Public in Dunnellon, FL: Leon C. Douglas](https://www.notarydepot.com/railroads1953)
-  - [Notary Public in Dunnellon, FL: Leon C. Douglas](https://www.notarydepot.com/railroads53)
   - [Notary Public in Fort Lauderdale, FL: T. Viena](https://www.notarydepot.com/rainbow1300)
   - [Notary Public in Las Vegas, NV: Reza S. Akhavan](https://www.notarydepot.com/rakhavan)
   - [Notary Public in Windsor charter Township, MI: Ronnie Albert](https://www.notarydepot.com/ralbert)
@@ -8126,4 +8121,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-29T04:54:02Z
+Updated at 2019-03-29T05:14:02Z
