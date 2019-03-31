@@ -189,6 +189,7 @@
     - [Notary Public in Chester, CA](https://www.notarydepot.com/notary-near-me/California/Chester)
     - [Notary Public in Chino, CA](https://www.notarydepot.com/notary-near-me/California/Chino)
     - [Notary Public in Chino Hills, CA](https://www.notarydepot.com/notary-near-me/California/Chino-Hills)
+    - [Notary Public in Chowchilla, CA](https://www.notarydepot.com/notary-near-me/California/Chowchilla)
     - [Notary Public in Chula Vista, CA](https://www.notarydepot.com/notary-near-me/California/Chula-Vista)
     - [Notary Public in Citrus Heights, CA](https://www.notarydepot.com/notary-near-me/California/Citrus-Heights)
     - [Notary Public in Claremont, CA](https://www.notarydepot.com/notary-near-me/California/Claremont)
@@ -2551,6 +2552,7 @@
   - [Notary Public in New Braunfels, TX: Anita Roehr](https://www.notarydepot.com/anita)
   - [Notary Public in Siloam Springs, AR: Anita Lingerfelt](https://www.notarydepot.com/anita47f)
   - [Notary Public in Spring, TX: Anita Posluszny](https://www.notarydepot.com/anitaama)
+  - [Notary Public in Chowchilla, CA: Anita R Diedrich ](https://www.notarydepot.com/anitadiedrich123)
   - [Notary Public in Holiday, FL: Anita Caron-Kenly](https://www.notarydepot.com/anitanotary)
   - [Notary Public in Spring, TX: Anita Posluszny](https://www.notarydepot.com/anitapos)
   - [Notary Public in Glen Gardner, NJ: Jennifer L. Rispoli](https://www.notarydepot.com/anj503)
@@ -8121,4 +8123,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-30T23:54:03Z
+Updated at 2019-03-31T00:14:02Z
