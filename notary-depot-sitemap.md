@@ -3970,6 +3970,7 @@
   - [Notary Public in Baltimore, MD: Darlene M Glover-Sommers](https://www.notarydepot.com/godschild)
   - [Notary Public in Fremont, CA: S Gokalgandhi](https://www.notarydepot.com/gokalgandhi)
   - [Notary Public in NY: Dmitriy Pagul](https://www.notarydepot.com/goldenapplerealty)
+  - [Notary Public in Lafayette, IN: KaSheena Wilbur](https://www.notarydepot.com/goldlinenotary)
   - [Notary Public in Morganton, NC: Cassie Caldwell](https://www.notarydepot.com/golfergal)
   - [Notary Public in Compton, CA: Rosalba Gonzalez](https://www.notarydepot.com/gonzaleznotary)
   - [Notary Public in Lebanon, OR: Laura J Goodwin](https://www.notarydepot.com/goodwinlj)
@@ -8123,4 +8124,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-31T02:14:02Z
+Updated at 2019-03-31T02:34:02Z
