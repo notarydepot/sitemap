@@ -286,6 +286,7 @@
     - [Notary Public in Laguna Niguel, CA](https://www.notarydepot.com/notary-near-me/California/Laguna-Niguel)
     - [Notary Public in Lake Elsinore, CA](https://www.notarydepot.com/notary-near-me/California/Lake-Elsinore)
     - [Notary Public in Lake Forest, CA](https://www.notarydepot.com/notary-near-me/California/Lake-Forest)
+    - [Notary Public in Lakeside, CA](https://www.notarydepot.com/notary-near-me/California/Lakeside)
     - [Notary Public in Lakewood, CA](https://www.notarydepot.com/notary-near-me/California/Lakewood)
     - [Notary Public in Lancaster, CA](https://www.notarydepot.com/notary-near-me/California/Lancaster)
     - [Notary Public in Lathrop, CA](https://www.notarydepot.com/notary-near-me/California/Lathrop)
@@ -6237,6 +6238,7 @@
   - [Notary Public in Jacksonville, FL: Roy A. Anderson](https://www.notarydepot.com/ra1222)
   - [Notary Public in Stillwater, MN: Rachael Harvey](https://www.notarydepot.com/rachael1952)
   - [Notary Public in Bristow, VA: Rachael Bacon](https://www.notarydepot.com/rachaelbacon)
+  - [Notary Public in Lakeside, CA: Rachel](https://www.notarydepot.com/rachelnotary)
   - [Notary Public in Palmdale, CA: Rachel Pena](https://www.notarydepot.com/rachelpena)
   - [Notary Public in Avondale, AZ: Rachel Cruz](https://www.notarydepot.com/rachelstellarnotaryandloansigningcom)
   - [Notary Public in Wallingford, CT: Richard Claxton](https://www.notarydepot.com/raclaxton1)
@@ -8124,4 +8126,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-31T03:34:02Z
+Updated at 2019-03-31T03:54:02Z
