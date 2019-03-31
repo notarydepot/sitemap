@@ -6843,6 +6843,7 @@
   - [Notary Public in Pearland, TX: Cuong Le](https://www.notarydepot.com/squaresignings)
   - [Notary Public in Parksley, VA: Sheryl Foley](https://www.notarydepot.com/squirrellee01)
   - [Notary Public in Pea Ridge, AR: Sherri L. Ragland](https://www.notarydepot.com/sragland)
+  - [Notary Public in San Antonio, TX: Sharon Bass](https://www.notarydepot.com/srbass)
   - [Notary Public in Rockland, MA: Shannan Lee Reis, Esq.](https://www.notarydepot.com/sreis25)
   - [Notary Public in Tampa, FL: Srikala Ravindran](https://www.notarydepot.com/srikala30)
   - [Notary Public in Victorville, CA: Sonia Rivera](https://www.notarydepot.com/srivera)
@@ -8126,4 +8127,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-03-31T22:34:03Z
+Updated at 2019-03-31T22:54:03Z
