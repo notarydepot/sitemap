@@ -6779,6 +6779,7 @@
   - [Notary Public in Rancho Cucamonga, CA: Mary Huerta](https://www.notarydepot.com/slinky)
   - [Notary Public in Fairbanks, AK: Sandra L. Kreider](https://www.notarydepot.com/slkreider)
   - [Notary Public in Sycamore, IL: Sandra McMiller](https://www.notarydepot.com/slmcmiller)
+  - [Notary Public in Reno, NV: Suzanne Neeley](https://www.notarydepot.com/sln2019)
   - [Notary Public in Portland, OR: Sloan Patterson](https://www.notarydepot.com/sloan88)
   - [Notary Public in San Luis Obispo, CA: Holly Campuzano](https://www.notarydepot.com/slonotary)
   - [Notary Public in Saucier, MS: Shasta Wood](https://www.notarydepot.com/slwood3)
@@ -8129,4 +8130,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-04-02T14:34:02Z
+Updated at 2019-04-02T14:54:02Z
