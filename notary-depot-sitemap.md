@@ -3782,7 +3782,7 @@
   - [Notary Public in Corpus Christi, TX: Juanita Maria Lamas](https://www.notarydepot.com/ezclosing)
   - [Notary Public in La Grange, KY: Eziamara Oguibe-Shepherd](https://www.notarydepot.com/eziinotary)
   - [Notary Public in West Covina, CA: Richard Lee](https://www.notarydepot.com/eznotaryla)
-  - [Notary Public in Fresno, CA: Esmeralda Pumarejo](https://www.notarydepot.com/ezzie)
+  - [Notary Public in Clovis, CA: Esmeralda Pumarejo](https://www.notarydepot.com/ezzie)
   - [Notary Public in White Plains, NY: Tiffany Choice](https://www.notarydepot.com/fairechoice)
   - [Notary Public in Ellenwood, GA: Shemi Smith](https://www.notarydepot.com/faithfulstar06)
   - [Notary Public in Riverview, FL: Falicia Lisa Newsome](https://www.notarydepot.com/falicia)
@@ -8130,4 +8130,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-04-02T16:14:02Z
+Updated at 2019-04-02T16:34:02Z
