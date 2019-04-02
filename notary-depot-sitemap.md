@@ -2290,6 +2290,7 @@
   - [Notary Public in Mayesville, SC: Selena Ruth Smith](https://www.notarydepot.com/1718)
   - [Notary Public in CA: Carmina Alvarez](https://www.notarydepot.com/1carmina)
   - [Notary Public in Washington, DC: Corie Bryant](https://www.notarydepot.com/1enterprise)
+  - [Notary Public in Highland, CA: Mereh Boghos ](https://www.notarydepot.com/1mereh)
   - [Notary Public in Chicago, IL: BERNICE L CHARLES](https://www.notarydepot.com/1notary2notary)
   - [Notary Public in Applegate, CA: Terry Scott](https://www.notarydepot.com/1speedynotary)
   - [Notary Public in Hanford, CA: Hope Hernandez](https://www.notarydepot.com/2443hope)
@@ -8130,4 +8131,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-04-02T18:54:02Z
+Updated at 2019-04-02T19:14:02Z
