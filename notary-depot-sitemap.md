@@ -4591,7 +4591,6 @@
   - [Notary Public in Antelope, CA: Judy Long](https://www.notarydepot.com/judylong)
   - [Notary Public in New Port Richey, FL: Judy Powell](https://www.notarydepot.com/judymail1234)
   - [Notary Public in San Diego, CA: Judy McIlroy](https://www.notarydepot.com/judymc)
-  - [Notary Public in Summerville, SC: Judy Benton](https://www.notarydepot.com/judytrotter)
   - [Notary Public in Reidsville, GA: Judy Teston](https://www.notarydepot.com/jujubilee)
   - [Notary Public in Union City, CA: Julie Arnold](https://www.notarydepot.com/jules01)
   - [Notary Public in Garland, TX: Jules Lasater](https://www.notarydepot.com/jules88notary)
@@ -8132,4 +8131,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-04-03T03:54:02Z
+Updated at 2019-04-03T04:14:02Z
