@@ -4284,6 +4284,7 @@
   - [Notary Public in Middletown, IN: Jayson M. Reist](https://www.notarydepot.com/jayson)
   - [Notary Public in New Britain, CT: Jazmin Flecha Ouellette](https://www.notarydepot.com/jaz)
   - [Notary Public in Corpus Christi, TX: Julie A. Zepeda](https://www.notarydepot.com/jazepeda)
+  - [Notary Public in NJ: Jazmine Chung](https://www.notarydepot.com/jazminechung)
   - [Notary Public in Buffalo Grove, IL: Josh Baim](https://www.notarydepot.com/jbaimnotary)
   - [Notary Public in Snohomish, WA: Julie A. Barrans](https://www.notarydepot.com/jbarrans)
   - [Notary Public in Arkadelphia, AR: Johnnie Dunn](https://www.notarydepot.com/jbdunn1)
@@ -8131,4 +8132,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-04-03T02:34:01Z
+Updated at 2019-04-03T02:54:02Z
