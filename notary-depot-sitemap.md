@@ -4511,6 +4511,7 @@
   - [Notary Public in Independence, MO: John Strapac](https://www.notarydepot.com/johnstrapac)
   - [Notary Public in San Francisco, CA: John Wong](https://www.notarydepot.com/johnwong)
   - [Notary Public in Fresno, CA: John Yang](https://www.notarydepot.com/johnyangmobilenotary)
+  - [Notary Public in Sacramento, CA: John Thao](https://www.notarydepot.com/johnzthao)
   - [Notary Public in St. Louis, MO: Jo A. Howard](https://www.notarydepot.com/johoward)
   - [Notary Public in La Crescent, MN: Jolene Lien](https://www.notarydepot.com/jojolien709)
   - [Notary Public in Minneapolis, MN: Jrn](https://www.notarydepot.com/jojorere)
@@ -8131,4 +8132,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-04-03T17:54:02Z
+Updated at 2019-04-03T18:14:03Z
