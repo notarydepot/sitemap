@@ -356,7 +356,6 @@
     - [Notary Public in Perris, CA](https://www.notarydepot.com/notary-near-me/California/Perris)
     - [Notary Public in Petaluma, CA](https://www.notarydepot.com/notary-near-me/California/Petaluma)
     - [Notary Public in Phelan, CA](https://www.notarydepot.com/notary-near-me/California/Phelan)
-    - [Notary Public in Pinon Hills, CA](https://www.notarydepot.com/notary-near-me/California/Pinon-Hills)
     - [Notary Public in Pittsburg, CA](https://www.notarydepot.com/notary-near-me/California/Pittsburg)
     - [Notary Public in Placerville, CA](https://www.notarydepot.com/notary-near-me/California/Placerville)
     - [Notary Public in Pleasanton, CA](https://www.notarydepot.com/notary-near-me/California/Pleasanton)
@@ -4807,7 +4806,6 @@
   - [Notary Public in Story, WY: Karen Loughan](https://www.notarydepot.com/kloughan)
   - [Notary Public in Longview, WA: Katherine Peebles](https://www.notarydepot.com/klpeebles)
   - [Notary Public in Salisbury, NC: Kevin E. McCullough](https://www.notarydepot.com/kmac60)
-  - [Notary Public in Pinon Hills, CA: Kathleen Marie Martin](https://www.notarydepot.com/kmart2343)
   - [Notary Public in Camarillo, CA: Karen Mason](https://www.notarydepot.com/kmason3)
   - [Notary Public in Cocoa, FL: Karen Cooper](https://www.notarydepot.com/kmaureen)
   - [Notary Public in Cocoa, FL: Karen Maureen Couper](https://www.notarydepot.com/kmaureen59)
@@ -8132,4 +8130,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-04-04T20:14:02Z
+Updated at 2019-04-04T20:34:02Z
