@@ -3634,6 +3634,7 @@
   - [Notary Public in Louisville, KY: Mike Hendricksen](https://www.notarydepot.com/dynamark)
   - [Notary Public in Bush, LA: Donna Zoller](https://www.notarydepot.com/dzoller)
   - [Notary Public in Ypsilanti, MI: Eisa Abusida](https://www.notarydepot.com/eabusida)
+  - [Notary Public in Chula Vista, CA: Eva Adolfsson](https://www.notarydepot.com/eadol41)
   - [Notary Public in Florissant, MO: Eric Alan](https://www.notarydepot.com/ealan82)
   - [Notary Public in Pittsburg, CA: Erika Allison](https://www.notarydepot.com/eallison)
   - [Notary Public in American Canyon, CA: Ever Olano](https://www.notarydepot.com/eaolano)
@@ -8130,4 +8131,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-04-09T00:14:03Z
+Updated at 2019-04-09T00:34:02Z
