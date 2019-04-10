@@ -4679,6 +4679,7 @@
   - [Notary Public in Beaumont, CA: Kathryn Reynolds](https://www.notarydepot.com/kathrynbr)
   - [Notary Public in Mahopac, NY: Katharine Pearsall](https://www.notarydepot.com/kathy)
   - [Notary Public in Melbourne, FL: Kathy Krug](https://www.notarydepot.com/kathykk7)
+  - [Notary Public in Beaumont, TX: Katie C Matthews ](https://www.notarydepot.com/katiecmatthewsnotarygmailcom)
   - [Notary Public in Los Angeles, CA: Ekaterina Oganesova](https://www.notarydepot.com/katienotary)
   - [Notary Public in Mission Viejo, CA: Katie Richman](https://www.notarydepot.com/katierichmannotary)
   - [Notary Public in New Castle, DE: Katina Bantum](https://www.notarydepot.com/katina)
@@ -8133,4 +8134,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-04-10T03:14:02Z
+Updated at 2019-04-10T03:34:02Z
