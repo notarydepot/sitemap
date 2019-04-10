@@ -5756,6 +5756,7 @@
   - [Notary Public in Wilmington, NC: Bernice S. Johnson](https://www.notarydepot.com/nicy1004)
   - [Notary Public in Largo, FL: Nidal Ibrahim](https://www.notarydepot.com/nidalibrahim)
   - [Notary Public in Tehachapi, CA: Denise Evans](https://www.notarydepot.com/niesey0716)
+  - [Notary Public in Florissant, MO: Nyandi Ife](https://www.notarydepot.com/nife3013)
   - [Notary Public in Bedford, TX: Nicole C. Spellman](https://www.notarydepot.com/nikki5150)
   - [Notary Public in Norfolk, VA: Kijuana &quot;Nikki&quot; Bratton, CSA](https://www.notarydepot.com/nikkib)
   - [Notary Public in Goose Creek, SC: Renae &quot;Nikki&quot; Gaskins](https://www.notarydepot.com/nikkigaskins)
@@ -8134,4 +8135,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-04-10T16:14:02Z
+Updated at 2019-04-10T16:34:02Z
