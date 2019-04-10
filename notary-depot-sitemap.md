@@ -4253,6 +4253,7 @@
   - [Notary Public in Lehigh Acres, FL: Janet Boffill](https://www.notarydepot.com/janetboffill)
   - [Notary Public in Mount Vernon, OH: Janet Houseberg](https://www.notarydepot.com/janeth)
   - [Notary Public in Rancho Cucamonga, CA: Janet Lynch](https://www.notarydepot.com/janetlynch)
+  - [Notary Public in Lucedale, MS: Janet Pattison](https://www.notarydepot.com/janetpattison)
   - [Notary Public in Cameron, MO: Jan Gordon](https://www.notarydepot.com/jangordon39)
   - [Notary Public in Pomona, CA: Janet Avila](https://www.notarydepot.com/jangris)
   - [Notary Public in Bernalillo, NM: Janice Dudley](https://www.notarydepot.com/janiced111)
@@ -8132,4 +8133,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-04-10T00:34:02Z
+Updated at 2019-04-10T00:54:02Z
