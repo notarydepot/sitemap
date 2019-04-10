@@ -4520,6 +4520,7 @@
   - [Notary Public in Westfield, PA: Jonny L. Young](https://www.notarydepot.com/jonsnotary)
   - [Notary Public in Spotsylvania, VA: John Wonsik](https://www.notarydepot.com/jonwonz)
   - [Notary Public in Jupiter, FL: Gina Knapp](https://www.notarydepot.com/jordan4321)
+  - [Notary Public in Charlotte, NC: Jordan McClish](https://www.notarydepot.com/jordanncsigningservices)
   - [Notary Public in Gainesville, VA: Misstie F. Pollard](https://www.notarydepot.com/jordanwoody)
   - [Notary Public in Elizabethtown, KY: Jennifer Organ](https://www.notarydepot.com/jorgan)
   - [Notary Public in Miami, FL: Jorge Padin](https://www.notarydepot.com/jorgepadinnotary)
@@ -8135,4 +8136,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-04-10T18:54:02Z
+Updated at 2019-04-10T19:14:01Z
