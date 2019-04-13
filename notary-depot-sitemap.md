@@ -4708,6 +4708,7 @@
   - [Notary Public in Durham, NC: kaylene criger](https://www.notarydepot.com/kcriger)
   - [Notary Public in Orlando, FL: Kirsten Davis](https://www.notarydepot.com/kdavis)
   - [Notary Public in Deer Park, NY: Kim McGuire](https://www.notarydepot.com/kdchad)
+  - [Notary Public in Tacoma, WA: Donnika Dixon](https://www.notarydepot.com/kddixon3020)
   - [Notary Public in Long Beach, CA: Kris De Jesus](https://www.notarydepot.com/kdejesus)
   - [Notary Public in Fort Myers, FL: Kristy Dennison](https://www.notarydepot.com/kdennison)
   - [Notary Public in Matthews, NC: Kendra Hart](https://www.notarydepot.com/kdhart)
@@ -8139,4 +8140,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-04-13T05:14:02Z
+Updated at 2019-04-13T05:34:02Z
