@@ -1824,7 +1824,7 @@
     - [Notary Public in York, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/York)
   - [Notaries Public in Rhode Island](https://www.notarydepot.com/notary-near-me/Rhode-Island)
     - [Notary Public in Cranston, RI](https://www.notarydepot.com/notary-near-me/Rhode-Island/Cranston)
-    - [Notary Public in Providence, RI](https://www.notarydepot.com/notary-near-me/Rhode-Island/Providence)
+    - [Notary Public in Pawtucket, RI](https://www.notarydepot.com/notary-near-me/Rhode-Island/Pawtucket)
     - [Notary Public in Warwick, RI](https://www.notarydepot.com/notary-near-me/Rhode-Island/Warwick)
   - [Notaries Public in South Carolina](https://www.notarydepot.com/notary-near-me/South-Carolina)
     - [Notary Public in Aiken, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Aiken)
@@ -7004,7 +7004,7 @@
   - [Notary Public in Morgan City, LA: Tanya Escort](https://www.notarydepot.com/tanyaescort)
   - [Notary Public in Crestview, FL: Tanya Rivera](https://www.notarydepot.com/tanyanadam)
   - [Notary Public in Los Angeles, CA: Tara Gipson](https://www.notarydepot.com/taradeng2)
-  - [Notary Public in Providence, RI: Tara  M Latimer](https://www.notarydepot.com/taramobile)
+  - [Notary Public in Pawtucket, RI: Tara  M Latimer](https://www.notarydepot.com/taramobile)
   - [Notary Public in Galax, VA: Trina Miller](https://www.notarydepot.com/tarielm09)
   - [Notary Public in Bridgeport, CT: Tasha Brown](https://www.notarydepot.com/tashabrown21414)
   - [Notary Public in Bridgeport, CT: Tasha Brown](https://www.notarydepot.com/tashabrown226)
@@ -8139,4 +8139,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-04-15T21:14:02Z
+Updated at 2019-04-15T21:34:02Z
