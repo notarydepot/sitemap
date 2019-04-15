@@ -304,7 +304,6 @@
     - [Notary Public in Ludlow, CA](https://www.notarydepot.com/notary-near-me/California/Ludlow)
     - [Notary Public in Lynwood, CA](https://www.notarydepot.com/notary-near-me/California/Lynwood)
     - [Notary Public in Madera, CA](https://www.notarydepot.com/notary-near-me/California/Madera)
-    - [Notary Public in Magalia, CA](https://www.notarydepot.com/notary-near-me/California/Magalia)
     - [Notary Public in Malibu, CA](https://www.notarydepot.com/notary-near-me/California/Malibu)
     - [Notary Public in Manhattan Beach, CA](https://www.notarydepot.com/notary-near-me/California/Manhattan-Beach)
     - [Notary Public in Manteca, CA](https://www.notarydepot.com/notary-near-me/California/Manteca)
@@ -3018,7 +3017,7 @@
   - [Notary Public in Chattanooga, TN: Michael Holden](https://www.notarydepot.com/cbsmkyle)
   - [Notary Public in Houston, TX: Crystal Carpenter](https://www.notarydepot.com/ccarpenter)
   - [Notary Public in San Marcos, CA: A Notary Public Near You](https://www.notarydepot.com/ccaywood)
-  - [Notary Public in Magalia, CA: Carol Clow](https://www.notarydepot.com/cclow)
+  - [Notary Public in Stockton, CA: Carol Clow](https://www.notarydepot.com/cclow)
   - [Notary Public in Applegate, CA: Carrie Conyers](https://www.notarydepot.com/cconyers911)
   - [Notary Public in Mooresville, NC: Cheryl Corcione](https://www.notarydepot.com/ccorcione)
   - [Notary Public in Reynoldsburg, OH: Carl D DeMatteo](https://www.notarydepot.com/cdaved)
@@ -8140,4 +8139,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-04-15T05:14:02Z
+Updated at 2019-04-15T05:34:02Z
