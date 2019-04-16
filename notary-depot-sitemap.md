@@ -6694,6 +6694,7 @@
   - [Notary Public in Victorville, CA: Jeremy W. Smith](https://www.notarydepot.com/shermin4200)
   - [Notary Public in Scottsdale, AZ: Sherri Moore](https://www.notarydepot.com/sherrimoore)
   - [Notary Public in Wilmington, NC: Sherry Valentine](https://www.notarydepot.com/sherrinav)
+  - [Notary Public in Westfield, PA: Sherry Dennis](https://www.notarydepot.com/sherrydennis)
   - [Notary Public in Los Angeles, CA: Sherry Mejico](https://www.notarydepot.com/sherrym_ca)
   - [Notary Public in Roseville, CA: Arkfeld Mobile Notary Services](https://www.notarydepot.com/sherry_arkfeld)
   - [Notary Public in Houston, TX: Sheryle Porter](https://www.notarydepot.com/sherylekay)
@@ -8141,4 +8142,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-04-16T15:34:02Z
+Updated at 2019-04-16T15:54:02Z
