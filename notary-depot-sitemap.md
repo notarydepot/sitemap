@@ -4035,6 +4035,7 @@
   - [Notary Public in Pollock Pines, CA: Dawn Marie Hall](https://www.notarydepot.com/hallfamily99)
   - [Notary Public in Wichita Falls, TX: Hallmark Realtor Group and Notary Services](https://www.notarydepot.com/hallmarkrealtorgroup)
   - [Notary Public in Pahrump, NV: Denise Hall](https://www.notarydepot.com/hallsfast)
+  - [Notary Public in South Gate, CA: Heather Alvarez](https://www.notarydepot.com/halvarezagent)
   - [Notary Public in West Melbourne, FL: Heather Sandvick](https://www.notarydepot.com/hambamcam)
   - [Notary Public in Lake Elsinore, CA: nadia g tavakkoli](https://www.notarydepot.com/hamnad)
   - [Notary Public in Beaumont, TX: Hana Hamilton](https://www.notarydepot.com/hanahamilton95)
@@ -8140,4 +8141,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-04-16T03:54:02Z
+Updated at 2019-04-16T04:14:02Z
