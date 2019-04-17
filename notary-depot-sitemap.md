@@ -5930,6 +5930,7 @@
   - [Notary Public in Huntington Beach, CA: Sepideh Yahyavi](https://www.notarydepot.com/notarysolutions)
   - [Notary Public in San Juan Capistrano, CA: Sonja Varese](https://www.notarydepot.com/notarysonja)
   - [Notary Public in Pelion, SC: Chadwick Moore](https://www.notarydepot.com/notarystation)
+  - [Notary Public in Walnut, CA: Alyssia Grigsby](https://www.notarydepot.com/notarystogo)
   - [Notary Public in Wallingford, CT: Louis Storo](https://www.notarydepot.com/notarystoro)
   - [Notary Public in Stevensburg, VA: Tammy S. Kelly](https://www.notarydepot.com/notarytammykelly)
   - [Notary Public in Loveland, OH: Tina Butler](https://www.notarydepot.com/notarytb)
@@ -8143,4 +8144,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-04-17T22:34:02Z
+Updated at 2019-04-17T22:54:02Z
