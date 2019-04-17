@@ -5960,6 +5960,7 @@
   - [Notary Public in Jacksonville, NC: Jennifer L. Campbell](https://www.notarydepot.com/nsacampbell)
   - [Notary Public in Orlando, FL: Jerry Moore](https://www.notarydepot.com/nsacfla)
   - [Notary Public in Saco, ME: Ryan P. McCaffrey](https://www.notarydepot.com/nsaformaine)
+  - [Notary Public in Sacramento, CA: Norma Salinas-Bonnafon](https://www.notarydepot.com/nsalinasbonnafon)
   - [Notary Public in Greentown, PA: Christina Warman](https://www.notarydepot.com/nsawarman)
   - [Notary Public in Antioch, CA: Nicole Shannon](https://www.notarydepot.com/nshannon707)
   - [Notary Public in Montrose, AL: Necole Snider](https://www.notarydepot.com/nsnider1970)
@@ -8142,4 +8143,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-04-17T01:34:02Z
+Updated at 2019-04-17T01:54:02Z
