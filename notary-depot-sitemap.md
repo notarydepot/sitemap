@@ -5729,7 +5729,7 @@
   - [Notary Public in Mountain Top, PA: Donna Ansley](https://www.notarydepot.com/nepanotary)
   - [Notary Public in Lancaster, CA: Denese Stthomas](https://www.notarydepot.com/nesey1)
   - [Notary Public in Chino, CA: *Vanessa*](https://www.notarydepot.com/nessafern)
-  - [Notary Public in Crown Point, IN: Vanessa Nichols](https://www.notarydepot.com/nessanotary)
+  - [Notary Public in Crown Point, IN: Dr. Vanessa Nichols](https://www.notarydepot.com/nessanotary)
   - [Notary Public in Yreka, CA: Todd and Angie Gusaas](https://www.notarydepot.com/netdeputy)
   - [Notary Public in Pahrump, NV: Amy Childress](https://www.notarydepot.com/nevadanotary)
   - [Notary Public in Los Angeles, CA: Monica Lambert](https://www.notarydepot.com/newday46_now)
@@ -8144,4 +8144,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-04-18T11:14:02Z
+Updated at 2019-04-18T11:34:02Z
