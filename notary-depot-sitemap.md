@@ -3040,6 +3040,7 @@
   - [Notary Public in Belton, TX: Jack Watkins](https://www.notarydepot.com/centexmobilenotary)
   - [Notary Public in Copperas Cove, TX: Joseph Reeves](https://www.notarydepot.com/centexnotary)
   - [Notary Public in Santa Rosa, CA: The Central Office](https://www.notarydepot.com/centoff)
+  - [Notary Public in Ormond Beach, FL: Danielle Boyd](https://www.notarydepot.com/centralflnotary)
   - [Notary Public in Anaheim, CA: Christian Ergueta](https://www.notarydepot.com/cergueta)
   - [Notary Public in DeBary, FL: Christopher Ersson](https://www.notarydepot.com/cersson)
   - [Notary Public in Atlantic Beach, FL: Certified Docs](https://www.notarydepot.com/certifieddocs)
@@ -8144,4 +8145,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-04-18T14:14:02Z
+Updated at 2019-04-18T14:34:02Z
