@@ -4307,7 +4307,6 @@
   - [Notary Public in Rocklin, CA: Janice Canty](https://www.notarydepot.com/jcanty)
   - [Notary Public in Santa Cruz, CA: Josephine Care](https://www.notarydepot.com/jcare13)
   - [Notary Public in Bogota, NJ: Janine M. Casper](https://www.notarydepot.com/jcasper4681)
-  - [Notary Public in Alexandria, VA: John Charles Gober](https://www.notarydepot.com/jcgober)
   - [Notary Public in Indianapolis, IN: Candice Holcomb](https://www.notarydepot.com/jcholcomb)
   - [Notary Public in Hazlet, NJ: Jennifer Columbi](https://www.notarydepot.com/jcolumbi)
   - [Notary Public in Framingham, MA: Christine Beaudin](https://www.notarydepot.com/jcougar69)
@@ -8146,4 +8145,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-04-20T03:14:02Z
+Updated at 2019-04-20T03:34:01Z
