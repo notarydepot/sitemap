@@ -1259,7 +1259,6 @@
     - [Notary Public in St. Louis, MO](https://www.notarydepot.com/notary-near-me/Missouri/St-Louis)
     - [Notary Public in Thompson, MO](https://www.notarydepot.com/notary-near-me/Missouri/Thompson)
     - [Notary Public in Troy, MO](https://www.notarydepot.com/notary-near-me/Missouri/Troy)
-    - [Notary Public in University City, MO](https://www.notarydepot.com/notary-near-me/Missouri/University-City)
     - [Notary Public in Vienna, MO](https://www.notarydepot.com/notary-near-me/Missouri/Vienna)
     - [Notary Public in Villa Ridge, MO](https://www.notarydepot.com/notary-near-me/Missouri/Villa-Ridge)
     - [Notary Public in Webb City, MO](https://www.notarydepot.com/notary-near-me/Missouri/Webb-City)
@@ -3031,7 +3030,7 @@
   - [Notary Public in Wellsboro, PA: Carol Barrett](https://www.notarydepot.com/cebarrett)
   - [Notary Public in Mount Vernon, NY: 433 Nuber Avenue](https://www.notarydepot.com/cece1000)
   - [Notary Public in Houston, TX: Carmen](https://www.notarydepot.com/cecewillams)
-  - [Notary Public in University City, MO: Cecily Stewart Hawksworth](https://www.notarydepot.com/cecilyhawksworth)
+  - [Notary Public in St. Louis, MO: Cecily Stewart Hawksworth](https://www.notarydepot.com/cecilyhawksworth)
   - [Notary Public in Tampa, FL: Cynthia Burt](https://www.notarydepot.com/cedburt)
   - [Notary Public in Lake Mary, FL: Christopher Leone](https://www.notarydepot.com/ceeleone)
   - [Notary Public in Clarksville, TN: Calvin E Hullett](https://www.notarydepot.com/cehullett)
@@ -8146,4 +8145,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-04-20T19:34:01Z
+Updated at 2019-04-20T19:54:02Z
