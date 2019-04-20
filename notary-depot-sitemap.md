@@ -3170,6 +3170,7 @@
   - [Notary Public in Atlanta, GA: Colleen M. Groch](https://www.notarydepot.com/cmvoisin)
   - [Notary Public in Rio Rancho, NM: Cindy Haney](https://www.notarydepot.com/cndyhny)
   - [Notary Public in Orangeburg, SC: Connie N. Portee](https://www.notarydepot.com/cnportee)
+  - [Notary Public in Broken Arrow, OK: Ms. Christine Oldham, BS, PMP](https://www.notarydepot.com/cnsa12)
   - [Notary Public in NY: Christina Giallombardo](https://www.notarydepot.com/cnsa215)
   - [Notary Public in Woodland, CA: Jack M Conaway](https://www.notarydepot.com/cnsajc)
   - [Notary Public in Modesto, CA: Consuelo Huerta](https://www.notarydepot.com/cochoa04)
@@ -8145,4 +8146,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-04-20T12:54:02Z
+Updated at 2019-04-20T13:14:02Z
