@@ -4057,6 +4057,7 @@
   - [Notary Public in Los Angeles, CA: Hasmik Kanataryan](https://www.notarydepot.com/hasmik)
   - [Notary Public in Litchfield Park, AZ: Kelly](https://www.notarydepot.com/hasslefreenotary)
   - [Notary Public in Moreno Valley, CA: Hatice Emanet](https://www.notarydepot.com/hatice)
+  - [Notary Public in Houston, TX: Andrae&#39; Hatten](https://www.notarydepot.com/hattenandrae)
   - [Notary Public in Anaheim, CA: Hatice Emanet](https://www.notarydepot.com/hattie)
   - [Notary Public in Huffman, TX: Lynne Ward](https://www.notarydepot.com/havenotarywilltravel)
   - [Notary Public in Grants Pass, OR: Peggy Mazziotti](https://www.notarydepot.com/havestampwilltravel)
@@ -8145,4 +8146,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-04-19T23:54:01Z
+Updated at 2019-04-20T00:14:02Z
