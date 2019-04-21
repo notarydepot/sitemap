@@ -7035,7 +7035,6 @@
   - [Notary Public in Fair Oaks, CA: Theresa Leite](https://www.notarydepot.com/tdleite)
   - [Notary Public in Garner, NC: Theresa Dotson](https://www.notarydepot.com/tdotson)
   - [Notary Public in Quincy, CA: Traci M. Downey](https://www.notarydepot.com/tdowney)
-  - [Notary Public in Tucson, AZ: Tia Peterson](https://www.notarydepot.com/tdpeterson)
   - [Notary Public in Hartford, KY: Tracye Westerfield](https://www.notarydepot.com/tdwester)
   - [Notary Public in Nokesville, VA: Tayshawn Duncan-whitcomb](https://www.notarydepot.com/tdwnotary)
   - [Notary Public in Rancho Cucamonga, CA: Teala Duhaime](https://www.notarydepot.com/teala22)
@@ -8145,4 +8144,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-04-21T20:54:02Z
+Updated at 2019-04-21T21:14:02Z
