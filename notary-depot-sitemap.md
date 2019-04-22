@@ -7407,6 +7407,7 @@
   - [Notary Public in Temecula, CA: Wendy de Vera](https://www.notarydepot.com/wendydevera)
   - [Notary Public in El Dorado Hills, CA: Wendy Evans](https://www.notarydepot.com/wendyevans)
   - [Notary Public in Redding, CA: Wendy Rehberg](https://www.notarydepot.com/wendyo)
+  - [Notary Public in Moses Lake, WA: Wendy Shiflett](https://www.notarydepot.com/wendyshiflett)
   - [Notary Public in Arcanum, OH: Scott Wert](https://www.notarydepot.com/wertscott)
   - [Notary Public in Westlake Village, CA: Westlake Notary](https://www.notarydepot.com/westlakenotary2)
   - [Notary Public in Willits, CA: Grace M. Westlund](https://www.notarydepot.com/westlund)
@@ -8147,4 +8148,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-04-22T19:14:02Z
+Updated at 2019-04-22T19:34:01Z
