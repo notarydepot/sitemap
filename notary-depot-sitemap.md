@@ -2066,7 +2066,6 @@
     - [Notary Public in Midvale, UT](https://www.notarydepot.com/notary-near-me/Utah/Midvale)
     - [Notary Public in Mona, UT](https://www.notarydepot.com/notary-near-me/Utah/Mona)
     - [Notary Public in Murray, UT](https://www.notarydepot.com/notary-near-me/Utah/Murray)
-    - [Notary Public in Ogden, UT](https://www.notarydepot.com/notary-near-me/Utah/Ogden)
     - [Notary Public in Orem, UT](https://www.notarydepot.com/notary-near-me/Utah/Orem)
     - [Notary Public in Price, UT](https://www.notarydepot.com/notary-near-me/Utah/Price)
     - [Notary Public in Provo, UT](https://www.notarydepot.com/notary-near-me/Utah/Provo)
@@ -5122,7 +5121,6 @@
   - [Notary Public in Belle Chasse, LA: Lara Lovas](https://www.notarydepot.com/lovasl)
   - [Notary Public in Carrollton, TX: Martha Aleman](https://www.notarydepot.com/lovi0803)
   - [Notary Public in Dallas, TX: Sharon Davis](https://www.notarydepot.com/lovie2009)
-  - [Notary Public in Ogden, UT: Anja Lowe](https://www.notarydepot.com/lowenotary)
   - [Notary Public in Arlington, TX: Lauren Pulido](https://www.notarydepot.com/lp5911)
   - [Notary Public in Burke, VA: Lisa Peldo](https://www.notarydepot.com/lpeldo)
   - [Notary Public in Florence, CO: Cynthia Wriske](https://www.notarydepot.com/lpncd)
@@ -8149,4 +8147,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-04-23T19:55:02Z
+Updated at 2019-04-23T20:15:02Z
