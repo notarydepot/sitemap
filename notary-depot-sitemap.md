@@ -3251,6 +3251,7 @@
   - [Notary Public in Abbottstown, PA: Janice Miller](https://www.notarydepot.com/csjnotary)
   - [Notary Public in Wolcott, CT: Amy Cole](https://www.notarydepot.com/csjz)
   - [Notary Public in Fountain Valley, CA: Carrol Martin](https://www.notarydepot.com/cskmartin)
+  - [Notary Public in Killeen, TX: Cynthia Smalls](https://www.notarydepot.com/csmallsnotary)
   - [Notary Public in San Jose, CA: Cheryl Staat](https://www.notarydepot.com/cstaat)
   - [Notary Public in Moreno Valley, CA: Charles G. Steinway](https://www.notarydepot.com/csteinway)
   - [Notary Public in Hinsdale, IL: Cassandra Stovall](https://www.notarydepot.com/cstoval2)
@@ -8148,4 +8149,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-04-23T16:54:04Z
+Updated at 2019-04-23T17:15:23Z
