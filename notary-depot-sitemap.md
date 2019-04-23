@@ -121,8 +121,8 @@
     - [Notary Public in Fouke, AR](https://www.notarydepot.com/notary-near-me/Arkansas/Fouke)
     - [Notary Public in Harrison, AR](https://www.notarydepot.com/notary-near-me/Arkansas/Harrison)
     - [Notary Public in Heber Springs, AR](https://www.notarydepot.com/notary-near-me/Arkansas/Heber-Springs)
-    - [Notary Public in Jacksonville, AR](https://www.notarydepot.com/notary-near-me/Arkansas/Jacksonville)
     - [Notary Public in Jonesboro, AR](https://www.notarydepot.com/notary-near-me/Arkansas/Jonesboro)
+    - [Notary Public in Little Rock, AR](https://www.notarydepot.com/notary-near-me/Arkansas/Little-Rock)
     - [Notary Public in Lowell, AR](https://www.notarydepot.com/notary-near-me/Arkansas/Lowell)
     - [Notary Public in Maumelle, AR](https://www.notarydepot.com/notary-near-me/Arkansas/Maumelle)
     - [Notary Public in Mountain Home, AR](https://www.notarydepot.com/notary-near-me/Arkansas/Mountain-Home)
@@ -2679,7 +2679,6 @@
   - [Notary Public in San Diego, CA: M.Pilar Barela](https://www.notarydepot.com/babe11)
   - [Notary Public in Panacea, FL: Barbara Vidal](https://www.notarydepot.com/babiloo4)
   - [Notary Public in North Canton, OH: Barbara Collier](https://www.notarydepot.com/babs67)
-  - [Notary Public in Jacksonville, AR: Sherry A. Stevenson](https://www.notarydepot.com/babyblue69)
   - [Notary Public in Tucson, AZ: Michelle Wences](https://www.notarydepot.com/babyjake07)
   - [Notary Public in Horseheads, NY: Margaret McDermott](https://www.notarydepot.com/baccilep)
   - [Notary Public in San Diego, CA: Ahmed Bader](https://www.notarydepot.com/badera687)
@@ -6568,6 +6567,7 @@
   - [Notary Public in Greencastle, PA: Sally A. Rowe](https://www.notarydepot.com/sarowe)
   - [Notary Public in Kennesaw, GA: Sasanna Strozier](https://www.notarydepot.com/sasanna)
   - [Notary Public in West Palm Beach, FL: Shirley See](https://www.notarydepot.com/sasee4259)
+  - [Notary Public in Little Rock, AR: Sherry A. Stevenson](https://www.notarydepot.com/sasnotary)
   - [Notary Public in Cincinnati, OH: satar](https://www.notarydepot.com/satarba)
   - [Notary Public in Saucier, MS: Brenda R Palmer](https://www.notarydepot.com/sauciernotary)
   - [Notary Public in Rowland Heights, CA: Roselle Savary](https://www.notarydepot.com/savarynotaryservices)
@@ -8148,4 +8148,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-04-23T16:14:02Z
+Updated at 2019-04-23T16:34:01Z
