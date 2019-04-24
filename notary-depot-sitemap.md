@@ -594,7 +594,6 @@
     - [Notary Public in Ellenton, FL](https://www.notarydepot.com/notary-near-me/Florida/Ellenton)
     - [Notary Public in Englewood, FL](https://www.notarydepot.com/notary-near-me/Florida/Englewood)
     - [Notary Public in Eustis, FL](https://www.notarydepot.com/notary-near-me/Florida/Eustis)
-    - [Notary Public in Fernandina Beach, FL](https://www.notarydepot.com/notary-near-me/Florida/Fernandina-Beach)
     - [Notary Public in Floral City, FL](https://www.notarydepot.com/notary-near-me/Florida/Floral-City)
     - [Notary Public in Fort Lauderdale, FL](https://www.notarydepot.com/notary-near-me/Florida/Fort-Lauderdale)
     - [Notary Public in Fort Myers, FL](https://www.notarydepot.com/notary-near-me/Florida/Fort-Myers)
@@ -3492,6 +3491,7 @@
   - [Notary Public in Natchitoches, LA: Dinah](https://www.notarydepot.com/dinahstallworth)
   - [Notary Public in Tolleson, AZ: Dina Schlosser](https://www.notarydepot.com/dinaschlosser)
   - [Notary Public in Jackson, NJ: Dineen M Iannice](https://www.notarydepot.com/dineen001)
+  - [Notary Public in Chesapeake, VA: Dinetta Walton](https://www.notarydepot.com/dinetta)
   - [Notary Public in Brentwood, TN: Sorin Diosan](https://www.notarydepot.com/diotec)
   - [Notary Public in Pleasanton, CA: Frederick Bandack](https://www.notarydepot.com/diplomaticone66)
   - [Notary Public in Denison, TX: Diane Ramey](https://www.notarydepot.com/diramey)
@@ -6803,7 +6803,6 @@
   - [Notary Public in Sacramento, CA: Shonja D Mainor](https://www.notarydepot.com/smainor)
   - [Notary Public in Davenport, FL: Cassandre Martin](https://www.notarydepot.com/smart1249)
   - [Notary Public in Redlands, CA: Anna Zavaletta](https://www.notarydepot.com/smartchoice)
-  - [Notary Public in Fernandina Beach, FL: Sylvie McCann](https://www.notarydepot.com/smccann)
   - [Notary Public in Jonesboro, AR: Sherry McLaughlin](https://www.notarydepot.com/smclaughlin)
   - [Notary Public in Dublin, CA: Scott Mercer](https://www.notarydepot.com/smercer)
   - [Notary Public in Norwood, LA: Susan Erkel](https://www.notarydepot.com/smerkel)
@@ -8149,4 +8148,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-04-24T23:15:02Z
+Updated at 2019-04-24T23:35:02Z
