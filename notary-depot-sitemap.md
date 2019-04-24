@@ -4641,7 +4641,6 @@
   - [Notary Public in Beverly Hills, CA: Kaitlynn Lam](https://www.notarydepot.com/kaitlynnlam)
   - [Notary Public in Irvine, CA: Annie Kim](https://www.notarydepot.com/kakongbear)
   - [Notary Public in Henrico, VA: Kenya Hacker](https://www.notarydepot.com/kamori_mobile_notary)
-  - [Notary Public in Carlsbad, CA: Kandice Ward](https://www.notarydepot.com/kandiceward)
   - [Notary Public in Tulsa, OK: Karen J. O&#39;Brien](https://www.notarydepot.com/kandonotary)
   - [Notary Public in Gibsonton, FL: Candis A. Bryant](https://www.notarydepot.com/kandyrayne)
   - [Notary Public in Columbus, OH: Kanisha Jarrett](https://www.notarydepot.com/kanishaj)
@@ -7156,7 +7155,6 @@
   - [Notary Public in Nederland, TX: Terry Magouirk](https://www.notarydepot.com/tmagouirk)
   - [Notary Public in Mount Shasta, CA: Teresa Marlatt](https://www.notarydepot.com/tmarlatt)
   - [Notary Public in Miami, FL: Tanya M Melendez](https://www.notarydepot.com/tmarrisa)
-  - [Notary Public in West Sacramento, CA: Tamara Mata](https://www.notarydepot.com/tmata)
   - [Notary Public in Erlanger, KY: Teresa J. McDowell](https://www.notarydepot.com/tmcdowell)
   - [Notary Public in Gastonia, NC: Tangela Caldwell](https://www.notarydepot.com/tmcexpress)
   - [Notary Public in Camarillo, CA: Theresa Marie Cronin](https://www.notarydepot.com/tmcnotarycali58)
@@ -8148,4 +8146,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-04-24T04:55:02Z
+Updated at 2019-04-24T05:15:02Z
