@@ -4888,6 +4888,7 @@
   - [Notary Public in San Dimas, CA: Lacey Eisele](https://www.notarydepot.com/laceyeisele)
   - [Notary Public in Humble, TX: Lacey D. Horton](https://www.notarydepot.com/laceyhorton27)
   - [Notary Public in Concord, CA: Desiree LaChance](https://www.notarydepot.com/lachancenotary)
+  - [Notary Public in Muncie, IN: Lacie L Marshall](https://www.notarydepot.com/laciemarshall)
   - [Notary Public in Sterling Heights, MI: Andrea Barnes-Smith](https://www.notarydepot.com/ladiann2006)
   - [Notary Public in Statesville, NC: Lisa R. Howard](https://www.notarydepot.com/ladyasil)
   - [Notary Public in Altamonte Springs, FL: Heather M Pegel](https://www.notarydepot.com/ladybug91879)
@@ -8147,4 +8148,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-04-24T16:35:02Z
+Updated at 2019-04-24T16:55:02Z
