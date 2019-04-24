@@ -4864,6 +4864,7 @@
   - [Notary Public in Johnson City, TN: Kenneth Burnette](https://www.notarydepot.com/ksburnette)
   - [Notary Public in Charlotte, NC: Katrina Screen](https://www.notarydepot.com/kscreen)
   - [Notary Public in Tampa, FL: Karla Sevilla](https://www.notarydepot.com/ksevilla)
+  - [Notary Public in Jonesboro, GA: Komeka Hamlin](https://www.notarydepot.com/kshamlin)
   - [Notary Public in Hudsonville, MI: Karen King](https://www.notarydepot.com/ksking)
   - [Notary Public in Portsmouth, OH: Karen S. Stanley](https://www.notarydepot.com/ksstanley)
   - [Notary Public in San Francisco, CA: kashann stanton](https://www.notarydepot.com/kstanton)
@@ -8148,4 +8149,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-04-24T22:15:02Z
+Updated at 2019-04-24T22:35:02Z
