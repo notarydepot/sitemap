@@ -4717,6 +4717,7 @@
   - [Notary Public in Granite Falls, NC: Bob Taylor](https://www.notarydepot.com/keeanu)
   - [Notary Public in Caledonia, IL: Julianne keeley](https://www.notarydepot.com/keeleynotary)
   - [Notary Public in Fort Lauderdale, FL: June Reid](https://www.notarydepot.com/keelyrich)
+  - [Notary Public in Salt Lake City, UT: Dez Keene](https://www.notarydepot.com/keenenotarypro)
   - [Notary Public in Lehigh Acres, FL: George Duncan](https://www.notarydepot.com/keepitrealmobile)
   - [Notary Public in Mount Olive Township, NJ: Philip Friedland](https://www.notarydepot.com/keeptaxes)
   - [Notary Public in Bellflower, CA: ***Lakeisha Howard***](https://www.notarydepot.com/keisha)
@@ -8146,4 +8147,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-04-24T14:35:03Z
+Updated at 2019-04-24T14:55:01Z
