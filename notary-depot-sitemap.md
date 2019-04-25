@@ -7285,6 +7285,7 @@
   - [Notary Public in Mechanicsville, VA: Bob and Sandy Moorey](https://www.notarydepot.com/ups4572)
   - [Notary Public in Petaluma, CA: Ups Store 0995](https://www.notarydepot.com/upsstore0995)
   - [Notary Public in Greenville, SC: Upstate Mobile Notaries, LLC](https://www.notarydepot.com/upstatenotaries)
+  - [Notary Public in Greenville, SC: Michael Breisch](https://www.notarydepot.com/upstatenotaryservice)
   - [Notary Public in Phoenixville, PA: Pamela Knight](https://www.notarydepot.com/urban)
   - [Notary Public in Boca Raton, FL: Daniel Lee ,NSA](https://www.notarydepot.com/us1notary)
   - [Notary Public in Boca Raton, FL: Daniel Lee](https://www.notarydepot.com/us1notaryoffice)
@@ -8150,4 +8151,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-04-25T18:55:02Z
+Updated at 2019-04-25T19:15:02Z
