@@ -5675,6 +5675,7 @@
   - [Notary Public in Jacksonville, NC: Tia L LaRock](https://www.notarydepot.com/mynotarybusiness)
   - [Notary Public in Huntington Beach, CA: Mary Elton](https://www.notarydepot.com/mynotarypro)
   - [Notary Public in Gary, IN: Myra Spearman](https://www.notarydepot.com/myra0919)
+  - [Notary Public in Florissant, MO: Nyandi Ife](https://www.notarydepot.com/mysimpletc)
   - [Notary Public in Hialeah, FL: Gladys M. Fonseca](https://www.notarydepot.com/mystiquera1)
   - [Notary Public in Middletown, PA: Heather J Templin](https://www.notarydepot.com/myyellowlabs)
   - [Notary Public in Goodyear, AZ: Tracy Camille Ross](https://www.notarydepot.com/mzbiznezz)
@@ -5765,7 +5766,6 @@
   - [Notary Public in Wilmington, NC: Bernice S. Johnson](https://www.notarydepot.com/nicy1004)
   - [Notary Public in Largo, FL: Nidal Ibrahim](https://www.notarydepot.com/nidalibrahim)
   - [Notary Public in Tehachapi, CA: Denise Evans](https://www.notarydepot.com/niesey0716)
-  - [Notary Public in Florissant, MO: Nyandi Ife](https://www.notarydepot.com/nife3013)
   - [Notary Public in Bedford, TX: Nicole C. Spellman](https://www.notarydepot.com/nikki5150)
   - [Notary Public in Norfolk, VA: Kijuana &quot;Nikki&quot; Bratton, CSA](https://www.notarydepot.com/nikkib)
   - [Notary Public in Goose Creek, SC: Renae &quot;Nikki&quot; Gaskins](https://www.notarydepot.com/nikkigaskins)
@@ -8150,4 +8150,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-04-25T17:15:02Z
+Updated at 2019-04-25T17:35:02Z
