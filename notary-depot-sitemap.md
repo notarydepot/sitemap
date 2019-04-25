@@ -6694,6 +6694,7 @@
   - [Notary Public in Mesa, AZ: Yvonne Shells-Colley](https://www.notarydepot.com/shellsoffice)
   - [Notary Public in Yucaipa, CA: Shelly Price](https://www.notarydepot.com/shellyprice)
   - [Notary Public in Port Orange, FL: Doris E Shepherd](https://www.notarydepot.com/shepherdd)
+  - [Notary Public in North Charleston, SC: Sherelle Brooks](https://www.notarydepot.com/sherellebrooks)
   - [Notary Public in Pearland, TX: Sherell Tillman](https://www.notarydepot.com/sherelll40)
   - [Notary Public in Jacksonville, FL: Sheretta Joseph](https://www.notarydepot.com/sheretta)
   - [Notary Public in Anaheim, CA: Sherif Saad](https://www.notarydepot.com/sherif)
@@ -8151,4 +8152,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-04-25T23:35:02Z
+Updated at 2019-04-25T23:55:02Z
