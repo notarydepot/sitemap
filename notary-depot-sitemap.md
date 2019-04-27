@@ -4751,6 +4751,7 @@
   - [Notary Public in Stamford, CT: Youssef Khammouch](https://www.notarydepot.com/kettou2000)
   - [Notary Public in Lubbock, TX: Karen Eustace](https://www.notarydepot.com/keustace)
   - [Notary Public in Reynoldsburg, OH: Kevin E Parker](https://www.notarydepot.com/kevep1)
+  - [Notary Public in Matthews, NC: Kevin Cuthbertson](https://www.notarydepot.com/kevincuth5)
   - [Notary Public in Fairfield, CA: Kevin A. Knutson](https://www.notarydepot.com/kevinsnotary)
   - [Notary Public in Big Pine Key, FL: Carol Drummet](https://www.notarydepot.com/keysnotary1)
   - [Notary Public in Spencer, IA: Katie Gastelum](https://www.notarydepot.com/kgastelum)
@@ -8150,4 +8151,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-04-27T04:35:02Z
+Updated at 2019-04-27T04:55:02Z
