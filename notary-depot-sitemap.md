@@ -2376,7 +2376,6 @@
   - [Notary Public in Port Charlotte, FL: Carol Adornetto](https://www.notarydepot.com/adornetto)
   - [Notary Public in Alpharetta, GA: Anne Dover](https://www.notarydepot.com/adover)
   - [Notary Public in Englewood, CO: Adrian Bennett](https://www.notarydepot.com/adrian100)
-  - [Notary Public in Reno, NV: Tenita Pardue](https://www.notarydepot.com/advancedsigningservices)
   - [Notary Public in Omaha, NE: advantagemobilnotary](https://www.notarydepot.com/advantage)
   - [Notary Public in Bend, OR: Jamie Rose](https://www.notarydepot.com/advantagenotary)
   - [Notary Public in Orlando, FL: Lori Gardner](https://www.notarydepot.com/adweddings)
@@ -8151,4 +8150,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-04-27T03:15:02Z
+Updated at 2019-04-27T03:35:02Z
