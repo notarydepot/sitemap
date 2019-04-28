@@ -5605,6 +5605,7 @@
   - [Notary Public in Rainelle, WV: Brandon L Terry](https://www.notarydepot.com/mrbrandonterry)
   - [Notary Public in Davenport, IA: Harlan Perry](https://www.notarydepot.com/mrbudget45)
   - [Notary Public in Danese, WV: Mary R. Carroll](https://www.notarydepot.com/mrcarroll)
+  - [Notary Public in Colorado Springs, CO: Mr Corey D](https://www.notarydepot.com/mrcoreydco)
   - [Notary Public in Los Angeles, CA: Mauricio Ramos](https://www.notarydepot.com/mrfingerprints)
   - [Notary Public in Pensacola, FL: Marsha Glazier](https://www.notarydepot.com/mrglazier)
   - [Notary Public in Houston, TX: Marie Deal](https://www.notarydepot.com/mrguidry)
@@ -8150,4 +8151,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-04-28T15:35:02Z
+Updated at 2019-04-28T15:55:02Z
