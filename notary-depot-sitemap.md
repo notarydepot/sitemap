@@ -4394,7 +4394,6 @@
   - [Notary Public in Puyallup, WA: Jessica Seewald](https://www.notarydepot.com/jessicabuzzard)
   - [Notary Public in San Diego, CA: Jessica Rosen](https://www.notarydepot.com/jessicamrosen)
   - [Notary Public in Santa Maria, CA: Jessica Ybarra](https://www.notarydepot.com/jessicamy80)
-  - [Notary Public in Miami, FL: Jessica Ordonez](https://www.notarydepot.com/jessica_ordonez)
   - [Notary Public in Anaheim, CA: Jessica R. Levine](https://www.notarydepot.com/jessicka5)
   - [Notary Public in Lancaster, CA: Wanda Smith](https://www.notarydepot.com/jessiess)
   - [Notary Public in Fort Wayne, IN: Jessica Baker](https://www.notarydepot.com/jesskbaker)
@@ -8151,4 +8150,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-04-28T16:55:02Z
+Updated at 2019-04-28T17:15:02Z
