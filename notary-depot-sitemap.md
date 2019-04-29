@@ -848,6 +848,7 @@
     - [Notary Public in Ingleside, IL](https://www.notarydepot.com/notary-near-me/Illinois/Ingleside)
     - [Notary Public in Joliet, IL](https://www.notarydepot.com/notary-near-me/Illinois/Joliet)
     - [Notary Public in Lake Villa, IL](https://www.notarydepot.com/notary-near-me/Illinois/Lake-Villa)
+    - [Notary Public in Loves Park, IL](https://www.notarydepot.com/notary-near-me/Illinois/Loves-Park)
     - [Notary Public in Madison, IL](https://www.notarydepot.com/notary-near-me/Illinois/Madison)
     - [Notary Public in Matteson, IL](https://www.notarydepot.com/notary-near-me/Illinois/Matteson)
     - [Notary Public in Melrose Park, IL](https://www.notarydepot.com/notary-near-me/Illinois/Melrose-Park)
@@ -866,7 +867,6 @@
     - [Notary Public in Paxton, IL](https://www.notarydepot.com/notary-near-me/Illinois/Paxton)
     - [Notary Public in Peoria, IL](https://www.notarydepot.com/notary-near-me/Illinois/Peoria)
     - [Notary Public in Princeton, IL](https://www.notarydepot.com/notary-near-me/Illinois/Princeton)
-    - [Notary Public in Rockford, IL](https://www.notarydepot.com/notary-near-me/Illinois/Rockford)
     - [Notary Public in Romeoville, IL](https://www.notarydepot.com/notary-near-me/Illinois/Romeoville)
     - [Notary Public in Sheridan, IL](https://www.notarydepot.com/notary-near-me/Illinois/Sheridan)
     - [Notary Public in South Elgin, IL](https://www.notarydepot.com/notary-near-me/Illinois/South-Elgin)
@@ -3914,7 +3914,7 @@
   - [Notary Public in Fort Lauderdale, FL: Gregory J Davis](https://www.notarydepot.com/gdavis0804)
   - [Notary Public in Hercules, CA: Carolynne L. Dupins](https://www.notarydepot.com/gdlywmn)
   - [Notary Public in Fairfield, CA: Gail R. Doswell](https://www.notarydepot.com/gdoswell)
-  - [Notary Public in Rockford, IL: Gloria Taylor](https://www.notarydepot.com/gdtaylor)
+  - [Notary Public in Loves Park, IL: Gloria Taylor](https://www.notarydepot.com/gdtaylor)
   - [Notary Public in Newark, NJ: Garry Edwards](https://www.notarydepot.com/gedwards)
   - [Notary Public in San Antonio, TX: Gina Y. Ellison Byrd](https://www.notarydepot.com/gellison)
   - [Notary Public in Newberry, FL: Michelle Taillon](https://www.notarydepot.com/gemtaillon)
@@ -8150,4 +8150,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-04-29T15:55:02Z
+Updated at 2019-04-29T16:15:02Z
