@@ -3007,6 +3007,7 @@
   - [Notary Public in Kennewick, WA: Cathie Melde](https://www.notarydepot.com/catzme67)
   - [Notary Public in Murphysboro, IL: Carol Baggett](https://www.notarydepot.com/cbaggett)
   - [Notary Public in Palm Bay, FL: Christopher Balter](https://www.notarydepot.com/cbalter90)
+  - [Notary Public in Orange, CA: Consuelo Magana](https://www.notarydepot.com/cbmagana)
   - [Notary Public in Cool, CA: Cassie Bobrow](https://www.notarydepot.com/cbobrow)
   - [Notary Public in NY: Cesia Bravo](https://www.notarydepot.com/cbravo)
   - [Notary Public in Milwaukee, WI: Christina Sarkissian](https://www.notarydepot.com/cbrown30)
@@ -8150,4 +8151,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-04-29T22:55:02Z
+Updated at 2019-04-29T23:15:02Z
