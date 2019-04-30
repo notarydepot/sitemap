@@ -3785,7 +3785,7 @@
   - [Notary Public in Perris, CA: Wendy M. Waits](https://www.notarydepot.com/eyeore)
   - [Notary Public in Corpus Christi, TX: Juanita Maria Lamas](https://www.notarydepot.com/ezclosing)
   - [Notary Public in La Grange, KY: Eziamara Oguibe-Shepherd](https://www.notarydepot.com/eziinotary)
-  - [Notary Public in West Covina, CA: Richard Lee](https://www.notarydepot.com/eznotaryla)
+  - [Notary Public in West Covina, CA: Richard Lee (Fidelity Approved)](https://www.notarydepot.com/eznotaryla)
   - [Notary Public in Clovis, CA: Esmeralda Pumarejo](https://www.notarydepot.com/ezzie)
   - [Notary Public in White Plains, NY: Tiffany Choice](https://www.notarydepot.com/fairechoice)
   - [Notary Public in Ellenwood, GA: Shemi Smith](https://www.notarydepot.com/faithfulstar06)
@@ -8151,4 +8151,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-04-30T19:55:02Z
+Updated at 2019-04-30T20:15:02Z
