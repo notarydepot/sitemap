@@ -2442,6 +2442,7 @@
   - [Notary Public in Alexandria, VA: Tsn Group](https://www.notarydepot.com/alexnotary4)
   - [Notary Public in Northville, NY: amy l frasier](https://www.notarydepot.com/alfrasier12)
   - [Notary Public in Olympia, WA: Angel Hodge](https://www.notarydepot.com/alhnotary)
+  - [Notary Public in Grand Blanc, MI: Amanda Larner](https://www.notarydepot.com/alhnotaryservicesgmailcom)
   - [Notary Public in Tempe, AZ: Carol Lara-Navarro](https://www.notarydepot.com/alianzanavarro)
   - [Notary Public in Indianapolis, IN: Alice Miller](https://www.notarydepot.com/alicemmiller)
   - [Notary Public in Milford, CT: Alicia R Gonzalez](https://www.notarydepot.com/aliciag)
@@ -8151,4 +8152,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-05-01T08:35:02Z
+Updated at 2019-05-01T08:55:02Z
