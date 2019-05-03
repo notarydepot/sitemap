@@ -7508,7 +7508,7 @@
   - [Notary Public in Sebastian, FL: Manuel Sanchez](https://www.notarydepot.com/zacarias)
   - [Notary Public in Downey, CA: Zalynda Shields](https://www.notarydepot.com/zalynda)
   - [Notary Public in East Brunswick, NJ: George Bandy](https://www.notarydepot.com/zamankeid)
-  - [Notary Public in Corning, CA: Amanda Real ](https://www.notarydepot.com/zavaglia21)
+  - [Notary Public in Corning, CA: Sharleigh Zavaglia ](https://www.notarydepot.com/zavaglia21)
   - [Notary Public in Gainesville, FL: Bradford S MarElia](https://www.notarydepot.com/zbestcloser)
   - [Notary Public in Cocoa, FL: Christina Ryder](https://www.notarydepot.com/zcar2375)
   - [Notary Public in Tenino, WA: Zeke Akins](https://www.notarydepot.com/zekeakins)
@@ -8151,4 +8151,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-05-03T18:55:03Z
+Updated at 2019-05-03T19:15:02Z
