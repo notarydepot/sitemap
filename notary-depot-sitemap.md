@@ -6250,6 +6250,7 @@
   - [Notary Public in Arcadia, CA: Craig Naylor](https://www.notarydepot.com/quickdocs)
   - [Notary Public in Greensburg, PA: Robert Nowlin](https://www.notarydepot.com/quicksigners)
   - [Notary Public in Saint Paul, MN: Joseph P. Kelly](https://www.notarydepot.com/quillnotary)
+  - [Notary Public in Pasadena, CA: Kim Quintana ](https://www.notarydepot.com/quintanamns)
   - [Notary Public in Winter Springs, FL: Nequisha Stuckey](https://www.notarydepot.com/quishafla)
   - [Notary Public in Chicago, IL: Franklin](https://www.notarydepot.com/quizhpi2)
   - [Notary Public in Bellevue, WA: Bellevue Notary](https://www.notarydepot.com/qweester)
@@ -8151,4 +8152,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-05-04T02:35:02Z
+Updated at 2019-05-04T02:55:02Z
