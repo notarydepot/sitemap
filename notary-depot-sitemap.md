@@ -6352,6 +6352,7 @@
   - [Notary Public in Alexandria, VA: Ron Chambers](https://www.notarydepot.com/rgcnotary)
   - [Notary Public in Columbia, KY: Ronald Goetz](https://www.notarydepot.com/rgoetz)
   - [Notary Public in Kenner, LA: Robert G. Gostl](https://www.notarydepot.com/rgostl)
+  - [Notary Public in Flower Mound, TX: Ron Greasley](https://www.notarydepot.com/rgreasley)
   - [Notary Public in Grover Beach, CA: Raymond Grieco](https://www.notarydepot.com/rgrieco13)
   - [Notary Public in Wyandotte, MI: Roy Spears](https://www.notarydepot.com/rgspears48)
   - [Notary Public in San Diego, CA: Ryan Haggins](https://www.notarydepot.com/rhaggins)
@@ -8152,4 +8153,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-05-04T18:55:02Z
+Updated at 2019-05-04T19:15:02Z
