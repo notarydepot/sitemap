@@ -7077,6 +7077,7 @@
   - [Notary Public in Moriches, NY: Tracey Gallagher](https://www.notarydepot.com/tgallagher)
   - [Notary Public in Scottsdale, AZ: Tamara R. Gonsor](https://www.notarydepot.com/tgonsor)
   - [Notary Public in Tampa, FL: Telli Griffin](https://www.notarydepot.com/tgriffin49)
+  - [Notary Public in West Jordan, UT: Clarence Duncan](https://www.notarydepot.com/thatnotaryguy)
   - [Notary Public in New London, MO: Sarah Hathaway](https://www.notarydepot.com/the4hathawaysgmailcom)
   - [Notary Public in CA: Debra Perkins](https://www.notarydepot.com/the75bug)
   - [Notary Public in Rochelle Park, NJ: Diane Nissen](https://www.notarydepot.com/thealexandritegroup)
@@ -8153,4 +8154,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-05-06T01:15:02Z
+Updated at 2019-05-06T01:35:02Z
