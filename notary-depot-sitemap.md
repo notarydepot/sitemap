@@ -3083,6 +3083,7 @@
   - [Notary Public in Carson, CA: CHERYL D CARTER-HARRIS](https://www.notarydepot.com/cherylharris)
   - [Notary Public in Gulf Breeze, FL: Cheryl Maniscalco](https://www.notarydepot.com/cherylmnotary)
   - [Notary Public in Jasper, FL: Cheryl Young](https://www.notarydepot.com/cherylyoung)
+  - [Notary Public in Chesapeake, VA: Marie Griffin](https://www.notarydepot.com/chesapeakenotary)
   - [Notary Public in Chicago, IL: Carrie Rivera](https://www.notarydepot.com/chicagomobilenotaries)
   - [Notary Public in Chicago, IL: Chicago Prime Notary](https://www.notarydepot.com/chicagoprimenotary)
   - [Notary Public in Auburn, ME: Donald Robbins](https://www.notarydepot.com/chiefdon)
@@ -8155,4 +8156,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-05-06T17:55:02Z
+Updated at 2019-05-06T18:15:02Z
