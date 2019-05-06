@@ -5523,7 +5523,7 @@
   - [Notary Public in Harpers Ferry, WV: Candace Rowan](https://www.notarydepot.com/mobilenotary25425)
   - [Notary Public in Elk Grove, CA: Bianca Towns](https://www.notarydepot.com/mobilenotary2me)
   - [Notary Public in Oak Ridge, NC: The Korreks](https://www.notarydepot.com/mobilenotary4u)
-  - [Notary Public in Fallon, NV: Greg Anderson](https://www.notarydepot.com/mobilenotarygreg)
+  - [Notary Public in Fallon, NV: Gregory Anderson](https://www.notarydepot.com/mobilenotarygreg)
   - [Notary Public in San Diego, CA: ronald link](https://www.notarydepot.com/mobilenotaryguy)
   - [Notary Public in Urbana, OH: Rhonda M Lippencott](https://www.notarydepot.com/mobilenotaryinohiogmailcom)
   - [Notary Public in Nashville, TN: Cody McKeithan](https://www.notarydepot.com/mobilenotaryintn)
@@ -8154,4 +8154,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-05-06T07:15:02Z
+Updated at 2019-05-06T07:35:02Z
