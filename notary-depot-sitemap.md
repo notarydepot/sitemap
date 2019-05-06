@@ -3189,6 +3189,7 @@
   - [Notary Public in Fontana, CA: Marian Jackson](https://www.notarydepot.com/comet222)
   - [Notary Public in Columbia, MO: Ellen Rees](https://www.notarydepot.com/comonotary)
   - [Notary Public in Jacksonville, FL: Andrew Alexander Brown](https://www.notarydepot.com/competentnotary)
+  - [Notary Public in Thousand Oaks, CA: Holly](https://www.notarydepot.com/conejovalleynotary)
   - [Notary Public in Murrieta, CA: Connie Adams](https://www.notarydepot.com/connie)
   - [Notary Public in Chicago, IL: Constance J. Tucker](https://www.notarydepot.com/constancenchgo)
   - [Notary Public in Cocoa, FL: David Bradley](https://www.notarydepot.com/consultinggroup)
@@ -8154,4 +8155,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-05-06T16:35:03Z
+Updated at 2019-05-06T16:55:03Z
