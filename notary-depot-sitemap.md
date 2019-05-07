@@ -1970,6 +1970,7 @@
     - [Notary Public in Grapevine, TX](https://www.notarydepot.com/notary-near-me/Texas/Grapevine)
     - [Notary Public in Groves, TX](https://www.notarydepot.com/notary-near-me/Texas/Groves)
     - [Notary Public in Haltom City, TX](https://www.notarydepot.com/notary-near-me/Texas/Haltom-City)
+    - [Notary Public in Harlingen, TX](https://www.notarydepot.com/notary-near-me/Texas/Harlingen)
     - [Notary Public in Hearne, TX](https://www.notarydepot.com/notary-near-me/Texas/Hearne)
     - [Notary Public in Hewitt, TX](https://www.notarydepot.com/notary-near-me/Texas/Hewitt)
     - [Notary Public in Hitchcock, TX](https://www.notarydepot.com/notary-near-me/Texas/Hitchcock)
@@ -6853,6 +6854,7 @@
   - [Notary Public in Mount Holly, NJ: Yvette Ray](https://www.notarydepot.com/sotdl04)
   - [Notary Public in Schwenksville, PA: MELANIE ALTEMUS](https://www.notarydepot.com/sourceoneautogroup)
   - [Notary Public in Tampa, FL: Peter Cavalli, Mpa](https://www.notarydepot.com/southtampanotary)
+  - [Notary Public in Harlingen, TX: Cori Cordova](https://www.notarydepot.com/southtexasnotaries)
   - [Notary Public in San Antonio, TX: Jessie Calderon](https://www.notarydepot.com/southtexasnotary)
   - [Notary Public in Westbrook, ME: Carol Waterhouse](https://www.notarydepot.com/sox101957)
   - [Notary Public in Sacramento, CA: Sergio Musetti](https://www.notarydepot.com/spanishvoice)
@@ -8159,4 +8161,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-05-07T23:16:03Z
+Updated at 2019-05-07T23:36:02Z
