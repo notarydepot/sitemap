@@ -1331,6 +1331,7 @@
     - [Notary Public in Ewing Township, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Ewing-Township)
     - [Notary Public in Franklin Lakes, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Franklin-Lakes)
     - [Notary Public in Franklin Township, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Franklin-Township)
+    - [Notary Public in Freehold, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Freehold)
     - [Notary Public in Garfield, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Garfield)
     - [Notary Public in Glassboro, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Glassboro)
     - [Notary Public in Glen Gardner, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Glen-Gardner)
@@ -5098,6 +5099,7 @@
   - [Notary Public in Las Vegas, NV: Lisa M Gaglio](https://www.notarydepot.com/lmgsigningservices)
   - [Notary Public in Atascadero, CA: Linda Mintey](https://www.notarydepot.com/lmintey123)
   - [Notary Public in Cloverdale, CA: Linda Welch](https://www.notarydepot.com/lndwelch)
+  - [Notary Public in Freehold, NJ: Lizette](https://www.notarydepot.com/lnleon1962)
   - [Notary Public in Downingtown, PA: Lauren Peluso](https://www.notarydepot.com/lnpeluso)
   - [Notary Public in Scranton, PA: Eric Schlittler](https://www.notarydepot.com/loancloser78)
   - [Notary Public in Fountain Valley, CA: Mike Cherki](https://www.notarydepot.com/loandocumentspecialist)
@@ -8157,4 +8159,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-05-07T22:56:02Z
+Updated at 2019-05-07T23:16:03Z
