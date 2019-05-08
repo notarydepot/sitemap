@@ -763,6 +763,7 @@
     - [Notary Public in Kennesaw, GA](https://www.notarydepot.com/notary-near-me/Georgia/Kennesaw)
     - [Notary Public in LaFayette, GA](https://www.notarydepot.com/notary-near-me/Georgia/LaFayette)
     - [Notary Public in Lawrenceville, GA](https://www.notarydepot.com/notary-near-me/Georgia/Lawrenceville)
+    - [Notary Public in Lithia Springs, GA](https://www.notarydepot.com/notary-near-me/Georgia/Lithia-Springs)
     - [Notary Public in Lithonia, GA](https://www.notarydepot.com/notary-near-me/Georgia/Lithonia)
     - [Notary Public in Lula, GA](https://www.notarydepot.com/notary-near-me/Georgia/Lula)
     - [Notary Public in Macon, GA](https://www.notarydepot.com/notary-near-me/Georgia/Macon)
@@ -5686,6 +5687,7 @@
   - [Notary Public in Hialeah, FL: Gladys M. Fonseca](https://www.notarydepot.com/mystiquera1)
   - [Notary Public in Middletown, PA: Heather J Templin](https://www.notarydepot.com/myyellowlabs)
   - [Notary Public in Goodyear, AZ: Tracy Camille Ross](https://www.notarydepot.com/mzbiznezz)
+  - [Notary Public in Lithia Springs, GA: Kathy Davis](https://www.notarydepot.com/mzdaviz)
   - [Notary Public in Memphis, TN: Kimberly P Jones](https://www.notarydepot.com/mzjonez)
   - [Notary Public in Irmo, SC: Jenyfer Rogers](https://www.notarydepot.com/mznewbz)
   - [Notary Public in Ruskin, FL: Jessica Robinson](https://www.notarydepot.com/mzrobinson07)
@@ -8163,4 +8165,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-05-08T23:36:02Z
+Updated at 2019-05-08T23:56:02Z
