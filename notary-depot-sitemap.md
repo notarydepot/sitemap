@@ -2268,7 +2268,6 @@
     - [Notary Public in Stevens Point, WI](https://www.notarydepot.com/notary-near-me/Wisconsin/Stevens-Point)
     - [Notary Public in Waukesha, WI](https://www.notarydepot.com/notary-near-me/Wisconsin/Waukesha)
     - [Notary Public in Wausau, WI](https://www.notarydepot.com/notary-near-me/Wisconsin/Wausau)
-    - [Notary Public in West Salem, WI](https://www.notarydepot.com/notary-near-me/Wisconsin/West-Salem)
   - [Notaries Public in Wyoming](https://www.notarydepot.com/notary-near-me/Wyoming)
     - [Notary Public in Casper, WY](https://www.notarydepot.com/notary-near-me/Wyoming/Casper)
     - [Notary Public in Cheyenne, WY](https://www.notarydepot.com/notary-near-me/Wyoming/Cheyenne)
@@ -7541,7 +7540,6 @@
   - [Notary Public in Loveland, CO: Agnes Bradshaw](https://www.notarydepot.com/zoomnotary)
   - [Notary Public in Oakland, CA: Kemba Upshaw](https://www.notarydepot.com/zoomxcourier)
   - [Notary Public in Morehead, KY: Dwight Smith](https://www.notarydepot.com/zpapaw)
-  - [Notary Public in West Salem, WI: Zana Darrow](https://www.notarydepot.com/zrdarrow)
   - [Notary Public in Weems, VA: R R Crawford](https://www.notarydepot.com/zrick101)
   - [Notary Public in St. Augustine, FL: Zech Rowe](https://www.notarydepot.com/zrowe)
   - [Notary Public in Greenville, NC: Zack Taft](https://www.notarydepot.com/ztaft)
@@ -8167,4 +8165,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-05-09T13:36:02Z
+Updated at 2019-05-09T13:56:02Z
