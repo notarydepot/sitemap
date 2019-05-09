@@ -4908,6 +4908,7 @@
   - [Notary Public in Tallahassee, FL: ViElla B. Lindsey](https://www.notarydepot.com/ladyvi)
   - [Notary Public in Huntington Beach, CA: Leigh Ann Gilmore](https://www.notarydepot.com/lag911)
   - [Notary Public in Wichita, KS: Lila Hall](https://www.notarydepot.com/lahallsign)
+  - [Notary Public in Scranton, PA: Leo Jackson](https://www.notarydepot.com/lajjr)
   - [Notary Public in Starke, FL: Robert William Rehberg](https://www.notarydepot.com/lakebutler52)
   - [Notary Public in Kelseyville, CA: Julie Richardson](https://www.notarydepot.com/lakecountynotary)
   - [Notary Public in Lakeland, FL: Louis](https://www.notarydepot.com/lakelandnotary)
@@ -8166,4 +8167,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-05-09T02:56:02Z
+Updated at 2019-05-09T03:16:02Z
