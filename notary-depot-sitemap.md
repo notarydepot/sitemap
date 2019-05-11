@@ -1770,6 +1770,7 @@
     - [Notary Public in Marcus Hook, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Marcus-Hook)
     - [Notary Public in Meadville, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Meadville)
     - [Notary Public in Mechanicsburg, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Mechanicsburg)
+    - [Notary Public in Melrose Park, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Melrose-Park)
     - [Notary Public in Middletown, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Middletown)
     - [Notary Public in Mifflintown, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Mifflintown)
     - [Notary Public in Mill Hall, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Mill-Hall)
@@ -5353,6 +5354,7 @@
   - [Notary Public in Elkton, MD: Jackie Meadows](https://www.notarydepot.com/mddenotary)
   - [Notary Public in Hazleton, PA: Mark W Demsko](https://www.notarydepot.com/mdemsko)
   - [Notary Public in Shreveport, LA: Michael Gray](https://www.notarydepot.com/mdgray60)
+  - [Notary Public in Melrose Park, PA: Myia Harmon](https://www.notarydepot.com/mdharmon)
   - [Notary Public in Owings, MD: Doris Frazier](https://www.notarydepot.com/mdj9969)
   - [Notary Public in Atlanta, GA: Michelle Jones](https://www.notarydepot.com/mdjonestech)
   - [Notary Public in St. Louis, MO: Micah Hall](https://www.notarydepot.com/mdmyles)
@@ -8166,4 +8168,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-05-11T03:56:02Z
+Updated at 2019-05-11T04:16:02Z
