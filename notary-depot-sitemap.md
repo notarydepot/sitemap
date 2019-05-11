@@ -1231,6 +1231,7 @@
     - [Notary Public in Columbia, MO](https://www.notarydepot.com/notary-near-me/Missouri/Columbia)
     - [Notary Public in Dexter, MO](https://www.notarydepot.com/notary-near-me/Missouri/Dexter)
     - [Notary Public in Elk Creek, MO](https://www.notarydepot.com/notary-near-me/Missouri/Elk-Creek)
+    - [Notary Public in Falcon, MO](https://www.notarydepot.com/notary-near-me/Missouri/Falcon)
     - [Notary Public in Farmington, MO](https://www.notarydepot.com/notary-near-me/Missouri/Farmington)
     - [Notary Public in Fenton, MO](https://www.notarydepot.com/notary-near-me/Missouri/Fenton)
     - [Notary Public in Florissant, MO](https://www.notarydepot.com/notary-near-me/Missouri/Florissant)
@@ -5983,6 +5984,7 @@
   - [Notary Public in Sacramento, CA: Norma Salinas-Bonnafon](https://www.notarydepot.com/nsalinasbonnafon)
   - [Notary Public in Greentown, PA: Christina Warman](https://www.notarydepot.com/nsawarman)
   - [Notary Public in Antioch, CA: Nicole Shannon](https://www.notarydepot.com/nshannon707)
+  - [Notary Public in Falcon, MO: Nancy Sipes](https://www.notarydepot.com/nsipes)
   - [Notary Public in Montrose, AL: Necole Snider](https://www.notarydepot.com/nsnider1970)
   - [Notary Public in San Jose, CA: Kim Nguyen, Certified Signing Agent/Mobile Notary](https://www.notarydepot.com/nstenterprises)
   - [Notary Public in Houston, TX: Natasha Walker](https://www.notarydepot.com/nswalker)
@@ -8168,4 +8170,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-05-11T18:36:02Z
+Updated at 2019-05-11T18:56:02Z
