@@ -1508,6 +1508,7 @@
     - [Notary Public in West Babylon, NY](https://www.notarydepot.com/notary-near-me/New-York/West-Babylon)
     - [Notary Public in West Chazy, NY](https://www.notarydepot.com/notary-near-me/New-York/West-Chazy)
     - [Notary Public in West Haverstraw, NY](https://www.notarydepot.com/notary-near-me/New-York/West-Haverstraw)
+    - [Notary Public in West Nyack, NY](https://www.notarydepot.com/notary-near-me/New-York/West-Nyack)
     - [Notary Public in Westbury, NY](https://www.notarydepot.com/notary-near-me/New-York/Westbury)
     - [Notary Public in White Plains, NY](https://www.notarydepot.com/notary-near-me/New-York/White-Plains)
     - [Notary Public in Williamson, NY](https://www.notarydepot.com/notary-near-me/New-York/Williamson)
@@ -4415,6 +4416,7 @@
   - [Notary Public in Pompano Beach, FL: Judy Ferris, CPA](https://www.notarydepot.com/jferris)
   - [Notary Public in Baton Rouge, LA: Janet Lee French](https://www.notarydepot.com/jfsobers)
   - [Notary Public in Centre, AL: Jennifer Garner](https://www.notarydepot.com/jgarner)
+  - [Notary Public in West Nyack, NY: Julie Globus ](https://www.notarydepot.com/jgesqnotary)
   - [Notary Public in Lake Oswego, OR: Jean Griffin](https://www.notarydepot.com/jghenke)
   - [Notary Public in Schenectady, NY: Julie A. Grasso](https://www.notarydepot.com/jgrasso)
   - [Notary Public in Roseville, CA: Jennifer Grinder](https://www.notarydepot.com/jgrinder)
@@ -8172,4 +8174,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-05-12T14:16:02Z
+Updated at 2019-05-12T14:36:02Z
