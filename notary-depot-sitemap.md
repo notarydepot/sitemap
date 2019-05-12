@@ -2305,6 +2305,7 @@
   - [Notary Public in Los Alamitos, CA: Camille Leonardo](https://www.notarydepot.com/4turtles)
   - [Notary Public in Downey, CA: Christina](https://www.notarydepot.com/562downeynotary)
   - [Notary Public in Corinth, TX: DeMonica A Morton](https://www.notarydepot.com/5starnotary)
+  - [Notary Public in Anchorage, AK: Brian Rosenberg](https://www.notarydepot.com/61degreenotary)
   - [Notary Public in Winchester, KY: Lee Kendrick](https://www.notarydepot.com/67ferrari)
   - [Notary Public in SC: TonyaJohnson](https://www.notarydepot.com/67tonya)
   - [Notary Public in Danville, CA: Gerald Sixkiller](https://www.notarydepot.com/6killer)
@@ -8170,4 +8171,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-05-12T04:36:02Z
+Updated at 2019-05-12T04:56:02Z
