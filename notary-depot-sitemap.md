@@ -6401,6 +6401,7 @@
   - [Notary Public in Lathrop, CA: Reba Williams-Jones](https://www.notarydepot.com/rjones03)
   - [Notary Public in Charlotte, NC: Raymon Hunt](https://www.notarydepot.com/rjoyassociatesnotary)
   - [Notary Public in Ponca City, OK: Robin Abshire](https://www.notarydepot.com/rkabshire)
+  - [Notary Public in Fort Worth, TX: Regina Kennedy](https://www.notarydepot.com/rkennedy39)
   - [Notary Public in Lynchburg, VA: Richard Kevin Paul](https://www.notarydepot.com/rkevinpaul)
   - [Notary Public in Chesapeake, VA: Robert K. Hayes](https://www.notarydepot.com/rkhayes1413)
   - [Notary Public in Arroyo Grande, CA: Ray La Frenais](https://www.notarydepot.com/rlafrenais)
@@ -8171,4 +8172,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-05-12T05:16:02Z
+Updated at 2019-05-12T05:36:02Z
