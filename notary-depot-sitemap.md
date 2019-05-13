@@ -2015,6 +2015,7 @@
     - [Notary Public in New Braunfels, TX](https://www.notarydepot.com/notary-near-me/Texas/New-Braunfels)
     - [Notary Public in North Richland Hills, TX](https://www.notarydepot.com/notary-near-me/Texas/North-Richland-Hills)
     - [Notary Public in Northlake, TX](https://www.notarydepot.com/notary-near-me/Texas/Northlake)
+    - [Notary Public in Orange, TX](https://www.notarydepot.com/notary-near-me/Texas/Orange)
     - [Notary Public in Palestine, TX](https://www.notarydepot.com/notary-near-me/Texas/Palestine)
     - [Notary Public in Pasadena, TX](https://www.notarydepot.com/notary-near-me/Texas/Pasadena)
     - [Notary Public in Pearland, TX](https://www.notarydepot.com/notary-near-me/Texas/Pearland)
@@ -5724,6 +5725,7 @@
   - [Notary Public in Algonquin, IL: Wanda Osborne](https://www.notarydepot.com/nationwide)
   - [Notary Public in Spring, TX: Nathania Naftaly](https://www.notarydepot.com/natiroche)
   - [Notary Public in CA: Tom Heymann](https://www.notarydepot.com/natory)
+  - [Notary Public in Orange, TX: TreKendria Jones](https://www.notarydepot.com/naturalnotary)
   - [Notary Public in Fremont, CA: Navdeep Kaur](https://www.notarydepot.com/navdeepkaur)
   - [Notary Public in Sacramento, CA: naveen kumar](https://www.notarydepot.com/naveenkortagmailcom)
   - [Notary Public in Los Angeles, CA: Navid Pakt](https://www.notarydepot.com/navidy1)
@@ -8174,4 +8176,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-05-13T22:36:02Z
+Updated at 2019-05-13T22:56:02Z
