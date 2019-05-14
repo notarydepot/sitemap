@@ -2201,6 +2201,7 @@
     - [Notary Public in Longview, WA](https://www.notarydepot.com/notary-near-me/Washington/Longview)
     - [Notary Public in Lynden, WA](https://www.notarydepot.com/notary-near-me/Washington/Lynden)
     - [Notary Public in Lynnwood, WA](https://www.notarydepot.com/notary-near-me/Washington/Lynnwood)
+    - [Notary Public in Malaga, WA](https://www.notarydepot.com/notary-near-me/Washington/Malaga)
     - [Notary Public in Marysville, WA](https://www.notarydepot.com/notary-near-me/Washington/Marysville)
     - [Notary Public in Moses Lake, WA](https://www.notarydepot.com/notary-near-me/Washington/Moses-Lake)
     - [Notary Public in Mountlake Terrace, WA](https://www.notarydepot.com/notary-near-me/Washington/Mountlake-Terrace)
@@ -6916,6 +6917,7 @@
   - [Notary Public in Los Angeles, CA: Stacey Robinson](https://www.notarydepot.com/stace123)
   - [Notary Public in Bloomfield Township, MI: Stacey Cornelius](https://www.notarydepot.com/staceylc)
   - [Notary Public in Fincastle, VA: Stacey Frechette](https://www.notarydepot.com/staceylf)
+  - [Notary Public in Malaga, WA: Stacey Richard](https://www.notarydepot.com/staceyrichard23)
   - [Notary Public in MA: Stacey Elin Rossi, Esq.](https://www.notarydepot.com/staceyrossi)
   - [Notary Public in Palm Desert, CA: Staci Kolbeck](https://www.notarydepot.com/stacikolbeck)
   - [Notary Public in Americus, GA: Stacy Edge](https://www.notarydepot.com/stacyedge)
@@ -8178,4 +8180,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-05-14T04:16:03Z
+Updated at 2019-05-14T04:36:02Z
