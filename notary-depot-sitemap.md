@@ -1366,6 +1366,7 @@
     - [Notary Public in Newark, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Newark)
     - [Notary Public in Oaklyn, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Oaklyn)
     - [Notary Public in Paramus, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Paramus)
+    - [Notary Public in Parsippany Troy Hills, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Parsippany-Troy-Hills)
     - [Notary Public in Paterson, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Paterson)
     - [Notary Public in Pennsauken Township, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Pennsauken-Township)
     - [Notary Public in Phillipsburg, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Phillipsburg)
@@ -5606,6 +5607,7 @@
   - [Notary Public in MA: Marsha A. Ostrer](https://www.notarydepot.com/mostrer)
   - [Notary Public in Blakeslee, PA: Mountain View Notary](https://www.notarydepot.com/mountainnotary)
   - [Notary Public in Mount Dora, FL: Brenda Jo Collier](https://www.notarydepot.com/mountdoranotary)
+  - [Notary Public in Parsippany-Troy Hills, NJ: Luke Pernotto](https://www.notarydepot.com/mounttabornotary)
   - [Notary Public in Clearwater, FL: Donna J Moore, CNSA](https://www.notarydepot.com/mouseketeer53)
   - [Notary Public in Fort Washington, MD: Maggie O. Westfield](https://www.notarydepot.com/mowest)
   - [Notary Public in Northfield, OH: David](https://www.notarydepot.com/moyerparalegal)
@@ -8180,4 +8182,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-05-14T20:36:02Z
+Updated at 2019-05-14T20:56:02Z
