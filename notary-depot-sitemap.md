@@ -703,6 +703,7 @@
     - [Notary Public in Sorrento, FL](https://www.notarydepot.com/notary-near-me/Florida/Sorrento)
     - [Notary Public in Spring Hill, FL](https://www.notarydepot.com/notary-near-me/Florida/Spring-Hill)
     - [Notary Public in St. Augustine, FL](https://www.notarydepot.com/notary-near-me/Florida/St-Augustine)
+    - [Notary Public in St. Petersburg, FL](https://www.notarydepot.com/notary-near-me/Florida/St-Petersburg)
     - [Notary Public in Starke, FL](https://www.notarydepot.com/notary-near-me/Florida/Starke)
     - [Notary Public in Stuart, FL](https://www.notarydepot.com/notary-near-me/Florida/Stuart)
     - [Notary Public in Sunny Isles Beach, FL](https://www.notarydepot.com/notary-near-me/Florida/Sunny-Isles-Beach)
@@ -5782,6 +5783,7 @@
   - [Notary Public in Bastrop, LA: Nicolette S Releford](https://www.notarydepot.com/nicolette33)
   - [Notary Public in Palm Coast, FL: Nicole McDuffey](https://www.notarydepot.com/nicole_mcd)
   - [Notary Public in Wilmington, NC: Bernice S. Johnson](https://www.notarydepot.com/nicy1004)
+  - [Notary Public in St. Petersburg, FL: Nidal Ibrahim](https://www.notarydepot.com/nidal130962)
   - [Notary Public in Largo, FL: Nidal Ibrahim](https://www.notarydepot.com/nidalibrahim)
   - [Notary Public in Tehachapi, CA: Denise Evans](https://www.notarydepot.com/niesey0716)
   - [Notary Public in Bedford, TX: Nicole C. Spellman](https://www.notarydepot.com/nikki5150)
@@ -8176,4 +8178,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-05-13T23:56:02Z
+Updated at 2019-05-14T00:16:02Z
