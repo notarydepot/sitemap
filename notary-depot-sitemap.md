@@ -2973,6 +2973,7 @@
   - [Notary Public in Washington Township, NJ: Capri Scott-Williams](https://www.notarydepot.com/capriwms1)
   - [Notary Public in Pomeroy, IA: Cara S. Rungo](https://www.notarydepot.com/cararungo)
   - [Notary Public in San Diego, CA: John Tennant](https://www.notarydepot.com/carboss)
+  - [Notary Public in Miami, FL: Caren](https://www.notarydepot.com/carenalmuina)
   - [Notary Public in Kemp, TX: Carl Ferguson](https://www.notarydepot.com/carl)
   - [Notary Public in Norcross, GA: Carla Murdock](https://www.notarydepot.com/carlam25)
   - [Notary Public in Trabuco Canyon, CA: Carlos Montoya](https://www.notarydepot.com/carlosmontoya)
@@ -8182,4 +8183,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-05-15T20:36:02Z
+Updated at 2019-05-15T20:56:02Z
