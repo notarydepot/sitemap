@@ -2637,6 +2637,7 @@
   - [Notary Public in Madera, CA: Ashley Martinez](https://www.notarydepot.com/ashleym1)
   - [Notary Public in Long Beach, CA: Ashley H. Oraguzie ](https://www.notarydepot.com/ashleyoraguzienotary)
   - [Notary Public in Pinellas Park, FL: Ashley](https://www.notarydepot.com/ashley_nyegaard)
+  - [Notary Public in Lincoln, NE: Ashoul Adam](https://www.notarydepot.com/ashoul)
   - [Notary Public in Castleton, VT: Gerard Ashton](https://www.notarydepot.com/ashtongjcomcastnet)
   - [Notary Public in Columbia, MS: Angela Simon](https://www.notarydepot.com/asimon31)
   - [Notary Public in Bakersfield, CA: Angela M. Sinks](https://www.notarydepot.com/asinks)
@@ -8183,4 +8184,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-05-15T23:56:02Z
+Updated at 2019-05-16T00:16:02Z
