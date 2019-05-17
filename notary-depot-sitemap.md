@@ -3309,6 +3309,7 @@
   - [Notary Public in Indianapolis, IN: Damon A Bryant](https://www.notarydepot.com/dab1174)
   - [Notary Public in Delray Beach, FL: janina dabate](https://www.notarydepot.com/dabate12)
   - [Notary Public in St. Louis, MO: Dustin M. Underwood](https://www.notarydepot.com/dabigd03)
+  - [Notary Public in Mobile, AL: Danica Lambert](https://www.notarydepot.com/dadra4)
   - [Notary Public in Geneva, NY: Daphne M. Moschiano](https://www.notarydepot.com/daisy0919)
   - [Notary Public in New York, NY: Damariz Valentin](https://www.notarydepot.com/daisyd)
   - [Notary Public in Windber, PA: Dale Tomlinson](https://www.notarydepot.com/dalet1978)
@@ -8186,4 +8187,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-05-17T01:56:02Z
+Updated at 2019-05-17T02:16:02Z
