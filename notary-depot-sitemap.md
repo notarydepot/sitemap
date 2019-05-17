@@ -4756,6 +4756,7 @@
   - [Notary Public in San Ramon, CA: Kemi Onifade](https://www.notarydepot.com/kemsho)
   - [Notary Public in Leesburg, VA: Kenan Goeller](https://www.notarydepot.com/kenan)
   - [Notary Public in Las Vegas, NV: Kendra Doyle](https://www.notarydepot.com/kendradoyle)
+  - [Notary Public in Jackson, MS: Keneisha Carter](https://www.notarydepot.com/kenecarter)
   - [Notary Public in Deer Park, NY: Keneice Henriques-Gayle](https://www.notarydepot.com/keneice)
   - [Notary Public in Daly City, CA: Kenneth Lieuw](https://www.notarydepot.com/kenlieuw)
   - [Notary Public in San Antonio, TX: Kenn Stansbury](https://www.notarydepot.com/kennstansbury)
@@ -8185,4 +8186,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-05-17T18:16:02Z
+Updated at 2019-05-17T18:36:02Z
