@@ -4307,7 +4307,6 @@
   - [Notary Public in New Britain, CT: Jazmin Flecha Ouellette](https://www.notarydepot.com/jaz)
   - [Notary Public in Corpus Christi, TX: Julie A. Zepeda](https://www.notarydepot.com/jazepeda)
   - [Notary Public in NJ: Jazmine Chung](https://www.notarydepot.com/jazminechung)
-  - [Notary Public in Buffalo Grove, IL: Josh Baim](https://www.notarydepot.com/jbaimnotary)
   - [Notary Public in Snohomish, WA: Julie A. Barrans](https://www.notarydepot.com/jbarrans)
   - [Notary Public in Arkadelphia, AR: Johnnie Dunn](https://www.notarydepot.com/jbdunn1)
   - [Notary Public in Cape Coral, FL: Julie A Bensel](https://www.notarydepot.com/jbensel)
@@ -4620,7 +4619,6 @@
   - [Notary Public in New York, NY: Julian L Cole](https://www.notarydepot.com/julianlenworthcole)
   - [Notary Public in Salem, OR: Julie Davis](https://www.notarydepot.com/julied)
   - [Notary Public in Redwood City, CA: Julie Daciuk](https://www.notarydepot.com/juliednotary)
-  - [Notary Public in Salt Lake City, UT: Julie Harward](https://www.notarydepot.com/julieharward)
   - [Notary Public in Perris, CA: Julie Jones](https://www.notarydepot.com/juliej)
   - [Notary Public in Los Angeles, CA: Julie Rice](https://www.notarydepot.com/julierice)
   - [Notary Public in Spring Valley, CA: Julie Salvato](https://www.notarydepot.com/juliesalvato)
@@ -8187,4 +8185,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-05-17T02:56:02Z
+Updated at 2019-05-17T03:16:02Z
