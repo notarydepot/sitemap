@@ -3427,6 +3427,7 @@
   - [Notary Public in Wausau, WI: Deb Smith](https://www.notarydepot.com/debsmith4759)
   - [Notary Public in Lovell, WY: Deborah A. Wambeke](https://www.notarydepot.com/debwambeke)
   - [Notary Public in Hudson, FL: Donna DeCeco](https://www.notarydepot.com/dececo)
+  - [Notary Public in Hollywood, FL: Doug Coller](https://www.notarydepot.com/decnotary)
   - [Notary Public in Temple, TX: Dana McKinney](https://www.notarydepot.com/dede1107)
   - [Notary Public in Houston, TX: Lateasha Kelley](https://www.notarydepot.com/dedicatedparalegal)
   - [Notary Public in North Highlands, CA: Dee Teixeira](https://www.notarydepot.com/dee11111111)
@@ -8189,4 +8190,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-05-18T23:36:02Z
+Updated at 2019-05-18T23:56:02Z
