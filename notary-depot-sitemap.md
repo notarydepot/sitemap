@@ -3653,7 +3653,6 @@
   - [Notary Public in Louisville, KY: Mike Hendricksen](https://www.notarydepot.com/dynamark)
   - [Notary Public in Bush, LA: Donna Zoller](https://www.notarydepot.com/dzoller)
   - [Notary Public in Ypsilanti, MI: Eisa Abusida](https://www.notarydepot.com/eabusida)
-  - [Notary Public in Chula Vista, CA: Eva Adolfsson](https://www.notarydepot.com/eadol41)
   - [Notary Public in Florissant, MO: Eric Alan](https://www.notarydepot.com/ealan82)
   - [Notary Public in Pittsburg, CA: Erika Allison](https://www.notarydepot.com/eallison)
   - [Notary Public in American Canyon, CA: Ever Olano](https://www.notarydepot.com/eaolano)
@@ -5863,6 +5862,7 @@
   - [Notary Public in Holly Springs, NC: Patricia Hoffman](https://www.notarydepot.com/notaryalacarte)
   - [Notary Public in Thousand Oaks, CA: Karen](https://www.notarydepot.com/notaryandapostille)
   - [Notary Public in Paterson, NJ: Luis Ramos](https://www.notarydepot.com/notaryathand)
+  - [Notary Public in Chula Vista, CA: Eva Adolfsson](https://www.notarydepot.com/notaryatyourdoor)
   - [Notary Public in Richmond, TX: Ella Duru](https://www.notarydepot.com/notaryatyourservice)
   - [Notary Public in Sun City, AZ: Esther Goetz](https://www.notarydepot.com/notaryaz)
   - [Notary Public in Santa Ana, CA: gilbert L salvador](https://www.notarydepot.com/notarybert)
@@ -8186,4 +8186,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-05-18T01:36:02Z
+Updated at 2019-05-18T01:56:02Z
