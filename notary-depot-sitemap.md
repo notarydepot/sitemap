@@ -4535,6 +4535,7 @@
   - [Notary Public in La Crescent, MN: Jolene Lien](https://www.notarydepot.com/jojolien709)
   - [Notary Public in Minneapolis, MN: Jrn](https://www.notarydepot.com/jojorere)
   - [Notary Public in Ocala, FL: Jonathan Baglieri - C.n.s.a.](https://www.notarydepot.com/jonbags)
+  - [Notary Public in Joplin, MO: Jonathan Boyd Griffith](https://www.notarydepot.com/jongriffith)
   - [Notary Public in Westfield, PA: Jonny L. Young](https://www.notarydepot.com/jonsnotary)
   - [Notary Public in Spotsylvania, VA: John Wonsik](https://www.notarydepot.com/jonwonz)
   - [Notary Public in Jupiter, FL: Gina Knapp](https://www.notarydepot.com/jordan4321)
@@ -8186,4 +8187,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-05-18T05:16:03Z
+Updated at 2019-05-18T05:36:01Z
