@@ -3174,6 +3174,7 @@
   - [Notary Public in Rohnert Park, CA: Celina Bertolina](https://www.notarydepot.com/cmbnotary)
   - [Notary Public in Lansing, MI: Connie Powers](https://www.notarydepot.com/cmcdade)
   - [Notary Public in Foxboro, WI: Christine Mcdonald](https://www.notarydepot.com/cmcdonald)
+  - [Notary Public in NY: Cynthia Mcfarlane ](https://www.notarydepot.com/cmcfarlane)
   - [Notary Public in Westport, CT: claudia ](https://www.notarydepot.com/cmdesalas)
   - [Notary Public in Wallington, NJ: Cheryl Mihalik](https://www.notarydepot.com/cmihalik)
   - [Notary Public in Chesterfield, VA: Wendy Hevener](https://www.notarydepot.com/cmnllc)
@@ -8187,4 +8188,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-05-18T18:36:02Z
+Updated at 2019-05-18T18:56:02Z
