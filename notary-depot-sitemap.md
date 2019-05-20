@@ -6929,6 +6929,7 @@
   - [Notary Public in Bloomfield Township, MI: Stacey Cornelius](https://www.notarydepot.com/staceylc)
   - [Notary Public in Fincastle, VA: Stacey Frechette](https://www.notarydepot.com/staceylf)
   - [Notary Public in Malaga, WA: Stacey Richard](https://www.notarydepot.com/staceyrichard23)
+  - [Notary Public in Malaga, WA: Stacey Richard ](https://www.notarydepot.com/staceyrichard2323)
   - [Notary Public in MA: Stacey Elin Rossi, Esq.](https://www.notarydepot.com/staceyrossi)
   - [Notary Public in Palm Desert, CA: Staci Kolbeck](https://www.notarydepot.com/stacikolbeck)
   - [Notary Public in Americus, GA: Stacy Edge](https://www.notarydepot.com/stacyedge)
@@ -8191,4 +8192,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-05-20T00:16:02Z
+Updated at 2019-05-20T00:36:02Z
