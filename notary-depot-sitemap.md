@@ -356,6 +356,7 @@
     - [Notary Public in Perris, CA](https://www.notarydepot.com/notary-near-me/California/Perris)
     - [Notary Public in Petaluma, CA](https://www.notarydepot.com/notary-near-me/California/Petaluma)
     - [Notary Public in Phelan, CA](https://www.notarydepot.com/notary-near-me/California/Phelan)
+    - [Notary Public in Pinole, CA](https://www.notarydepot.com/notary-near-me/California/Pinole)
     - [Notary Public in Pittsburg, CA](https://www.notarydepot.com/notary-near-me/California/Pittsburg)
     - [Notary Public in Placerville, CA](https://www.notarydepot.com/notary-near-me/California/Placerville)
     - [Notary Public in Pleasanton, CA](https://www.notarydepot.com/notary-near-me/California/Pleasanton)
@@ -6940,7 +6941,7 @@
   - [Notary Public in Columbia, MO: Glen Stancil](https://www.notarydepot.com/stancilg)
   - [Notary Public in Oakland, CA: Sandra Tarango](https://www.notarydepot.com/starango)
   - [Notary Public in Berkley, MI: Wanda Faye Tolbert](https://www.notarydepot.com/starnotary)
-  - [Notary Public in Hercules, CA: Claudia Horton](https://www.notarydepot.com/starservicenotary)
+  - [Notary Public in Pinole, CA: Claudia Horton](https://www.notarydepot.com/starservicenotary)
   - [Notary Public in Oklahoma City, OK: Peggy Brown](https://www.notarydepot.com/starz)
   - [Notary Public in Morgantown, PA: Kelly Starzmann](https://www.notarydepot.com/starzmannsnotary)
   - [Notary Public in Tulsa, OK: Sulivant &amp; Sulivant Investigations](https://www.notarydepot.com/statewidepi)
@@ -8192,4 +8193,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-05-21T17:16:05Z
+Updated at 2019-05-21T17:36:03Z
