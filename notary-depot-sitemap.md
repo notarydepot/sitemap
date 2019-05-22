@@ -4568,6 +4568,7 @@
   - [Notary Public in Manchester, NH: Myra Anne Mullen](https://www.notarydepot.com/jpmyra)
   - [Notary Public in Napa, CA: Jim Pettis](https://www.notarydepot.com/jpnotary)
   - [Notary Public in Provo, UT: John Poelman](https://www.notarydepot.com/jpoelman)
+  - [Notary Public in Little Rock, AR: Joni Powers](https://www.notarydepot.com/jpow79)
   - [Notary Public in Portland, OR: Jennifer N Powell](https://www.notarydepot.com/jpowellnsa)
   - [Notary Public in San Dimas, CA: Jeanne Pratt](https://www.notarydepot.com/jprattnotary)
   - [Notary Public in Abingdon, MD: John P Scollan](https://www.notarydepot.com/jpscollan)
@@ -8193,4 +8194,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-05-22T15:16:02Z
+Updated at 2019-05-22T15:36:03Z
