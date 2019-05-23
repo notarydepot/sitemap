@@ -1801,6 +1801,7 @@
     - [Notary Public in Pottstown, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Pottstown)
     - [Notary Public in Quakertown, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Quakertown)
     - [Notary Public in Reading, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Reading)
+    - [Notary Public in Ridley Park, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Ridley-Park)
     - [Notary Public in Riegelsville, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Riegelsville)
     - [Notary Public in Royersford, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Royersford)
     - [Notary Public in Rushland, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Rushland)
@@ -3084,6 +3085,7 @@
   - [Notary Public in Fort Worth, TX: Charlotte B. Morris](https://www.notarydepot.com/charlottetx)
   - [Notary Public in Los Angeles, CA: Charmaine A. Groat](https://www.notarydepot.com/charmz67)
   - [Notary Public in Pittsburg, CA: Sindy Hatch](https://www.notarydepot.com/chatch)
+  - [Notary Public in Ridley Park, PA: Crystal Hatcher-Edwards](https://www.notarydepot.com/chatcheredwards)
   - [Notary Public in Navarre, FL: Katherine A Robinson-Buchanan](https://www.notarydepot.com/chattykathyonwheels)
   - [Notary Public in Irvine, CA: Chris Cooksey](https://www.notarydepot.com/chawk230)
   - [Notary Public in Jackson, MS: Cherri A. Hayes](https://www.notarydepot.com/chayes)
@@ -8196,4 +8198,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-05-23T23:16:02Z
+Updated at 2019-05-23T23:36:03Z
