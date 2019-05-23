@@ -1140,6 +1140,7 @@
     - [Notary Public in Livonia, MI](https://www.notarydepot.com/notary-near-me/Michigan/Livonia)
     - [Notary Public in Macomb, MI](https://www.notarydepot.com/notary-near-me/Michigan/Macomb)
     - [Notary Public in Mancelona, MI](https://www.notarydepot.com/notary-near-me/Michigan/Mancelona)
+    - [Notary Public in Mattawan, MI](https://www.notarydepot.com/notary-near-me/Michigan/Mattawan)
     - [Notary Public in Milan, MI](https://www.notarydepot.com/notary-near-me/Michigan/Milan)
     - [Notary Public in Milford Charter Township, MI](https://www.notarydepot.com/notary-near-me/Michigan/Milford-Charter-Township)
     - [Notary Public in Montague, MI](https://www.notarydepot.com/notary-near-me/Michigan/Montague)
@@ -4297,6 +4298,7 @@
   - [Notary Public in Palmdale, CA: Javanna Palm](https://www.notarydepot.com/javanna79)
   - [Notary Public in Palmdale, CA: Javanna Palm](https://www.notarydepot.com/javannap)
   - [Notary Public in Hemet, CA: Cheryl Lee Handavaka](https://www.notarydepot.com/javen_ca)
+  - [Notary Public in Mattawan, MI: Louise Javery](https://www.notarydepot.com/javerysignsolutions)
   - [Notary Public in Palm Beach Gardens, FL: Jamie Avoletta](https://www.notarydepot.com/javoletta)
   - [Notary Public in Columbia, MO: Mostafa Jawadi Ph.D.](https://www.notarydepot.com/jawadi)
   - [Notary Public in Garland, TX: Walters Notary Agency](https://www.notarydepot.com/jawalters)
@@ -8194,4 +8196,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-05-23T21:16:02Z
+Updated at 2019-05-23T21:36:02Z
