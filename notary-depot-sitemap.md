@@ -1700,6 +1700,7 @@
     - [Notary Public in Lake Oswego, OR](https://www.notarydepot.com/notary-near-me/Oregon/Lake-Oswego)
     - [Notary Public in Lebanon, OR](https://www.notarydepot.com/notary-near-me/Oregon/Lebanon)
     - [Notary Public in Medford, OR](https://www.notarydepot.com/notary-near-me/Oregon/Medford)
+    - [Notary Public in Metolius, OR](https://www.notarydepot.com/notary-near-me/Oregon/Metolius)
     - [Notary Public in Molalla, OR](https://www.notarydepot.com/notary-near-me/Oregon/Molalla)
     - [Notary Public in Myrtle Creek, OR](https://www.notarydepot.com/notary-near-me/Oregon/Myrtle-Creek)
     - [Notary Public in Newberg, OR](https://www.notarydepot.com/notary-near-me/Oregon/Newberg)
@@ -4489,6 +4490,7 @@
   - [Notary Public in Roseville, CA: Jennifer Grinder](https://www.notarydepot.com/jmgrinder)
   - [Notary Public in Milford Charter Township, MI: John Micallef](https://www.notarydepot.com/jmicallefnotary)
   - [Notary Public in Molalla, OR: Jeanine Miles](https://www.notarydepot.com/jmiles)
+  - [Notary Public in Metolius, OR: Joel Mills](https://www.notarydepot.com/jmills495)
   - [Notary Public in Gobles, MI: J. Michael James](https://www.notarydepot.com/jmjames)
   - [Notary Public in White Plains, NY: Jean Kennedy](https://www.notarydepot.com/jmk)
   - [Notary Public in Apple Valley, CA: Julianne M Martin](https://www.notarydepot.com/jmmar16)
@@ -8198,4 +8200,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-05-24T22:16:03Z
+Updated at 2019-05-24T22:36:02Z
