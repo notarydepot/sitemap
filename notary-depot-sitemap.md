@@ -6214,6 +6214,7 @@
   - [Notary Public in Hopkinsville, KY: Patricia Moore](https://www.notarydepot.com/pmoore)
   - [Notary Public in Navarre, FL: James Jay](https://www.notarydepot.com/pnf32566)
   - [Notary Public in Nashville, TN: Piper Niemann](https://www.notarydepot.com/pniemann)
+  - [Notary Public in Saint Paul, MN: Pang](https://www.notarydepot.com/pnyang)
   - [Notary Public in Bolingbrook, IL: Phillip Burks](https://www.notarydepot.com/poburks)
   - [Notary Public in Reading, PA: Subpoena And Civil Process Services](https://www.notarydepot.com/pollywog)
   - [Notary Public in Bellefonte, PA: Paul Rametta](https://www.notarydepot.com/polram)
@@ -8201,4 +8202,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-05-25T13:56:02Z
+Updated at 2019-05-25T14:16:02Z
