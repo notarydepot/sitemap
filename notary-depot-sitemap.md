@@ -4452,6 +4452,7 @@
   - [Notary Public in Seffner, FL: Jillian](https://www.notarydepot.com/jillian33584)
   - [Notary Public in Walnut Creek, CA: Jill F Levine](https://www.notarydepot.com/jillifer33)
   - [Notary Public in Rancho Cordova, CA: Jim Rogers](https://www.notarydepot.com/jimerogers)
+  - [Notary Public in Meridian, ID: James](https://www.notarydepot.com/jiminidaho15)
   - [Notary Public in Hebron, OH: James K. Lowe](https://www.notarydepot.com/jimlowe)
   - [Notary Public in Nashua, NH: James Brown](https://www.notarydepot.com/jimmyb)
   - [Notary Public in Campbell, CA: Qi Jing](https://www.notarydepot.com/jingqi)
@@ -8202,4 +8203,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-05-26T13:36:02Z
+Updated at 2019-05-26T13:56:02Z
