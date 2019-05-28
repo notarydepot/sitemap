@@ -806,6 +806,7 @@
     - [Notary Public in Lewiston, ID](https://www.notarydepot.com/notary-near-me/Idaho/Lewiston)
     - [Notary Public in Meridian, ID](https://www.notarydepot.com/notary-near-me/Idaho/Meridian)
     - [Notary Public in Nampa, ID](https://www.notarydepot.com/notary-near-me/Idaho/Nampa)
+    - [Notary Public in Potlatch, ID](https://www.notarydepot.com/notary-near-me/Idaho/Potlatch)
     - [Notary Public in Rathdrum, ID](https://www.notarydepot.com/notary-near-me/Idaho/Rathdrum)
     - [Notary Public in Rexburg, ID](https://www.notarydepot.com/notary-near-me/Idaho/Rexburg)
     - [Notary Public in Rigby, ID](https://www.notarydepot.com/notary-near-me/Idaho/Rigby)
@@ -5188,6 +5189,7 @@
   - [Notary Public in San Antonio, TX: Tom Lucas](https://www.notarydepot.com/lucaslegalnotary)
   - [Notary Public in Dallas, TX: Lucero Ramon](https://www.notarydepot.com/luceroaramon)
   - [Notary Public in Colton, CA: Renee Luckey](https://www.notarydepot.com/luckeynotary)
+  - [Notary Public in Potlatch, ID: Paul F Bartell](https://www.notarydepot.com/luckylogger)
   - [Notary Public in Moreno Valley, CA: Luetta Clark](https://www.notarydepot.com/luetta)
   - [Notary Public in Katy, TX: Luciana Farria](https://www.notarydepot.com/lufarria)
   - [Notary Public in Jacksonville, FL: Luke Sawyer](https://www.notarydepot.com/lukesawyer)
@@ -8206,4 +8208,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-05-28T01:36:02Z
+Updated at 2019-05-28T01:56:02Z
