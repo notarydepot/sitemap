@@ -3967,6 +3967,7 @@
   - [Notary Public in Winchester, TN: Gayle Graves](https://www.notarydepot.com/ggraves)
   - [Notary Public in Spring Grove, IL: Abigail H. Grunst](https://www.notarydepot.com/ggrunst)
   - [Notary Public in Winter Garden, FL: Glory Ann Harnois](https://www.notarydepot.com/gharnois)
+  - [Notary Public in OK: Sholonda Barnes](https://www.notarydepot.com/ghhservices9321)
   - [Notary Public in Fort Smith, AR: Gwendolyn Holloway](https://www.notarydepot.com/ghollow)
   - [Notary Public in Houston, TX: Gigi Aguilar](https://www.notarydepot.com/gigi0522)
   - [Notary Public in Arcata, CA: Julie Gilbride](https://www.notarydepot.com/gilbride1)
@@ -8209,4 +8210,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-05-28T17:36:02Z
+Updated at 2019-05-28T17:56:02Z
