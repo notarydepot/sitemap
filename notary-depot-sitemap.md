@@ -576,6 +576,7 @@
     - [Notary Public in Clearwater, FL](https://www.notarydepot.com/notary-near-me/Florida/Clearwater)
     - [Notary Public in Clermont, FL](https://www.notarydepot.com/notary-near-me/Florida/Clermont)
     - [Notary Public in Cocoa, FL](https://www.notarydepot.com/notary-near-me/Florida/Cocoa)
+    - [Notary Public in Coconut Creek, FL](https://www.notarydepot.com/notary-near-me/Florida/Coconut-Creek)
     - [Notary Public in Coral Gables, FL](https://www.notarydepot.com/notary-near-me/Florida/Coral-Gables)
     - [Notary Public in Coral Springs, FL](https://www.notarydepot.com/notary-near-me/Florida/Coral-Springs)
     - [Notary Public in Crawfordville, FL](https://www.notarydepot.com/notary-near-me/Florida/Crawfordville)
@@ -4013,7 +4014,7 @@
   - [Notary Public in Dade City, FL: Cheryl Arnold](https://www.notarydepot.com/gramaarnp)
   - [Notary Public in Escondido, CA: Barbara Willkie](https://www.notarydepot.com/grammy)
   - [Notary Public in Garner, NC: Judy Nipper](https://www.notarydepot.com/grammy824)
-  - [Notary Public in Pompano Beach, FL: GEORGIANNE SYKES](https://www.notarydepot.com/grandaz)
+  - [Notary Public in Coconut Creek, FL: GEORGIANNE SYKES](https://www.notarydepot.com/grandaz)
   - [Notary Public in Rancho Palos Verdes, CA: Rhonda](https://www.notarydepot.com/grandmother)
   - [Notary Public in Savannah, GA: Kindall Grant](https://www.notarydepot.com/grantlawgroup)
   - [Notary Public in Vista, CA: Grant Siracusa](https://www.notarydepot.com/grant_s)
@@ -8208,4 +8209,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-05-28T12:36:02Z
+Updated at 2019-05-28T12:56:02Z
