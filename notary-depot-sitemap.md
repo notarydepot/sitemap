@@ -3340,6 +3340,7 @@
   - [Notary Public in Mahopac, NY: Dan Pearsall](https://www.notarydepot.com/danielpearsall)
   - [Notary Public in Orange Park, FL: Grover D Daniels](https://www.notarydepot.com/danielsg65)
   - [Notary Public in Westbury, NY: Daniel C. Jaipaul](https://www.notarydepot.com/danita46)
+  - [Notary Public in St. Petersburg, FL: Daniel T Kortenhaus](https://www.notarydepot.com/dannotary1)
   - [Notary Public in Mahopac, NY: Dan Pearsall](https://www.notarydepot.com/danpearsall)
   - [Notary Public in Las Vegas, NV: Dante Thompson](https://www.notarydepot.com/dantethompson)
   - [Notary Public in North Aurora, IL: Deborah Ann Otero](https://www.notarydepot.com/daotero)
@@ -8208,4 +8209,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-05-28T21:56:02Z
+Updated at 2019-05-28T22:16:02Z
