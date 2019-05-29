@@ -4224,6 +4224,7 @@
   - [Notary Public in Phoenix, AZ: Jennifer Hayes](https://www.notarydepot.com/itsnatalieanouk)
   - [Notary Public in Philadelphia, PA: Kim French](https://www.notarydepot.com/itspossible)
   - [Notary Public in Lakeland, FL: Ivelisse Santiago](https://www.notarydepot.com/ivelisse)
+  - [Notary Public in Weymouth, MA: Iyisha](https://www.notarydepot.com/iyishap)
   - [Notary Public in Jonesboro, AR: Jennifer &quot;Andrea&quot; Hyman](https://www.notarydepot.com/j1a1hyman)
   - [Notary Public in Ladera Ranch, CA: Jason Abadie](https://www.notarydepot.com/jabadie19)
   - [Notary Public in Chicago, IL: Chicago Mobile Notary](https://www.notarydepot.com/jacil)
@@ -8210,4 +8211,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-05-29T15:36:03Z
+Updated at 2019-05-29T15:56:03Z
