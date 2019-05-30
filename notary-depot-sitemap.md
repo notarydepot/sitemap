@@ -4446,7 +4446,7 @@
   - [Notary Public in Livonia, MI: John Helbling](https://www.notarydepot.com/jhelbling300yahoocom)
   - [Notary Public in NJ: Jennifer Hendy](https://www.notarydepot.com/jhendy)
   - [Notary Public in Gig Harbor, WA: Jessica Tweten](https://www.notarydepot.com/jhicks)
-  - [Notary Public in Cottage Grove, WI: Jennifer Hopkins ](https://www.notarydepot.com/jhopkinsnotary)
+  - [Notary Public in Cottage Grove, WI: Jennifer Hopkins](https://www.notarydepot.com/jhopkinsnotary)
   - [Notary Public in Clermont, FL: Jennifer Hornby](https://www.notarydepot.com/jhornby)
   - [Notary Public in Hattiesburg, MS: jarveous edward hughes](https://www.notarydepot.com/jhughes23)
   - [Notary Public in Grand Junction, CO: John Humphrey](https://www.notarydepot.com/jhumph)
@@ -8211,4 +8211,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-05-30T12:56:02Z
+Updated at 2019-05-30T13:16:02Z
