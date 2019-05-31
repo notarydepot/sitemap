@@ -2683,6 +2683,7 @@
   - [Notary Public in Lexington, TN: Amy W. Halters](https://www.notarydepot.com/awhalters)
   - [Notary Public in San Antonio, TX: Amber Williams](https://www.notarydepot.com/awilliams1727)
   - [Notary Public in Columbus, OH: Steve Williams](https://www.notarydepot.com/aygc271)
+  - [Notary Public in Taos, NM: Ayla](https://www.notarydepot.com/aylacisneros)
   - [Notary Public in Wilmington, NC: Allen Young](https://www.notarydepot.com/ayoungnotary)
   - [Notary Public in Euclid, OH: Anitra King](https://www.notarydepot.com/aysnotary)
   - [Notary Public in Plymouth, MI: Alex G Yvonnou](https://www.notarydepot.com/ayvonnou)
@@ -8215,4 +8216,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-05-31T20:16:02Z
+Updated at 2019-05-31T20:36:03Z
