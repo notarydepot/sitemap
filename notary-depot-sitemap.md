@@ -6070,6 +6070,7 @@
   - [Notary Public in Riverside, CA: Rose Pitruzzello](https://www.notarydepot.com/omegarose)
   - [Notary Public in Manteca, CA: Otis Millbrook Jr.](https://www.notarydepot.com/omillbro)
   - [Notary Public in Ontario, CA: Andrea Ondatje](https://www.notarydepot.com/ondatjea)
+  - [Notary Public in Washington, DC: OneSourceProcess](https://www.notarydepot.com/onesource784)
   - [Notary Public in Modesto, CA: Beverly Stokke](https://www.notarydepot.com/ontherunnotary)
   - [Notary Public in Dallas, TX: Donna Gibson](https://www.notarydepot.com/ontimemobilenotary)
   - [Notary Public in Conroe, TX: Simone Shelton](https://www.notarydepot.com/ontimetosign)
@@ -8213,4 +8214,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-05-31T06:36:02Z
+Updated at 2019-05-31T06:56:03Z
