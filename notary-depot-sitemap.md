@@ -4649,6 +4649,7 @@
   - [Notary Public in Brentwood, CA: Aaron Washington](https://www.notarydepot.com/jupiter12)
   - [Notary Public in NY: Yadhira Gonzalez-Taylor](https://www.notarydepot.com/jurist2002)
   - [Notary Public in Middletown, PA: Beth C. Lawson](https://www.notarydepot.com/jury1996)
+  - [Notary Public in Las Vegas, NV: Justine ](https://www.notarydepot.com/jusbae86)
   - [Notary Public in Casselberry, FL: Lucille O&#39;Reilly](https://www.notarydepot.com/justclosings)
   - [Notary Public in CA: Julin Geba](https://www.notarydepot.com/justdeed)
   - [Notary Public in Mission Viejo, CA: Justin Yagher](https://www.notarydepot.com/justinyagher)
@@ -8214,4 +8215,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-05-31T16:56:02Z
+Updated at 2019-05-31T17:16:04Z
