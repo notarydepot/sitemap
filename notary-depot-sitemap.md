@@ -46,7 +46,6 @@
     - [Notary Public in Geraldine, AL](https://www.notarydepot.com/notary-near-me/Alabama/Geraldine)
     - [Notary Public in Grant, AL](https://www.notarydepot.com/notary-near-me/Alabama/Grant)
     - [Notary Public in Guntersville, AL](https://www.notarydepot.com/notary-near-me/Alabama/Guntersville)
-    - [Notary Public in Hamilton, AL](https://www.notarydepot.com/notary-near-me/Alabama/Hamilton)
     - [Notary Public in Helena, AL](https://www.notarydepot.com/notary-near-me/Alabama/Helena)
     - [Notary Public in Huntsville, AL](https://www.notarydepot.com/notary-near-me/Alabama/Huntsville)
     - [Notary Public in Kimberly, AL](https://www.notarydepot.com/notary-near-me/Alabama/Kimberly)
@@ -116,6 +115,7 @@
     - [Notary Public in Arkadelphia, AR](https://www.notarydepot.com/notary-near-me/Arkansas/Arkadelphia)
     - [Notary Public in Bella Vista, AR](https://www.notarydepot.com/notary-near-me/Arkansas/Bella-Vista)
     - [Notary Public in Benton, AR](https://www.notarydepot.com/notary-near-me/Arkansas/Benton)
+    - [Notary Public in Camden, AR](https://www.notarydepot.com/notary-near-me/Arkansas/Camden)
     - [Notary Public in Cherokee Village, AR](https://www.notarydepot.com/notary-near-me/Arkansas/Cherokee-Village)
     - [Notary Public in Fort Smith, AR](https://www.notarydepot.com/notary-near-me/Arkansas/Fort-Smith)
     - [Notary Public in Fouke, AR](https://www.notarydepot.com/notary-near-me/Arkansas/Fouke)
@@ -4590,7 +4590,7 @@
   - [Notary Public in Abingdon, MD: John P Scollan](https://www.notarydepot.com/jpscollan)
   - [Notary Public in Huntington Beach, CA: J.q. Edsell](https://www.notarydepot.com/jqedsell)
   - [Notary Public in Lake Worth, FL: James Ashe](https://www.notarydepot.com/jrashe)
-  - [Notary Public in Hamilton, AL: John Dodson](https://www.notarydepot.com/jrdodson2245)
+  - [Notary Public in Camden, AR: John Dodson](https://www.notarydepot.com/jrdodson2245)
   - [Notary Public in San Diego, CA: San Diego Public Notary - Jeff Redondo](https://www.notarydepot.com/jredondo)
   - [Notary Public in Hurst, TX: Joe Herrera](https://www.notarydepot.com/jrherrera)
   - [Notary Public in Cooper, TX: Jeannette Malburg](https://www.notarydepot.com/jrmalburg)
@@ -8216,4 +8216,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-06-01T12:16:02Z
+Updated at 2019-06-01T12:36:03Z
