@@ -6633,6 +6633,7 @@
   - [Notary Public in Kennesaw, GA: Sasanna Strozier](https://www.notarydepot.com/sasanna)
   - [Notary Public in West Palm Beach, FL: Shirley See](https://www.notarydepot.com/sasee4259)
   - [Notary Public in Little Rock, AR: Sherry A. Stevenson](https://www.notarydepot.com/sasnotary)
+  - [Notary Public in Richmond, VA: Gwendolyn M Barnes](https://www.notarydepot.com/sassib)
   - [Notary Public in Cincinnati, OH: satar](https://www.notarydepot.com/satarba)
   - [Notary Public in Saucier, MS: Brenda R Palmer](https://www.notarydepot.com/sauciernotary)
   - [Notary Public in Rowland Heights, CA: Roselle Savary](https://www.notarydepot.com/savarynotaryservices)
@@ -8216,4 +8217,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-06-02T22:56:02Z
+Updated at 2019-06-02T23:16:02Z
