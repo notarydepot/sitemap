@@ -5493,6 +5493,7 @@
   - [Notary Public in Tustin, CA: Michael L Hofacre](https://www.notarydepot.com/mike_hofacre)
   - [Notary Public in Milan, MI: Mike White](https://www.notarydepot.com/mikjrr)
   - [Notary Public in Hearne, TX: Sandra Moten](https://www.notarydepot.com/milajnotary)
+  - [Notary Public in Westminster, CO: Chris](https://www.notarydepot.com/milehighnotary)
   - [Notary Public in Cleveland, TN: April Miles ](https://www.notarydepot.com/miles1422)
   - [Notary Public in Sacramento, CA: Tobias Scott](https://www.notarydepot.com/milesbenedicene)
   - [Notary Public in Royersford, PA: Sherry L. Miller](https://www.notarydepot.com/miller68)
@@ -8217,4 +8218,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-06-03T01:16:02Z
+Updated at 2019-06-03T01:36:02Z
