@@ -6305,7 +6305,7 @@
   - [Notary Public in Fishers, IN: Jody Scott](https://www.notarydepot.com/qpsjo)
   - [Notary Public in Los Angeles, CA: Queen Bee Notary](https://www.notarydepot.com/queenbee)
   - [Notary Public in Los Angeles, CA: Edith J Matthews](https://www.notarydepot.com/queenedie)
-  - [Notary Public in Fort Mill, SC: Vashti Encarnacion](https://www.notarydepot.com/queenvashti)
+  - [Notary Public in Rock Hill, SC: Vashti Encarnacion](https://www.notarydepot.com/queenvashti)
   - [Notary Public in Arcadia, CA: Craig Naylor](https://www.notarydepot.com/quickdocs)
   - [Notary Public in Greensburg, PA: Robert Nowlin](https://www.notarydepot.com/quicksigners)
   - [Notary Public in Saint Paul, MN: Joseph P. Kelly](https://www.notarydepot.com/quillnotary)
@@ -8218,4 +8218,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-06-03T23:56:02Z
+Updated at 2019-06-04T00:16:02Z
