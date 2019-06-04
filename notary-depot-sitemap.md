@@ -6983,7 +6983,7 @@
   - [Notary Public in Delray Beach, FL: Stephanie](https://www.notarydepot.com/stephatliberty)
   - [Notary Public in Wenatchee, WA: Stephen P Harden](https://www.notarydepot.com/stephenpharden)
   - [Notary Public in Newport Beach, CA: Stephanie Gill](https://www.notarydepot.com/stephnb05)
-  - [Notary Public in Huntington Park, CA: Stephanie Ortiz De Leon](https://www.notarydepot.com/stephnotary)
+  - [Notary Public in Huntington Park, CA: Stephanie P Ortiz De Leon](https://www.notarydepot.com/stephnotary)
   - [Notary Public in Charlotte, NC: Stephanie Alexander-Stanton](https://www.notarydepot.com/stephstanton)
   - [Notary Public in Kalamazoo, MI: Johanna S. Solis](https://www.notarydepot.com/stepnotary)
   - [Notary Public in Union City, GA: Stephanie Sims](https://www.notarydepot.com/stepsims1)
@@ -8219,4 +8219,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-06-04T00:36:02Z
+Updated at 2019-06-04T00:56:02Z
