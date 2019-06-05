@@ -3749,7 +3749,6 @@
   - [Notary Public in Kansas City, MO: L. Denise Thomas](https://www.notarydepot.com/emahni88)
   - [Notary Public in Richmond, VA: Tonia Emanuel](https://www.notarydepot.com/emanueltonia)
   - [Notary Public in San Bernardino, CA: Mari Cruz Escarcega](https://www.notarydepot.com/emc2ca)
-  - [Notary Public in Danbury, CT: Eva Marie Colla](https://www.notarydepot.com/emc75)
   - [Notary Public in Salinas, CA: Enrique Mendez](https://www.notarydepot.com/emendez)
   - [Notary Public in Pontiac, MI: Sabrina Simpson](https://www.notarydepot.com/emersonhomeafc)
   - [Notary Public in Dania Beach, FL: Emilio Rodriguez](https://www.notarydepot.com/emiliorodriguezlaw)
@@ -8220,4 +8219,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-06-05T17:56:02Z
+Updated at 2019-06-05T18:16:03Z
