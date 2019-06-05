@@ -6557,6 +6557,7 @@
   - [Notary Public in Hialeah, FL: Juan C.Ruiz CNSA](https://www.notarydepot.com/ruiz1)
   - [Notary Public in Curwensville, PA: Scott Rummings](https://www.notarydepot.com/rummings)
   - [Notary Public in Mesa, AZ: Lindy L. Chiaramonte](https://www.notarydepot.com/runfast)
+  - [Notary Public in Valrico, FL: Russell Lewis Sr.](https://www.notarydepot.com/russelllewissr)
   - [Notary Public in Rexburg, ID: Russell Evans](https://www.notarydepot.com/russelltevans)
   - [Notary Public in Danville, CA: Donna Torres](https://www.notarydepot.com/rustylove1)
   - [Notary Public in Pawleys Island, SC: Ruthie Graves](https://www.notarydepot.com/ruthieg2007)
@@ -8219,4 +8220,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-06-04T23:56:02Z
+Updated at 2019-06-05T00:16:02Z
