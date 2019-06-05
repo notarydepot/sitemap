@@ -6436,6 +6436,7 @@
   - [Notary Public in Mesa, AZ: Rigo Gonzalez](https://www.notarydepot.com/rigogonz)
   - [Notary Public in Alameda, CA: Rina Winston](https://www.notarydepot.com/rinawinston)
   - [Notary Public in Diamond Bar, CA: Rishi Dhiri](https://www.notarydepot.com/rishi)
+  - [Notary Public in Diamond Bar, CA: Rishi Dhiri](https://www.notarydepot.com/rishworld)
   - [Notary Public in Gulfport, MS: Ritha Fuller](https://www.notarydepot.com/rithafull63)
   - [Notary Public in Tempe, AZ: Renault Carrington](https://www.notarydepot.com/rjc198003)
   - [Notary Public in Bedford, OH: Rhonda Jennings](https://www.notarydepot.com/rjennings)
@@ -8219,4 +8220,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-06-05T22:56:02Z
+Updated at 2019-06-05T23:16:02Z
