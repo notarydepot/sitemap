@@ -7158,6 +7158,7 @@
   - [Notary Public in Anaheim, CA: Jesus Valdez Cebillos](https://www.notarydepot.com/themailroom)
   - [Notary Public in Mount Holly, NJ: Matty Midura](https://www.notarydepot.com/thematt)
   - [Notary Public in West Haverstraw, NY: Helen Hardeen](https://www.notarydepot.com/themobilenotary)
+  - [Notary Public in Los Angeles, CA: Michelle Morgan](https://www.notarydepot.com/themorganstandard)
   - [Notary Public in Chester, NJ: Melanie B. Heit Rivellese](https://www.notarydepot.com/thenoblenotary)
   - [Notary Public in San Diego, CA: Lois Downing](https://www.notarydepot.com/thenotarygal)
   - [Notary Public in Stockton, CA: R. Garrett](https://www.notarydepot.com/thenotarygeek)
@@ -8219,4 +8220,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-06-06T18:16:02Z
+Updated at 2019-06-06T18:36:02Z
