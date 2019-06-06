@@ -506,6 +506,7 @@
     - [Notary Public in Northglenn, CO](https://www.notarydepot.com/notary-near-me/Colorado/Northglenn)
     - [Notary Public in Orchard City, CO](https://www.notarydepot.com/notary-near-me/Colorado/Orchard-City)
     - [Notary Public in Pagosa Springs, CO](https://www.notarydepot.com/notary-near-me/Colorado/Pagosa-Springs)
+    - [Notary Public in Parker, CO](https://www.notarydepot.com/notary-near-me/Colorado/Parker)
     - [Notary Public in Peyton, CO](https://www.notarydepot.com/notary-near-me/Colorado/Peyton)
     - [Notary Public in Pueblo, CO](https://www.notarydepot.com/notary-near-me/Colorado/Pueblo)
     - [Notary Public in Rifle, CO](https://www.notarydepot.com/notary-near-me/Colorado/Rifle)
@@ -5733,6 +5734,7 @@
   - [Notary Public in Memphis, TN: Kimberly P Jones](https://www.notarydepot.com/mzjonez)
   - [Notary Public in Irmo, SC: Jenyfer Rogers](https://www.notarydepot.com/mznewbz)
   - [Notary Public in Ruskin, FL: Jessica Robinson](https://www.notarydepot.com/mzrobinson07)
+  - [Notary Public in Parker, CO: Christina Manalastas](https://www.notarydepot.com/n1namar13)
   - [Notary Public in Hollister, CA: Nadine Davis](https://www.notarydepot.com/nadinenotary)
   - [Notary Public in Alpharetta, GA: Najhia Butler](https://www.notarydepot.com/najhiab)
   - [Notary Public in Arab, AL: James C. Martin](https://www.notarydepot.com/nalabamanotary)
@@ -7143,7 +7145,6 @@
   - [Notary Public in Moriches, NY: Tracey Gallagher](https://www.notarydepot.com/tgallagher)
   - [Notary Public in Scottsdale, AZ: Tamara R. Gonsor](https://www.notarydepot.com/tgonsor)
   - [Notary Public in Tampa, FL: Telli Griffin](https://www.notarydepot.com/tgriffin49)
-  - [Notary Public in West Jordan, UT: Clarence Duncan](https://www.notarydepot.com/thatnotaryguy)
   - [Notary Public in New London, MO: Sarah Hathaway](https://www.notarydepot.com/the4hathawaysgmailcom)
   - [Notary Public in CA: Debra Perkins](https://www.notarydepot.com/the75bug)
   - [Notary Public in Rochelle Park, NJ: Diane Nissen](https://www.notarydepot.com/thealexandritegroup)
@@ -8220,4 +8221,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-06-06T02:36:02Z
+Updated at 2019-06-06T02:56:03Z
