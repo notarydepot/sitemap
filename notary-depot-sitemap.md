@@ -2608,7 +2608,7 @@
   - [Notary Public in Bronson, MI: Karon Jo Fisher](https://www.notarydepot.com/apsnltch)
   - [Notary Public in Aptos, CA: Tim Menge](https://www.notarydepot.com/aptosgolf)
   - [Notary Public in Parker, AZ: Amy Putnam](https://www.notarydepot.com/aputnam)
-  - [Notary Public in Lake Forest, CA: A+ Mobile Notary /Susan&#39;s Mobile Notary/  A Quick Note](https://www.notarydepot.com/aquicknotesbcglobalnet)
+  - [Notary Public in Clarksville, TN: A Quick Note in Tennessee ](https://www.notarydepot.com/aquicknotesbcglobalnet)
   - [Notary Public in Escondido, CA: Araceli Hernandez](https://www.notarydepot.com/araceli822)
   - [Notary Public in Tracy, CA: Alicia Ramirez](https://www.notarydepot.com/aramirez)
   - [Notary Public in Duncanville, TX: Angelita Haddock](https://www.notarydepot.com/arecoleh)
@@ -8219,4 +8219,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-06-06T16:36:02Z
+Updated at 2019-06-06T16:56:03Z
