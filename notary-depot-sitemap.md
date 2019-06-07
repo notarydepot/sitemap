@@ -3450,6 +3450,7 @@
   - [Notary Public in Kansas City, MO: Della Taylor](https://www.notarydepot.com/deenotarylady)
   - [Notary Public in Pleasanton, CA: Deepti Verma](https://www.notarydepot.com/deepti)
   - [Notary Public in Jacksonville, NC: Denise Rivers](https://www.notarydepot.com/deerivers)
+  - [Notary Public in Port Orchard, WA: Diana Shaw](https://www.notarydepot.com/deesnotary2go)
   - [Notary Public in Madison, WI: Frank Pabon](https://www.notarydepot.com/defroady)
   - [Notary Public in Bracey, VA: Denise Johnson](https://www.notarydepot.com/dej)
   - [Notary Public in North Royalton, OH: Duane Lewis](https://www.notarydepot.com/delewis2)
@@ -8222,4 +8223,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-06-07T03:36:02Z
+Updated at 2019-06-07T03:56:01Z
