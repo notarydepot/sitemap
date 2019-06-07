@@ -5137,6 +5137,7 @@
   - [Notary Public in Battle Ground, WA: Lesley Metscher](https://www.notarydepot.com/lmetscher)
   - [Notary Public in Las Vegas, NV: Lisa M Gaglio](https://www.notarydepot.com/lmgsigningservices)
   - [Notary Public in Atascadero, CA: Linda Mintey](https://www.notarydepot.com/lmintey123)
+  - [Notary Public in Fredericksburg, VA: Lisa Jackson](https://www.notarydepot.com/lmjackson73)
   - [Notary Public in Cloverdale, CA: Linda Welch](https://www.notarydepot.com/lndwelch)
   - [Notary Public in Freehold, NJ: Lizette](https://www.notarydepot.com/lnleon1962)
   - [Notary Public in Downingtown, PA: Lauren Peluso](https://www.notarydepot.com/lnpeluso)
@@ -8223,4 +8224,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-06-07T14:16:03Z
+Updated at 2019-06-07T14:36:02Z
