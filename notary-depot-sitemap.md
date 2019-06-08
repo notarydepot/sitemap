@@ -853,6 +853,7 @@
     - [Notary Public in Ingleside, IL](https://www.notarydepot.com/notary-near-me/Illinois/Ingleside)
     - [Notary Public in Joliet, IL](https://www.notarydepot.com/notary-near-me/Illinois/Joliet)
     - [Notary Public in Lake Villa, IL](https://www.notarydepot.com/notary-near-me/Illinois/Lake-Villa)
+    - [Notary Public in Lansing, IL](https://www.notarydepot.com/notary-near-me/Illinois/Lansing)
     - [Notary Public in Loves Park, IL](https://www.notarydepot.com/notary-near-me/Illinois/Loves-Park)
     - [Notary Public in Madison, IL](https://www.notarydepot.com/notary-near-me/Illinois/Madison)
     - [Notary Public in Matteson, IL](https://www.notarydepot.com/notary-near-me/Illinois/Matteson)
@@ -6889,6 +6890,7 @@
   - [Notary Public in Albany, NY: Leslie P. Robinson](https://www.notarydepot.com/smplythbest1)
   - [Notary Public in Buena Park, CA: Sonja M Rule](https://www.notarydepot.com/smrules1)
   - [Notary Public in Tampa, FL: Sharon M Niblack](https://www.notarydepot.com/smstarkes)
+  - [Notary Public in Lansing, IL: Salomae Muhammad](https://www.notarydepot.com/smuhammad1)
   - [Notary Public in Bakersfield, CA: Susan M Johnson](https://www.notarydepot.com/smuirbiggs)
   - [Notary Public in Huntington, WV: Shannon Wiley](https://www.notarydepot.com/smwiley)
   - [Notary Public in Cedar Hill, TX: Stephanie Gardner](https://www.notarydepot.com/sngardner)
@@ -8225,4 +8227,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-06-08T15:36:02Z
+Updated at 2019-06-08T15:56:02Z
