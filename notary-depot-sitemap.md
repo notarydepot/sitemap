@@ -4163,6 +4163,7 @@
   - [Notary Public in Escondido, CA: Heather Reinhold](https://www.notarydepot.com/hreinhold)
   - [Notary Public in White Pine, TN: Jonathan W Stewart](https://www.notarydepot.com/hscomp)
   - [Notary Public in Hayward, CA: Fay Hudson](https://www.notarydepot.com/hudsonbay)
+  - [Notary Public in NY: Cheryl Poccia](https://www.notarydepot.com/hudsonstandard)
   - [Notary Public in Los Angeles, CA: Cheryl](https://www.notarydepot.com/hufford68)
   - [Notary Public in Los Angeles, CA: Hugo Enriquez](https://www.notarydepot.com/hugoenr87)
   - [Notary Public in DeLand, FL: Wesley C. Kibler](https://www.notarydepot.com/hvnotary)
@@ -8224,4 +8225,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-06-08T01:16:02Z
+Updated at 2019-06-08T01:36:02Z
