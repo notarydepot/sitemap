@@ -3198,6 +3198,7 @@
   - [Notary Public in Broken Arrow, OK: Ms. Christine Oldham, BS, PMP](https://www.notarydepot.com/cnsa12)
   - [Notary Public in NY: Christina Giallombardo](https://www.notarydepot.com/cnsa215)
   - [Notary Public in Woodland, CA: Jack M Conaway](https://www.notarydepot.com/cnsajc)
+  - [Notary Public in Fort Myers, FL: Melissa A Young](https://www.notarydepot.com/cobysmom08)
   - [Notary Public in Modesto, CA: Consuelo Huerta](https://www.notarydepot.com/cochoa04)
   - [Notary Public in Sebastian, FL: Debbie Brandauer](https://www.notarydepot.com/cocoaskid)
   - [Notary Public in Lancaster, CA: Elizabeth Ann Ballentine](https://www.notarydepot.com/code3mobilenotary)
@@ -8227,4 +8228,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-06-09T12:16:03Z
+Updated at 2019-06-09T12:36:02Z
