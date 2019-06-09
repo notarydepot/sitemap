@@ -1407,6 +1407,7 @@
     - [Notary Public in Westville, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Westville)
     - [Notary Public in Wharton, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Wharton)
     - [Notary Public in Willingboro, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Willingboro)
+    - [Notary Public in Wood Ridge, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Wood-Ridge)
     - [Notary Public in Woodbridge Township, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Woodbridge-Township)
   - [Notaries Public in New Mexico](https://www.notarydepot.com/notary-near-me/New-Mexico)
     - [Notary Public in Albuquerque, NM](https://www.notarydepot.com/notary-near-me/New-Mexico/Albuquerque)
@@ -7196,6 +7197,7 @@
   - [Notary Public in Upland, CA: TIFFANY HARMS](https://www.notarydepot.com/tiffanyharms77)
   - [Notary Public in CA: Long Beach Mobile Notary 24/7](https://www.notarydepot.com/tiffanynotary)
   - [Notary Public in Carson, CA: Tiffany Reed](https://www.notarydepot.com/tiffanyvreed)
+  - [Notary Public in Wood-Ridge, NJ: Estefany Gonzalez](https://www.notarydepot.com/tifithenotary)
   - [Notary Public in Diamond Springs, CA: Timalynn Jaynes](https://www.notarydepot.com/timalynn)
   - [Notary Public in Mifflintown, PA: Timothy Burdick](https://www.notarydepot.com/timburdick)
   - [Notary Public in Memphis, TN: Timothy A. (Tim) Gatewood](https://www.notarydepot.com/timgatewood)
@@ -8229,4 +8231,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-06-09T22:36:02Z
+Updated at 2019-06-09T22:56:02Z
