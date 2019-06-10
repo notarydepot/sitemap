@@ -6019,6 +6019,7 @@
   - [Notary Public in San Ramon, CA: Olin H. Covington dba Notary To Go](https://www.notarydepot.com/notary_to_go)
   - [Notary Public in Westminster, CA: Thu Tran](https://www.notarydepot.com/notary_ttran)
   - [Notary Public in Almond, WI: Anthony L. Thacker III](https://www.notarydepot.com/notdemand)
+  - [Notary Public in Washington, DC: Noelle Thomas](https://www.notarydepot.com/notednotarydc)
   - [Notary Public in Pasadena, CA: Linda Hart](https://www.notarydepot.com/notorybuzz)
   - [Notary Public in Abilene, TX: Kelly](https://www.notarydepot.com/notrbl2)
   - [Notary Public in Fort Wayne, IN: Signing Closers LLC](https://www.notarydepot.com/nottary247)
@@ -8231,4 +8232,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-06-10T15:16:02Z
+Updated at 2019-06-10T15:36:02Z
