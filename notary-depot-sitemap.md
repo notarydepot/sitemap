@@ -739,6 +739,7 @@
     - [Notary Public in Blairsville, GA](https://www.notarydepot.com/notary-near-me/Georgia/Blairsville)
     - [Notary Public in Braselton, GA](https://www.notarydepot.com/notary-near-me/Georgia/Braselton)
     - [Notary Public in Brunswick, GA](https://www.notarydepot.com/notary-near-me/Georgia/Brunswick)
+    - [Notary Public in Buford, GA](https://www.notarydepot.com/notary-near-me/Georgia/Buford)
     - [Notary Public in Byron, GA](https://www.notarydepot.com/notary-near-me/Georgia/Byron)
     - [Notary Public in Canton, GA](https://www.notarydepot.com/notary-near-me/Georgia/Canton)
     - [Notary Public in College Park, GA](https://www.notarydepot.com/notary-near-me/Georgia/College-Park)
@@ -6608,6 +6609,7 @@
   - [Notary Public in Elk Grove, CA: Sam M.](https://www.notarydepot.com/samsnotaryca)
   - [Notary Public in Exton, PA: Nora Sanchez-Prado](https://www.notarydepot.com/sanchen)
   - [Notary Public in Lynwood, CA: Vanessa Sanchez](https://www.notarydepot.com/sanchez1829)
+  - [Notary Public in Buford, GA: Sandy Jackson](https://www.notarydepot.com/sandeejax)
   - [Notary Public in Warminster, PA: Janine Sanders](https://www.notarydepot.com/sandersmobilenotary)
   - [Notary Public in Carlsbad, CA: Ilima Kam Martinez](https://www.notarydepot.com/sandiegonotary)
   - [Notary Public in San Diego, CA: San Diego Notary Now](https://www.notarydepot.com/sandiegonotarynow)
@@ -8232,4 +8234,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-06-10T19:57:02Z
+Updated at 2019-06-10T20:17:02Z
