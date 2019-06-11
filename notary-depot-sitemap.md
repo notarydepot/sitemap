@@ -6346,7 +6346,7 @@
   - [Notary Public in Robertsdale, AL: Rosemary Gandy](https://www.notarydepot.com/rasbilling)
   - [Notary Public in Blissfield, MI: E-Z-1 Public Notary Public/ Closing Agent](https://www.notarydepot.com/rasin)
   - [Notary Public in Waimea, HI: Rasquel Featheran](https://www.notarydepot.com/rasquel)
-  - [Notary Public in Arcadia, FL: Stacy Jacobson](https://www.notarydepot.com/ravholette)
+  - [Notary Public in Arcadia, FL: Stacy Himmel Jacobson](https://www.notarydepot.com/ravholette)
   - [Notary Public in CA: Ravinder Pilson, Certified Notary Signing Agent](https://www.notarydepot.com/ravinder)
   - [Notary Public in Bellflower, CA: Ray Muldrow](https://www.notarydepot.com/ray)
   - [Notary Public in London, OH: Robert Banhagel](https://www.notarydepot.com/rbanhagel)
@@ -8235,4 +8235,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-06-11T13:37:02Z
+Updated at 2019-06-11T13:57:02Z
