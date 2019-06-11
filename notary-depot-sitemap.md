@@ -1608,6 +1608,7 @@
     - [Notary Public in Alliance, OH](https://www.notarydepot.com/notary-near-me/Ohio/Alliance)
     - [Notary Public in Amherst, OH](https://www.notarydepot.com/notary-near-me/Ohio/Amherst)
     - [Notary Public in Arcanum, OH](https://www.notarydepot.com/notary-near-me/Ohio/Arcanum)
+    - [Notary Public in Batavia, OH](https://www.notarydepot.com/notary-near-me/Ohio/Batavia)
     - [Notary Public in Beachwood, OH](https://www.notarydepot.com/notary-near-me/Ohio/Beachwood)
     - [Notary Public in Bedford, OH](https://www.notarydepot.com/notary-near-me/Ohio/Bedford)
     - [Notary Public in Belpre, OH](https://www.notarydepot.com/notary-near-me/Ohio/Belpre)
@@ -4333,6 +4334,7 @@
   - [Notary Public in Snohomish, WA: Julie A. Barrans](https://www.notarydepot.com/jbarrans)
   - [Notary Public in Arkadelphia, AR: Johnnie Dunn](https://www.notarydepot.com/jbdunn1)
   - [Notary Public in Cape Coral, FL: Julie A Bensel](https://www.notarydepot.com/jbensel)
+  - [Notary Public in Batavia, OH: Jason Best](https://www.notarydepot.com/jbestcmn)
   - [Notary Public in Manteca, CA: Candi Birmingham](https://www.notarydepot.com/jbirmin693)
   - [Notary Public in Fontana, CA: Jenilyn Bituin](https://www.notarydepot.com/jbituin)
   - [Notary Public in Coldwater, MI: Jennifer Born](https://www.notarydepot.com/jborn01)
@@ -8235,4 +8237,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-06-11T16:37:02Z
+Updated at 2019-06-11T16:57:02Z
