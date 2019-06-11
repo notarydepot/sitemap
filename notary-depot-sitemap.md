@@ -3237,6 +3237,7 @@
   - [Notary Public in Fullerton, CA: Nissa Foster](https://www.notarydepot.com/cosmicideas)
   - [Notary Public in Deltona, FL: Cynthia Sullivan](https://www.notarydepot.com/cosullivan)
   - [Notary Public in Yuba City, CA: Kandi Murray](https://www.notarydepot.com/countrysidemobile)
+  - [Notary Public in Beaumont, TX: Courtney M Cesear](https://www.notarydepot.com/courtneysmobilenotary)
   - [Notary Public in Voorhees Township, NJ: Patricia Covington](https://www.notarydepot.com/covingtono)
   - [Notary Public in Bristow, VA: Connie Cowthran](https://www.notarydepot.com/cowthran55)
   - [Notary Public in Corona, CA: Celeste Pafford](https://www.notarydepot.com/cpafford)
@@ -8234,4 +8235,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-06-11T05:37:02Z
+Updated at 2019-06-11T05:57:02Z
