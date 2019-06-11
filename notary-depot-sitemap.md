@@ -2121,6 +2121,7 @@
     - [Notary Public in Colonial Heights, VA](https://www.notarydepot.com/notary-near-me/Virginia/Colonial-Heights)
     - [Notary Public in Crimora, VA](https://www.notarydepot.com/notary-near-me/Virginia/Crimora)
     - [Notary Public in Culpeper, VA](https://www.notarydepot.com/notary-near-me/Virginia/Culpeper)
+    - [Notary Public in Dahlgren, VA](https://www.notarydepot.com/notary-near-me/Virginia/Dahlgren)
     - [Notary Public in Dinwiddie, VA](https://www.notarydepot.com/notary-near-me/Virginia/Dinwiddie)
     - [Notary Public in Fairfax, VA](https://www.notarydepot.com/notary-near-me/Virginia/Fairfax)
     - [Notary Public in Falls Church, VA](https://www.notarydepot.com/notary-near-me/Virginia/Falls-Church)
@@ -2137,7 +2138,6 @@
     - [Notary Public in Henrico, VA](https://www.notarydepot.com/notary-near-me/Virginia/Henrico)
     - [Notary Public in Herndon, VA](https://www.notarydepot.com/notary-near-me/Virginia/Herndon)
     - [Notary Public in Hopewell, VA](https://www.notarydepot.com/notary-near-me/Virginia/Hopewell)
-    - [Notary Public in King George, VA](https://www.notarydepot.com/notary-near-me/Virginia/King-George)
     - [Notary Public in Leesburg, VA](https://www.notarydepot.com/notary-near-me/Virginia/Leesburg)
     - [Notary Public in Lightfoot, VA](https://www.notarydepot.com/notary-near-me/Virginia/Lightfoot)
     - [Notary Public in Locust Grove, VA](https://www.notarydepot.com/notary-near-me/Virginia/Locust-Grove)
@@ -4720,7 +4720,7 @@
   - [Notary Public in Philadelphia, PA: Kate Vizzard](https://www.notarydepot.com/katevizzard)
   - [Notary Public in Salem, OR: Katrina Hamlin](https://www.notarydepot.com/katflores)
   - [Notary Public in Salisbury, NC: Kathie Wilson](https://www.notarydepot.com/kathie)
-  - [Notary Public in King George, VA: Kathleen Elise Kelly](https://www.notarydepot.com/kathiek65)
+  - [Notary Public in Dahlgren, VA: Kathleen Elise Kelly](https://www.notarydepot.com/kathiek65)
   - [Notary Public in Baldwin, NY: Kathleen Fink](https://www.notarydepot.com/kathleenfink)
   - [Notary Public in San Clemente, CA: Kathrin Delano](https://www.notarydepot.com/kathrind)
   - [Notary Public in Chula Vista, CA: Kathrine O&#39;Dell](https://www.notarydepot.com/kathrineodell)
@@ -8237,4 +8237,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-06-11T18:17:02Z
+Updated at 2019-06-11T18:37:02Z
