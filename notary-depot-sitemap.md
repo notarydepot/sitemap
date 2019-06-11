@@ -909,7 +909,6 @@
     - [Notary Public in Indianapolis, IN](https://www.notarydepot.com/notary-near-me/Indiana/Indianapolis)
     - [Notary Public in Ingalls, IN](https://www.notarydepot.com/notary-near-me/Indiana/Ingalls)
     - [Notary Public in Lafayette, IN](https://www.notarydepot.com/notary-near-me/Indiana/Lafayette)
-    - [Notary Public in Lapel, IN](https://www.notarydepot.com/notary-near-me/Indiana/Lapel)
     - [Notary Public in Lawrenceburg, IN](https://www.notarydepot.com/notary-near-me/Indiana/Lawrenceburg)
     - [Notary Public in Merrillville, IN](https://www.notarydepot.com/notary-near-me/Indiana/Merrillville)
     - [Notary Public in Middletown, IN](https://www.notarydepot.com/notary-near-me/Indiana/Middletown)
@@ -5701,7 +5700,7 @@
   - [Notary Public in Greenville, NC: Mary Staton](https://www.notarydepot.com/mstaton)
   - [Notary Public in La Quinta, CA: Mary Steele Wassil](https://www.notarydepot.com/msteele)
   - [Notary Public in Indio, CA: Mary Steele](https://www.notarydepot.com/msteele1)
-  - [Notary Public in Lapel, IN: Michelle Stichler](https://www.notarydepot.com/mstichler)
+  - [Notary Public in Anderson, IN: Michelle L Stichler](https://www.notarydepot.com/mstichler)
   - [Notary Public in Smyrna, GA: Meg Stocks](https://www.notarydepot.com/mstocks)
   - [Notary Public in Donna, TX: Maria J. Sustaita](https://www.notarydepot.com/msustaita)
   - [Notary Public in Fredericksburg, VA: Yvette D Fowler](https://www.notarydepot.com/mswells1)
@@ -6967,6 +6966,7 @@
   - [Notary Public in Los Angeles, CA: Stacey Robinson](https://www.notarydepot.com/stace123)
   - [Notary Public in Bloomfield Township, MI: Stacey Cornelius](https://www.notarydepot.com/staceylc)
   - [Notary Public in Fincastle, VA: Stacey Frechette](https://www.notarydepot.com/staceylf)
+  - [Notary Public in Malaga, WA: Stacey Richard](https://www.notarydepot.com/staceyrichard198523)
   - [Notary Public in Malaga, WA: Stacey Richard](https://www.notarydepot.com/staceyrichard23)
   - [Notary Public in Malaga, WA: Stacey Richard ](https://www.notarydepot.com/staceyrichard2323)
   - [Notary Public in MA: Stacey Elin Rossi, Esq.](https://www.notarydepot.com/staceyrossi)
@@ -8234,4 +8234,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-06-10T23:57:02Z
+Updated at 2019-06-11T00:17:02Z
