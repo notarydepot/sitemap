@@ -3834,6 +3834,7 @@
   - [Notary Public in Plano, TX: Fasihuddin Qureshi](https://www.notarydepot.com/fasihuddin)
   - [Notary Public in Cape Girardeau, MO: Sharon Stanley](https://www.notarydepot.com/fastactionnotary)
   - [Notary Public in Crestline, CA: Roberta (Gigi) Bannister](https://www.notarydepot.com/fastelk)
+  - [Notary Public in Pasadena, CA: Fast Mobile Notary Services](https://www.notarydepot.com/fastmobilenotaryla)
   - [Notary Public in Ames, IA: Mike Williams](https://www.notarydepot.com/fatdaddy)
   - [Notary Public in Maumee, OH: Janet Faunce](https://www.notarydepot.com/fauncey)
   - [Notary Public in Birmingham, AL: Faye Carr](https://www.notarydepot.com/fayecarr)
@@ -8239,4 +8240,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-06-12T17:17:02Z
+Updated at 2019-06-12T17:37:02Z
