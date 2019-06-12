@@ -6751,6 +6751,7 @@
   - [Notary Public in McKinney, TX: Jennifer Dittrich](https://www.notarydepot.com/sharpeyes)
   - [Notary Public in Fairburn, GA: Sharline Green](https://www.notarydepot.com/sharstar1)
   - [Notary Public in Fullerton, CA: Heidi Shikuma](https://www.notarydepot.com/shart44)
+  - [Notary Public in Melbourne, FL: Shauna Thirion](https://www.notarydepot.com/shaunathirion)
   - [Notary Public in Rock Hill, SC: Shauntae Jordan](https://www.notarydepot.com/shauntaej)
   - [Notary Public in Philadelphia, PA: Shawn Empson](https://www.notarydepot.com/shawn1)
   - [Notary Public in San Antonio, TX: Shawn Marshall](https://www.notarydepot.com/shawnmafiaholdingscom)
@@ -8237,4 +8238,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-06-12T01:17:02Z
+Updated at 2019-06-12T01:37:02Z
