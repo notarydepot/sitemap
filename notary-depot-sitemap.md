@@ -1626,7 +1626,6 @@
     - [Notary Public in Empire, OH](https://www.notarydepot.com/notary-near-me/Ohio/Empire)
     - [Notary Public in Euclid, OH](https://www.notarydepot.com/notary-near-me/Ohio/Euclid)
     - [Notary Public in Gambier, OH](https://www.notarydepot.com/notary-near-me/Ohio/Gambier)
-    - [Notary Public in Genoa, OH](https://www.notarydepot.com/notary-near-me/Ohio/Genoa)
     - [Notary Public in Hamilton, OH](https://www.notarydepot.com/notary-near-me/Ohio/Hamilton)
     - [Notary Public in Hebron, OH](https://www.notarydepot.com/notary-near-me/Ohio/Hebron)
     - [Notary Public in Hilliard, OH](https://www.notarydepot.com/notary-near-me/Ohio/Hilliard)
@@ -3380,7 +3379,7 @@
   - [Notary Public in Santa Maria, CA: Teresa &amp; Eric Davis](https://www.notarydepot.com/davisnotarynsa1)
   - [Notary Public in Amsterdam, NY: Dawn Miner](https://www.notarydepot.com/dawn)
   - [Notary Public in Sicklerville, NJ: Dawn Egazarian](https://www.notarydepot.com/dawn123)
-  - [Notary Public in Genoa, OH: Dawn Brown](https://www.notarydepot.com/dawnbrown)
+  - [Notary Public in Toledo, OH: Dawn Marie Brown](https://www.notarydepot.com/dawnbrown)
   - [Notary Public in Duluth, GA: Dawn Buford](https://www.notarydepot.com/dawnbuford)
   - [Notary Public in Spanaway, WA: Dawn Cassube](https://www.notarydepot.com/dawncassube)
   - [Notary Public in Manassas, VA: Dawn Davis](https://www.notarydepot.com/dawndavis)
@@ -8240,4 +8239,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-06-12T17:37:02Z
+Updated at 2019-06-12T17:57:02Z
