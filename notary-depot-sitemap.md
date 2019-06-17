@@ -5486,7 +5486,6 @@
   - [Notary Public in Salem, NH: Michelle E Montemorra](https://www.notarydepot.com/michelleelise)
   - [Notary Public in Huntersville, NC: Michelle Jones](https://www.notarydepot.com/michellehjones)
   - [Notary Public in Monroe, LA: Michelle &quot;Chelle&quot; Lyn Rivers](https://www.notarydepot.com/michellemlrsllccom)
-  - [Notary Public in Rancho Cucamonga, CA: Michelle Novy](https://www.notarydepot.com/michellenovy)
   - [Notary Public in Midvale, UT: Michelle Winter Anthony](https://www.notarydepot.com/michellesmobilenotaryservices)
   - [Notary Public in Ann Arbor, MI: Patricia Ung](https://www.notarydepot.com/michiganmobilenotary)
   - [Notary Public in Coppell, TX: Michong Keys](https://www.notarydepot.com/michongkim)
@@ -8239,4 +8238,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-06-17T19:57:02Z
+Updated at 2019-06-17T20:17:02Z
