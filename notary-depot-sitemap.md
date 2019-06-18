@@ -3845,6 +3845,7 @@
   - [Notary Public in Ewing Township, NJ: Felicia Brittingham](https://www.notarydepot.com/feliciabrittingham)
   - [Notary Public in Hawaiian Gardens, CA: Notary Public](https://www.notarydepot.com/felipe)
   - [Notary Public in Fredericksburg, VA: Geri Gribben](https://www.notarydepot.com/felix123)
+  - [Notary Public in Downey, CA: Felix M. Lopez](https://www.notarydepot.com/felix24hours)
   - [Notary Public in Houston, TX: Felix Otero](https://www.notarydepot.com/felixinhouston)
   - [Notary Public in Cherry Hill, NJ: Linda Fell-Peterson](https://www.notarydepot.com/fellpeterson)
   - [Notary Public in Fredericksburg, VA: cheryl struzik](https://www.notarydepot.com/fenix07)
@@ -8237,4 +8238,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-06-18T18:37:02Z
+Updated at 2019-06-18T18:57:02Z
