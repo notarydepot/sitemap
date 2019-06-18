@@ -2119,7 +2119,6 @@
     - [Notary Public in Christiansburg, VA](https://www.notarydepot.com/notary-near-me/Virginia/Christiansburg)
     - [Notary Public in Colonial Heights, VA](https://www.notarydepot.com/notary-near-me/Virginia/Colonial-Heights)
     - [Notary Public in Crimora, VA](https://www.notarydepot.com/notary-near-me/Virginia/Crimora)
-    - [Notary Public in Culpeper, VA](https://www.notarydepot.com/notary-near-me/Virginia/Culpeper)
     - [Notary Public in Dahlgren, VA](https://www.notarydepot.com/notary-near-me/Virginia/Dahlgren)
     - [Notary Public in Dinwiddie, VA](https://www.notarydepot.com/notary-near-me/Virginia/Dinwiddie)
     - [Notary Public in Fairfax, VA](https://www.notarydepot.com/notary-near-me/Virginia/Fairfax)
@@ -5862,7 +5861,7 @@
   - [Notary Public in Las Vegas, NV: Norma Hoag](https://www.notarydepot.com/normahoag1)
   - [Notary Public in Sacramento, CA: Donna Labelle](https://www.notarydepot.com/northerncanotary)
   - [Notary Public in Granger, IN: Thomas J. Clemans](https://www.notarydepot.com/northernindiananotary)
-  - [Notary Public in Culpeper, VA: Notary on Demand](https://www.notarydepot.com/not1826)
+  - [Notary Public in Almond, WI: Notary on Demand](https://www.notarydepot.com/not1826)
   - [Notary Public in Lakeland, FL: Michelle Myers](https://www.notarydepot.com/notablenotaryservices)
   - [Notary Public in Buckeye, AZ: Ariana Gomez](https://www.notarydepot.com/notariesbyari)
   - [Notary Public in Milwaukee, WI: Chequetta Ferguson](https://www.notarydepot.com/notariesbycferguson)
@@ -8238,4 +8237,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-06-18T04:37:02Z
+Updated at 2019-06-18T04:57:02Z
