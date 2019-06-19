@@ -5273,6 +5273,7 @@
   - [Notary Public in Sacramento, CA: Joseph Maita](https://www.notarydepot.com/maitainc)
   - [Notary Public in El Sobrante, CA: Majeda Brice](https://www.notarydepot.com/majedabrice)
   - [Notary Public in Saginaw, MI: Adriana Maldonado](https://www.notarydepot.com/majesticenterprises)
+  - [Notary Public in Fort Worth, TX: Shirley Ephram-Neal](https://www.notarydepot.com/makeithappen)
   - [Notary Public in West Jordan, UT: Dani Greenland](https://www.notarydepot.com/makeitofficial)
   - [Notary Public in Patterson, CA: Victoria C. Alaniz](https://www.notarydepot.com/malanizv)
   - [Notary Public in Metairie, LA: Malbrough Notary, LLC](https://www.notarydepot.com/malbroughnotary)
@@ -8239,4 +8240,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-06-19T10:17:02Z
+Updated at 2019-06-19T10:37:03Z
