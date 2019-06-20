@@ -5302,7 +5302,6 @@
   - [Notary Public in Lakewood, CA: Marcia Lewis](https://www.notarydepot.com/marcia)
   - [Notary Public in Lewes, DE: Marcia Sabo Williams](https://www.notarydepot.com/marciacsw)
   - [Notary Public in Salisbury, NC: Margaret A. Blackwell](https://www.notarydepot.com/margaretablackwell)
-  - [Notary Public in Reading, PA: Margie Prutzman](https://www.notarydepot.com/margie)
   - [Notary Public in Austin, TX: Margie K. Shelnutt](https://www.notarydepot.com/margie1117)
   - [Notary Public in Raleigh, NC: Marguerita Johnson](https://www.notarydepot.com/margiebear)
   - [Notary Public in Las Vegas, NV: Margo Miller Cnsa/nsa/nna](https://www.notarydepot.com/margo)
@@ -8240,4 +8239,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-06-20T05:37:02Z
+Updated at 2019-06-20T05:57:02Z
