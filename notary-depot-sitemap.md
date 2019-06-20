@@ -1604,6 +1604,7 @@
     - [Notary Public in Bismarck, ND](https://www.notarydepot.com/notary-near-me/North-Dakota/Bismarck)
     - [Notary Public in Fargo, ND](https://www.notarydepot.com/notary-near-me/North-Dakota/Fargo)
     - [Notary Public in Washburn, ND](https://www.notarydepot.com/notary-near-me/North-Dakota/Washburn)
+    - [Notary Public in Williston, ND](https://www.notarydepot.com/notary-near-me/North-Dakota/Williston)
   - [Notaries Public in Ohio](https://www.notarydepot.com/notary-near-me/Ohio)
     - [Notary Public in Alliance, OH](https://www.notarydepot.com/notary-near-me/Ohio/Alliance)
     - [Notary Public in Amherst, OH](https://www.notarydepot.com/notary-near-me/Ohio/Amherst)
@@ -4516,6 +4517,7 @@
   - [Notary Public in Hillsboro, IL: James Morgando](https://www.notarydepot.com/jmorgando)
   - [Notary Public in Santa Rosa, CA: Joyce Marie Rehkugler](https://www.notarydepot.com/jmrehkugler)
   - [Notary Public in McKinney, TX: Jeanine M Roach](https://www.notarydepot.com/jmroach)
+  - [Notary Public in Williston, ND: Jennifer M. Lawson](https://www.notarydepot.com/jmsharp0331)
   - [Notary Public in Los Angeles, CA: Jonathan Ward](https://www.notarydepot.com/jmwardnotary)
   - [Notary Public in Lewiston, ID: Jason E Nichols](https://www.notarydepot.com/jn1030)
   - [Notary Public in Middle Island, NY: Jenni Nin](https://www.notarydepot.com/jnin)
@@ -8238,4 +8240,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-06-20T00:17:02Z
+Updated at 2019-06-20T00:37:02Z
