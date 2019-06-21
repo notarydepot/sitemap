@@ -4578,6 +4578,7 @@
   - [Notary Public in Wilmington, DE: J. Kaminski](https://www.notarydepot.com/josephekaminski)
   - [Notary Public in Tacoma, WA: Josephina Couch](https://www.notarydepot.com/josephina)
   - [Notary Public in York, PA: Joseph Jackson](https://www.notarydepot.com/josephjackson)
+  - [Notary Public in Tolleson, AZ: Joseph R. Iniguez](https://www.notarydepot.com/josephriniguez)
   - [Notary Public in Jacksonville, FL: Josette D Mitchell](https://www.notarydepot.com/josetted2)
   - [Notary Public in Sandy, UT: Carrie A Park](https://www.notarydepot.com/joshuacotie)
   - [Notary Public in Bangor, ME: Joshua Saucier](https://www.notarydepot.com/joshuasaucier)
@@ -8239,4 +8240,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-06-21T04:37:02Z
+Updated at 2019-06-21T04:57:03Z
