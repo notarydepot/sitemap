@@ -3709,6 +3709,7 @@
   - [Notary Public in San Antonio, TX: Elizabeth Garza](https://www.notarydepot.com/egarza579)
   - [Notary Public in Tucson, AZ: Enrique A. Gonzalez](https://www.notarydepot.com/egnotary)
   - [Notary Public in Redford Charter Township, MI: Elizabeth Gilmore](https://www.notarydepot.com/egwalker)
+  - [Notary Public in Acworth, GA: ERH-Rachele Harlin](https://www.notarydepot.com/eharlin)
   - [Notary Public in Germantown, MD: Evay Harvey](https://www.notarydepot.com/eharvey301)
   - [Notary Public in Northlake, TX: Elizabeth Crook](https://www.notarydepot.com/ehcrook)
   - [Notary Public in Mesa, AZ: Ellen Hess, CNSA](https://www.notarydepot.com/ehess)
@@ -8240,4 +8241,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-06-24T21:37:02Z
+Updated at 2019-06-24T21:57:02Z
