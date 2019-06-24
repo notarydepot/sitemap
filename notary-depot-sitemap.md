@@ -1909,6 +1909,7 @@
     - [Notary Public in Kingsport, TN](https://www.notarydepot.com/notary-near-me/Tennessee/Kingsport)
     - [Notary Public in Knoxville, TN](https://www.notarydepot.com/notary-near-me/Tennessee/Knoxville)
     - [Notary Public in La Vergne, TN](https://www.notarydepot.com/notary-near-me/Tennessee/La-Vergne)
+    - [Notary Public in Lawrenceburg, TN](https://www.notarydepot.com/notary-near-me/Tennessee/Lawrenceburg)
     - [Notary Public in Lebanon, TN](https://www.notarydepot.com/notary-near-me/Tennessee/Lebanon)
     - [Notary Public in Lexington, TN](https://www.notarydepot.com/notary-near-me/Tennessee/Lexington)
     - [Notary Public in Limestone, TN](https://www.notarydepot.com/notary-near-me/Tennessee/Limestone)
@@ -5955,6 +5956,7 @@
   - [Notary Public in Louisville, KY: Brittney Johnson ](https://www.notarydepot.com/notaryky)
   - [Notary Public in Grants Pass, OR: Peggy L Mazziotti](https://www.notarydepot.com/notarylady)
   - [Notary Public in Jonesboro, GA: Francena](https://www.notarydepot.com/notaryladyofga)
+  - [Notary Public in Lawrenceburg, TN: Pamela Lovell ](https://www.notarydepot.com/notarylovellp)
   - [Notary Public in Las Vegas, NV: John Bobe](https://www.notarydepot.com/notarylv)
   - [Notary Public in Peoria, AZ: Alfred Manns](https://www.notarydepot.com/notarymann)
   - [Notary Public in Peoria, AZ: Alfred G Manns](https://www.notarydepot.com/notarymann1)
@@ -8242,4 +8244,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-06-24T22:37:02Z
+Updated at 2019-06-24T22:57:02Z
