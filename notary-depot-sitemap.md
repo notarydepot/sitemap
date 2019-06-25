@@ -6469,7 +6469,7 @@
   - [Notary Public in Arroyo Grande, CA: Ray La Frenais](https://www.notarydepot.com/rlafrenais)
   - [Notary Public in Coraopolis, PA: Rachel Avery](https://www.notarydepot.com/rlasignings)
   - [Notary Public in Gainesville, GA: Ruth L Hitt](https://www.notarydepot.com/rlhitt)
-  - [Notary Public in Saint Petersburg, FL: Roland Martino](https://www.notarydepot.com/rlmartino)
+  - [Notary Public in St. Petersburg, FL: Roland Martino](https://www.notarydepot.com/rlmartino)
   - [Notary Public in Benicia, CA: Rhoda Longmire](https://www.notarydepot.com/rlongmire)
   - [Notary Public in Murfreesboro, TN: Rachael L. Bowman](https://www.notarydepot.com/rlrosselot)
   - [Notary Public in Imperial, CA: Ralph L Smith](https://www.notarydepot.com/rlsmith6)
@@ -8245,4 +8245,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-06-25T18:17:02Z
+Updated at 2019-06-25T18:37:02Z
