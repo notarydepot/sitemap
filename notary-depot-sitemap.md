@@ -4550,6 +4550,7 @@
   - [Notary Public in Anaheim, CA: Johanna DeWitt](https://www.notarydepot.com/johannadewitt)
   - [Notary Public in Weston, FL: Johanna Garcia](https://www.notarydepot.com/johannanotarygmailcom)
   - [Notary Public in Orangevale, CA: John L Savage](https://www.notarydepot.com/johannes8)
+  - [Notary Public in Hialeah, FL: Johanna Sarmiento](https://www.notarydepot.com/johasaran)
   - [Notary Public in Macon, GA: Johnny Mullis](https://www.notarydepot.com/johnboy1983)
   - [Notary Public in Missouri City, TX: Johnnie Moutra Jr](https://www.notarydepot.com/johnclutch222)
   - [Notary Public in Suffield, CT: John B. Cown, &quot;Seals-On-Wheels&quot; (tm)](https://www.notarydepot.com/johncown)
@@ -8245,4 +8246,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-06-25T20:37:02Z
+Updated at 2019-06-25T20:57:02Z
