@@ -4158,6 +4158,7 @@
   - [Notary Public in South River, NJ: Sally Holden](https://www.notarydepot.com/holdennotarynj)
   - [Notary Public in St. Augustine, FL: Tony Holladay](https://www.notarydepot.com/holl7275)
   - [Notary Public in San Diego, CA: Dave Holland](https://www.notarydepot.com/holland5151)
+  - [Notary Public in San Luis Obispo, CA: Holly Campuzano](https://www.notarydepot.com/hollycampuzano)
   - [Notary Public in Charlotte, NC: Holly Evans](https://www.notarydepot.com/hollyevans)
   - [Notary Public in Lake Havasu City, AZ: Holly Skelton](https://www.notarydepot.com/hollyskelton)
   - [Notary Public in Price, UT: Shawna M Popejoy](https://www.notarydepot.com/holynotary)
@@ -6888,7 +6889,6 @@
   - [Notary Public in Sycamore, IL: Sandra McMiller](https://www.notarydepot.com/slmcmiller)
   - [Notary Public in Reno, NV: Suzanne Neeley](https://www.notarydepot.com/sln2019)
   - [Notary Public in Portland, OR: Sloan Patterson](https://www.notarydepot.com/sloan88)
-  - [Notary Public in San Luis Obispo, CA: Holly Campuzano](https://www.notarydepot.com/slonotary)
   - [Notary Public in Saucier, MS: Shasta Wood](https://www.notarydepot.com/slwood3)
   - [Notary Public in Sacramento, CA: Shonja D Mainor](https://www.notarydepot.com/smainor)
   - [Notary Public in Davenport, FL: Cassandre Martin](https://www.notarydepot.com/smart1249)
@@ -8247,4 +8247,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-06-26T16:17:02Z
+Updated at 2019-06-26T16:37:01Z
