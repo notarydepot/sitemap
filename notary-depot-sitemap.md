@@ -7457,6 +7457,7 @@
   - [Notary Public in DeKalb, IL: Katrina Brown](https://www.notarydepot.com/virtualkat)
   - [Notary Public in Villa Park, CA: Vivien A. Phan](https://www.notarydepot.com/vivienaphan)
   - [Notary Public in Santa Fe Springs, CA: Vivian Jacinto](https://www.notarydepot.com/vivsnotary)
+  - [Notary Public in Kissimmee, FL: Stephanie Vixamar-Leandre](https://www.notarydepot.com/vixamar2007)
   - [Notary Public in Asheville, NC: Vivian Gaddy](https://www.notarydepot.com/vjones1152)
   - [Notary Public in Pompano Beach, FL: Vera Silveri](https://www.notarydepot.com/vjsfla1)
   - [Notary Public in Camarillo, CA: Vivienne C. Lansdown](https://www.notarydepot.com/vlansdown)
@@ -8247,4 +8248,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-06-26T19:17:02Z
+Updated at 2019-06-26T19:37:02Z
