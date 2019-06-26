@@ -512,6 +512,7 @@
     - [Notary Public in Rifle, CO](https://www.notarydepot.com/notary-near-me/Colorado/Rifle)
     - [Notary Public in Steamboat Springs, CO](https://www.notarydepot.com/notary-near-me/Colorado/Steamboat-Springs)
     - [Notary Public in Thornton, CO](https://www.notarydepot.com/notary-near-me/Colorado/Thornton)
+    - [Notary Public in Timnath, CO](https://www.notarydepot.com/notary-near-me/Colorado/Timnath)
     - [Notary Public in Trinidad, CO](https://www.notarydepot.com/notary-near-me/Colorado/Trinidad)
     - [Notary Public in Westminster, CO](https://www.notarydepot.com/notary-near-me/Colorado/Westminster)
   - [Notaries Public in Connecticut](https://www.notarydepot.com/notary-near-me/Connecticut)
@@ -5095,7 +5096,7 @@
   - [Notary Public in Seattle, WA: Linda Anton-Vargas](https://www.notarydepot.com/lindaantonvargas)
   - [Notary Public in Holyoke, MA: Atty.Linda Audet](https://www.notarydepot.com/lindaaudet)
   - [Notary Public in Meridian, ID: Linda S. Burt](https://www.notarydepot.com/lindaburt)
-  - [Notary Public in Fort Collins, CO: Linda Castell](https://www.notarydepot.com/lindacastell)
+  - [Notary Public in Timnath, CO: Linda Castell](https://www.notarydepot.com/lindacastell)
   - [Notary Public in Bell Gardens, CA: Linda Contreras](https://www.notarydepot.com/lindacontreras)
   - [Notary Public in Fort White, FL: Linda J. Hubbell](https://www.notarydepot.com/lindah)
   - [Notary Public in Phoenix, AZ: Linda Hodges](https://www.notarydepot.com/lindahodges)
@@ -8246,4 +8247,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-06-26T00:57:02Z
+Updated at 2019-06-26T01:17:02Z
