@@ -1060,6 +1060,7 @@
     - [Notary Public in Huntingtown, MD](https://www.notarydepot.com/notary-near-me/Maryland/Huntingtown)
     - [Notary Public in Hyattsville, MD](https://www.notarydepot.com/notary-near-me/Maryland/Hyattsville)
     - [Notary Public in Marlow Heights, MD](https://www.notarydepot.com/notary-near-me/Maryland/Marlow-Heights)
+    - [Notary Public in Middle River, MD](https://www.notarydepot.com/notary-near-me/Maryland/Middle-River)
     - [Notary Public in North East, MD](https://www.notarydepot.com/notary-near-me/Maryland/North-East)
     - [Notary Public in Nottingham, MD](https://www.notarydepot.com/notary-near-me/Maryland/Nottingham)
     - [Notary Public in Ocean City, MD](https://www.notarydepot.com/notary-near-me/Maryland/Ocean-City)
@@ -6529,6 +6530,7 @@
   - [Notary Public in Raleigh, NC: Ronda Rudd](https://www.notarydepot.com/ronda35)
   - [Notary Public in San Leandro, CA: Ronza M. Bargas](https://www.notarydepot.com/ronica)
   - [Notary Public in Durham, NC: Rhonda Nails](https://www.notarydepot.com/ronnieceo)
+  - [Notary Public in Middle River, MD: Ronnell Roulhac](https://www.notarydepot.com/ronniesmobilenotary)
   - [Notary Public in Trenton, NJ: Ronnolla](https://www.notarydepot.com/ronnollansagmailcom)
   - [Notary Public in NY: Ron R. Garcia](https://www.notarydepot.com/ronrgarcia)
   - [Notary Public in Ludlow, CA: Ron Moore](https://www.notarydepot.com/ronsmobileotary)
@@ -8249,4 +8251,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-06-27T16:17:03Z
+Updated at 2019-06-27T16:37:02Z
