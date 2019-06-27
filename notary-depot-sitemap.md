@@ -5080,6 +5080,7 @@
   - [Notary Public in Escondido, CA: Larry Houston Richards](https://www.notarydepot.com/lhrich)
   - [Notary Public in Irvine, CA: Trevor Liang](https://www.notarydepot.com/liangt1987)
   - [Notary Public in Bowling Green, KY: Lyndon](https://www.notarydepot.com/liberty)
+  - [Notary Public in Castro Valley, CA: Liberty Uy](https://www.notarydepot.com/liberty650)
   - [Notary Public in Greenville, NC: Mary Staton](https://www.notarydepot.com/libra27819)
   - [Notary Public in Sterrett, AL: Kimberly Shiffler](https://www.notarydepot.com/lightk)
   - [Notary Public in Pflugerville, TX: Annetta Chase](https://www.notarydepot.com/lilbit54)
@@ -8248,4 +8249,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-06-27T09:57:02Z
+Updated at 2019-06-27T10:17:03Z
