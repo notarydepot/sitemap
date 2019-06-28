@@ -895,6 +895,7 @@
     - [Notary Public in Cedar Lake, IN](https://www.notarydepot.com/notary-near-me/Indiana/Cedar-Lake)
     - [Notary Public in Chesterton, IN](https://www.notarydepot.com/notary-near-me/Indiana/Chesterton)
     - [Notary Public in Columbus, IN](https://www.notarydepot.com/notary-near-me/Indiana/Columbus)
+    - [Notary Public in Commiskey, IN](https://www.notarydepot.com/notary-near-me/Indiana/Commiskey)
     - [Notary Public in Crown Point, IN](https://www.notarydepot.com/notary-near-me/Indiana/Crown-Point)
     - [Notary Public in Dugger, IN](https://www.notarydepot.com/notary-near-me/Indiana/Dugger)
     - [Notary Public in Dyer, IN](https://www.notarydepot.com/notary-near-me/Indiana/Dyer)
@@ -5976,6 +5977,7 @@
   - [Notary Public in Gretna, VA: Colette](https://www.notarydepot.com/notarymomma)
   - [Notary Public in Malibu, CA: Natalie Bernstein](https://www.notarydepot.com/notarynat)
   - [Notary Public in South Bend, IN: Nikki Greene](https://www.notarydepot.com/notarynikki)
+  - [Notary Public in Commiskey, IN: Jessica Hvala](https://www.notarydepot.com/notaryninja)
   - [Notary Public in La Quinta, CA: Lavonda Lee](https://www.notarydepot.com/notarynow22)
   - [Notary Public in Newport Beach, CA: NotaryNow](https://www.notarydepot.com/notarynowcom)
   - [Notary Public in Columbus, OH: Albert Yetzer](https://www.notarydepot.com/notaryohio)
@@ -8251,4 +8253,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-06-28T17:01:03Z
+Updated at 2019-06-28T17:21:02Z
