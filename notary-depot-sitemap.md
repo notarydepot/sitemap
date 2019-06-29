@@ -1877,6 +1877,7 @@
     - [Notary Public in Port Royal, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Port-Royal)
     - [Notary Public in Ridgeville, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Ridgeville)
     - [Notary Public in Rock Hill, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Rock-Hill)
+    - [Notary Public in Saint Stephen, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Saint-Stephen)
     - [Notary Public in Simpsonville, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Simpsonville)
     - [Notary Public in Spartanburg, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Spartanburg)
     - [Notary Public in Summerville, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Summerville)
@@ -4797,6 +4798,7 @@
   - [Notary Public in Las Vegas, NV: Kelvie Malia Shelton](https://www.notarydepot.com/kelviemalia)
   - [Notary Public in San Ramon, CA: Kemi Onifade](https://www.notarydepot.com/kemsho)
   - [Notary Public in Leesburg, VA: Kenan Goeller](https://www.notarydepot.com/kenan)
+  - [Notary Public in Saint Stephen, SC: KENDALL WHITE](https://www.notarydepot.com/kendallw)
   - [Notary Public in Las Vegas, NV: Kendra Doyle](https://www.notarydepot.com/kendradoyle)
   - [Notary Public in Jackson, MS: Keneisha Carter](https://www.notarydepot.com/kenecarter)
   - [Notary Public in Deer Park, NY: Keneice Henriques-Gayle](https://www.notarydepot.com/keneice)
@@ -8253,4 +8255,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-06-29T01:17:02Z
+Updated at 2019-06-29T01:37:03Z
