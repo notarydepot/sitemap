@@ -7110,6 +7110,7 @@
   - [Notary Public in Lake Elsinore, CA: Tammy Runion](https://www.notarydepot.com/tammysigns4u)
   - [Notary Public in Land O&#39; Lakes, FL: Tami Kowalkowsky](https://www.notarydepot.com/tampabayguides)
   - [Notary Public in FL: Tangie Smith](https://www.notarydepot.com/tangielee1979)
+  - [Notary Public in Indianapolis, IN: Tanisha Michelle McCormick](https://www.notarydepot.com/tanishamp16)
   - [Notary Public in Manhattan Beach, CA: Essential Mobile Notary](https://www.notarydepot.com/tanna)
   - [Notary Public in Fort Lauderdale, FL: Cesar Ballerini](https://www.notarydepot.com/tano)
   - [Notary Public in Morgan City, LA: Tanya Escort](https://www.notarydepot.com/tanyaescort)
@@ -8255,4 +8256,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-06-29T14:17:02Z
+Updated at 2019-06-29T14:37:02Z
