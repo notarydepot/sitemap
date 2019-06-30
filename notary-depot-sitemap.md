@@ -5132,6 +5132,7 @@
   - [Notary Public in Downey, CA: Lisa Caballero](https://www.notarydepot.com/lisanotarizes)
   - [Notary Public in Chincoteague Island, VA: Lisa Sipe](https://www.notarydepot.com/lisasipe)
   - [Notary Public in Annapolis, MD: Lisa Magnus](https://www.notarydepot.com/lisasmagnus)
+  - [Notary Public in Tulsa, OK: Lisa Reagle](https://www.notarydepot.com/lisasmobilenotary)
   - [Notary Public in Great Neck, NY: Elisa Rappoport](https://www.notarydepot.com/lisaw2690)
   - [Notary Public in CA: Lisa Whall](https://www.notarydepot.com/lisawhall99)
   - [Notary Public in MA: Steven R. W. Leahy, Attorney at Law](https://www.notarydepot.com/livefree)
@@ -8256,4 +8257,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-06-30T02:57:02Z
+Updated at 2019-06-30T03:17:03Z
