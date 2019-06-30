@@ -5754,7 +5754,7 @@
   - [Notary Public in Florissant, MO: Nyandi Ife](https://www.notarydepot.com/mysimpletc)
   - [Notary Public in Hialeah, FL: Gladys M. Fonseca](https://www.notarydepot.com/mystiquera1)
   - [Notary Public in Middletown, PA: Heather J Templin](https://www.notarydepot.com/myyellowlabs)
-  - [Notary Public in Goodyear, AZ: Tracy Camille Ross](https://www.notarydepot.com/mzbiznezz)
+  - [Notary Public in Phoenix, AZ: Tracy Ross](https://www.notarydepot.com/mzbiznezz)
   - [Notary Public in Lithia Springs, GA: Kathy Davis](https://www.notarydepot.com/mzdaviz)
   - [Notary Public in Memphis, TN: Kimberly P Jones](https://www.notarydepot.com/mzjonez)
   - [Notary Public in Irmo, SC: Jenyfer Rogers](https://www.notarydepot.com/mznewbz)
@@ -8257,4 +8257,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-06-30T13:17:02Z
+Updated at 2019-06-30T13:37:03Z
