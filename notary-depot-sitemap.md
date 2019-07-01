@@ -7378,6 +7378,7 @@
   - [Notary Public in Garden Grove, CA: Isabel C. Stevens](https://www.notarydepot.com/uclanotary)
   - [Notary Public in Fremont, CA: Udaya K Padmanabhuni](https://www.notarydepot.com/udayak)
   - [Notary Public in Dublin, CA: 24 Hour Document Signing Services](https://www.notarydepot.com/udxdirect)
+  - [Notary Public in Columbus, OH: Heather Baquedano ](https://www.notarydepot.com/ultrasigning)
   - [Notary Public in San Diego, CA: Sharyn Umaña-Angers](https://www.notarydepot.com/umana2713)
   - [Notary Public in Houston, TX: oluwatosin](https://www.notarydepot.com/ummehamzah)
   - [Notary Public in Alexandria, LA: Marvin Schaffer, Jr.](https://www.notarydepot.com/undertaker02)
@@ -8257,4 +8258,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-01T11:57:02Z
+Updated at 2019-07-01T12:17:02Z
