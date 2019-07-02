@@ -2454,6 +2454,7 @@
   - [Notary Public in Flossmoor, IL: Alan Scott Hahn](https://www.notarydepot.com/alanhahn)
   - [Notary Public in Hollywood, FL: Alanna M. Lamar](https://www.notarydepot.com/alannalamar)
   - [Notary Public in McCalla, AL: Linda Meadows](https://www.notarydepot.com/alanotary)
+  - [Notary Public in Houston, TX: Stacy Pate](https://www.notarydepot.com/alanstacy2)
   - [Notary Public in Los Angeles, CA: Anne Larkin](https://www.notarydepot.com/alark22)
   - [Notary Public in Huntsville, AL: Andrew Lawhorn](https://www.notarydepot.com/alawhorn1)
   - [Notary Public in Riverside, CA: Alvin L. Brown](https://www.notarydepot.com/albrown)
@@ -8260,4 +8261,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-02T16:17:02Z
+Updated at 2019-07-02T16:37:02Z
