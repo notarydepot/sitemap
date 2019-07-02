@@ -1158,6 +1158,7 @@
     - [Notary Public in Oak Park, MI](https://www.notarydepot.com/notary-near-me/Michigan/Oak-Park)
     - [Notary Public in Plymouth, MI](https://www.notarydepot.com/notary-near-me/Michigan/Plymouth)
     - [Notary Public in Pontiac, MI](https://www.notarydepot.com/notary-near-me/Michigan/Pontiac)
+    - [Notary Public in Port Huron, MI](https://www.notarydepot.com/notary-near-me/Michigan/Port-Huron)
     - [Notary Public in Redford Charter Township, MI](https://www.notarydepot.com/notary-near-me/Michigan/Redford-Charter-Township)
     - [Notary Public in Rochester, MI](https://www.notarydepot.com/notary-near-me/Michigan/Rochester)
     - [Notary Public in Saginaw, MI](https://www.notarydepot.com/notary-near-me/Michigan/Saginaw)
@@ -6607,6 +6608,7 @@
   - [Notary Public in Santa Clara, CA: Kelby Olson](https://www.notarydepot.com/sac22)
   - [Notary Public in Floresville, TX: Chi Hung Loo](https://www.notarydepot.com/sacnotary)
   - [Notary Public in Alcolu, SC: Mary Johnson](https://www.notarydepot.com/sade110)
+  - [Notary Public in Port Huron, MI: Katherine Sova-Fasbender](https://www.notarydepot.com/safeguardmobilenotary)
   - [Notary Public in Middletown, NY: David Green](https://www.notarydepot.com/safenotary)
   - [Notary Public in Jacksonville, FL: Sagitta Woodie](https://www.notarydepot.com/sagitta35)
   - [Notary Public in San Clemente, CA: Sahil Desai](https://www.notarydepot.com/sahilpdesai)
@@ -8258,4 +8260,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-02T02:37:02Z
+Updated at 2019-07-02T02:57:02Z
