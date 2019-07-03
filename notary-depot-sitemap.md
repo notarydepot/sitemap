@@ -3585,6 +3585,7 @@
   - [Notary Public in Charlotte, NC: Daniel Nance](https://www.notarydepot.com/dnance01)
   - [Notary Public in Chicago, IL: Dawn Brim](https://www.notarydepot.com/dnb79)
   - [Notary Public in Chicago, IL: Dorothy McKinnie](https://www.notarydepot.com/dnmnotary)
+  - [Notary Public in Columbus, OH: Danielle Clark](https://www.notarydepot.com/dnotary)
   - [Notary Public in Saint Paul, MN: Joseph Dobbert](https://www.notarydepot.com/dobbertagency)
   - [Notary Public in Glendale, AZ: Jeffrey](https://www.notarydepot.com/docdrj77)
   - [Notary Public in Phelan, CA: Melinda S. Schumacher](https://www.notarydepot.com/docittome)
@@ -8260,4 +8261,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-03T22:37:02Z
+Updated at 2019-07-03T22:57:02Z
