@@ -742,7 +742,6 @@
     - [Notary Public in Brunswick, GA](https://www.notarydepot.com/notary-near-me/Georgia/Brunswick)
     - [Notary Public in Buford, GA](https://www.notarydepot.com/notary-near-me/Georgia/Buford)
     - [Notary Public in Byron, GA](https://www.notarydepot.com/notary-near-me/Georgia/Byron)
-    - [Notary Public in Canton, GA](https://www.notarydepot.com/notary-near-me/Georgia/Canton)
     - [Notary Public in College Park, GA](https://www.notarydepot.com/notary-near-me/Georgia/College-Park)
     - [Notary Public in Conyers, GA](https://www.notarydepot.com/notary-near-me/Georgia/Conyers)
     - [Notary Public in Cordele, GA](https://www.notarydepot.com/notary-near-me/Georgia/Cordele)
@@ -3913,7 +3912,7 @@
   - [Notary Public in Yarmouth, ME: Fred Richards](https://www.notarydepot.com/fredrich)
   - [Notary Public in Trenton, NJ: Melody P Freeman](https://www.notarydepot.com/freemanmel)
   - [Notary Public in Port Hueneme, CA: Simone Lewis](https://www.notarydepot.com/frenchie)
-  - [Notary Public in Canton, GA: Milton Nolen](https://www.notarydepot.com/freshvision)
+  - [Notary Public in Acworth, GA: Milton Nolen](https://www.notarydepot.com/freshvision)
   - [Notary Public in Clearwater, FL: Robert Charles](https://www.notarydepot.com/fritz8)
   - [Notary Public in Fort Lauderdale, FL: Kenya Frost](https://www.notarydepot.com/frostkenya)
   - [Notary Public in North Little Rock, AR: Amon](https://www.notarydepot.com/frostymay23)
@@ -8261,4 +8260,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-03T18:37:02Z
+Updated at 2019-07-03T18:57:02Z
