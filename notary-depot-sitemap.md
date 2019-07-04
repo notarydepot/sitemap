@@ -1425,7 +1425,6 @@
     - [Notary Public in Roy, NM](https://www.notarydepot.com/notary-near-me/New-Mexico/Roy)
     - [Notary Public in Santa Fe, NM](https://www.notarydepot.com/notary-near-me/New-Mexico/Santa-Fe)
     - [Notary Public in Taos, NM](https://www.notarydepot.com/notary-near-me/New-Mexico/Taos)
-    - [Notary Public in Tijeras, NM](https://www.notarydepot.com/notary-near-me/New-Mexico/Tijeras)
   - [Notaries Public in New York](https://www.notarydepot.com/notary-near-me/New-York)
     - [Notary Public in Albany, NY](https://www.notarydepot.com/notary-near-me/New-York/Albany)
     - [Notary Public in Altamont, NY](https://www.notarydepot.com/notary-near-me/New-York/Altamont)
@@ -4214,7 +4213,7 @@
   - [Notary Public in Rialto, CA: Jacqueline Luna](https://www.notarydepot.com/inezluna29)
   - [Notary Public in Marianna, FL: Inez K. Nowell](https://www.notarydepot.com/ineznowell)
   - [Notary Public in Lynbrook, NY: Stephen Rapanaro](https://www.notarydepot.com/info13)
-  - [Notary Public in Tijeras, NM: Inga Gillett-Spio](https://www.notarydepot.com/ingamobilenotary)
+  - [Notary Public in Willingboro, NJ: Inga Gillett-Spio](https://www.notarydepot.com/ingamobilenotary)
   - [Notary Public in Albuquerque, NM: Faye Ingle](https://www.notarydepot.com/inglef)
   - [Notary Public in Chicago, IL: Ingrid Sanchez](https://www.notarydepot.com/ingrid)
   - [Notary Public in Montague, MI: Rebecca Rupe](https://www.notarydepot.com/inkdnotary)
@@ -8264,4 +8263,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-04T13:37:02Z
+Updated at 2019-07-04T13:57:02Z
