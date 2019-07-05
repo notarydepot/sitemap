@@ -3694,6 +3694,7 @@
   - [Notary Public in Bronxville, NY: Elizabeth Betrand](https://www.notarydepot.com/ebetrand)
   - [Notary Public in Washington, DC: Esther T. Blackwell ](https://www.notarydepot.com/eblackwell)
   - [Notary Public in Fayette, MS: Jaharah Muhammad](https://www.notarydepot.com/ebonyice79)
+  - [Notary Public in Sacramento, CA: Ebony Thomas](https://www.notarydepot.com/ebonynotary)
   - [Notary Public in Killeen, TX: Ella R. Boyd](https://www.notarydepot.com/eboyd52136)
   - [Notary Public in Manhattan, KS: Eleni Brand](https://www.notarydepot.com/ebrand)
   - [Notary Public in Austin, TX: Edyta Sawin](https://www.notarydepot.com/ebsawin)
@@ -8264,4 +8265,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-05T19:57:02Z
+Updated at 2019-07-05T20:17:02Z
