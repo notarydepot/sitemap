@@ -2552,6 +2552,7 @@
   - [Notary Public in West Sacramento, CA: Angela Nguyen](https://www.notarydepot.com/angela1972)
   - [Notary Public in Yonkers, NY: Ms. Angela A. Zimniak Ms Ed.](https://www.notarydepot.com/angelaazimniak)
   - [Notary Public in Jacksonville, FL: Angela Rand](https://www.notarydepot.com/angelac3)
+  - [Notary Public in West Bloomfield Township, MI: Angela David](https://www.notarydepot.com/angeladavid)
   - [Notary Public in Baxter, MN: Angela Kolas](https://www.notarydepot.com/angelakolas)
   - [Notary Public in Fremont, CA: Angela Lin](https://www.notarydepot.com/angelalin)
   - [Notary Public in Philadelphia, PA: Angel Allan](https://www.notarydepot.com/angelallan)
@@ -8263,4 +8264,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-05T16:17:02Z
+Updated at 2019-07-05T16:37:02Z
