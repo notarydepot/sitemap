@@ -6506,6 +6506,7 @@
   - [Notary Public in Phoenix, AZ: Richard](https://www.notarydepot.com/rnotary)
   - [Notary Public in Kissimmee, FL: Dale D. Graham](https://www.notarydepot.com/roadnotaryinc)
   - [Notary Public in Redlands, CA: Diane](https://www.notarydepot.com/roadrunners)
+  - [Notary Public in Surprise, AZ: Dennis Cordia](https://www.notarydepot.com/roamingeaglenotary)
   - [Notary Public in Hollywood, FL: Mary Tirado](https://www.notarydepot.com/roamingshades)
   - [Notary Public in El Dorado Hills, CA: Robert K. Spies](https://www.notarydepot.com/robandmindy)
   - [Notary Public in Deming, NM: Robert Clark](https://www.notarydepot.com/robclark)
@@ -8268,4 +8269,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-06T16:57:02Z
+Updated at 2019-07-06T17:17:03Z
