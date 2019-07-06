@@ -5238,6 +5238,7 @@
   - [Notary Public in Thomasville, NC: Lucy A Owens](https://www.notarydepot.com/lusylou)
   - [Notary Public in Roanoke, VA: Kimberly Ann Olah](https://www.notarydepot.com/luv2sean)
   - [Notary Public in Winterville, NC: Courtney Congleton](https://www.notarydepot.com/luvmyemt)
+  - [Notary Public in Coral Springs, FL: Julie ](https://www.notarydepot.com/luxenotary)
   - [Notary Public in Victorville, CA: Luz Esparza-Rey](https://www.notarydepot.com/luz)
   - [Notary Public in Pueblo, CO: Lu Anne Simpson](https://www.notarydepot.com/lu_anne727)
   - [Notary Public in Orange, CA: Lorena Villarreal](https://www.notarydepot.com/lvillarreal)
@@ -8265,4 +8266,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-06T01:37:02Z
+Updated at 2019-07-06T01:57:02Z
