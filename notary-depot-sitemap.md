@@ -3141,6 +3141,7 @@
   - [Notary Public in Broken Arrow, OK: Christine Oldham Bs Pmp CNSA](https://www.notarydepot.com/christine)
   - [Notary Public in Ingleside, IL: Christine Cerda](https://www.notarydepot.com/christinecerda11)
   - [Notary Public in Wilbraham, MA: Christine M Moran](https://www.notarydepot.com/christinemmoran)
+  - [Notary Public in Perris, CA: Christine Thompson ](https://www.notarydepot.com/christinethenotary)
   - [Notary Public in New York, NY: Christine Yanire Rivera](https://www.notarydepot.com/christineyrivera)
   - [Notary Public in Brentwood, CA: Christine Rudolph](https://www.notarydepot.com/christine_rudolph)
   - [Notary Public in Lucedale, MS: Christi Nichols](https://www.notarydepot.com/christinichols)
@@ -8266,4 +8267,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-06T01:57:02Z
+Updated at 2019-07-06T02:17:02Z
