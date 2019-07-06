@@ -3227,6 +3227,7 @@
   - [Notary Public in Lake Elsinore, CA: Colleen M Gomez](https://www.notarydepot.com/colleengomez3)
   - [Notary Public in Fontana, CA: Marian Jackson](https://www.notarydepot.com/comet222)
   - [Notary Public in Columbia, MO: Ellen Rees](https://www.notarydepot.com/comonotary)
+  - [Notary Public in Jacksonville, FL: Andrew Alexander Brown](https://www.notarydepot.com/competentnotary)
   - [Notary Public in New York, NY: Edward J. Bryant](https://www.notarydepot.com/conciergenotary)
   - [Notary Public in Thousand Oaks, CA: Holly Litmanovich](https://www.notarydepot.com/conejovalleynotary)
   - [Notary Public in Murrieta, CA: Connie Adams](https://www.notarydepot.com/connie)
@@ -8267,4 +8268,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-06T02:17:02Z
+Updated at 2019-07-06T02:37:03Z
