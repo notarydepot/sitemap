@@ -5185,6 +5185,7 @@
   - [Notary Public in Lompoc, CA: Joseph L. Carlson](https://www.notarydepot.com/lompocjoe)
   - [Notary Public in Allen, TX: Doris McCulloch](https://www.notarydepot.com/lonestarnotarypro)
   - [Notary Public in Westbury, NY: William A Walker](https://www.notarydepot.com/longcast)
+  - [Notary Public in La Puente, CA: Veronica](https://www.notarydepot.com/lopezv2007)
   - [Notary Public in Brentwood, CA: Doreen Lopinto](https://www.notarydepot.com/lopinto96)
   - [Notary Public in Murrieta, CA: Lora Nasby](https://www.notarydepot.com/loradave)
   - [Notary Public in Hollywood, FL: M Lorena Saldana](https://www.notarydepot.com/lorenas03)
@@ -8269,4 +8270,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-08T17:57:02Z
+Updated at 2019-07-08T18:17:02Z
