@@ -4897,6 +4897,7 @@
   - [Notary Public in Kent, WA: Kim Nelson](https://www.notarydepot.com/knelson206)
   - [Notary Public in Rindge, NH: Lauralei Knight](https://www.notarydepot.com/knightnotary)
   - [Notary Public in Los Angeles, CA: Carla Kemp](https://www.notarydepot.com/kntebiz)
+  - [Notary Public in Dallas, TX: Knyoka Lawson](https://www.notarydepot.com/knyokalawson)
   - [Notary Public in Los Angeles, CA: Amir Tabrizi](https://www.notarydepot.com/kodakmacysplaza)
   - [Notary Public in Noblesville, IN: Kerri Officer-Young](https://www.notarydepot.com/kofficer)
   - [Notary Public in Wenatchee, WA: Kori Stuber](https://www.notarydepot.com/kori)
@@ -8270,4 +8271,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-10T14:17:02Z
+Updated at 2019-07-10T14:37:02Z
