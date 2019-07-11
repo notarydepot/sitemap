@@ -4761,6 +4761,7 @@
   - [Notary Public in Lowell, AR: Sharon Kay Gilzow](https://www.notarydepot.com/kaye08)
   - [Notary Public in Pembroke Pines, FL: Kay L. Lilly, Cert. Notary Signing Agent](https://www.notarydepot.com/kayllillycnsa)
   - [Notary Public in Eagle Point, OR: Kayla Renfro](https://www.notarydepot.com/kayrenfro)
+  - [Notary Public in Jacksonville, FL: Kutera Lavette Smith](https://www.notarydepot.com/kaythenotary)
   - [Notary Public in Philadelphia, PA: Kirk Ayzenberg](https://www.notarydepot.com/kayzenberg)
   - [Notary Public in Lake Havasu City, AZ: Kelly August](https://www.notarydepot.com/kba)
   - [Notary Public in Grosse Pointe, MI: Kari Basacchi](https://www.notarydepot.com/kbasacchi)
@@ -8272,4 +8273,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-11T09:57:03Z
+Updated at 2019-07-11T10:17:02Z
