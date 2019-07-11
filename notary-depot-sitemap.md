@@ -6180,7 +6180,7 @@
   - [Notary Public in Butler, NJ: Paula Jones](https://www.notarydepot.com/paulajones30)
   - [Notary Public in Clymer, PA: Paula Shilling](https://www.notarydepot.com/paulashilling)
   - [Notary Public in Washington, DC: Paul Weiss](https://www.notarydepot.com/pauldc)
-  - [Notary Public in Kansas City, MO: Paul Forel, Notary Public &amp; Loan Signing Agent](https://www.notarydepot.com/paulf)
+  - [Notary Public in Kansas City, MO: Paul Forel, Mobile Notary Public &amp; Loan Signing Agent](https://www.notarydepot.com/paulf)
   - [Notary Public in Huntersville, NC: Paul Gomez](https://www.notarydepot.com/paulgnotary2)
   - [Notary Public in Bayonne, NJ: Paul Rodriguez](https://www.notarydepot.com/paulie)
   - [Notary Public in Casper, WY: Peg Thew](https://www.notarydepot.com/paulienpeggy)
@@ -8273,4 +8273,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-11T16:57:02Z
+Updated at 2019-07-11T17:17:02Z
