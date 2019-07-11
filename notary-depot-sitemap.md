@@ -7524,6 +7524,7 @@
   - [Notary Public in Wichita Falls, TX: Teresa Roberts](https://www.notarydepot.com/wccs)
   - [Notary Public in Wichita Falls, TX: Teresa Roberts](https://www.notarydepot.com/wccstexas)
   - [Notary Public in Yonkers, NY: Wc Notary To Go](https://www.notarydepot.com/wcnotary2go)
+  - [Notary Public in Jacksonville, FL: Wanda Diaz](https://www.notarydepot.com/wdiaznotary)
   - [Notary Public in Hartford City, IN: William (bill) Dice](https://www.notarydepot.com/wdiceman)
   - [Notary Public in Detroit, MI: Wanda D. Norris](https://www.notarydepot.com/wdnorris)
   - [Notary Public in Long Beach, CA: Wynona D. Poole](https://www.notarydepot.com/wdpoole)
@@ -8273,4 +8274,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-11T22:37:02Z
+Updated at 2019-07-11T22:57:02Z
