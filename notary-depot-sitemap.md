@@ -2676,6 +2676,7 @@
   - [Notary Public in Matteson, IL: Alar Notary Services](https://www.notarydepot.com/atlantar)
   - [Notary Public in Tampa, FL: Cassandra Michel](https://www.notarydepot.com/atlasdocs)
   - [Notary Public in Portsmouth, VA: Adrian Torres](https://www.notarydepot.com/atorres)
+  - [Notary Public in Sugar Land, TX: Anitria Langlais Stevenson](https://www.notarydepot.com/attylang)
   - [Notary Public in Washington, DC: Tonya Butler-Truesdale](https://www.notarydepot.com/attytmbt)
   - [Notary Public in Ashland, OR: Amber Nelson](https://www.notarydepot.com/atyourservicesigning)
   - [Notary Public in Grain Valley, MO: Anita Aubuchon](https://www.notarydepot.com/aubychon)
@@ -8277,4 +8278,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-12T13:57:02Z
+Updated at 2019-07-12T14:17:02Z
