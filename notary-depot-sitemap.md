@@ -4042,7 +4042,6 @@
   - [Notary Public in Garner, NC: Judy Nipper](https://www.notarydepot.com/grammy824)
   - [Notary Public in Coconut Creek, FL: GEORGIANNE SYKES](https://www.notarydepot.com/grandaz)
   - [Notary Public in Rancho Palos Verdes, CA: Rhonda](https://www.notarydepot.com/grandmother)
-  - [Notary Public in Savannah, GA: Kindall Grant](https://www.notarydepot.com/grantlawgroup)
   - [Notary Public in Vista, CA: Grant Siracusa](https://www.notarydepot.com/grant_s)
   - [Notary Public in Easton, PA: Monica B. Voloshin](https://www.notarydepot.com/greaterlehighvalleynotary)
   - [Notary Public in Glendale, CA: Goren G Tatarian](https://www.notarydepot.com/greatimingnotary)
@@ -8278,4 +8277,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-12T15:37:02Z
+Updated at 2019-07-12T15:57:02Z
