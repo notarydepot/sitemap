@@ -1842,6 +1842,7 @@
   - [Notaries Public in Rhode Island](https://www.notarydepot.com/notary-near-me/Rhode-Island)
     - [Notary Public in Cranston, RI](https://www.notarydepot.com/notary-near-me/Rhode-Island/Cranston)
     - [Notary Public in Pawtucket, RI](https://www.notarydepot.com/notary-near-me/Rhode-Island/Pawtucket)
+    - [Notary Public in Richmond, RI](https://www.notarydepot.com/notary-near-me/Rhode-Island/Richmond)
     - [Notary Public in Warwick, RI](https://www.notarydepot.com/notary-near-me/Rhode-Island/Warwick)
   - [Notaries Public in South Carolina](https://www.notarydepot.com/notary-near-me/South-Carolina)
     - [Notary Public in Aiken, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Aiken)
@@ -4126,6 +4127,7 @@
   - [Notary Public in Spring Grove, PA: Teresa Klinedinst](https://www.notarydepot.com/hdvrod1)
   - [Notary Public in Cherry Hill, NJ: Dennis McGrath](https://www.notarydepot.com/headhntr)
   - [Notary Public in Pasco, WA: Heather Ortiz](https://www.notarydepot.com/heather)
+  - [Notary Public in Richmond, RI: Heather Ciuryla](https://www.notarydepot.com/heatherciuryla)
   - [Notary Public in Murrieta, CA: Heather Mattson](https://www.notarydepot.com/heathermattson)
   - [Notary Public in Wyandotte, MI: Heather R. Thornsberry](https://www.notarydepot.com/heathert729)
   - [Notary Public in Houston, TX: Heather Cumer](https://www.notarydepot.com/heathery35)
@@ -8275,4 +8277,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-12T02:17:02Z
+Updated at 2019-07-12T02:37:02Z
