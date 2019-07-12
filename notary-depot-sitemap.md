@@ -6345,6 +6345,7 @@
   - [Notary Public in Emeryville, CA: Qiana M. Riley](https://www.notarydepot.com/qmriley)
   - [Notary Public in Orinda, CA: Charles B. Quin](https://www.notarydepot.com/qnotarypublic)
   - [Notary Public in Fishers, IN: Jody Scott](https://www.notarydepot.com/qpsjo)
+  - [Notary Public in St. Augustine, FL: Melissa Weekley](https://www.notarydepot.com/queenannemobile)
   - [Notary Public in Los Angeles, CA: Queen Bee Notary](https://www.notarydepot.com/queenbee)
   - [Notary Public in Los Angeles, CA: Edith J Matthews](https://www.notarydepot.com/queenedie)
   - [Notary Public in Rock Hill, SC: Vashti Encarnacion](https://www.notarydepot.com/queenvashti)
@@ -8274,4 +8275,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-12T01:17:02Z
+Updated at 2019-07-12T01:37:02Z
