@@ -7057,6 +7057,7 @@
   - [Notary Public in Toledo, OH: Sheri Galloway](https://www.notarydepot.com/strictlybusiness)
   - [Notary Public in Chapel Hill, NC: La-Eula](https://www.notarydepot.com/strictlybzness)
   - [Notary Public in Lansing, MI: Shanna M. Strouse](https://www.notarydepot.com/strouse19461)
+  - [Notary Public in Puyallup, WA: Eric Strub](https://www.notarydepot.com/strubnotary)
   - [Notary Public in South El Monte, CA: Susan Tusing](https://www.notarydepot.com/stusing)
   - [Notary Public in Tahoe City, CA: Vincent E. Alfano](https://www.notarydepot.com/stvincent)
   - [Notary Public in St. Louis, MO: Patricia Watson](https://www.notarydepot.com/success87)
@@ -8277,4 +8278,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-12T15:57:02Z
+Updated at 2019-07-12T16:17:02Z
