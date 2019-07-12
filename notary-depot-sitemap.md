@@ -6451,6 +6451,7 @@
   - [Notary Public in Whittier, CA: Monica Reyes](https://www.notarydepot.com/reyesfam2la)
   - [Notary Public in Mesa, AZ: Ricardo Fallas](https://www.notarydepot.com/rfallasb)
   - [Notary Public in Lake Worth, FL: Rodger F. Bratvogel](https://www.notarydepot.com/rfbnotary)
+  - [Notary Public in Stockton, CA: Rochelle Flores](https://www.notarydepot.com/rflores209)
   - [Notary Public in Jacksonville, FL: Russell V. Franklin](https://www.notarydepot.com/rfranklin)
   - [Notary Public in Port St. Lucie, FL: Rene Fredericks](https://www.notarydepot.com/rfredericks)
   - [Notary Public in Alexandria, VA: Ron Chambers](https://www.notarydepot.com/rgcnotary)
@@ -8278,4 +8279,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-12T16:17:02Z
+Updated at 2019-07-12T16:37:02Z
