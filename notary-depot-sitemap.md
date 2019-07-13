@@ -6733,6 +6733,7 @@
   - [Notary Public in Salisbury, NC: Steven Dulin](https://www.notarydepot.com/sdulin)
   - [Notary Public in Tucker, GA: Stacie Adams](https://www.notarydepot.com/seaadams)
   - [Notary Public in Alexandria, VA: Bryce Hall](https://www.notarydepot.com/seafevor)
+  - [Notary Public in Newport Beach, CA: sean](https://www.notarydepot.com/seanm22)
   - [Notary Public in Fullerton, CA: Sean Park](https://www.notarydepot.com/seanpark)
   - [Notary Public in Stockton, CA: Corinne Seaton](https://www.notarydepot.com/seatonnotary)
   - [Notary Public in Bear, DE: Ouseph Seesan Ed](https://www.notarydepot.com/seesan)
@@ -8279,4 +8280,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-13T02:37:02Z
+Updated at 2019-07-13T02:57:02Z
