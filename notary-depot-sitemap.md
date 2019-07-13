@@ -3344,7 +3344,7 @@
   - [Notary Public in Windber, PA: Dale Tomlinson](https://www.notarydepot.com/dalet1978)
   - [Notary Public in Clive, IA: Donald P. Alexander](https://www.notarydepot.com/dalexander)
   - [Notary Public in Loxahatchee, FL: Dalia Isr](https://www.notarydepot.com/dalia)
-  - [Notary Public in Rockville, MD: Dalia Smith](https://www.notarydepot.com/daliasmith)
+  - [Notary Public in Gaithersburg, MD: Dalia Smith](https://www.notarydepot.com/daliasmith)
   - [Notary Public in Dayton, TX: Dalita D. Farris](https://www.notarydepot.com/dalitaf)
   - [Notary Public in Manteca, CA: Veronica Ajayi](https://www.notarydepot.com/dalola28)
   - [Notary Public in Washington, DC: David Minniefield](https://www.notarydepot.com/daminniefield)
@@ -8279,4 +8279,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-13T01:37:02Z
+Updated at 2019-07-13T01:57:02Z
