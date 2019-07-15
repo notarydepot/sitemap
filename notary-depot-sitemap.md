@@ -6367,6 +6367,7 @@
   - [Notary Public in Palmdale, CA: Rachel Pena](https://www.notarydepot.com/rachelpena)
   - [Notary Public in Avondale, AZ: Rachel Cruz](https://www.notarydepot.com/rachelstellarnotaryandloansigningcom)
   - [Notary Public in Wallingford, CT: Richard Claxton](https://www.notarydepot.com/raclaxton1)
+  - [Notary Public in Santa Ana, CA: Elizabeth Torres](https://www.notarydepot.com/radicalnetworksmobilenotary)
   - [Notary Public in Grand Prairie, TX: Rachael Howell](https://www.notarydepot.com/raehowell)
   - [Notary Public in Miami, FL: Ashley Ragin](https://www.notarydepot.com/ragin84)
   - [Notary Public in Fort Lauderdale, FL: T. Viena](https://www.notarydepot.com/rainbow1300)
@@ -8282,4 +8283,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-15T02:37:02Z
+Updated at 2019-07-15T02:57:02Z
