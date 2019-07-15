@@ -1184,9 +1184,9 @@
     - [Notary Public in Big Lake, MN](https://www.notarydepot.com/notary-near-me/Minnesota/Big-Lake)
     - [Notary Public in Burnsville, MN](https://www.notarydepot.com/notary-near-me/Minnesota/Burnsville)
     - [Notary Public in Duluth, MN](https://www.notarydepot.com/notary-near-me/Minnesota/Duluth)
+    - [Notary Public in Harmony, MN](https://www.notarydepot.com/notary-near-me/Minnesota/Harmony)
     - [Notary Public in La Crescent, MN](https://www.notarydepot.com/notary-near-me/Minnesota/La-Crescent)
     - [Notary Public in Lake Benton, MN](https://www.notarydepot.com/notary-near-me/Minnesota/Lake-Benton)
-    - [Notary Public in Le Roy, MN](https://www.notarydepot.com/notary-near-me/Minnesota/Le-Roy)
     - [Notary Public in Maple Plain, MN](https://www.notarydepot.com/notary-near-me/Minnesota/Maple-Plain)
     - [Notary Public in Minneapolis, MN](https://www.notarydepot.com/notary-near-me/Minnesota/Minneapolis)
     - [Notary Public in Moorhead, MN](https://www.notarydepot.com/notary-near-me/Minnesota/Moorhead)
@@ -2729,7 +2729,7 @@
   - [Notary Public in Richmond, VA: Barbara Noell Bartek](https://www.notarydepot.com/barbartk)
   - [Notary Public in Hialeah, FL: Barbara Sanchez](https://www.notarydepot.com/barbie74)
   - [Notary Public in Weaverville, NC: Barbara Ann Baer](https://www.notarydepot.com/barbiebaer)
-  - [Notary Public in Le Roy, MN: Barbara House](https://www.notarydepot.com/barbiek)
+  - [Notary Public in Harmony, MN: Barbara House](https://www.notarydepot.com/barbiek)
   - [Notary Public in Howard, OH: Barbara Katz](https://www.notarydepot.com/barbkatz)
   - [Notary Public in Fond du Lac, WI: Barbara Beregszazi](https://www.notarydepot.com/barbsnotary)
   - [Notary Public in Byron, CA: Barbara Trujillo](https://www.notarydepot.com/barbtrujillo)
@@ -8283,4 +8283,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-15T16:17:02Z
+Updated at 2019-07-15T16:37:02Z
