@@ -1160,6 +1160,7 @@
     - [Notary Public in Port Huron, MI](https://www.notarydepot.com/notary-near-me/Michigan/Port-Huron)
     - [Notary Public in Redford Charter Township, MI](https://www.notarydepot.com/notary-near-me/Michigan/Redford-Charter-Township)
     - [Notary Public in Rochester, MI](https://www.notarydepot.com/notary-near-me/Michigan/Rochester)
+    - [Notary Public in Romulus, MI](https://www.notarydepot.com/notary-near-me/Michigan/Romulus)
     - [Notary Public in Saginaw, MI](https://www.notarydepot.com/notary-near-me/Michigan/Saginaw)
     - [Notary Public in Sault Ste. Marie, MI](https://www.notarydepot.com/notary-near-me/Michigan/Sault-Ste-Marie)
     - [Notary Public in Scotts, MI](https://www.notarydepot.com/notary-near-me/Michigan/Scotts)
@@ -6490,6 +6491,7 @@
   - [Notary Public in Tempe, AZ: Renault Carrington](https://www.notarydepot.com/rjc198003)
   - [Notary Public in Bedford, OH: Rhonda Jennings](https://www.notarydepot.com/rjennings)
   - [Notary Public in Orlando, FL: Robert Goldman](https://www.notarydepot.com/rjgnotary)
+  - [Notary Public in Romulus, MI: Rhonda Johnson-Lee](https://www.notarydepot.com/rjleenotary)
   - [Notary Public in Lathrop, CA: Reba Williams-Jones](https://www.notarydepot.com/rjones03)
   - [Notary Public in Charlotte, NC: Raymon Hunt](https://www.notarydepot.com/rjoyassociatesnotary)
   - [Notary Public in Ponca City, OK: Robin Abshire](https://www.notarydepot.com/rkabshire)
@@ -8283,4 +8285,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-15T19:57:02Z
+Updated at 2019-07-15T20:17:02Z
