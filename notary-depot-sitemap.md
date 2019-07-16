@@ -1532,6 +1532,7 @@
     - [Notary Public in Andrews, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Andrews)
     - [Notary Public in Apex, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Apex)
     - [Notary Public in Asheville, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Asheville)
+    - [Notary Public in Belhaven, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Belhaven)
     - [Notary Public in Burlington, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Burlington)
     - [Notary Public in Carolina Beach, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Carolina-Beach)
     - [Notary Public in Cary, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Cary)
@@ -2653,6 +2654,7 @@
   - [Notary Public in West Palm Beach, FL: Ashley carpenter](https://www.notarydepot.com/ashleyagent)
   - [Notary Public in Vancouver, WA: Angela Arnett](https://www.notarydepot.com/ashleyarnett)
   - [Notary Public in Mobile, AL: Ashley Atkinson, CSA](https://www.notarydepot.com/ashleyatkinson)
+  - [Notary Public in Belhaven, NC: Ashley Chase](https://www.notarydepot.com/ashleychase6671)
   - [Notary Public in Lake Elsinore, CA: Ashley Johnson](https://www.notarydepot.com/ashleyjohnson)
   - [Notary Public in Madera, CA: Ashley Martinez](https://www.notarydepot.com/ashleym1)
   - [Notary Public in Long Beach, CA: Ashley H. Oraguzie ](https://www.notarydepot.com/ashleyoraguzienotary)
@@ -8285,4 +8287,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-16T00:37:02Z
+Updated at 2019-07-16T00:57:02Z
