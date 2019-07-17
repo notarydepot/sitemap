@@ -6586,6 +6586,7 @@
   - [Notary Public in Houston, TX: Datronaye Jones](https://www.notarydepot.com/royaltax)
   - [Notary Public in Los Angeles, CA: Roy Dubos](https://www.notarydepot.com/roydubos)
   - [Notary Public in Chicago, IL: Geraldine Green](https://www.notarydepot.com/roylt222)
+  - [Notary Public in Honolulu, HI: Michelle Turner](https://www.notarydepot.com/royltnla)
   - [Notary Public in Clarks Summit, PA: Ryan P. Campbell, Esq.](https://www.notarydepot.com/rpcampbell99)
   - [Notary Public in Macedonia, OH: Ronald Perelka](https://www.notarydepot.com/rperelka)
   - [Notary Public in Clifton, NJ: Richard Plishka](https://www.notarydepot.com/rplishka)
@@ -8287,4 +8288,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-17T00:57:02Z
+Updated at 2019-07-17T01:17:02Z
