@@ -5805,6 +5805,7 @@
   - [Notary Public in Spring, TX: Nathania Naftaly](https://www.notarydepot.com/natiroche)
   - [Notary Public in CA: Tom Heymann](https://www.notarydepot.com/natory)
   - [Notary Public in Orange, TX: TreKendria Jones](https://www.notarydepot.com/naturalnotary)
+  - [Notary Public in Stevens Point, WI: Phillip D Schobert](https://www.notarydepot.com/naturecare)
   - [Notary Public in Fremont, CA: Navdeep Kaur](https://www.notarydepot.com/navdeepkaur)
   - [Notary Public in Sacramento, CA: naveen kumar](https://www.notarydepot.com/naveenkortagmailcom)
   - [Notary Public in Los Angeles, CA: Navid Pakt](https://www.notarydepot.com/navidy1)
@@ -8288,4 +8289,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-17T01:57:02Z
+Updated at 2019-07-17T02:17:03Z
