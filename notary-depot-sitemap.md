@@ -6315,7 +6315,7 @@
   - [Notary Public in OH: Christina Malleo](https://www.notarydepot.com/prontogirl)
   - [Notary Public in Miami, FL: Janine Oliveira](https://www.notarydepot.com/propertymanagement1)
   - [Notary Public in Vancouver, WA: Bruce A Samuelson Sr](https://www.notarydepot.com/proserv)
-  - [Notary Public in Santa Barbara, CA: Cheryl Elliott](https://www.notarydepot.com/prosigner)
+  - [Notary Public in Paso Robles, CA: Cheryl Elliott](https://www.notarydepot.com/prosigner)
   - [Notary Public in Waldorf, MD: Jeffery Dennison](https://www.notarydepot.com/protax20601)
   - [Notary Public in Downingtown, PA: Proverbial Investor LLC](https://www.notarydepot.com/proverbial)
   - [Notary Public in Kountze, TX: Dalena Core](https://www.notarydepot.com/pscore)
@@ -8290,4 +8290,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-18T16:37:02Z
+Updated at 2019-07-18T16:57:02Z
