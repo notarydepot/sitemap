@@ -1622,6 +1622,7 @@
     - [Notary Public in Chandlersville, OH](https://www.notarydepot.com/notary-near-me/Ohio/Chandlersville)
     - [Notary Public in Cincinnati, OH](https://www.notarydepot.com/notary-near-me/Ohio/Cincinnati)
     - [Notary Public in Cleveland, OH](https://www.notarydepot.com/notary-near-me/Ohio/Cleveland)
+    - [Notary Public in Cleveland Heights, OH](https://www.notarydepot.com/notary-near-me/Ohio/Cleveland-Heights)
     - [Notary Public in Columbia Station, OH](https://www.notarydepot.com/notary-near-me/Ohio/Columbia-Station)
     - [Notary Public in Columbus, OH](https://www.notarydepot.com/notary-near-me/Ohio/Columbus)
     - [Notary Public in Cuyahoga Falls, OH](https://www.notarydepot.com/notary-near-me/Ohio/Cuyahoga-Falls)
@@ -6414,6 +6415,7 @@
   - [Notary Public in Oroville, CA: Rebecka A Rodriguez](https://www.notarydepot.com/rebecka)
   - [Notary Public in Chino Hills, CA: Rebekah Butorac](https://www.notarydepot.com/rebekahbutorac)
   - [Notary Public in Acworth, GA: Michelle James](https://www.notarydepot.com/redchel)
+  - [Notary Public in Cleveland Heights, OH: Anita Reddi9](https://www.notarydepot.com/reddnotary)
   - [Notary Public in Gulfport, MS: Kimberly L. Bailey](https://www.notarydepot.com/redeagulls)
   - [Notary Public in Huntington Beach, CA: Michelle Paull](https://www.notarydepot.com/redhots22)
   - [Notary Public in Rowland Heights, CA: anna](https://www.notarydepot.com/redieaf)
@@ -8291,4 +8293,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-21T18:37:02Z
+Updated at 2019-07-21T18:57:02Z
