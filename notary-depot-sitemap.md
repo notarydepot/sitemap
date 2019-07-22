@@ -5136,7 +5136,6 @@
   - [Notary Public in Rodeo, CA: Donald Edwards](https://www.notarydepot.com/lionsgate)
   - [Notary Public in Westminster, CO: Anna Lisa Adams](https://www.notarydepot.com/lisaaco)
   - [Notary Public in Peekskill, NY: Lisa Alexander](https://www.notarydepot.com/lisaacpa)
-  - [Notary Public in CA: Lisa Adler](https://www.notarydepot.com/lisaadlernotary)
   - [Notary Public in Cedar Park, TX: Lisa Bermudez](https://www.notarydepot.com/lisabnotary)
   - [Notary Public in Huntington Station, NY: Lisa Cotoia](https://www.notarydepot.com/lisacotoia)
   - [Notary Public in Miami, FL: Lisa Francisque](https://www.notarydepot.com/lisaf7225)
@@ -8293,4 +8292,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-22T17:37:02Z
+Updated at 2019-07-22T17:57:03Z
