@@ -1887,6 +1887,7 @@
     - [Notary Public in Summerville, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Summerville)
     - [Notary Public in Wadmalaw Island, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Wadmalaw-Island)
     - [Notary Public in Walterboro, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Walterboro)
+    - [Notary Public in Westminster, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Westminster)
     - [Notary Public in York, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/York)
   - [Notaries Public in South Dakota](https://www.notarydepot.com/notary-near-me/South-Dakota)
     - [Notary Public in Mount Vernon, SD](https://www.notarydepot.com/notary-near-me/South-Dakota/Mount-Vernon)
@@ -4615,6 +4616,7 @@
   - [Notary Public in Bryan, TX: Joyce Soliz](https://www.notarydepot.com/joysol)
   - [Notary Public in Boothbay Harbor, ME: Jaquie Pena](https://www.notarydepot.com/jpena)
   - [Notary Public in Layton, UT: Jim Pettingill](https://www.notarydepot.com/jpettingill)
+  - [Notary Public in Westminster, SC: Jennifer M Phillips](https://www.notarydepot.com/jphillips2019)
   - [Notary Public in Bogota, NJ: Joie Polimeda](https://www.notarydepot.com/jplynn10)
   - [Notary Public in Manchester, NH: Myra Anne Mullen](https://www.notarydepot.com/jpmyra)
   - [Notary Public in Napa, CA: Jim Pettis](https://www.notarydepot.com/jpnotary)
@@ -8292,4 +8294,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-23T19:57:03Z
+Updated at 2019-07-23T20:17:02Z
