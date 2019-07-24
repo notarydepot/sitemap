@@ -4142,6 +4142,7 @@
   - [Notary Public in Okeechobee, FL: Heide Miller - Van Miller](https://www.notarydepot.com/heideleemiller)
   - [Notary Public in Okeechobee, FL: Heide Lee Miller](https://www.notarydepot.com/heidemiller)
   - [Notary Public in Ingalls, IN: Heidi Mcelroy](https://www.notarydepot.com/heidi)
+  - [Notary Public in San Diego, CA: Wing Au](https://www.notarydepot.com/heidi910)
   - [Notary Public in Hemet, CA: Jacki Espino](https://www.notarydepot.com/hemetnotary)
   - [Notary Public in Hemet, CA: John Spranger](https://www.notarydepot.com/hemetpilot)
   - [Notary Public in Littlerock, CA: Hugo Estrada](https://www.notarydepot.com/henme0708)
@@ -8296,4 +8297,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-24T18:37:02Z
+Updated at 2019-07-24T18:57:02Z
