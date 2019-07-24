@@ -5454,6 +5454,7 @@
   - [Notary Public in Fort Worth, TX: megan Fields](https://www.notarydepot.com/megan23247)
   - [Notary Public in Irvine, CA: Megan Day](https://www.notarydepot.com/meganday)
   - [Notary Public in Vero Beach, FL: Jackie Hyde](https://www.notarydepot.com/meganmae1)
+  - [Notary Public in Parker, CO: Megan Tahquette](https://www.notarydepot.com/meganmalia)
   - [Notary Public in Newburgh, NY: Nancy Higgins](https://www.notarydepot.com/meganriley)
   - [Notary Public in Bakersfield, CA: Megan Carter](https://www.notarydepot.com/meggera)
   - [Notary Public in Santa Clarita, CA: Molly Gerber](https://www.notarydepot.com/megmobilenotary)
@@ -8297,4 +8298,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-24T21:37:03Z
+Updated at 2019-07-24T21:57:03Z
