@@ -1418,6 +1418,7 @@
     - [Notary Public in Belen, NM](https://www.notarydepot.com/notary-near-me/New-Mexico/Belen)
     - [Notary Public in Bernalillo, NM](https://www.notarydepot.com/notary-near-me/New-Mexico/Bernalillo)
     - [Notary Public in Carlsbad, NM](https://www.notarydepot.com/notary-near-me/New-Mexico/Carlsbad)
+    - [Notary Public in Conchas, NM](https://www.notarydepot.com/notary-near-me/New-Mexico/Conchas)
     - [Notary Public in Corrales, NM](https://www.notarydepot.com/notary-near-me/New-Mexico/Corrales)
     - [Notary Public in Deming, NM](https://www.notarydepot.com/notary-near-me/New-Mexico/Deming)
     - [Notary Public in La Luz, NM](https://www.notarydepot.com/notary-near-me/New-Mexico/La-Luz)
@@ -5888,6 +5889,7 @@
   - [Notary Public in Glendale, AZ: Nancy Lopez](https://www.notarydepot.com/nltays)
   - [Notary Public in Miami, FL: Nancy Mayea](https://www.notarydepot.com/nmayea)
   - [Notary Public in New London, CT: Niecy McCoy](https://www.notarydepot.com/nmccoy317)
+  - [Notary Public in Conchas, NM: Renee Villeneuve](https://www.notarydepot.com/nmruralnotary)
   - [Notary Public in New Britain, CT: Nicole Marie Tine](https://www.notarydepot.com/nmtine4)
   - [Notary Public in Hollywood, FL: Nick Nikolaidis](https://www.notarydepot.com/nnickolas)
   - [Notary Public in Louisville, KY: Peggy Dockery](https://www.notarydepot.com/noblenotaries)
@@ -8294,4 +8296,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-24T18:17:02Z
+Updated at 2019-07-24T18:37:02Z
