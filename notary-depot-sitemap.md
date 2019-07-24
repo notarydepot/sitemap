@@ -7650,6 +7650,7 @@
   - [Notary Public in Ventnor City, NJ: Joseph W Carty](https://www.notarydepot.com/ytrac)
   - [Notary Public in Hammonton, NJ: Joseph W Carty](https://www.notarydepot.com/ytrac2)
   - [Notary Public in Clermont, FL: Yvonne A Turner](https://www.notarydepot.com/yturner810)
+  - [Notary Public in San Diego, CA: Kevin Fung](https://www.notarydepot.com/yukitopia)
   - [Notary Public in Rotterdam, NY: Yvetta Parson](https://www.notarydepot.com/yvetta)
   - [Notary Public in Davenport, FL: Yvonne Long](https://www.notarydepot.com/yvonnell)
   - [Notary Public in Farmington, MI: Yolonda Walker](https://www.notarydepot.com/ywalker)
@@ -8298,4 +8299,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-24T23:37:02Z
+Updated at 2019-07-24T23:57:02Z
