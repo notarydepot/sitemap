@@ -3218,7 +3218,6 @@
   - [Notary Public in Woodland, CA: Jack M Conaway](https://www.notarydepot.com/cnsajc)
   - [Notary Public in Fort Myers, FL: Melissa A Young](https://www.notarydepot.com/cobysmom08)
   - [Notary Public in Modesto, CA: Consuelo Huerta](https://www.notarydepot.com/cochoa04)
-  - [Notary Public in Sebastian, FL: Debbie Brandauer](https://www.notarydepot.com/cocoaskid)
   - [Notary Public in Lancaster, CA: Elizabeth Ann Ballentine](https://www.notarydepot.com/code3mobilenotary)
   - [Notary Public in Anaheim, CA: Cathy L O&#39;Dell Town](https://www.notarydepot.com/codell65)
   - [Notary Public in NY: Charles N Cook](https://www.notarydepot.com/codyjarrett)
@@ -8299,4 +8298,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-25T03:17:02Z
+Updated at 2019-07-25T03:37:02Z
