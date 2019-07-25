@@ -4383,6 +4383,7 @@
   - [Notary Public in Apple Valley, CA: Jackie Demonte](https://www.notarydepot.com/jd92307)
   - [Notary Public in Fremont, CA: Jennifer Day](https://www.notarydepot.com/jday)
   - [Notary Public in Muncie, IN: Jennifer Coy](https://www.notarydepot.com/jdcoy673)
+  - [Notary Public in Pittsburgh, PA: Jeffrey Deakings, Sr](https://www.notarydepot.com/jdd96hotmailcom)
   - [Notary Public in Dallas, TX: Janice Deans](https://www.notarydepot.com/jdeans)
   - [Notary Public in Perry, FL: Jackie Koeller](https://www.notarydepot.com/jdgato)
   - [Notary Public in Washburn, ND: jeremy germain](https://www.notarydepot.com/jdgermain)
@@ -8297,4 +8298,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-25T11:37:02Z
+Updated at 2019-07-25T11:57:02Z
