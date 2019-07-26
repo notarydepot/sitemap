@@ -912,6 +912,7 @@
     - [Notary Public in Lafayette, IN](https://www.notarydepot.com/notary-near-me/Indiana/Lafayette)
     - [Notary Public in Lawrenceburg, IN](https://www.notarydepot.com/notary-near-me/Indiana/Lawrenceburg)
     - [Notary Public in Merrillville, IN](https://www.notarydepot.com/notary-near-me/Indiana/Merrillville)
+    - [Notary Public in Michigan City, IN](https://www.notarydepot.com/notary-near-me/Indiana/Michigan-City)
     - [Notary Public in Middletown, IN](https://www.notarydepot.com/notary-near-me/Indiana/Middletown)
     - [Notary Public in Mishawaka, IN](https://www.notarydepot.com/notary-near-me/Indiana/Mishawaka)
     - [Notary Public in Muncie, IN](https://www.notarydepot.com/notary-near-me/Indiana/Muncie)
@@ -7655,6 +7656,7 @@
   - [Notary Public in Davenport, FL: Yvonne Long](https://www.notarydepot.com/yvonnell)
   - [Notary Public in Farmington, MI: Yolonda Walker](https://www.notarydepot.com/ywalker)
   - [Notary Public in Sebastian, FL: Manuel Sanchez](https://www.notarydepot.com/zacarias)
+  - [Notary Public in Michigan City, IN: Zack M Crum](https://www.notarydepot.com/zacknotary)
   - [Notary Public in Downey, CA: Zalynda Shields](https://www.notarydepot.com/zalynda)
   - [Notary Public in East Brunswick, NJ: George Bandy](https://www.notarydepot.com/zamankeid)
   - [Notary Public in Corning, CA: Sharleigh Zavaglia ](https://www.notarydepot.com/zavaglia21)
@@ -8299,4 +8301,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-26T22:57:02Z
+Updated at 2019-07-26T23:17:02Z
