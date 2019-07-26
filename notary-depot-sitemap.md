@@ -4753,6 +4753,7 @@
   - [Notary Public in Salem, OR: Katrina Hamlin](https://www.notarydepot.com/katflores)
   - [Notary Public in Salisbury, NC: Kathie Wilson](https://www.notarydepot.com/kathie)
   - [Notary Public in Dahlgren, VA: Kathleen Elise Kelly](https://www.notarydepot.com/kathiek65)
+  - [Notary Public in Salinas, CA: Kathleen Jackson](https://www.notarydepot.com/kathleen)
   - [Notary Public in Baldwin, NY: Kathleen Fink](https://www.notarydepot.com/kathleenfink)
   - [Notary Public in San Clemente, CA: Kathrin Delano](https://www.notarydepot.com/kathrind)
   - [Notary Public in Chula Vista, CA: Kathrine O&#39;Dell](https://www.notarydepot.com/kathrineodell)
@@ -8299,4 +8300,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-26T06:57:02Z
+Updated at 2019-07-26T07:17:02Z
