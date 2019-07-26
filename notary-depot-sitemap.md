@@ -2381,6 +2381,7 @@
   - [Notary Public in Las Vegas, NV: Adrienne  Bourque ](https://www.notarydepot.com/abusybee)
   - [Notary Public in Riverside, CA: Jennifer West](https://www.notarydepot.com/acaangelsfan)
   - [Notary Public in Fair Oaks, CA: Demian Ross](https://www.notarydepot.com/acaciacon)
+  - [Notary Public in Portsmouth, VA: Tawanda Walker](https://www.notarydepot.com/acanotaryservice)
   - [Notary Public in Crisfield, MD: Alexis Carter](https://www.notarydepot.com/acarter)
   - [Notary Public in Littleton, CO: Arthur Carlson](https://www.notarydepot.com/acc169)
   - [Notary Public in Las Vegas, NV: Ronald Gephart](https://www.notarydepot.com/accurateloansigning)
@@ -8301,4 +8302,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-26T23:37:02Z
+Updated at 2019-07-26T23:57:02Z
