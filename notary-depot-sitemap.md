@@ -6861,6 +6861,7 @@
   - [Notary Public in Arlington, WA: Lourea Garka](https://www.notarydepot.com/sign)
   - [Notary Public in Silver Creek, WA: Angeleetta Hartmann](https://www.notarydepot.com/sign4u)
   - [Notary Public in San Diego, CA: Christian Jeter](https://www.notarydepot.com/signaturenotarysd)
+  - [Notary Public in Atlanta, GA: SignatureSavy Mobile Notary and Signing Agent Service](https://www.notarydepot.com/signaturesavy01)
   - [Notary Public in Virginia Beach, VA: Signature Solutions ](https://www.notarydepot.com/signaturesolutions101)
   - [Notary Public in Port St. Lucie, FL: Felise Green](https://www.notarydepot.com/signawayservice)
   - [Notary Public in Locust Grove, VA: Kimberly Stewart](https://www.notarydepot.com/signedsealedanddelivered)
@@ -8303,4 +8304,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-27T13:37:02Z
+Updated at 2019-07-27T13:57:02Z
