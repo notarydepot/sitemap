@@ -7512,6 +7512,7 @@
   - [Notary Public in Camarillo, CA: Vivienne C. Lansdown](https://www.notarydepot.com/vlansdown)
   - [Notary Public in Snellville, GA: Vickie Edmond - Notary Public, Georgia](https://www.notarydepot.com/vlwx31)
   - [Notary Public in Bakersfield, CA: Veronica Mathis](https://www.notarydepot.com/vmathis)
+  - [Notary Public in Norcross, GA: Valerie McQueen](https://www.notarydepot.com/vmcqueen)
   - [Notary Public in Okeechobee, FL: Van Robert Miller](https://www.notarydepot.com/vmiller4cnsa)
   - [Notary Public in Heber, CA: Vanessa Montiel](https://www.notarydepot.com/vmontiel)
   - [Notary Public in Dublin, CA: Vanessa Montano](https://www.notarydepot.com/vmunoz7811)
@@ -8302,4 +8303,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-27T11:57:02Z
+Updated at 2019-07-27T12:17:02Z
