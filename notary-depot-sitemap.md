@@ -6923,7 +6923,7 @@
   - [Notary Public in San Antonio, TX: Juan &amp; Susan Rodriguez](https://www.notarydepot.com/skeyser3)
   - [Notary Public in Clarkdale, AZ: Stephanie Ferguson](https://www.notarydepot.com/skferguson)
   - [Notary Public in Las Vegas, NV: Anna](https://www.notarydepot.com/skittlebadu)
-  - [Notary Public in Saint Petersburg, FL: Samantha Kittles ](https://www.notarydepot.com/skittlesnotary)
+  - [Notary Public in St. Petersburg, FL: Samantha Kittles ](https://www.notarydepot.com/skittlesnotary)
   - [Notary Public in Coralville, IA: Robby Elgin](https://www.notarydepot.com/skoool)
   - [Notary Public in Riverbank, CA: Skp &amp; Company](https://www.notarydepot.com/skpcompany)
   - [Notary Public in Descanso, CA: Shawna Kramer](https://www.notarydepot.com/skramer)
@@ -8305,4 +8305,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-28T21:57:02Z
+Updated at 2019-07-28T22:17:02Z
