@@ -4620,6 +4620,7 @@
   - [Notary Public in Katy, TX: Joy R Walker](https://www.notarydepot.com/joyrwalker)
   - [Notary Public in Bryan, TX: Joyce Soliz](https://www.notarydepot.com/joysol)
   - [Notary Public in Boothbay Harbor, ME: Jaquie Pena](https://www.notarydepot.com/jpena)
+  - [Notary Public in Lakeland, FL: Joe Perez](https://www.notarydepot.com/jperez6401)
   - [Notary Public in Layton, UT: Jim Pettingill](https://www.notarydepot.com/jpettingill)
   - [Notary Public in Westminster, SC: Jennifer M Phillips](https://www.notarydepot.com/jphillips2019)
   - [Notary Public in Bogota, NJ: Joie Polimeda](https://www.notarydepot.com/jplynn10)
@@ -8305,4 +8306,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-29T00:57:02Z
+Updated at 2019-07-29T01:17:02Z
