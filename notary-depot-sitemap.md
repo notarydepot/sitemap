@@ -6399,6 +6399,7 @@
   - [Notary Public in Los Angeles, CA: Randa Rose Casad](https://www.notarydepot.com/randa)
   - [Notary Public in Roy, NM: Randy D. Peña](https://www.notarydepot.com/randypena2002)
   - [Notary Public in Miami, FL: Roudy Antenor](https://www.notarydepot.com/rantenor)
+  - [Notary Public in Franklin, NC: Raphael Fetrat](https://www.notarydepot.com/raphael)
   - [Notary Public in Lehigh Acres, FL: Raquel Broom ](https://www.notarydepot.com/raquelbroom)
   - [Notary Public in Robertsdale, AL: Rosemary Gandy](https://www.notarydepot.com/rasbilling)
   - [Notary Public in Blissfield, MI: E-Z-1 Public Notary Public/ Closing Agent](https://www.notarydepot.com/rasin)
@@ -8308,4 +8309,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-30T01:57:02Z
+Updated at 2019-07-30T02:17:02Z
