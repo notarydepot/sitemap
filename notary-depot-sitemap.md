@@ -2175,6 +2175,7 @@
     - [Notary Public in Smithfield, VA](https://www.notarydepot.com/notary-near-me/Virginia/Smithfield)
     - [Notary Public in Spotsylvania, VA](https://www.notarydepot.com/notary-near-me/Virginia/Spotsylvania)
     - [Notary Public in Spout Spring, VA](https://www.notarydepot.com/notary-near-me/Virginia/Spout-Spring)
+    - [Notary Public in Springfield, VA](https://www.notarydepot.com/notary-near-me/Virginia/Springfield)
     - [Notary Public in Stafford, VA](https://www.notarydepot.com/notary-near-me/Virginia/Stafford)
     - [Notary Public in Staunton, VA](https://www.notarydepot.com/notary-near-me/Virginia/Staunton)
     - [Notary Public in Sterling, VA](https://www.notarydepot.com/notary-near-me/Virginia/Sterling)
@@ -3883,6 +3884,7 @@
   - [Notary Public in Bowie, MD: Denise Hayden](https://www.notarydepot.com/finelinesv)
   - [Notary Public in Vienna, VA: Eric Finke](https://www.notarydepot.com/finkeeg)
   - [Notary Public in Hayesville, NC: Suzan Finnerty](https://www.notarydepot.com/finnerty)
+  - [Notary Public in Springfield, VA: Fiona Ferguson-McKinnon ](https://www.notarydepot.com/fionathesigner)
   - [Notary Public in North East, MD: Dawn M. Rodenbaugh](https://www.notarydepot.com/firegirl)
   - [Notary Public in Santa Paula, CA: Jeff Carter](https://www.notarydepot.com/fireusar)
   - [Notary Public in Orangevale, CA: Rick Garces](https://www.notarydepot.com/fishhead)
@@ -8306,4 +8308,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-30T01:37:02Z
+Updated at 2019-07-30T01:57:02Z
