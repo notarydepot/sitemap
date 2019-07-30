@@ -6954,6 +6954,7 @@
   - [Notary Public in Orange Park, FL: Donnie R. Atkinson](https://www.notarydepot.com/smilingdon)
   - [Notary Public in Dallas, TX: Shay](https://www.notarydepot.com/smilingnotary)
   - [Notary Public in Sacramento, CA: Shaharzen Milsap](https://www.notarydepot.com/smilsap)
+  - [Notary Public in Waukegan, IL: Sharhonda Mitchell](https://www.notarydepot.com/smitchell)
   - [Notary Public in Ridgeland, MS: Taunya Smith ](https://www.notarydepot.com/smithtaxprep)
   - [Notary Public in Vancouver, WA: A Notary Service](https://www.notarydepot.com/smitty)
   - [Notary Public in Manteca, CA: Jenee Selsor](https://www.notarydepot.com/smobilenotary)
@@ -8310,4 +8311,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-30T18:37:03Z
+Updated at 2019-07-30T18:57:02Z
