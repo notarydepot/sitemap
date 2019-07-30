@@ -7403,6 +7403,7 @@
   - [Notary Public in Caldwell, ID: Tina Biggers](https://www.notarydepot.com/tvnotaryid)
   - [Notary Public in Rancho Santa Margarita, CA: Thomas Adams](https://www.notarydepot.com/twadams)
   - [Notary Public in Pfafftown, NC: Tracy S. Wade](https://www.notarydepot.com/twade3)
+  - [Notary Public in Maricopa, AZ: Tearra Warren](https://www.notarydepot.com/twarren)
   - [Notary Public in Columbus, OH: Theresa Workman](https://www.notarydepot.com/twiggy)
   - [Notary Public in Humboldt, TN: Angela Burton](https://www.notarydepot.com/twinkle5)
   - [Notary Public in Chula Vista, CA: Stacey Martin-Lopez](https://www.notarydepot.com/twinsam)
@@ -8309,4 +8310,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-07-30T08:37:02Z
+Updated at 2019-07-30T08:57:02Z
