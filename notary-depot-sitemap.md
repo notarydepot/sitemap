@@ -2507,6 +2507,7 @@
   - [Notary Public in Boynton Beach, FL: Terri T Golden](https://www.notarydepot.com/alwaysavailable)
   - [Notary Public in Ionia, MI: Alice L. Samani-zozo](https://www.notarydepot.com/alzsamani)
   - [Notary Public in Beverly Hills, FL: Ann Marie Williams](https://www.notarydepot.com/am24wnotarydepot)
+  - [Notary Public in Columbia, MO: Ashley Mikel](https://www.notarydepot.com/am33878)
   - [Notary Public in Miami, FL: Amabel Gonzalez](https://www.notarydepot.com/amabelgonzalez1)
   - [Notary Public in Palmdale, CA: Anthony Madera](https://www.notarydepot.com/amadera)
   - [Notary Public in Chula Vista, CA: Martha C. Amador](https://www.notarydepot.com/amadornotary)
@@ -8311,4 +8312,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-01T20:37:02Z
+Updated at 2019-08-01T20:57:01Z
