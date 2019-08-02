@@ -6322,6 +6322,7 @@
   - [Notary Public in Simi Valley, CA: Les Jarrin](https://www.notarydepot.com/printer)
   - [Notary Public in Yonkers, NY: Andre Hatchett](https://www.notarydepot.com/prioritynotaryinc)
   - [Notary Public in Huntingtown, MD: Carolyn Sherwood](https://www.notarydepot.com/prissyhoney760)
+  - [Notary Public in NY: Prity Rawat](https://www.notarydepot.com/prity1203)
   - [Notary Public in Baton Rouge, LA: Perkins Road Notary](https://www.notarydepot.com/prnotary1)
   - [Notary Public in Pueblo, CO: Herbert Myers](https://www.notarydepot.com/proactiveaccountingservices)
   - [Notary Public in Tallahassee, FL: Beth Nelson](https://www.notarydepot.com/proctor63)
@@ -8312,4 +8313,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-02T15:37:02Z
+Updated at 2019-08-02T15:57:02Z
