@@ -5746,6 +5746,7 @@
   - [Notary Public in Edison, NJ: Mary L Smerecki](https://www.notarydepot.com/msmerecki)
   - [Notary Public in Roselle, NJ: Michele Wilson](https://www.notarydepot.com/msmotivated)
   - [Notary Public in Los Angeles, CA: Kristine Ciccone](https://www.notarydepot.com/msnotaryla1)
+  - [Notary Public in Tupelo, MS: Miranda K. McGory ](https://www.notarydepot.com/msoptician)
   - [Notary Public in Denver, CO: Marrissa Ratcliff](https://www.notarydepot.com/msratcliff1993)
   - [Notary Public in Portsmouth, VA: Tee Williams](https://www.notarydepot.com/msrealtee)
   - [Notary Public in Lithonia, GA: Sharon D.](https://www.notarydepot.com/mssharmt)
@@ -8315,4 +8316,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-03T22:57:02Z
+Updated at 2019-08-03T23:17:01Z
