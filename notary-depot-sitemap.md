@@ -3100,6 +3100,7 @@
   - [Notary Public in Aiken, SC: Chico Allen](https://www.notarydepot.com/challen20)
   - [Notary Public in El Paso, TX: Jesus Mesta](https://www.notarydepot.com/chames)
   - [Notary Public in Katy, TX: Chandra Watson](https://www.notarydepot.com/chandrawatson)
+  - [Notary Public in Atlanta, GA: Channing](https://www.notarydepot.com/chankofa)
   - [Notary Public in Miami Beach, FL: Chantal Murciano](https://www.notarydepot.com/chantalm1)
   - [Notary Public in Jacksonville, FL: Polly Williams](https://www.notarydepot.com/chaplainnotary)
   - [Notary Public in Fort Worth, TX: Charlotte Baker](https://www.notarydepot.com/charbaker81)
@@ -8313,4 +8314,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-03T06:57:02Z
+Updated at 2019-08-03T07:17:02Z
