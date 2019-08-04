@@ -6703,6 +6703,7 @@
   - [Notary Public in Carmel Hamlet, NY: William Santini](https://www.notarydepot.com/santiniwill)
   - [Notary Public in Middletown, OH: Gary Boehm](https://www.notarydepot.com/saonenotary)
   - [Notary Public in Denham Springs, LA: Al Weysham](https://www.notarydepot.com/sapphcco)
+  - [Notary Public in Miami, FL: Anissa Pressley](https://www.notarydepot.com/sapphire)
   - [Notary Public in Schertz, TX: Sarah H. Permenter](https://www.notarydepot.com/sarahhp)
   - [Notary Public in Temple City, CA: Sarah Spina](https://www.notarydepot.com/sarahjohn11)
   - [Notary Public in Mount Vernon, NY: Sarah Rushing](https://www.notarydepot.com/sarahrus)
@@ -8316,4 +8317,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-04T23:37:02Z
+Updated at 2019-08-04T23:57:02Z
