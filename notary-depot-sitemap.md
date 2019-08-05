@@ -5400,6 +5400,7 @@
   - [Notary Public in Murrieta, CA: Mary Ann Davenport](https://www.notarydepot.com/marydport)
   - [Notary Public in Irvine, CA: Mary Ellen Aguirre](https://www.notarydepot.com/maryellenaguirre)
   - [Notary Public in Naples, FL: Mary Jo Mansfield](https://www.notarydepot.com/maryjom)
+  - [Notary Public in Douglasville, GA: Mary Valentine](https://www.notarydepot.com/marymobilenotarysa)
   - [Notary Public in Granger, IN: Mary Zirille](https://www.notarydepot.com/marynfrank)
   - [Notary Public in La Mirada, CA: Mary Poncedeleon](https://www.notarydepot.com/marypdl)
   - [Notary Public in El Paso, TX: Brenda Gonzalez](https://www.notarydepot.com/masoba)
@@ -8317,4 +8318,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-05T12:37:01Z
+Updated at 2019-08-05T12:57:03Z
