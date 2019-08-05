@@ -6757,7 +6757,7 @@
   - [Notary Public in Fishers, IN: Sherri L. Dabson](https://www.notarydepot.com/sdabson)
   - [Notary Public in Walterboro, SC: Sheri L DeFlorio](https://www.notarydepot.com/sdeflorio)
   - [Notary Public in West Palm Beach, FL: Steiman Desouvre](https://www.notarydepot.com/sdesouvre)
-  - [Notary Public in San Diego, CA: Rachael McIntyre](https://www.notarydepot.com/sdnotarynow)
+  - [Notary Public in San Diego, CA: R. McIntyre](https://www.notarydepot.com/sdnotarynow)
   - [Notary Public in La Mesa, CA: Patrick Hall](https://www.notarydepot.com/sdsignings)
   - [Notary Public in Louisville, KY: Scott Duggins](https://www.notarydepot.com/sduggins)
   - [Notary Public in Salisbury, NC: Steven Dulin](https://www.notarydepot.com/sdulin)
@@ -8318,4 +8318,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-05T15:17:02Z
+Updated at 2019-08-05T15:37:02Z
