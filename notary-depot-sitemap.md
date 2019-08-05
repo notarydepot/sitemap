@@ -2683,6 +2683,7 @@
   - [Notary Public in Victorville, CA: miguel barrios](https://www.notarydepot.com/atalo)
   - [Notary Public in Yonkers, NY: Angele Tchouke](https://www.notarydepot.com/atchouke)
   - [Notary Public in Canyon Lake, TX: Robin Allen](https://www.notarydepot.com/atexasgirl)
+  - [Notary Public in Conyers, GA: Sabrina Long](https://www.notarydepot.com/atlantamobilenotary)
   - [Notary Public in Matteson, IL: Alar Notary Services](https://www.notarydepot.com/atlantar)
   - [Notary Public in Tampa, FL: Cassandra Michel](https://www.notarydepot.com/atlasdocs)
   - [Notary Public in Portsmouth, VA: Adrian Torres](https://www.notarydepot.com/atorres)
@@ -8320,4 +8321,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-05T18:57:02Z
+Updated at 2019-08-05T19:17:03Z
