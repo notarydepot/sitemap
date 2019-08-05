@@ -2091,6 +2091,7 @@
     - [Notary Public in Herriman, UT](https://www.notarydepot.com/notary-near-me/Utah/Herriman)
     - [Notary Public in Kaysville, UT](https://www.notarydepot.com/notary-near-me/Utah/Kaysville)
     - [Notary Public in Layton, UT](https://www.notarydepot.com/notary-near-me/Utah/Layton)
+    - [Notary Public in Lehi, UT](https://www.notarydepot.com/notary-near-me/Utah/Lehi)
     - [Notary Public in Midvale, UT](https://www.notarydepot.com/notary-near-me/Utah/Midvale)
     - [Notary Public in Mona, UT](https://www.notarydepot.com/notary-near-me/Utah/Mona)
     - [Notary Public in Murray, UT](https://www.notarydepot.com/notary-near-me/Utah/Murray)
@@ -3637,6 +3638,7 @@
   - [Notary Public in Portsmouth, VA: Dorothy Matsel](https://www.notarydepot.com/dorothymi)
   - [Notary Public in Jersey City, NJ: Wanda Yvette Dorval](https://www.notarydepot.com/dorvalnotary)
   - [Notary Public in Burlington, NJ: Doston Stanley](https://www.notarydepot.com/doston)
+  - [Notary Public in Lehi, UT: Cambry Beazer](https://www.notarydepot.com/dottingiscrossingts)
   - [Notary Public in Oak Park, IL: James Dugger](https://www.notarydepot.com/doubleg17)
   - [Notary Public in Pompano Beach, FL: Douw Smit](https://www.notarydepot.com/douwsmit)
   - [Notary Public in Mission Viejo, CA: Beverly](https://www.notarydepot.com/dove)
@@ -8318,4 +8320,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-05T18:37:02Z
+Updated at 2019-08-05T18:57:02Z
