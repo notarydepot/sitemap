@@ -5689,7 +5689,7 @@
   - [Notary Public in DeLand, FL: John W Moore, Jr](https://www.notarydepot.com/moorej1021)
   - [Notary Public in Bay Point, CA: Stacey M. Moore](https://www.notarydepot.com/moorenotarial)
   - [Notary Public in Sicklerville, NJ: Helena Battle](https://www.notarydepot.com/mopcy)
-  - [Notary Public in Meridian, MS: Melinda Rose](https://www.notarydepot.com/moppy12050)
+  - [Notary Public in Meridian, MS: Melinda Rose](https://www.notarydepot.com/moppy1)
   - [Notary Public in Gastonia, NC: Ray D. Morgan](https://www.notarydepot.com/morgan1344)
   - [Notary Public in Coatesville, PA: Janet E. Mitchell](https://www.notarydepot.com/morganamber)
   - [Notary Public in Coatesville, PA: Janet E. Mitchell](https://www.notarydepot.com/morganamber2)
@@ -8322,4 +8322,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-06T15:17:02Z
+Updated at 2019-08-06T15:37:03Z
