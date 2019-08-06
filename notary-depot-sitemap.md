@@ -264,6 +264,7 @@
     - [Notary Public in Highland, CA](https://www.notarydepot.com/notary-near-me/California/Highland)
     - [Notary Public in Hilmar, CA](https://www.notarydepot.com/notary-near-me/California/Hilmar)
     - [Notary Public in Hollister, CA](https://www.notarydepot.com/notary-near-me/California/Hollister)
+    - [Notary Public in Homewood, CA](https://www.notarydepot.com/notary-near-me/California/Homewood)
     - [Notary Public in Huntington Beach, CA](https://www.notarydepot.com/notary-near-me/California/Huntington-Beach)
     - [Notary Public in Huntington Park, CA](https://www.notarydepot.com/notary-near-me/California/Huntington-Park)
     - [Notary Public in Imperial, CA](https://www.notarydepot.com/notary-near-me/California/Imperial)
@@ -437,7 +438,6 @@
     - [Notary Public in Spring Valley, CA](https://www.notarydepot.com/notary-near-me/California/Spring-Valley)
     - [Notary Public in Stockton, CA](https://www.notarydepot.com/notary-near-me/California/Stockton)
     - [Notary Public in Suisun City, CA](https://www.notarydepot.com/notary-near-me/California/Suisun-City)
-    - [Notary Public in Tahoe City, CA](https://www.notarydepot.com/notary-near-me/California/Tahoe-City)
     - [Notary Public in Tehachapi, CA](https://www.notarydepot.com/notary-near-me/California/Tehachapi)
     - [Notary Public in Temecula, CA](https://www.notarydepot.com/notary-near-me/California/Temecula)
     - [Notary Public in Temple City, CA](https://www.notarydepot.com/notary-near-me/California/Temple-City)
@@ -7097,7 +7097,7 @@
   - [Notary Public in Lansing, MI: Shanna M. Strouse](https://www.notarydepot.com/strouse19461)
   - [Notary Public in Puyallup, WA: Eric Strub](https://www.notarydepot.com/strubnotary)
   - [Notary Public in South El Monte, CA: Susan Tusing](https://www.notarydepot.com/stusing)
-  - [Notary Public in Tahoe City, CA: Vincent E. Alfano](https://www.notarydepot.com/stvincent)
+  - [Notary Public in Homewood, CA: Vincent E. Alfano](https://www.notarydepot.com/stvincent)
   - [Notary Public in St. Louis, MO: Patricia Watson](https://www.notarydepot.com/success87)
   - [Notary Public in Westbury, NY: Sue Diglio](https://www.notarydepot.com/sued)
   - [Notary Public in Mesa, AZ: Sue Higbee](https://www.notarydepot.com/sueserrands)
@@ -8322,4 +8322,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-06T16:17:02Z
+Updated at 2019-08-06T16:37:02Z
