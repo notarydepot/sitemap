@@ -3642,7 +3642,6 @@
   - [Notary Public in Portsmouth, VA: Dorothy Matsel](https://www.notarydepot.com/dorothymi)
   - [Notary Public in Jersey City, NJ: Wanda Yvette Dorval](https://www.notarydepot.com/dorvalnotary)
   - [Notary Public in Burlington, NJ: Doston Stanley](https://www.notarydepot.com/doston)
-  - [Notary Public in Lehi, UT: Cambry Beazer](https://www.notarydepot.com/dottingiscrossingts)
   - [Notary Public in Oak Park, IL: James Dugger](https://www.notarydepot.com/doubleg17)
   - [Notary Public in Pompano Beach, FL: Douw Smit](https://www.notarydepot.com/douwsmit)
   - [Notary Public in Mission Viejo, CA: Beverly](https://www.notarydepot.com/dove)
@@ -6035,6 +6034,7 @@
   - [Notary Public in Laguna Niguel, CA: Sherry Sparacino](https://www.notarydepot.com/notaryonthego)
   - [Notary Public in Seaford, NY: Marie Di Prizito](https://www.notarydepot.com/notaryonthespot)
   - [Notary Public in Repton, AL: Paula Jones](https://www.notarydepot.com/notaryonwheels)
+  - [Notary Public in Lehi, UT: Cambry Beazer](https://www.notarydepot.com/notaryous)
   - [Notary Public in Murphy, NC: Patricia Pollina](https://www.notarydepot.com/notarypatricia)
   - [Notary Public in Orlando, FL: Pete Adams](https://www.notarydepot.com/notarypete)
   - [Notary Public in Roselle, NJ: Alice Campbell](https://www.notarydepot.com/notarypro)
@@ -8326,4 +8326,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-07T19:37:02Z
+Updated at 2019-08-07T19:57:03Z
