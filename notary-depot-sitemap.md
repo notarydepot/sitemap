@@ -2025,6 +2025,7 @@
     - [Notary Public in Liberty Hill, TX](https://www.notarydepot.com/notary-near-me/Texas/Liberty-Hill)
     - [Notary Public in Longview, TX](https://www.notarydepot.com/notary-near-me/Texas/Longview)
     - [Notary Public in Lubbock, TX](https://www.notarydepot.com/notary-near-me/Texas/Lubbock)
+    - [Notary Public in Lufkin, TX](https://www.notarydepot.com/notary-near-me/Texas/Lufkin)
     - [Notary Public in Mansfield, TX](https://www.notarydepot.com/notary-near-me/Texas/Mansfield)
     - [Notary Public in Manvel, TX](https://www.notarydepot.com/notary-near-me/Texas/Manvel)
     - [Notary Public in Marshall, TX](https://www.notarydepot.com/notary-near-me/Texas/Marshall)
@@ -7664,6 +7665,7 @@
   - [Notary Public in Salem, OR: Dustin](https://www.notarydepot.com/younginc)
   - [Notary Public in Ionia, MI: SAMANI ZOZO, Alice](https://www.notarydepot.com/yournotary)
   - [Notary Public in Shillington, PA: Jacquelline Powers](https://www.notarydepot.com/yournotary72021)
+  - [Notary Public in Lufkin, TX: Eric Barton](https://www.notarydepot.com/yournotarynow)
   - [Notary Public in Los Angeles, CA: Lisa San Miguel](https://www.notarydepot.com/yoursigningagent)
   - [Notary Public in Placerville, CA: Leonard Land](https://www.notarydepot.com/yourstruly)
   - [Notary Public in Murdock, FL: Ronald Gillis](https://www.notarydepot.com/yourswflnotary)
@@ -8322,4 +8324,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-07T02:37:02Z
+Updated at 2019-08-07T02:57:02Z
