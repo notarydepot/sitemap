@@ -1979,6 +1979,7 @@
     - [Notary Public in Del Rio, TX](https://www.notarydepot.com/notary-near-me/Texas/Del-Rio)
     - [Notary Public in Denison, TX](https://www.notarydepot.com/notary-near-me/Texas/Denison)
     - [Notary Public in Denton, TX](https://www.notarydepot.com/notary-near-me/Texas/Denton)
+    - [Notary Public in DeSoto, TX](https://www.notarydepot.com/notary-near-me/Texas/DeSoto)
     - [Notary Public in Donna, TX](https://www.notarydepot.com/notary-near-me/Texas/Donna)
     - [Notary Public in Duncanville, TX](https://www.notarydepot.com/notary-near-me/Texas/Duncanville)
     - [Notary Public in El Paso, TX](https://www.notarydepot.com/notary-near-me/Texas/El-Paso)
@@ -5652,7 +5653,7 @@
   - [Notary Public in Nashville, TN: Lindsey Ellison](https://www.notarydepot.com/mobilenotarytn)
   - [Notary Public in Yuma, AZ: Araceli Cervantes ](https://www.notarydepot.com/mobilenotaryyuma)
   - [Notary Public in Montgomery, AL: Shirley T. Nelson](https://www.notarydepot.com/mobilesigneralabama)
-  - [Notary Public in Dallas, TX: Vicky Roberts](https://www.notarydepot.com/mobilesigninglady)
+  - [Notary Public in DeSoto, TX: Vicky Roberts](https://www.notarydepot.com/mobilesigninglady)
   - [Notary Public in Wylie, TX: Melanie Kennedy](https://www.notarydepot.com/mobilewylietx)
   - [Notary Public in Buckeye, AZ: Richard A Crichton](https://www.notarydepot.com/mobilnotary)
   - [Notary Public in St. Louis, MO: Mary Vance](https://www.notarydepot.com/mobnotnotary)
@@ -8324,4 +8325,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-07T15:37:01Z
+Updated at 2019-08-07T15:57:03Z
