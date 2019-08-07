@@ -2481,6 +2481,7 @@
   - [Notary Public in Grand Blanc, MI: Amanda Larner](https://www.notarydepot.com/alhnotaryservicesgmailcom)
   - [Notary Public in Tempe, AZ: Carol Lara-Navarro](https://www.notarydepot.com/alianzanavarro)
   - [Notary Public in Indianapolis, IN: Alice Miller](https://www.notarydepot.com/alicemmiller)
+  - [Notary Public in Chino, CA: Ali Chance](https://www.notarydepot.com/alichance)
   - [Notary Public in Milford, CT: Alicia R Gonzalez](https://www.notarydepot.com/aliciag)
   - [Notary Public in Blue Ridge, VA: Alicia Phillips](https://www.notarydepot.com/alicphllps)
   - [Notary Public in Goleta, CA: Aeria Bolden](https://www.notarydepot.com/alily50)
@@ -8325,4 +8326,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-07T17:37:02Z
+Updated at 2019-08-07T17:57:02Z
