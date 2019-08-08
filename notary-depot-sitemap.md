@@ -5792,6 +5792,7 @@
   - [Notary Public in Bellflower, CA: Idaneli Camargo](https://www.notarydepot.com/mynotary10)
   - [Notary Public in Jacksonville, NC: Tia L LaRock](https://www.notarydepot.com/mynotarybusiness)
   - [Notary Public in Huntington Beach, CA: Mary Elton](https://www.notarydepot.com/mynotarypro)
+  - [Notary Public in Tolleson, AZ: Joseph Ray Iniguez](https://www.notarydepot.com/myphoenixnotary)
   - [Notary Public in Gary, IN: Myra Spearman](https://www.notarydepot.com/myra0919)
   - [Notary Public in Florissant, MO: Nyandi Ife](https://www.notarydepot.com/mysimpletc)
   - [Notary Public in Hialeah, FL: Gladys M. Fonseca](https://www.notarydepot.com/mystiquera1)
@@ -8327,4 +8328,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-08T19:57:02Z
+Updated at 2019-08-08T20:17:01Z
