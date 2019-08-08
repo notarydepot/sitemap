@@ -6274,6 +6274,7 @@
   - [Notary Public in Dallas, TX: Phillip Frazier](https://www.notarydepot.com/philliptx)
   - [Notary Public in Wildomar, CA: Gail Willis](https://www.notarydepot.com/phillygirl215)
   - [Notary Public in New London, MO: Sarah Hathaway](https://www.notarydepot.com/phishphan419)
+  - [Notary Public in Smyrna, GA: Princess Holiday ](https://www.notarydepot.com/pholiday)
   - [Notary Public in San Diego, CA: Phong Long](https://www.notarydepot.com/phonglong)
   - [Notary Public in Saint Petersburg, FL: Phyllis Dodge Cnsa W/Background Check](https://www.notarydepot.com/phyllis)
   - [Notary Public in Hollywood, FL: Pines Mobile Notary](https://www.notarydepot.com/pinesmobilenotary)
@@ -8326,4 +8327,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-08T02:37:02Z
+Updated at 2019-08-08T02:57:02Z
