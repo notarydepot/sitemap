@@ -2253,7 +2253,6 @@
     - [Notary Public in Snohomish, WA](https://www.notarydepot.com/notary-near-me/Washington/Snohomish)
     - [Notary Public in Spanaway, WA](https://www.notarydepot.com/notary-near-me/Washington/Spanaway)
     - [Notary Public in Spokane, WA](https://www.notarydepot.com/notary-near-me/Washington/Spokane)
-    - [Notary Public in Spokane Valley, WA](https://www.notarydepot.com/notary-near-me/Washington/Spokane-Valley)
     - [Notary Public in Tacoma, WA](https://www.notarydepot.com/notary-near-me/Washington/Tacoma)
     - [Notary Public in Tenino, WA](https://www.notarydepot.com/notary-near-me/Washington/Tenino)
     - [Notary Public in Union Gap, WA](https://www.notarydepot.com/notary-near-me/Washington/Union-Gap)
@@ -2930,7 +2929,7 @@
   - [Notary Public in Fort Worth, TX: Brian Hedger](https://www.notarydepot.com/brian)
   - [Notary Public in Surprise, AZ: Brian Lameira](https://www.notarydepot.com/brian62)
   - [Notary Public in Fairburn, GA: Georgia Attorney Closers](https://www.notarydepot.com/briandpoe)
-  - [Notary Public in Spokane Valley, WA: Brian Gruss](https://www.notarydepot.com/briangruss)
+  - [Notary Public in Tavares, FL: Brian Gruss](https://www.notarydepot.com/briangruss)
   - [Notary Public in Miami, FL: brickell notary](https://www.notarydepot.com/brickell_notary)
   - [Notary Public in North Port, FL: Bridget Bergeron](https://www.notarydepot.com/bridget50)
   - [Notary Public in Palmdale, CA: Bridgett Jones](https://www.notarydepot.com/bridgettsnotary)
@@ -8330,4 +8329,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-09T17:37:02Z
+Updated at 2019-08-09T17:57:02Z
