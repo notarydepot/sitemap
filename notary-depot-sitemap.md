@@ -2761,6 +2761,7 @@
   - [Notary Public in Brighton, CO: Brenda Bolton](https://www.notarydepot.com/bbolton)
   - [Notary Public in Fort Lauderdale, FL: V. Brandt Brantley](https://www.notarydepot.com/bbrantley)
   - [Notary Public in Renton, WA: Huong Thanh Nguyen](https://www.notarydepot.com/bbtac)
+  - [Notary Public in Vallejo, CA: Bianca Bueno-Gani](https://www.notarydepot.com/bbueno)
   - [Notary Public in Pompano Beach, FL: Brenda Bungo](https://www.notarydepot.com/bbungo)
   - [Notary Public in Littlestown, PA: Bob Crook](https://www.notarydepot.com/bc1506)
   - [Notary Public in Dallas, GA: Barrett D. Cappetto](https://www.notarydepot.com/bcappetto)
@@ -8329,4 +8330,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-09T16:57:02Z
+Updated at 2019-08-09T17:17:02Z
