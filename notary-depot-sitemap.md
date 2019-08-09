@@ -2521,6 +2521,7 @@
   - [Notary Public in Herndon, VA: Amanda Pendleton](https://www.notarydepot.com/amandarp)
   - [Notary Public in Los Angeles, CA: Ariel Mansell](https://www.notarydepot.com/amansell)
   - [Notary Public in Hamburg, NJ: Arlene Matos-Aguiar](https://www.notarydepot.com/amatos73)
+  - [Notary Public in Chesapeake, VA: Hannah Parker-Watts](https://www.notarydepot.com/amazingnotaryva)
   - [Notary Public in Fort Mohave, AZ: Amber Hager](https://www.notarydepot.com/amberhager)
   - [Notary Public in CA: Amber Horton](https://www.notarydepot.com/amberhorton24)
   - [Notary Public in Tacoma, WA: Amber Crepps](https://www.notarydepot.com/amberjc11)
@@ -8329,4 +8330,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-09T20:57:04Z
+Updated at 2019-08-09T21:17:02Z
