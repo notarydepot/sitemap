@@ -2386,6 +2386,7 @@
   - [Notary Public in Portsmouth, VA: Tawanda Walker](https://www.notarydepot.com/acanotaryservice)
   - [Notary Public in Crisfield, MD: Alexis Carter](https://www.notarydepot.com/acarter)
   - [Notary Public in Littleton, CO: Arthur Carlson](https://www.notarydepot.com/acc169)
+  - [Notary Public in Cape Girardeau, MO: Sharon Stanley](https://www.notarydepot.com/accessiblemobilenotary)
   - [Notary Public in Las Vegas, NV: Ronald Gephart](https://www.notarydepot.com/accurateloansigning)
   - [Notary Public in Homosassa, FL: Janet Simmons](https://www.notarydepot.com/accurize)
   - [Notary Public in Sanford, FL: Patricia Patane](https://www.notarydepot.com/acenotary)
@@ -3865,7 +3866,6 @@
   - [Notary Public in Lincoln, CA: Fara Smith](https://www.notarydepot.com/farasmith)
   - [Notary Public in Nazareth, PA: Cindy Rodenbough](https://www.notarydepot.com/farmview)
   - [Notary Public in Plano, TX: Fasihuddin Qureshi](https://www.notarydepot.com/fasihuddin)
-  - [Notary Public in Cape Girardeau, MO: Sharon Stanley](https://www.notarydepot.com/fastactionnotary)
   - [Notary Public in Crestline, CA: Roberta (Gigi) Bannister](https://www.notarydepot.com/fastelk)
   - [Notary Public in Pasadena, CA: Fast Mobile Notary Services](https://www.notarydepot.com/fastmobilenotaryla)
   - [Notary Public in Ames, IA: Mike Williams](https://www.notarydepot.com/fatdaddy)
@@ -8332,4 +8332,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-10T23:17:02Z
+Updated at 2019-08-10T23:37:02Z
