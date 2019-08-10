@@ -2854,6 +2854,7 @@
   - [Notary Public in Woodbridge, VA: Bev Williams](https://www.notarydepot.com/bjwilli986)
   - [Notary Public in Newark, NJ: Veronica White](https://www.notarydepot.com/bkfilingsnj7gmailcom)
   - [Notary Public in Belgrade, MT: Brenda Klein](https://www.notarydepot.com/bklein)
+  - [Notary Public in Reading, PA: Brian Klein](https://www.notarydepot.com/bkleinnotary)
   - [Notary Public in Rockwall, TX: Brenda Morott](https://www.notarydepot.com/bkmor2003)
   - [Notary Public in Grand Rapids, MI: Brandice Labadie](https://www.notarydepot.com/blabadie)
   - [Notary Public in Walnut Creek, CA: Beth Lassila](https://www.notarydepot.com/blassila)
@@ -8330,4 +8331,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-10T15:17:02Z
+Updated at 2019-08-10T15:37:02Z
