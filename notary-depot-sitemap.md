@@ -4301,6 +4301,7 @@
   - [Notary Public in Pompano Beach, FL: Sheena](https://www.notarydepot.com/jahnoah)
   - [Notary Public in College Station, TX: Jair Scholze](https://www.notarydepot.com/jairscholzegmailcom)
   - [Notary Public in Fort Lauderdale, FL: Jorge Cure](https://www.notarydepot.com/jalcumar)
+  - [Notary Public in Houston, TX: Julia Miller](https://www.notarydepot.com/jam27)
   - [Notary Public in Philadelphia, PA: Jamal Aimry](https://www.notarydepot.com/jamalnotary)
   - [Notary Public in New York, NY: James David WilliamsII](https://www.notarydepot.com/james36)
   - [Notary Public in Murrieta, CA: Cynthia/Ca](https://www.notarydepot.com/jamescy)
@@ -8331,4 +8332,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-10T21:57:03Z
+Updated at 2019-08-10T22:17:03Z
