@@ -4781,6 +4781,7 @@
   - [Notary Public in Los Angeles, CA: Ekaterina Oganesova](https://www.notarydepot.com/katienotary)
   - [Notary Public in Mission Viejo, CA: Katie Richman](https://www.notarydepot.com/katierichmannotary)
   - [Notary Public in New Castle, DE: Katina Bantum](https://www.notarydepot.com/katina)
+  - [Notary Public in New Port Richey, FL: Katlen Bobchev](https://www.notarydepot.com/katlen123)
   - [Notary Public in Blaine, WA: Katrina Petty](https://www.notarydepot.com/katrina)
   - [Notary Public in Vienna, WV: Karen A. Turner](https://www.notarydepot.com/katurner)
   - [Notary Public in Uvalde, TX: Katy Carter](https://www.notarydepot.com/katy2)
@@ -8331,4 +8332,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-11T15:57:02Z
+Updated at 2019-08-11T16:17:02Z
