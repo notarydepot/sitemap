@@ -4757,7 +4757,6 @@
   - [Notary Public in CA: Karla Jaffe](https://www.notarydepot.com/karlacanotary)
   - [Notary Public in CA: Karla Jaffe](https://www.notarydepot.com/karlaj818)
   - [Notary Public in NJ: Karl Fortsch](https://www.notarydepot.com/karlfortsch)
-  - [Notary Public in GA: KARMAN JACOBO ](https://www.notarydepot.com/karmanleshel)
   - [Notary Public in Houston, TX: Karla A. robinson](https://www.notarydepot.com/karobinson)
   - [Notary Public in Abilene, TX: Angela D Rowe](https://www.notarydepot.com/karowe)
   - [Notary Public in Rancho Cucamonga, CA: Kimberly Ann Shepperd](https://www.notarydepot.com/kas)
@@ -8332,4 +8331,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-11T01:37:02Z
+Updated at 2019-08-11T01:57:02Z
