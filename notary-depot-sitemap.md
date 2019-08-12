@@ -2594,6 +2594,7 @@
   - [Notary Public in Chowchilla, CA: Anita R Diedrich ](https://www.notarydepot.com/anitadiedrich123)
   - [Notary Public in Holiday, FL: Anita Caron-Kenly](https://www.notarydepot.com/anitanotary)
   - [Notary Public in Spring, TX: Anita Posluszny](https://www.notarydepot.com/anitapos)
+  - [Notary Public in Denver, CO: Anita Riley](https://www.notarydepot.com/anitariley)
   - [Notary Public in Glen Gardner, NJ: Jennifer L. Rispoli](https://www.notarydepot.com/anj503)
   - [Notary Public in Bolton, CT: Anja Hoffmann ](https://www.notarydepot.com/anja)
   - [Notary Public in Jonesboro, GA: Y. Buchanan](https://www.notarydepot.com/ann123)
@@ -8333,4 +8334,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-12T18:17:02Z
+Updated at 2019-08-12T18:37:02Z
