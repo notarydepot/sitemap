@@ -2233,7 +2233,6 @@
     - [Notary Public in Mountlake Terrace, WA](https://www.notarydepot.com/notary-near-me/Washington/Mountlake-Terrace)
     - [Notary Public in Mukilteo, WA](https://www.notarydepot.com/notary-near-me/Washington/Mukilteo)
     - [Notary Public in Ocean Park, WA](https://www.notarydepot.com/notary-near-me/Washington/Ocean-Park)
-    - [Notary Public in Okanogan, WA](https://www.notarydepot.com/notary-near-me/Washington/Okanogan)
     - [Notary Public in Olympia, WA](https://www.notarydepot.com/notary-near-me/Washington/Olympia)
     - [Notary Public in Orting, WA](https://www.notarydepot.com/notary-near-me/Washington/Orting)
     - [Notary Public in Pasco, WA](https://www.notarydepot.com/notary-near-me/Washington/Pasco)
@@ -4835,7 +4834,6 @@
   - [Notary Public in Fairfax, VA: Kelly Gulich](https://www.notarydepot.com/kellygulich)
   - [Notary Public in Pomona, CA: Kelly Shah](https://www.notarydepot.com/kellyshah)
   - [Notary Public in San Antonio, TX: Ms. Kelly Spicer](https://www.notarydepot.com/kellyspicer)
-  - [Notary Public in Okanogan, WA: Kelly Townsend](https://www.notarydepot.com/kellytownsend3)
   - [Notary Public in Las Vegas, NV: Kelvie Malia Shelton](https://www.notarydepot.com/kelviemalia)
   - [Notary Public in San Ramon, CA: Kemi Onifade](https://www.notarydepot.com/kemsho)
   - [Notary Public in Leesburg, VA: Kenan Goeller](https://www.notarydepot.com/kenan)
@@ -8334,4 +8332,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-12T19:57:02Z
+Updated at 2019-08-12T20:17:02Z
