@@ -7063,6 +7063,7 @@
   - [Notary Public in Charlottesville, VA: Tytecha Holliday-Maupin ](https://www.notarydepot.com/staffing2go)
   - [Notary Public in Bakersfield, CA: Donna D. Nelson](https://www.notarydepot.com/stampgirl)
   - [Notary Public in Columbia, MO: Glen Stancil](https://www.notarydepot.com/stancilg)
+  - [Notary Public in St. Augustine, FL: Kimberly j. Butler](https://www.notarydepot.com/stanotary)
   - [Notary Public in Oakland, CA: Sandra Tarango](https://www.notarydepot.com/starango)
   - [Notary Public in Berkley, MI: Wanda Faye Tolbert](https://www.notarydepot.com/starnotary)
   - [Notary Public in Pinole, CA: Claudia Horton](https://www.notarydepot.com/starservicenotary)
@@ -8332,4 +8333,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-13T11:37:02Z
+Updated at 2019-08-13T11:57:02Z
