@@ -6803,7 +6803,7 @@
   - [Notary Public in Lancaster, CA: Shacara Campbell](https://www.notarydepot.com/shacarac)
   - [Notary Public in Stockton, CA: Sharon Felicity](https://www.notarydepot.com/shafeli12)
   - [Notary Public in Emeryville, CA: Mohammad Malek](https://www.notarydepot.com/shahaib)
-  - [Notary Public in Mesquite, TX: Ashish Alexander](https://www.notarydepot.com/shalom7784)
+  - [Notary Public in Lufkin, TX: Ashish Alexander](https://www.notarydepot.com/shalom7784)
   - [Notary Public in Jurupa Valley, CA: S. Tracey](https://www.notarydepot.com/shalondat34)
   - [Notary Public in Hephzibah, GA: Shameca Whitfield](https://www.notarydepot.com/shameca86)
   - [Notary Public in NV: Shannon L Hammond](https://www.notarydepot.com/shammond)
@@ -8334,4 +8334,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-14T03:57:02Z
+Updated at 2019-08-14T04:17:02Z
