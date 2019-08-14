@@ -1285,6 +1285,7 @@
     - [Notary Public in Libby, MT](https://www.notarydepot.com/notary-near-me/Montana/Libby)
     - [Notary Public in Manhattan, MT](https://www.notarydepot.com/notary-near-me/Montana/Manhattan)
     - [Notary Public in Missoula, MT](https://www.notarydepot.com/notary-near-me/Montana/Missoula)
+    - [Notary Public in Sidney, MT](https://www.notarydepot.com/notary-near-me/Montana/Sidney)
   - [Notaries Public in Nebraska](https://www.notarydepot.com/notary-near-me/Nebraska)
     - [Notary Public in Bellevue, NE](https://www.notarydepot.com/notary-near-me/Nebraska/Bellevue)
     - [Notary Public in Lincoln, NE](https://www.notarydepot.com/notary-near-me/Nebraska/Lincoln)
@@ -4950,6 +4951,7 @@
   - [Notary Public in Piqua, OH: Kristine Pence](https://www.notarydepot.com/kristinepence)
   - [Notary Public in Littleton, NC: Kristin L. Moore](https://www.notarydepot.com/kristinlmoore)
   - [Notary Public in Littleton, NC: Kristin Moore](https://www.notarydepot.com/kristinlmoore16)
+  - [Notary Public in Sidney, MT: Kristi Strouf](https://www.notarydepot.com/krististrouf)
   - [Notary Public in Fountain Valley, CA: Kristy Alvarado](https://www.notarydepot.com/kristy2011)
   - [Notary Public in San Francisco, CA: Kristina Guzman](https://www.notarydepot.com/kristyg)
   - [Notary Public in Fountain Valley, CA: Kristy Alvarado](https://www.notarydepot.com/kristyja2000)
@@ -8333,4 +8335,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-14T20:57:02Z
+Updated at 2019-08-14T21:17:02Z
