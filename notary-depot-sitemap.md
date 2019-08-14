@@ -2616,6 +2616,7 @@
   - [Notary Public in Chula Vista, CA: Lisa D. Pippen](https://www.notarydepot.com/anotaryonthego)
   - [Notary Public in Morgan City, LA: Rebecca L. Adams, CNSA](https://www.notarydepot.com/anotarytogo)
   - [Notary Public in Bellmawr, NJ: Reginald Achilles](https://www.notarydepot.com/ans)
+  - [Notary Public in Beverly Hills, CA: Anshin Mobile Notary &amp; LiveScan](https://www.notarydepot.com/anshinotaryus)
   - [Notary Public in Madison, MS: Anthony Stewart ](https://www.notarydepot.com/antey123)
   - [Notary Public in Costa Mesa, CA: Anthony Rojo](https://www.notarydepot.com/anthonyrojo)
   - [Notary Public in Jonesboro, GA: Angeline Williams](https://www.notarydepot.com/anwilliams)
@@ -8333,4 +8334,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-14T12:37:02Z
+Updated at 2019-08-14T12:57:02Z
