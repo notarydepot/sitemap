@@ -4389,7 +4389,6 @@
   - [Notary Public in Plano, TX: Jason Burkhalter](https://www.notarydepot.com/jburkhalter)
   - [Notary Public in Gainesville, GA: Jennifer Cochran](https://www.notarydepot.com/jc1701)
   - [Notary Public in High Point, NC: Jamie C. Allen](https://www.notarydepot.com/jca0613)
-  - [Notary Public in Rocklin, CA: Janice Canty](https://www.notarydepot.com/jcanty)
   - [Notary Public in Santa Cruz, CA: Josephine Care](https://www.notarydepot.com/jcare13)
   - [Notary Public in Bogota, NJ: Janine M. Casper](https://www.notarydepot.com/jcasper4681)
   - [Notary Public in Indianapolis, IN: Candice Holcomb](https://www.notarydepot.com/jcholcomb)
@@ -8334,4 +8333,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-14T16:17:02Z
+Updated at 2019-08-14T16:37:02Z
