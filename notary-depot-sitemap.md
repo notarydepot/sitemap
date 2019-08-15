@@ -3998,6 +3998,7 @@
   - [Notary Public in Winters, CA: Genene Restivo](https://www.notarydepot.com/gencal)
   - [Notary Public in Rockville, MD: Victoria Harrison](https://www.notarydepot.com/genkichan)
   - [Notary Public in Los Angeles, CA: Genna Walsh](https://www.notarydepot.com/gennamwalsh)
+  - [Notary Public in Eugene, OR: Leah](https://www.notarydepot.com/geonotary)
   - [Notary Public in Washington, DC: Maurice Brown](https://www.notarydepot.com/georgetownnotarydc)
   - [Notary Public in Lithonia, GA: Bridgette Wilson Darden](https://www.notarydepot.com/georgianotary)
   - [Notary Public in Lawrenceville, GA: Tanya Young](https://www.notarydepot.com/georgiasoul)
@@ -8335,4 +8336,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-15T01:57:02Z
+Updated at 2019-08-15T02:17:02Z
