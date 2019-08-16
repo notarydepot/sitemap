@@ -2249,7 +2249,6 @@
     - [Notary Public in Seattle, WA](https://www.notarydepot.com/notary-near-me/Washington/Seattle)
     - [Notary Public in Sequim, WA](https://www.notarydepot.com/notary-near-me/Washington/Sequim)
     - [Notary Public in Shoreline, WA](https://www.notarydepot.com/notary-near-me/Washington/Shoreline)
-    - [Notary Public in Silver Creek, WA](https://www.notarydepot.com/notary-near-me/Washington/Silver-Creek)
     - [Notary Public in Snohomish, WA](https://www.notarydepot.com/notary-near-me/Washington/Snohomish)
     - [Notary Public in Spanaway, WA](https://www.notarydepot.com/notary-near-me/Washington/Spanaway)
     - [Notary Public in Spokane, WA](https://www.notarydepot.com/notary-near-me/Washington/Spokane)
@@ -6886,7 +6885,6 @@
   - [Notary Public in Sunny Isles Beach, FL: Evelina Tsigelnitskaya](https://www.notarydepot.com/sibrealty)
   - [Notary Public in San Bernardino, CA: Sidney Findley](https://www.notarydepot.com/sidfindley)
   - [Notary Public in Arlington, WA: Lourea Garka](https://www.notarydepot.com/sign)
-  - [Notary Public in Silver Creek, WA: Angeleetta Hartmann](https://www.notarydepot.com/sign4u)
   - [Notary Public in San Diego, CA: Christian Jeter](https://www.notarydepot.com/signaturenotarysd)
   - [Notary Public in Atlanta, GA: SignatureSavy Mobile Notary and Signing Agent Service](https://www.notarydepot.com/signaturesavy01)
   - [Notary Public in Virginia Beach, VA: Signature Solutions ](https://www.notarydepot.com/signaturesolutions101)
@@ -8336,4 +8334,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-16T03:57:03Z
+Updated at 2019-08-16T04:17:02Z
