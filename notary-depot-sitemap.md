@@ -2742,6 +2742,7 @@
   - [Notary Public in Gadsden, AL: Barbara Jurick](https://www.notarydepot.com/barbarajurick)
   - [Notary Public in Humble, TX: Barbara Lane Snowden Mobile Notary](https://www.notarydepot.com/barbaral)
   - [Notary Public in Vail, AZ: Barbara R. Linker](https://www.notarydepot.com/barbaralca)
+  - [Notary Public in Escondido, CA: Barbara Willkie](https://www.notarydepot.com/barbaramobilenotary)
   - [Notary Public in Richmond, VA: Barbara Noell Bartek](https://www.notarydepot.com/barbartk)
   - [Notary Public in Hialeah, FL: Barbara Sanchez](https://www.notarydepot.com/barbie74)
   - [Notary Public in Weaverville, NC: Barbara Ann Baer](https://www.notarydepot.com/barbiebaer)
@@ -8335,4 +8336,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-18T14:57:02Z
+Updated at 2019-08-18T15:38:02Z
