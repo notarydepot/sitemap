@@ -5266,6 +5266,7 @@
   - [Notary Public in Dallas, TX: Lucero Ramon](https://www.notarydepot.com/luceroaramon)
   - [Notary Public in Colton, CA: Renee Luckey](https://www.notarydepot.com/luckeynotary)
   - [Notary Public in Potlatch, ID: Paul F Bartell](https://www.notarydepot.com/luckylogger)
+  - [Notary Public in Houston, TX: Lyudmyla Patalakh](https://www.notarydepot.com/luda)
   - [Notary Public in Moreno Valley, CA: Luetta Clark](https://www.notarydepot.com/luetta)
   - [Notary Public in Katy, TX: Luciana Farria](https://www.notarydepot.com/lufarria)
   - [Notary Public in Jacksonville, FL: Luke Sawyer](https://www.notarydepot.com/lukesawyer)
@@ -8336,4 +8337,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-18T16:58:02Z
+Updated at 2019-08-18T17:18:02Z
