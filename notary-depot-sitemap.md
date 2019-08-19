@@ -4278,6 +4278,7 @@
   - [Notary Public in Phoenix, AZ: Jennifer Hayes](https://www.notarydepot.com/itsnatalieanouk)
   - [Notary Public in Philadelphia, PA: Kim French](https://www.notarydepot.com/itspossible)
   - [Notary Public in Lakeland, FL: Ivelisse Santiago](https://www.notarydepot.com/ivelisse)
+  - [Notary Public in Murrieta, CA: Ivy Webb](https://www.notarydepot.com/iwebbnotary)
   - [Notary Public in Atlanta, GA: Iyana Smith](https://www.notarydepot.com/iyana_s)
   - [Notary Public in Weymouth, MA: Iyisha](https://www.notarydepot.com/iyishap)
   - [Notary Public in Jonesboro, AR: Jennifer &quot;Andrea&quot; Hyman](https://www.notarydepot.com/j1a1hyman)
@@ -8337,4 +8338,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-19T01:58:02Z
+Updated at 2019-08-19T02:18:02Z
