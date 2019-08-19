@@ -4062,7 +4062,6 @@
   - [Notary Public in Stuart, FL: Jg](https://www.notarydepot.com/grabenmj)
   - [Notary Public in Las Vegas, NV: Grace Renshaw, Cnsa, Nna, Background Checked](https://www.notarydepot.com/gracerenshaw)
   - [Notary Public in Dade City, FL: Cheryl Arnold](https://www.notarydepot.com/gramaarnp)
-  - [Notary Public in Escondido, CA: Barbara Willkie](https://www.notarydepot.com/grammy)
   - [Notary Public in Garner, NC: Judy Nipper](https://www.notarydepot.com/grammy824)
   - [Notary Public in Coconut Creek, FL: GEORGIANNE SYKES](https://www.notarydepot.com/grandaz)
   - [Notary Public in Rancho Palos Verdes, CA: Rhonda](https://www.notarydepot.com/grandmother)
@@ -8338,4 +8337,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-19T15:38:03Z
+Updated at 2019-08-19T15:58:02Z
