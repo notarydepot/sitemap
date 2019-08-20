@@ -3669,6 +3669,7 @@
   - [Notary Public in Suisun City, CA: Andrew Shott](https://www.notarydepot.com/drewstealth)
   - [Notary Public in Grandview, TX: Donny Ficklin](https://www.notarydepot.com/drf1262)
   - [Notary Public in Chesapeake, VA: Deirdre Lynn Roper](https://www.notarydepot.com/drive2you)
+  - [Notary Public in Las Vegas, NV: Drive Notary](https://www.notarydepot.com/drivenotary)
   - [Notary Public in Las Vegas, NV: Nicholas Kalair](https://www.notarydepot.com/drprez)
   - [Notary Public in Downey, CA: Daniel Rosario](https://www.notarydepot.com/drshaft)
   - [Notary Public in Livingston, NJ: Dianna Sancho](https://www.notarydepot.com/dsancho)
@@ -8337,4 +8338,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-20T12:38:03Z
+Updated at 2019-08-20T12:58:02Z
