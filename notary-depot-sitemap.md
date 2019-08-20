@@ -1451,6 +1451,7 @@
     - [Notary Public in Farmingville, NY](https://www.notarydepot.com/notary-near-me/New-York/Farmingville)
     - [Notary Public in Fishkill, NY](https://www.notarydepot.com/notary-near-me/New-York/Fishkill)
     - [Notary Public in Fort Edward, NY](https://www.notarydepot.com/notary-near-me/New-York/Fort-Edward)
+    - [Notary Public in Franklin Square, NY](https://www.notarydepot.com/notary-near-me/New-York/Franklin-Square)
     - [Notary Public in Freeport, NY](https://www.notarydepot.com/notary-near-me/New-York/Freeport)
     - [Notary Public in Fulton, NY](https://www.notarydepot.com/notary-near-me/New-York/Fulton)
     - [Notary Public in Geneva, NY](https://www.notarydepot.com/notary-near-me/New-York/Geneva)
@@ -4826,6 +4827,7 @@
   - [Notary Public in Lancaster, TX: Keisha Pope](https://www.notarydepot.com/keishapope)
   - [Notary Public in Rocky Mount, NC: Keisha Ward](https://www.notarydepot.com/keishaward)
   - [Notary Public in Braselton, GA: Keith Harris](https://www.notarydepot.com/keith)
+  - [Notary Public in Franklin Square, NY: Keith](https://www.notarydepot.com/keithrn)
   - [Notary Public in Calabasas, CA: Keiunta Dixon](https://www.notarydepot.com/keiunta)
   - [Notary Public in West Jordan, UT: Clarence Duncan](https://www.notarydepot.com/kekkonshiki)
   - [Notary Public in Nashville, TN: Carole Rascoe](https://www.notarydepot.com/kelcie2006)
@@ -8338,4 +8340,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-20T19:18:02Z
+Updated at 2019-08-20T19:38:02Z
