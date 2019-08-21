@@ -2910,6 +2910,7 @@
   - [Notary Public in Suncook, NH: David P Boucher](https://www.notarydepot.com/boucher03275)
   - [Notary Public in South Orange, NJ: Duane Mccalla](https://www.notarydepot.com/boxx)
   - [Notary Public in Bristol, TN: Beth K. Palin, J.D.](https://www.notarydepot.com/bpalin)
+  - [Notary Public in Bradenton, FL: Ronda Braden](https://www.notarydepot.com/bradennotary)
   - [Notary Public in San Francisco, CA: Brahim mahmoudi](https://www.notarydepot.com/brahim67)
   - [Notary Public in Egg Harbor Township, NJ: Hilton C. Braithwaite](https://www.notarydepot.com/braith)
   - [Notary Public in Chicago, IL: Brandi Davis](https://www.notarydepot.com/brandibits)
@@ -8342,4 +8343,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-21T18:58:02Z
+Updated at 2019-08-21T19:18:02Z
