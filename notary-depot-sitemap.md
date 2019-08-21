@@ -1149,7 +1149,6 @@
     - [Notary Public in Mattawan, MI](https://www.notarydepot.com/notary-near-me/Michigan/Mattawan)
     - [Notary Public in Milan, MI](https://www.notarydepot.com/notary-near-me/Michigan/Milan)
     - [Notary Public in Milford Charter Township, MI](https://www.notarydepot.com/notary-near-me/Michigan/Milford-Charter-Township)
-    - [Notary Public in Montague, MI](https://www.notarydepot.com/notary-near-me/Michigan/Montague)
     - [Notary Public in Mount Clemens, MI](https://www.notarydepot.com/notary-near-me/Michigan/Mount-Clemens)
     - [Notary Public in Mount Morris, MI](https://www.notarydepot.com/notary-near-me/Michigan/Mount-Morris)
     - [Notary Public in Muskegon, MI](https://www.notarydepot.com/notary-near-me/Michigan/Muskegon)
@@ -4249,7 +4248,7 @@
   - [Notary Public in Willingboro, NJ: Inga Gillett-Spio](https://www.notarydepot.com/ingamobilenotary)
   - [Notary Public in Albuquerque, NM: Faye Ingle](https://www.notarydepot.com/inglef)
   - [Notary Public in Chicago, IL: Ingrid Sanchez](https://www.notarydepot.com/ingrid)
-  - [Notary Public in Montague, MI: Rebecca Rupe](https://www.notarydepot.com/inkdnotary)
+  - [Notary Public in Memphis, TN: Rebecca Rupe](https://www.notarydepot.com/inkdnotary)
   - [Notary Public in Valparaiso, IN: Rachel Pasley](https://www.notarydepot.com/inkednotary)
   - [Notary Public in Garden Grove, CA: Amparo J. Vaca](https://www.notarydepot.com/inkngonotary)
   - [Notary Public in Huntsville, AL: Michelle L Riley](https://www.notarydepot.com/inotarize)
@@ -8341,4 +8340,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-21T13:38:02Z
+Updated at 2019-08-21T13:58:02Z
