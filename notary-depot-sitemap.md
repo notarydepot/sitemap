@@ -3337,7 +3337,7 @@
   - [Notary Public in Cape Coral, FL: Craig W Christianson](https://www.notarydepot.com/cwchristianson)
   - [Notary Public in Park Hills, MO: Candice Weedman](https://www.notarydepot.com/cweedman)
   - [Notary Public in Rathdrum, ID: Candee Wilfong](https://www.notarydepot.com/cwilfong)
-  - [Notary Public in Saint Petersburg, FL: Charlene Worrell](https://www.notarydepot.com/cwnotary)
+  - [Notary Public in St. Petersburg, FL: Charlene Worrell](https://www.notarydepot.com/cwnotary)
   - [Notary Public in Corona, CA: Candy Williams](https://www.notarydepot.com/cwpn1)
   - [Notary Public in San Francisco, CA: Matt Miller](https://www.notarydepot.com/cybermgm23)
   - [Notary Public in Los Angeles, CA: Cathleen Rowland Senogles](https://www.notarydepot.com/cybersync)
@@ -8340,4 +8340,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-21T15:18:02Z
+Updated at 2019-08-21T15:38:02Z
