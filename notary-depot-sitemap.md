@@ -3679,6 +3679,7 @@
   - [Notary Public in Washington, DC: My Dc Notary](https://www.notarydepot.com/dschmerl)
   - [Notary Public in Gaithersburg, MD: Derek Colen](https://www.notarydepot.com/dscolen)
   - [Notary Public in Castro Valley, CA: Denise Seymour](https://www.notarydepot.com/dseymour)
+  - [Notary Public in Pearland, TX: Demesha Smith](https://www.notarydepot.com/dshaysmith87)
   - [Notary Public in Houston, TX: D Houston](https://www.notarydepot.com/dshouston15)
   - [Notary Public in Mount Vernon, SD: Debra Koch](https://www.notarydepot.com/dskoch)
   - [Notary Public in Grand Prairie, TX: Desiree S Monday](https://www.notarydepot.com/dsmnotary)
@@ -8340,4 +8341,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-21T13:18:02Z
+Updated at 2019-08-21T13:38:02Z
