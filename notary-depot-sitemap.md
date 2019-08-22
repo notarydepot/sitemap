@@ -1866,6 +1866,7 @@
     - [Notary Public in Hilton Head Island, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Hilton-Head-Island)
     - [Notary Public in Hollywood, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Hollywood)
     - [Notary Public in Irmo, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Irmo)
+    - [Notary Public in Johns Island, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Johns-Island)
     - [Notary Public in Johnston, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Johnston)
     - [Notary Public in Ladson, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Ladson)
     - [Notary Public in Landrum, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Landrum)
@@ -6042,6 +6043,7 @@
   - [Notary Public in North Vernon, IN: Jessica Hvala](https://www.notarydepot.com/notaryninja)
   - [Notary Public in La Quinta, CA: Lavonda Lee](https://www.notarydepot.com/notarynow22)
   - [Notary Public in Newport Beach, CA: NotaryNow](https://www.notarydepot.com/notarynowcom)
+  - [Notary Public in Johns Island, SC: LaQuan T. Freeman](https://www.notarydepot.com/notaryof_theisland)
   - [Notary Public in Columbus, OH: Albert Yetzer](https://www.notarydepot.com/notaryohio)
   - [Notary Public in Santa Fe Springs, CA: Solodad Loera](https://www.notarydepot.com/notaryoncall4u)
   - [Notary Public in Hobart, IN: Erik Mcdonald](https://www.notarydepot.com/notaryone)
@@ -8343,4 +8345,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-22T22:23:02Z
+Updated at 2019-08-22T22:43:02Z
