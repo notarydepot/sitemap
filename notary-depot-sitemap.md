@@ -7101,7 +7101,6 @@
   - [Notary Public in Richmond, VA: Sophia Terrell](https://www.notarydepot.com/sterrell5467)
   - [Notary Public in Los Angeles, CA: Stephen McClure](https://www.notarydepot.com/steve68)
   - [Notary Public in Northville, MI: Stephen Mackenzie](https://www.notarydepot.com/steveandjo1)
-  - [Notary Public in Austin, TX: Steven B Merrick](https://www.notarydepot.com/stevenbmerrick)
   - [Notary Public in Lexington, SC: Steven Scheeler](https://www.notarydepot.com/stevenscheelersc)
   - [Notary Public in Manasquan, NJ: Susan Tinacci](https://www.notarydepot.com/stinacci)
   - [Notary Public in La Vergne, TN: Sheila Thatcher](https://www.notarydepot.com/stnotary)
@@ -8343,4 +8342,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-22T04:02:02Z
+Updated at 2019-08-22T04:22:01Z
