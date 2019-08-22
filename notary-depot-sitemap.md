@@ -7593,6 +7593,7 @@
   - [Notary Public in Long Beach, CA: Wynona D. Poole](https://www.notarydepot.com/wdpoole)
   - [Notary Public in Oakland, CA: Patricia Mitchell](https://www.notarydepot.com/weekendmobilenotary)
   - [Notary Public in Eustis, FL: Cathy Wegner](https://www.notarydepot.com/wegzoo)
+  - [Notary Public in Philadelphia, PA: Tyreese Wells](https://www.notarydepot.com/wellsnotary)
   - [Notary Public in Roseburg, OR: Wendi J. Tubbs](https://www.notarydepot.com/wenditubbs)
   - [Notary Public in Temecula, CA: Wendy de Vera](https://www.notarydepot.com/wendydevera)
   - [Notary Public in El Dorado Hills, CA: Wendy Evans](https://www.notarydepot.com/wendyevans)
@@ -8342,4 +8343,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-22T12:42:02Z
+Updated at 2019-08-22T13:02:03Z
