@@ -4126,6 +4126,7 @@
   - [Notary Public in Middleborough, MA: Hannah K Flamos](https://www.notarydepot.com/hannahkate9)
   - [Notary Public in Titusville, FL: Carla Stokes](https://www.notarydepot.com/happytaskservice)
   - [Notary Public in Phoenix, AZ: Allisa Choate](https://www.notarydepot.com/happyvalleynotary)
+  - [Notary Public in Rock Hill, SC: Felecia Knox](https://www.notarydepot.com/hardnox26)
   - [Notary Public in Las Vegas, NV: Cheryl B. Sirote](https://www.notarydepot.com/hardworker)
   - [Notary Public in San Marcos, CA: Heather Reinhold](https://www.notarydepot.com/hareinhold)
   - [Notary Public in Brownsboro, AL: Susan Harmening](https://www.notarydepot.com/harmening1)
@@ -8346,4 +8347,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-23T18:03:01Z
+Updated at 2019-08-23T18:23:02Z
