@@ -2862,6 +2862,7 @@
   - [Notary Public in Reading, PA: Brian Klein](https://www.notarydepot.com/bkleinnotary)
   - [Notary Public in Rockwall, TX: Brenda Morott](https://www.notarydepot.com/bkmor2003)
   - [Notary Public in Grand Rapids, MI: Brandice Labadie](https://www.notarydepot.com/blabadie)
+  - [Notary Public in Covington, GA: Kayla](https://www.notarydepot.com/blacpearl)
   - [Notary Public in Walnut Creek, CA: Beth Lassila](https://www.notarydepot.com/blassila)
   - [Notary Public in Boise, ID: Jason](https://www.notarydepot.com/blazzer)
   - [Notary Public in NJ: Caroljean Rich](https://www.notarydepot.com/blkbear)
@@ -8345,4 +8346,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-23T13:23:02Z
+Updated at 2019-08-23T13:43:02Z
