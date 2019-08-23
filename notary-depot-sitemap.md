@@ -960,6 +960,7 @@
     - [Notary Public in Overland Park, KS](https://www.notarydepot.com/notary-near-me/Kansas/Overland-Park)
     - [Notary Public in Wichita, KS](https://www.notarydepot.com/notary-near-me/Kansas/Wichita)
   - [Notaries Public in Kentucky](https://www.notarydepot.com/notary-near-me/Kentucky)
+    - [Notary Public in Bagdad, KY](https://www.notarydepot.com/notary-near-me/Kentucky/Bagdad)
     - [Notary Public in Berea, KY](https://www.notarydepot.com/notary-near-me/Kentucky/Berea)
     - [Notary Public in Bowling Green, KY](https://www.notarydepot.com/notary-near-me/Kentucky/Bowling-Green)
     - [Notary Public in Cadiz, KY](https://www.notarydepot.com/notary-near-me/Kentucky/Cadiz)
@@ -2875,6 +2876,7 @@
   - [Notary Public in Bluffton, SC: Ilene Shiansky](https://www.notarydepot.com/blufftonnotary)
   - [Notary Public in Lake Forest, CA: Mychel Ann Jeffrey](https://www.notarydepot.com/blujade)
   - [Notary Public in Lake City, FL: Patsy Allen](https://www.notarydepot.com/blumagicnotarysigningagent)
+  - [Notary Public in Bagdad, KY: Brenda](https://www.notarydepot.com/bmaddox)
   - [Notary Public in Massapequa Park, NY: Bernadette Masiello](https://www.notarydepot.com/bmasiello)
   - [Notary Public in Lithonia, GA: Bernita Banks](https://www.notarydepot.com/bmbjnotary)
   - [Notary Public in Durham, NC: Barbara Chambers](https://www.notarydepot.com/bmcservices)
@@ -4256,6 +4258,7 @@
   - [Notary Public in Memphis, TN: Rebecca Rupe](https://www.notarydepot.com/inkdnotary)
   - [Notary Public in Valparaiso, IN: Rachel Pasley](https://www.notarydepot.com/inkednotary)
   - [Notary Public in Garden Grove, CA: Amparo J. Vaca](https://www.notarydepot.com/inkngonotary)
+  - [Notary Public in Riverside, CA: Pamela Harris](https://www.notarydepot.com/inlandempirenotary)
   - [Notary Public in Huntsville, AL: Michelle L Riley](https://www.notarydepot.com/inotarize)
   - [Notary Public in Evansville, IN: Elizabeth Harris](https://www.notarydepot.com/inparalegal)
   - [Notary Public in Omaha, NE: Lisa A. Hardy](https://www.notarydepot.com/inrelisa)
@@ -8347,4 +8350,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-23T19:23:02Z
+Updated at 2019-08-23T19:43:02Z

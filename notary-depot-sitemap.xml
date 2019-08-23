@@ -964,6 +964,7 @@
       <url><loc>https://www.notarydepot.com/notary-near-me/Kansas/Overland-Park</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
       <url><loc>https://www.notarydepot.com/notary-near-me/Kansas/Wichita</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
     <url><loc>https://www.notarydepot.com/notary-near-me/Kentucky</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
+      <url><loc>https://www.notarydepot.com/notary-near-me/Kentucky/Bagdad</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
       <url><loc>https://www.notarydepot.com/notary-near-me/Kentucky/Berea</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
       <url><loc>https://www.notarydepot.com/notary-near-me/Kentucky/Bowling-Green</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
       <url><loc>https://www.notarydepot.com/notary-near-me/Kentucky/Cadiz</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
@@ -2878,6 +2879,7 @@
     <url><loc>https://www.notarydepot.com/blufftonnotary</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
     <url><loc>https://www.notarydepot.com/blujade</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
     <url><loc>https://www.notarydepot.com/blumagicnotarysigningagent</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://www.notarydepot.com/bmaddox</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
     <url><loc>https://www.notarydepot.com/bmasiello</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
     <url><loc>https://www.notarydepot.com/bmbjnotary</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
     <url><loc>https://www.notarydepot.com/bmcservices</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
@@ -4259,6 +4261,7 @@
     <url><loc>https://www.notarydepot.com/inkdnotary</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
     <url><loc>https://www.notarydepot.com/inkednotary</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
     <url><loc>https://www.notarydepot.com/inkngonotary</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://www.notarydepot.com/inlandempirenotary</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
     <url><loc>https://www.notarydepot.com/inotarize</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
     <url><loc>https://www.notarydepot.com/inparalegal</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
     <url><loc>https://www.notarydepot.com/inrelisa</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
