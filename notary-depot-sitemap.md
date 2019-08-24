@@ -5398,6 +5398,7 @@
   - [Notary Public in Greensburg, PA: Mark D. Scherer](https://www.notarydepot.com/mark)
   - [Notary Public in Beverly Hills, CA: Mark Berookim](https://www.notarydepot.com/markberookim)
   - [Notary Public in Murfreesboro, TN: Markeisha Hayward](https://www.notarydepot.com/markeishahayward)
+  - [Notary Public in Northglenn, CO: Markli C. Wood Jackson ](https://www.notarydepot.com/markli)
   - [Notary Public in Miami, FL: Marlene Reveron](https://www.notarydepot.com/marlenereveron)
   - [Notary Public in Fairfield, CA: Marlene Santiago](https://www.notarydepot.com/marlenes)
   - [Notary Public in Miami, FL: Rafael O. Caba](https://www.notarydepot.com/marlindog)
@@ -8352,4 +8353,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-24T06:03:01Z
+Updated at 2019-08-24T06:23:02Z
