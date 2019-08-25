@@ -5636,6 +5636,7 @@
   - [Notary Public in Petaluma, CA: Petaluma Mail Depot](https://www.notarydepot.com/mmcguigan)
   - [Notary Public in Durham, NC: Moniqua S. McLean](https://www.notarydepot.com/mmclean)
   - [Notary Public in Nashville, TN: Mark McLeod](https://www.notarydepot.com/mmcleod)
+  - [Notary Public in MO: Melissa Milward](https://www.notarydepot.com/mmilward23)
   - [Notary Public in San Marcos, CA: Michelle M Regello](https://www.notarydepot.com/mmmobilenotaries)
   - [Notary Public in Hayward, CA: Mahjel Neal](https://www.notarydepot.com/mmneal)
   - [Notary Public in Silver Spring, MD: Timothy Onserio](https://www.notarydepot.com/mmnh)
@@ -8352,4 +8353,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-25T18:43:02Z
+Updated at 2019-08-25T19:03:02Z
