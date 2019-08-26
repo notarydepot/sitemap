@@ -661,6 +661,7 @@
     - [Notary Public in North Miami, FL](https://www.notarydepot.com/notary-near-me/Florida/North-Miami)
     - [Notary Public in North Miami Beach, FL](https://www.notarydepot.com/notary-near-me/Florida/North-Miami-Beach)
     - [Notary Public in North Port, FL](https://www.notarydepot.com/notary-near-me/Florida/North-Port)
+    - [Notary Public in Oakland Park, FL](https://www.notarydepot.com/notary-near-me/Florida/Oakland-Park)
     - [Notary Public in Ocala, FL](https://www.notarydepot.com/notary-near-me/Florida/Ocala)
     - [Notary Public in Okeechobee, FL](https://www.notarydepot.com/notary-near-me/Florida/Okeechobee)
     - [Notary Public in Old Town, FL](https://www.notarydepot.com/notary-near-me/Florida/Old-Town)
@@ -5526,7 +5527,7 @@
   - [Notary Public in Ashburn, VA: Michelle Tucker](https://www.notarydepot.com/metucker)
   - [Notary Public in Alexandria, VA: Tsn Group, LLC](https://www.notarydepot.com/mferraguto3)
   - [Notary Public in Sterling Heights, MI: Matthew Fink](https://www.notarydepot.com/mfink1973)
-  - [Notary Public in Fort Lauderdale, FL: Joseph Johnson](https://www.notarydepot.com/mfj8651)
+  - [Notary Public in Oakland Park, FL: Joseph Johnson](https://www.notarydepot.com/mfj8651)
   - [Notary Public in Federal Way, WA: Misty](https://www.notarydepot.com/mflavel)
   - [Notary Public in Limestone, NY: Michelle L Flynn](https://www.notarydepot.com/mflynn)
   - [Notary Public in Annandale, VA: Michael Fontaine](https://www.notarydepot.com/mfontaine1)
@@ -8354,4 +8355,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-26T21:03:02Z
+Updated at 2019-08-26T21:23:02Z
