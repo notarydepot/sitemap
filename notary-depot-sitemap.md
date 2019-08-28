@@ -3468,7 +3468,6 @@
   - [Notary Public in Knoxville, TN: Deborah M. Hill / Artie Hill](https://www.notarydepot.com/debbytsi)
   - [Notary Public in Windsor, CA: Debra L. Merritt](https://www.notarydepot.com/debdoula234)
   - [Notary Public in Middleburg, FL: Diane Bennett](https://www.notarydepot.com/debennett54)
-  - [Notary Public in Milton, FL: Deborah Miller](https://www.notarydepot.com/debmillers)
   - [Notary Public in CA: Debo Fashola](https://www.notarydepot.com/debofash)
   - [Notary Public in Buena Park, CA: Deborah L. Peoples,Mobile Notary /Loan Signing Agent](https://www.notarydepot.com/deborah57)
   - [Notary Public in NJ: Deborah Benjamin, Cnsa](https://www.notarydepot.com/deborahbenjamin)
@@ -3479,6 +3478,7 @@
   - [Notary Public in Redondo Beach, CA: Debra ](https://www.notarydepot.com/debragralik12)
   - [Notary Public in Hayward, CA: Debra Lee Parker](https://www.notarydepot.com/debraleeparker)
   - [Notary Public in Prescott, AZ: Debra Watson](https://www.notarydepot.com/debrawatson)
+  - [Notary Public in Milton, FL: Deborah Reeves](https://www.notarydepot.com/debreeves)
   - [Notary Public in Broken Arrow, OK: Deborah Richardson](https://www.notarydepot.com/debrich59)
   - [Notary Public in Baton Rouge, LA: Debra J. Roberson](https://www.notarydepot.com/debroby)
   - [Notary Public in Lapeer, MI: Rachelle Debroske](https://www.notarydepot.com/debroske)
@@ -8354,4 +8354,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-28T21:23:01Z
+Updated at 2019-08-28T21:43:02Z
