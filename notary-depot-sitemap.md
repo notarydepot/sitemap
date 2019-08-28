@@ -6831,6 +6831,7 @@
   - [Notary Public in Chicago, IL: Shanetra Wilson](https://www.notarydepot.com/shanetrawilson)
   - [Notary Public in Streamwood, IL: Chernise D. Williams](https://www.notarydepot.com/shani1016)
   - [Notary Public in Miami Gardens, FL: shania hall](https://www.notarydepot.com/shaniajam)
+  - [Notary Public in Morgan Hill, CA: Shania Valdez](https://www.notarydepot.com/shanialyn)
   - [Notary Public in Woodbridge, VA: Shanitra Johnson](https://www.notarydepot.com/shanitra_johnson)
   - [Notary Public in West Bloomfield Township, MI: Shannel Konja](https://www.notarydepot.com/shannel307)
   - [Notary Public in West Bloomfield Township, MI: Shannel Konja ](https://www.notarydepot.com/shannelkonja)
@@ -8353,4 +8354,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-28T16:43:01Z
+Updated at 2019-08-28T17:03:02Z
