@@ -3135,6 +3135,7 @@
   - [Notary Public in Los Angeles, CA: Charmaine A. Groat](https://www.notarydepot.com/charmz67)
   - [Notary Public in Pittsburg, CA: Sindy Hatch](https://www.notarydepot.com/chatch)
   - [Notary Public in Upper Darby, PA: Crystal Hatcher-Edwards](https://www.notarydepot.com/chatcheredwards)
+  - [Notary Public in Chicago, IL: Phyllis](https://www.notarydepot.com/chathammobilenotary)
   - [Notary Public in Navarre, FL: Katherine A Robinson-Buchanan](https://www.notarydepot.com/chattykathyonwheels)
   - [Notary Public in Irvine, CA: Chris Cooksey](https://www.notarydepot.com/chawk230)
   - [Notary Public in Jackson, MS: Cherri A. Hayes](https://www.notarydepot.com/chayes)
@@ -8354,4 +8355,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-27T23:43:02Z
+Updated at 2019-08-28T00:03:02Z
