@@ -1898,7 +1898,6 @@
     - [Notary Public in York, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/York)
   - [Notaries Public in South Dakota](https://www.notarydepot.com/notary-near-me/South-Dakota)
     - [Notary Public in Mount Vernon, SD](https://www.notarydepot.com/notary-near-me/South-Dakota/Mount-Vernon)
-    - [Notary Public in Sioux Falls, SD](https://www.notarydepot.com/notary-near-me/South-Dakota/Sioux-Falls)
     - [Notary Public in Sisseton, SD](https://www.notarydepot.com/notary-near-me/South-Dakota/Sisseton)
     - [Notary Public in Wakonda, SD](https://www.notarydepot.com/notary-near-me/South-Dakota/Wakonda)
     - [Notary Public in Watertown, SD](https://www.notarydepot.com/notary-near-me/South-Dakota/Watertown)
@@ -7327,7 +7326,6 @@
   - [Notary Public in Washington, DC: Traci Long Morris-NNA Certified/Background Screened](https://www.notarydepot.com/tinka2)
   - [Notary Public in NJ: Deborah A. Sterling](https://www.notarydepot.com/tioga74)
   - [Notary Public in Placerville, CA: Patricia Crooks](https://www.notarydepot.com/tish)
-  - [Notary Public in Sioux Falls, SD: Tami Bennett](https://www.notarydepot.com/tjobennett)
   - [Notary Public in Danbury, CT: Tanisha Sherman](https://www.notarydepot.com/tjt52545)
   - [Notary Public in Gladstone, OR: Karen Trost](https://www.notarydepot.com/tkaybe)
   - [Notary Public in Topsham, ME: Tim Keene](https://www.notarydepot.com/tkeene83)
@@ -8355,4 +8353,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-28T15:03:02Z
+Updated at 2019-08-28T15:23:02Z
