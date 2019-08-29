@@ -5046,6 +5046,7 @@
   - [Notary Public in Allentown, PA: Zinata Lashaun Butts](https://www.notarydepot.com/lashaun)
   - [Notary Public in Long Beach, CA:  LaShon James-Major](https://www.notarydepot.com/lashon009)
   - [Notary Public in Vancouver, WA: Lisa Aske](https://www.notarydepot.com/laske)
+  - [Notary Public in Peekskill, NY: David A Binenstock](https://www.notarydepot.com/lastminutenotary)
   - [Notary Public in New Port Richey, FL: Cynthia Gonzalez ](https://www.notarydepot.com/lastminutesigningsok)
   - [Notary Public in West Memphis, AR: Donitrie Sanders Sr](https://www.notarydepot.com/lastsecond72303)
   - [Notary Public in Las Vegas, NV: Terri](https://www.notarydepot.com/lasvegasnotary)
@@ -8354,4 +8355,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-29T00:43:02Z
+Updated at 2019-08-29T01:03:02Z
