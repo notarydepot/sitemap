@@ -2605,6 +2605,7 @@
   - [Notary Public in Colton, CA: Anna M. Grotjohn](https://www.notarydepot.com/annagrotjohn)
   - [Notary Public in Burke, VA: Anna Jensen](https://www.notarydepot.com/annajensen)
   - [Notary Public in Homewood, IL: Anne C Smith](https://www.notarydepot.com/annesmith1352)
+  - [Notary Public in Murrieta, CA: Annette Castillo](https://www.notarydepot.com/annettecastillo)
   - [Notary Public in Riverside, CA: Annette Gomez](https://www.notarydepot.com/annetteg45)
   - [Notary Public in Orlando, FL: Annie Acosta](https://www.notarydepot.com/annieaco)
   - [Notary Public in Pounding Mill, VA: Mary Starling](https://www.notarydepot.com/anniesone)
@@ -8355,4 +8356,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-29T01:23:02Z
+Updated at 2019-08-29T01:43:02Z
