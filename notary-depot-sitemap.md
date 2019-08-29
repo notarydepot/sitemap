@@ -3468,7 +3468,6 @@
   - [Notary Public in Navarre, FL: Debby Rogers](https://www.notarydepot.com/debbyr)
   - [Notary Public in Knoxville, TN: Deborah M. Hill / Artie Hill](https://www.notarydepot.com/debbytsi)
   - [Notary Public in Windsor, CA: Debra L. Merritt](https://www.notarydepot.com/debdoula234)
-  - [Notary Public in Middleburg, FL: Diane Bennett](https://www.notarydepot.com/debennett54)
   - [Notary Public in CA: Debo Fashola](https://www.notarydepot.com/debofash)
   - [Notary Public in Buena Park, CA: Deborah L. Peoples,Mobile Notary /Loan Signing Agent](https://www.notarydepot.com/deborah57)
   - [Notary Public in NJ: Deborah Benjamin, Cnsa](https://www.notarydepot.com/deborahbenjamin)
@@ -8356,4 +8355,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-29T15:03:02Z
+Updated at 2019-08-29T15:23:02Z
