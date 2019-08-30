@@ -4987,6 +4987,7 @@
   - [Notary Public in San Francisco, CA: kashann stanton](https://www.notarydepot.com/kstanton)
   - [Notary Public in IN: Kris Strohmeyer-Lett](https://www.notarydepot.com/kstroh32)
   - [Notary Public in Herndon, VA: Kathy Thomas](https://www.notarydepot.com/kthomas)
+  - [Notary Public in NY: Munaza Ra Kuka Wejuli El ](https://www.notarydepot.com/kukatravelingnotary)
   - [Notary Public in Kennedale, TX: Kathy Wade](https://www.notarydepot.com/kvwade)
   - [Notary Public in Greensboro, NC: Kim W Case](https://www.notarydepot.com/kwcase)
   - [Notary Public in Port Orange, FL: Kathleen Wendorf](https://www.notarydepot.com/kwendorf)
@@ -8354,4 +8355,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-30T08:43:03Z
+Updated at 2019-08-30T09:03:02Z
