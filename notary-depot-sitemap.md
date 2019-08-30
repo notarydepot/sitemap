@@ -5926,7 +5926,7 @@
   - [Notary Public in Sandpoint, ID: Nora Kedish](https://www.notarydepot.com/njkwork)
   - [Notary Public in Toms River, NJ: Constance Santo](https://www.notarydepot.com/njnotaryexpress)
   - [Notary Public in Clearwater, FL: Norma J. Smith](https://www.notarydepot.com/njsmith)
-  - [Notary Public in Hollywood, FL: Natasha Kendrick](https://www.notarydepot.com/nkendrick12)
+  - [Notary Public in Lehigh Acres, FL: Natasha Jordan](https://www.notarydepot.com/nkendrick12)
   - [Notary Public in Santa Monica, CA: Nancy Kim](https://www.notarydepot.com/nkim7)
   - [Notary Public in Brooksville, FL: Nakeya Kirkland ](https://www.notarydepot.com/nkirklandnotary)
   - [Notary Public in Santa Clarita, CA: Neil Kleeger](https://www.notarydepot.com/nkleeger)
@@ -8356,4 +8356,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-30T15:23:02Z
+Updated at 2019-08-30T15:43:01Z
