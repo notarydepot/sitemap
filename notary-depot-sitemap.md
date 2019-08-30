@@ -6586,6 +6586,7 @@
   - [Notary Public in Palestine, TX: Robert Owens](https://www.notarydepot.com/robert522)
   - [Notary Public in Fort Myers, FL: Roberta Casha](https://www.notarydepot.com/robertacasha)
   - [Notary Public in Fredericksburg, VA: Robert Blaney](https://www.notarydepot.com/robertblaney)
+  - [Notary Public in Lewisville, TX: robert craft](https://www.notarydepot.com/robertcraft)
   - [Notary Public in Newport News, VA: Robert Mann](https://www.notarydepot.com/robertmann)
   - [Notary Public in South Gate, CA: Robert Sanchez](https://www.notarydepot.com/robertsanchez01)
   - [Notary Public in Coarsegold, CA: Robin Cahill](https://www.notarydepot.com/robinann)
@@ -8355,4 +8356,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-29T23:43:02Z
+Updated at 2019-08-30T00:03:02Z
