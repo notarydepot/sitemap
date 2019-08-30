@@ -2651,7 +2651,6 @@
   - [Notary Public in NJ: Araceli Hamilton](https://www.notarydepot.com/arih0214)
   - [Notary Public in Lake Mary, FL: Arilee Rivera](https://www.notarydepot.com/arilee)
   - [Notary Public in Sapulpa, OK: Arlanda F. Smith](https://www.notarydepot.com/arlandasmith)
-  - [Notary Public in Massapequa Park, NY: Arlene Mazzola](https://www.notarydepot.com/armazz)
   - [Notary Public in Merigold, MS: Aneika Moore](https://www.notarydepot.com/armoore)
   - [Notary Public in Atlanta, GA: Bruce Wayne Anderson](https://www.notarydepot.com/armyvet)
   - [Notary Public in Floresville, TX: Faye Taylor](https://www.notarydepot.com/arnionmobile)
@@ -6683,7 +6682,6 @@
   - [Notary Public in North Salem, NY: Reginald Wilson](https://www.notarydepot.com/rwilson8346)
   - [Notary Public in Southlake, TX: Roxanne Woodcock](https://www.notarydepot.com/rwoodcock)
   - [Notary Public in York, PA: Rgw Notary Services, LLC](https://www.notarydepot.com/rwormley)
-  - [Notary Public in Scottsdale, AZ: Ryan Lee](https://www.notarydepot.com/ryan380golf)
   - [Notary Public in Oklahoma City, OK: Ryan Wager](https://www.notarydepot.com/ryan_wager)
   - [Notary Public in Irvington, NJ: Ryder Cortes](https://www.notarydepot.com/rydercortes)
   - [Notary Public in Lewisville, TX: saba Chaudhry](https://www.notarydepot.com/sabanotary)
@@ -8356,4 +8354,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-30T04:03:02Z
+Updated at 2019-08-30T04:23:02Z
