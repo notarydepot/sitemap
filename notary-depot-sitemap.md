@@ -3830,6 +3830,7 @@
   - [Notary Public in Omaha, NE: Eric A Pullum](https://www.notarydepot.com/ericpullum)
   - [Notary Public in Pensacola, FL: Eric J Sewell](https://www.notarydepot.com/ericsewell)
   - [Notary Public in Los Angeles, CA: Erika D Colins](https://www.notarydepot.com/erikanotary)
+  - [Notary Public in Middletown, NY: Erika Rodriguez](https://www.notarydepot.com/erikaro27)
   - [Notary Public in Arlington, TN: Erik Fischer](https://www.notarydepot.com/erikfischer)
   - [Notary Public in Clarksville, TN: Erin Schroeder](https://www.notarydepot.com/erin116)
   - [Notary Public in Leesburg, VA: Erin Boykin](https://www.notarydepot.com/erinboykin)
@@ -8355,4 +8356,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-30T13:03:02Z
+Updated at 2019-08-30T13:23:02Z
