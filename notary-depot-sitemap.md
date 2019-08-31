@@ -2028,6 +2028,7 @@
     - [Notary Public in Leander, TX](https://www.notarydepot.com/notary-near-me/Texas/Leander)
     - [Notary Public in Levelland, TX](https://www.notarydepot.com/notary-near-me/Texas/Levelland)
     - [Notary Public in Lewisville, TX](https://www.notarydepot.com/notary-near-me/Texas/Lewisville)
+    - [Notary Public in Lexington, TX](https://www.notarydepot.com/notary-near-me/Texas/Lexington)
     - [Notary Public in Liberty Hill, TX](https://www.notarydepot.com/notary-near-me/Texas/Liberty-Hill)
     - [Notary Public in Longview, TX](https://www.notarydepot.com/notary-near-me/Texas/Longview)
     - [Notary Public in Lubbock, TX](https://www.notarydepot.com/notary-near-me/Texas/Lubbock)
@@ -7376,6 +7377,7 @@
   - [Notary Public in Trenton, NJ: Thomas M Zucchetti](https://www.notarydepot.com/tommyz)
   - [Notary Public in Robbinsville, NJ: Thomas M Zucchetti](https://www.notarydepot.com/tommyz1954)
   - [Notary Public in Middleburg, FL: Thomas J. Smith](https://www.notarydepot.com/tomsmith)
+  - [Notary Public in Lexington, TX: Antoinette Gromer](https://www.notarydepot.com/toni689)
   - [Notary Public in Charles City, IA: Tonia Knighten](https://www.notarydepot.com/tonia1979)
   - [Notary Public in Honolulu, HI: Toni Cross](https://www.notarydepot.com/tonicross)
   - [Notary Public in Ashburn, VA: Antoinette Kitchen](https://www.notarydepot.com/tonikitchen)
@@ -8356,4 +8358,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-08-31T15:43:02Z
+Updated at 2019-08-31T16:03:02Z
