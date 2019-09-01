@@ -6921,7 +6921,7 @@
   - [Notary Public in Alabaster, AL: Kimberly DeFilippis](https://www.notarydepot.com/signingagent2002)
   - [Notary Public in Beverly Hills, FL: Jamie Block](https://www.notarydepot.com/signingagent4you)
   - [Notary Public in CA: Kelly Robertson](https://www.notarydepot.com/signingagentcoach)
-  - [Notary Public in Bethlehem, PA: Christine M Thierry](https://www.notarydepot.com/signingagentpa)
+  - [Notary Public in New York, NY: Christine M Thierry](https://www.notarydepot.com/signingagentpa)
   - [Notary Public in Atlanta, GA: Georgia Attorney Closers](https://www.notarydepot.com/signingatlanta)
   - [Notary Public in Irvine, CA: Bosha Dorman](https://www.notarydepot.com/signingpros)
   - [Notary Public in Oklahoma City, OK: Diana Bishop](https://www.notarydepot.com/signings)
@@ -8358,4 +8358,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-09-01T16:43:02Z
+Updated at 2019-09-01T17:03:02Z
