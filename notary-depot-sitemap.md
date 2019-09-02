@@ -3641,6 +3641,7 @@
   - [Notary Public in Austin, TX: Donna Flynn](https://www.notarydepot.com/donnaflynnyahoocom)
   - [Notary Public in RI: Donna A. Greene](https://www.notarydepot.com/donnag)
   - [Notary Public in Windham, ME: Donna Grass](https://www.notarydepot.com/donnagrass)
+  - [Notary Public in Orangeburg, SC: Donna Jacobs](https://www.notarydepot.com/donnajacobs)
   - [Notary Public in Coos Bay, OR: Donna Croswell](https://www.notarydepot.com/donnajean)
   - [Notary Public in Rochester, NY: Donna Leonardo](https://www.notarydepot.com/donnaleonardo)
   - [Notary Public in Lafayette, LA: Donna Pourcio](https://www.notarydepot.com/donnanotary1954)
@@ -8359,4 +8360,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-09-02T20:03:02Z
+Updated at 2019-09-02T20:23:02Z
