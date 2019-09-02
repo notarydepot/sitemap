@@ -3041,6 +3041,7 @@
   - [Notary Public in Aliso Viejo, CA: Carol Graff](https://www.notarydepot.com/carolca)
   - [Notary Public in Carolina Beach, NC: Carol Ann Flinn](https://www.notarydepot.com/carolf)
   - [Notary Public in Henderson, NV: Carol Hecht](https://www.notarydepot.com/carolhecht)
+  - [Notary Public in Winston-Salem, NC: Florence Adams](https://www.notarydepot.com/carolinahomes)
   - [Notary Public in Howell, NJ: Carol Paolillo](https://www.notarydepot.com/carolpaolillo)
   - [Notary Public in Jackson, TN: Carolyn Perry](https://www.notarydepot.com/carolyn38301)
   - [Notary Public in Westminster, CO: Carolyn L. Bodley](https://www.notarydepot.com/carolynco)
@@ -8358,4 +8359,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-09-02T13:03:02Z
+Updated at 2019-09-02T13:23:02Z
