@@ -4602,7 +4602,6 @@
   - [Notary Public in Lakeland, FL: Joseph D. Federico](https://www.notarydepot.com/joefederico)
   - [Notary Public in Gulf Breeze, FL: Joe Hulsey](https://www.notarydepot.com/joehulc)
   - [Notary Public in Bath, PA: Joseph Light](https://www.notarydepot.com/joel9948)
-  - [Notary Public in Oakland, CA: Joel Klutch](https://www.notarydepot.com/joelklutch)
   - [Notary Public in Canby, OR: Jennie Schroder](https://www.notarydepot.com/joelle98)
   - [Notary Public in Harrisburg, PA: Joel Vargas](https://www.notarydepot.com/joelvargaspanotary)
   - [Notary Public in San Ramon, CA: Joseph Noon](https://www.notarydepot.com/joenoon)
@@ -8360,4 +8359,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-09-03T22:23:02Z
+Updated at 2019-09-03T22:43:02Z
