@@ -784,6 +784,7 @@
     - [Notary Public in Redan, GA](https://www.notarydepot.com/notary-near-me/Georgia/Redan)
     - [Notary Public in Reidsville, GA](https://www.notarydepot.com/notary-near-me/Georgia/Reidsville)
     - [Notary Public in Savannah, GA](https://www.notarydepot.com/notary-near-me/Georgia/Savannah)
+    - [Notary Public in Scottdale, GA](https://www.notarydepot.com/notary-near-me/Georgia/Scottdale)
     - [Notary Public in Senoia, GA](https://www.notarydepot.com/notary-near-me/Georgia/Senoia)
     - [Notary Public in Smyrna, GA](https://www.notarydepot.com/notary-near-me/Georgia/Smyrna)
     - [Notary Public in Snellville, GA](https://www.notarydepot.com/notary-near-me/Georgia/Snellville)
@@ -2527,6 +2528,7 @@
   - [Notary Public in Tacoma, WA: Amanda Jorgensen](https://www.notarydepot.com/amandajorgensen)
   - [Notary Public in Brentwood, CA: Charlotte Amanda Eason](https://www.notarydepot.com/amandamichigan)
   - [Notary Public in Herndon, VA: Amanda Pendleton](https://www.notarydepot.com/amandarp)
+  - [Notary Public in Scottdale, GA: Amanda Zorc](https://www.notarydepot.com/amandazorcnotary)
   - [Notary Public in Los Angeles, CA: Ariel Mansell](https://www.notarydepot.com/amansell)
   - [Notary Public in Hamburg, NJ: Arlene Matos-Aguiar](https://www.notarydepot.com/amatos73)
   - [Notary Public in Chesapeake, VA: Hannah Parker-Watts](https://www.notarydepot.com/amazingnotaryva)
@@ -8365,4 +8367,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-09-04T12:43:03Z
+Updated at 2019-09-04T13:03:02Z
