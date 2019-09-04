@@ -1377,6 +1377,7 @@
     - [Notary Public in Mount Olive Township, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Mount-Olive-Township)
     - [Notary Public in New Milford, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/New-Milford)
     - [Notary Public in Newark, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Newark)
+    - [Notary Public in North Wildwood, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/North-Wildwood)
     - [Notary Public in Oaklyn, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Oaklyn)
     - [Notary Public in Paramus, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Paramus)
     - [Notary Public in Parsippany Troy Hills, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Parsippany-Troy-Hills)
@@ -4603,6 +4604,7 @@
   - [Notary Public in Gulf Breeze, FL: Joe Hulsey](https://www.notarydepot.com/joehulc)
   - [Notary Public in Bath, PA: Joseph Light](https://www.notarydepot.com/joel9948)
   - [Notary Public in Canby, OR: Jennie Schroder](https://www.notarydepot.com/joelle98)
+  - [Notary Public in North Wildwood, NJ: Joel Rivera](https://www.notarydepot.com/joelnotary)
   - [Notary Public in Harrisburg, PA: Joel Vargas](https://www.notarydepot.com/joelvargaspanotary)
   - [Notary Public in San Ramon, CA: Joseph Noon](https://www.notarydepot.com/joenoon)
   - [Notary Public in Anaheim, CA: Johanna DeWitt](https://www.notarydepot.com/johannadewitt)
@@ -8359,4 +8361,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-09-04T00:23:02Z
+Updated at 2019-09-04T00:43:02Z
