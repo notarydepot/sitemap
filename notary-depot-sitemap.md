@@ -3209,6 +3209,7 @@
   - [Notary Public in Hueysville, KY: Chrystal King](https://www.notarydepot.com/cking)
   - [Notary Public in Denham Springs, LA: Lana H Chandler](https://www.notarydepot.com/clanahannotary)
   - [Notary Public in Chandler, AZ: Christy Rogers](https://www.notarydepot.com/clangsto)
+  - [Notary Public in Baltimore, MD: Erika](https://www.notarydepot.com/classactnotarial)
   - [Notary Public in Troup, TX: Claudia Capizzo](https://www.notarydepot.com/claudia77773)
   - [Notary Public in Madison, OH: Claudine C. Osborne](https://www.notarydepot.com/claudine)
   - [Notary Public in Ellenton, FL: Clay Benjamin](https://www.notarydepot.com/claybenjamin)
@@ -8368,4 +8369,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-09-04T18:23:02Z
+Updated at 2019-09-04T18:43:02Z
