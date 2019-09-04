@@ -6466,6 +6466,7 @@
   - [Notary Public in Federal Way, WA: Ricardo Campbell Jr.](https://www.notarydepot.com/rcfw2002)
   - [Notary Public in Rancho Cucamonga, CA: Ronald Castaneda](https://www.notarydepot.com/rcnotary)
   - [Notary Public in Antelope, CA: Rosalind Garner](https://www.notarydepot.com/rdgcompany)
+  - [Notary Public in Oklahoma City, OK: Rachel hatch](https://www.notarydepot.com/rdhatch467)
   - [Notary Public in Vancouver, WA: Richard Kurth](https://www.notarydepot.com/rdkurh)
   - [Notary Public in Vancouver, WA: Richard Kurth](https://www.notarydepot.com/rdkurth)
   - [Notary Public in Crimora, VA: Rita D. Dunn](https://www.notarydepot.com/rdldunn)
@@ -8367,4 +8368,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-09-04T16:03:02Z
+Updated at 2019-09-04T16:23:02Z
