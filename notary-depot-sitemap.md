@@ -7037,6 +7037,7 @@
   - [Notary Public in Harlingen, TX: Cori Cordova](https://www.notarydepot.com/southtexasnotaries)
   - [Notary Public in San Antonio, TX: Jessie Calderon](https://www.notarydepot.com/southtexasnotary)
   - [Notary Public in Westbrook, ME: Carol Waterhouse](https://www.notarydepot.com/sox101957)
+  - [Notary Public in Palm Bay, FL: Jeffrie Younger](https://www.notarydepot.com/spacecoastnotary)
   - [Notary Public in Sacramento, CA: Sergio Musetti](https://www.notarydepot.com/spanishvoice)
   - [Notary Public in Elk Creek, MO: Bobbi S Sparks](https://www.notarydepot.com/sparksnotary)
   - [Notary Public in Asbury Park, NJ: Marcy Spiegelman](https://www.notarydepot.com/speedycloser)
@@ -8361,4 +8362,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-09-04T01:03:02Z
+Updated at 2019-09-04T01:23:02Z
