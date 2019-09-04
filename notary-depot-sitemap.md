@@ -277,6 +277,7 @@
     - [Notary Public in Kentfield, CA](https://www.notarydepot.com/notary-near-me/California/Kentfield)
     - [Notary Public in La Mesa, CA](https://www.notarydepot.com/notary-near-me/California/La-Mesa)
     - [Notary Public in La Mirada, CA](https://www.notarydepot.com/notary-near-me/California/La-Mirada)
+    - [Notary Public in La Palma, CA](https://www.notarydepot.com/notary-near-me/California/La-Palma)
     - [Notary Public in La Puente, CA](https://www.notarydepot.com/notary-near-me/California/La-Puente)
     - [Notary Public in La Quinta, CA](https://www.notarydepot.com/notary-near-me/California/La-Quinta)
     - [Notary Public in La Verne, CA](https://www.notarydepot.com/notary-near-me/California/La-Verne)
@@ -6181,6 +6182,7 @@
   - [Notary Public in Manteca, CA: Otis Millbrook Jr.](https://www.notarydepot.com/omillbro)
   - [Notary Public in Ontario, CA: Andrea Ondatje](https://www.notarydepot.com/ondatjea)
   - [Notary Public in Washington, DC: OneSourceProcess](https://www.notarydepot.com/onesource784)
+  - [Notary Public in La Palma, CA: Karla Garcia](https://www.notarydepot.com/onpointnotary)
   - [Notary Public in Modesto, CA: Beverly Stokke](https://www.notarydepot.com/ontherunnotary)
   - [Notary Public in Dallas, TX: Donna Gibson](https://www.notarydepot.com/ontimemobilenotary)
   - [Notary Public in Conroe, TX: Simone Shelton](https://www.notarydepot.com/ontimetosign)
@@ -8362,4 +8364,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-09-04T02:03:02Z
+Updated at 2019-09-04T02:23:01Z
