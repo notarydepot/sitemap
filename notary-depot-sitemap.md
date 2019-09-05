@@ -1049,6 +1049,7 @@
     - [Notary Public in Bethesda, MD](https://www.notarydepot.com/notary-near-me/Maryland/Bethesda)
     - [Notary Public in Bowie, MD](https://www.notarydepot.com/notary-near-me/Maryland/Bowie)
     - [Notary Public in Brentwood, MD](https://www.notarydepot.com/notary-near-me/Maryland/Brentwood)
+    - [Notary Public in Burtonsville, MD](https://www.notarydepot.com/notary-near-me/Maryland/Burtonsville)
     - [Notary Public in Capitol Heights, MD](https://www.notarydepot.com/notary-near-me/Maryland/Capitol-Heights)
     - [Notary Public in Catonsville, MD](https://www.notarydepot.com/notary-near-me/Maryland/Catonsville)
     - [Notary Public in Clinton, MD](https://www.notarydepot.com/notary-near-me/Maryland/Clinton)
@@ -3382,6 +3383,7 @@
   - [Notary Public in Loxahatchee, FL: Dalia Isr](https://www.notarydepot.com/dalia)
   - [Notary Public in Gaithersburg, MD: Dalia Smith](https://www.notarydepot.com/daliasmith)
   - [Notary Public in Dayton, TX: Dalita D. Farris](https://www.notarydepot.com/dalitaf)
+  - [Notary Public in Burtonsville, MD: Romuald S Dallo](https://www.notarydepot.com/dallors)
   - [Notary Public in Manteca, CA: Veronica Ajayi](https://www.notarydepot.com/dalola28)
   - [Notary Public in Washington, DC: David Minniefield](https://www.notarydepot.com/daminniefield)
   - [Notary Public in Tipton, IN: Dana M Kirby](https://www.notarydepot.com/danamkirby)
@@ -8369,4 +8371,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-09-05T03:23:02Z
+Updated at 2019-09-05T03:43:02Z
