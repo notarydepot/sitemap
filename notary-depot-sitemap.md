@@ -3522,6 +3522,7 @@
   - [Notary Public in MO: Dennis D. Broadbooks](https://www.notarydepot.com/dennisbroadbooksmo)
   - [Notary Public in Trabuco Canyon, CA: Dennielle De Heras](https://www.notarydepot.com/denotary)
   - [Notary Public in NJ: Linda Smith](https://www.notarydepot.com/dependablenotary)
+  - [Notary Public in De Pere, WI: Mark Wells](https://www.notarydepot.com/deperenotary)
   - [Notary Public in Austin, TX: DeRae Logan](https://www.notarydepot.com/derae)
   - [Notary Public in Pompano Beach, FL: Derek Enrique](https://www.notarydepot.com/derek_closer)
   - [Notary Public in Richmond, VA: Derrek N. Daniels](https://www.notarydepot.com/derrekdaniels)
@@ -8372,4 +8373,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-09-05T21:43:02Z
+Updated at 2019-09-05T22:03:02Z
