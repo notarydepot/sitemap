@@ -5772,6 +5772,7 @@
   - [Notary Public in Stafford, TX: La Keisha Redd](https://www.notarydepot.com/mrsnotary)
   - [Notary Public in Spring, TX: Juwana Turner](https://www.notarydepot.com/mrs_turner28)
   - [Notary Public in Saint Petersburg, FL: Michael D.Wright Sr.](https://www.notarydepot.com/mrwright)
+  - [Notary Public in Chicago, IL: Abigail](https://www.notarydepot.com/msabbyb)
   - [Notary Public in Streetsboro, OH: Mary Saks](https://www.notarydepot.com/msaks61)
   - [Notary Public in Los Angeles, CA: Yvonne Key](https://www.notarydepot.com/msbelle51)
   - [Notary Public in Portsmouth, VA: Delores Shepherd](https://www.notarydepot.com/mscab1099)
@@ -8373,4 +8374,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-09-06T22:43:02Z
+Updated at 2019-09-06T23:03:02Z
