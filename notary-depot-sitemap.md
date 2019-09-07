@@ -5354,6 +5354,7 @@
   - [Notary Public in Titusville, FL: Maggie Ostergard](https://www.notarydepot.com/maggieost2)
   - [Notary Public in DeLand, FL: Herbert L. Becker](https://www.notarydepot.com/magicweb)
   - [Notary Public in Shelbyville, TN: Janice Anderson](https://www.notarydepot.com/magnolia)
+  - [Notary Public in Goose Creek, SC: Toshawnka T. Mahone](https://www.notarydepot.com/mahonenotary)
   - [Notary Public in Fort Lauderdale, FL: Ricky Mahabir](https://www.notarydepot.com/mahric)
   - [Notary Public in Damascus, OR: Wanda](https://www.notarydepot.com/mailbox182)
   - [Notary Public in Paramus, NJ: Maryl Bogge](https://www.notarydepot.com/mailstar)
@@ -8375,4 +8376,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-09-07T18:23:02Z
+Updated at 2019-09-07T18:43:02Z
