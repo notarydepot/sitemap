@@ -7102,6 +7102,7 @@
   - [Notary Public in Hacienda Heights, CA: Stacy Ov](https://www.notarydepot.com/stacyov)
   - [Notary Public in Southampton, NY: Stacy Dimon](https://www.notarydepot.com/stacy_dimon)
   - [Notary Public in Charlottesville, VA: Tytecha Holliday-Maupin ](https://www.notarydepot.com/staffing2go)
+  - [Notary Public in Bakersfield, CA: Brandon Martin ](https://www.notarydepot.com/stagolee)
   - [Notary Public in Bakersfield, CA: Donna D. Nelson](https://www.notarydepot.com/stampgirl)
   - [Notary Public in Columbia, MO: Glen Stancil](https://www.notarydepot.com/stancilg)
   - [Notary Public in St. Augustine, FL: Kimberly J. Butler](https://www.notarydepot.com/stanotary)
@@ -8376,4 +8377,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-09-07T21:03:03Z
+Updated at 2019-09-07T21:23:03Z
