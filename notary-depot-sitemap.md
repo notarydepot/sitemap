@@ -2601,6 +2601,7 @@
   - [Notary Public in New Braunfels, TX: Anita Roehr](https://www.notarydepot.com/anita)
   - [Notary Public in Siloam Springs, AR: Anita Lingerfelt](https://www.notarydepot.com/anita47f)
   - [Notary Public in Spring, TX: Anita Posluszny](https://www.notarydepot.com/anitaama)
+  - [Notary Public in Lawrenceville, GA: Anita Copeland](https://www.notarydepot.com/anitacopeland)
   - [Notary Public in Chowchilla, CA: Anita R Diedrich ](https://www.notarydepot.com/anitadiedrich123)
   - [Notary Public in Holiday, FL: Anita Caron-Kenly](https://www.notarydepot.com/anitanotary)
   - [Notary Public in Spring, TX: Anita Posluszny](https://www.notarydepot.com/anitapos)
@@ -8377,4 +8378,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-09-08T01:03:02Z
+Updated at 2019-09-08T01:23:02Z
