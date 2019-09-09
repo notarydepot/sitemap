@@ -2898,6 +2898,7 @@
   - [Notary Public in Los Angeles, CA: Brionna Lewis](https://www.notarydepot.com/bnl80091)
   - [Notary Public in Highland, CA: Nichole Scales](https://www.notarydepot.com/bnlnotary)
   - [Notary Public in Altadena, CA: Brandy Middleton](https://www.notarydepot.com/bnmiddleton)
+  - [Notary Public in : Barbara R Mitchell](https://www.notarydepot.com/bnotarized)
   - [Notary Public in Nanticoke, PA: Robert L Hynoski](https://www.notarydepot.com/bnotary)
   - [Notary Public in Bonita, CA: Brooke N. Salcedo](https://www.notarydepot.com/bnsalcedo)
   - [Notary Public in WA: Robert J Hyatt](https://www.notarydepot.com/bob4928)
@@ -8380,4 +8381,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-09-09T23:03:02Z
+Updated at 2019-09-09T23:23:02Z
