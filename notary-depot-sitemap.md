@@ -3715,7 +3715,7 @@
   - [Notary Public in Palatka, FL: Daniel](https://www.notarydepot.com/dtw710)
   - [Notary Public in Naples, FL: Donald E Tyree](https://www.notarydepot.com/dtyree)
   - [Notary Public in Dallas, TX: Daniel Omolola](https://www.notarydepot.com/duke05)
-  - [Notary Public in Corona, CA: Debbie Dunham](https://www.notarydepot.com/dunhamd)
+  - [Notary Public in Menifee, CA: Debbie Dunham](https://www.notarydepot.com/dunhamd)
   - [Notary Public in El Dorado Hills, CA: Dustin Shea](https://www.notarydepot.com/dustinsea)
   - [Notary Public in Houston, TX: Deborah Bonner](https://www.notarydepot.com/dvncbonner)
   - [Notary Public in MA: Douglas E. Wiggins Jr.](https://www.notarydepot.com/dw978)
@@ -8380,4 +8380,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-09-09T15:23:02Z
+Updated at 2019-09-09T15:43:02Z
