@@ -2266,7 +2266,6 @@
     - [Notary Public in Union Gap, WA](https://www.notarydepot.com/notary-near-me/Washington/Union-Gap)
     - [Notary Public in Vancouver, WA](https://www.notarydepot.com/notary-near-me/Washington/Vancouver)
     - [Notary Public in Wenatchee, WA](https://www.notarydepot.com/notary-near-me/Washington/Wenatchee)
-    - [Notary Public in Woodinville, WA](https://www.notarydepot.com/notary-near-me/Washington/Woodinville)
   - [Notaries Public in West Virginia](https://www.notarydepot.com/notary-near-me/West-Virginia)
     - [Notary Public in Charles Town, WV](https://www.notarydepot.com/notary-near-me/West-Virginia/Charles-Town)
     - [Notary Public in Danese, WV](https://www.notarydepot.com/notary-near-me/West-Virginia/Danese)
@@ -6944,7 +6943,6 @@
   - [Notary Public in Atlanta, GA: Georgia Attorney Closers](https://www.notarydepot.com/signingatlanta)
   - [Notary Public in Irvine, CA: Bosha Dorman](https://www.notarydepot.com/signingpros)
   - [Notary Public in Oklahoma City, OK: Diana Bishop](https://www.notarydepot.com/signings)
-  - [Notary Public in Woodinville, WA: Erica](https://www.notarydepot.com/signingsbyerica)
   - [Notary Public in Nederland, TX: Pamela Lemell](https://www.notarydepot.com/signingsetx)
   - [Notary Public in West Hartford, CT: Twila McKinney](https://www.notarydepot.com/signmeup)
   - [Notary Public in Stockbridge, GA: Nicola Holsey](https://www.notarydepot.com/signright)
@@ -8381,4 +8379,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-09-10T21:43:03Z
+Updated at 2019-09-10T22:03:02Z
