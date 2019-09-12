@@ -6485,7 +6485,6 @@
   - [Notary Public in Austin, TX: Peter Prescott](https://www.notarydepot.com/realestatenotary)
   - [Notary Public in Los Angeles, CA: Annie](https://www.notarydepot.com/realtorex)
   - [Notary Public in Friant, CA: Robin G. Easley](https://www.notarydepot.com/reasley)
-  - [Notary Public in Port Orchard, WA: Rebecca DeLange](https://www.notarydepot.com/rebeccadelange0229)
   - [Notary Public in Oroville, CA: Rebecka A Rodriguez](https://www.notarydepot.com/rebecka)
   - [Notary Public in Chino Hills, CA: Rebekah Butorac](https://www.notarydepot.com/rebekahbutorac)
   - [Notary Public in Acworth, GA: Michelle James](https://www.notarydepot.com/redchel)
@@ -8379,4 +8378,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-09-12T01:03:02Z
+Updated at 2019-09-12T01:23:02Z
