@@ -994,7 +994,6 @@
     - [Notary Public in Somerset, KY](https://www.notarydepot.com/notary-near-me/Kentucky/Somerset)
     - [Notary Public in Stanford, KY](https://www.notarydepot.com/notary-near-me/Kentucky/Stanford)
     - [Notary Public in Williamstown, KY](https://www.notarydepot.com/notary-near-me/Kentucky/Williamstown)
-    - [Notary Public in Winchester, KY](https://www.notarydepot.com/notary-near-me/Kentucky/Winchester)
   - [Notaries Public in Louisiana](https://www.notarydepot.com/notary-near-me/Louisiana)
     - [Notary Public in Alexandria, LA](https://www.notarydepot.com/notary-near-me/Louisiana/Alexandria)
     - [Notary Public in Bastrop, LA](https://www.notarydepot.com/notary-near-me/Louisiana/Bastrop)
@@ -2342,7 +2341,6 @@
   - [Notary Public in Downey, CA: Christina](https://www.notarydepot.com/562downeynotary)
   - [Notary Public in Corinth, TX: DeMonica A Morton](https://www.notarydepot.com/5starnotary)
   - [Notary Public in Anchorage, AK: Brian Rosenberg](https://www.notarydepot.com/61degreenotary)
-  - [Notary Public in Winchester, KY: Lee Kendrick](https://www.notarydepot.com/67ferrari)
   - [Notary Public in SC: TonyaJohnson](https://www.notarydepot.com/67tonya)
   - [Notary Public in Danville, CA: Gerald Sixkiller](https://www.notarydepot.com/6killer)
   - [Notary Public in Las Vegas, NV: Monashea Moore](https://www.notarydepot.com/702notaryplus)
@@ -8378,4 +8376,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-09-12T03:23:02Z
+Updated at 2019-09-12T03:43:02Z
