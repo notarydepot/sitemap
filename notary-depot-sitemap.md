@@ -6044,6 +6044,7 @@
   - [Notary Public in Castro Valley, CA: Heather Boyce](https://www.notarydepot.com/notaryheatherb)
   - [Notary Public in Carriere, MS: Alana Campo](https://www.notarydepot.com/notaryinmotionms)
   - [Notary Public in Union City, PA: Robin Amann](https://www.notarydepot.com/notaryinpa)
+  - [Notary Public in Laguna Hills, CA: Lori Huber](https://www.notarydepot.com/notaryintheoc)
   - [Notary Public in Chesapeake, VA: Jasmine Bullock](https://www.notarydepot.com/notaryjasminebullock)
   - [Notary Public in Carol Stream, IL: Jegie Carrera](https://www.notarydepot.com/notaryjc)
   - [Notary Public in Cleveland, OH: Judy Edwards](https://www.notarydepot.com/notaryje)
@@ -8378,4 +8379,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-09-12T02:43:02Z
+Updated at 2019-09-12T03:03:03Z
