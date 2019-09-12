@@ -4299,6 +4299,7 @@
   - [Notary Public in Vista, CA: Annette Webb](https://www.notarydepot.com/itsawebb)
   - [Notary Public in Phoenix, AZ: Jennifer Hayes](https://www.notarydepot.com/itsnatalieanouk)
   - [Notary Public in Philadelphia, PA: Kim French](https://www.notarydepot.com/itspossible)
+  - [Notary Public in Rockville, MD: Ivan](https://www.notarydepot.com/ivanp20850)
   - [Notary Public in Lakeland, FL: Ivelisse Santiago](https://www.notarydepot.com/ivelisse)
   - [Notary Public in Murrieta, CA: Ivy Webb](https://www.notarydepot.com/iwebbnotary)
   - [Notary Public in Atlanta, GA: Iyana Smith](https://www.notarydepot.com/iyana_s)
@@ -8376,4 +8377,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-09-12T14:23:02Z
+Updated at 2019-09-12T14:43:02Z
