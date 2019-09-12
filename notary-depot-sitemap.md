@@ -3864,7 +3864,6 @@
   - [Notary Public in Alexandria, VA: Eve Shelton -- All of Northern Va](https://www.notarydepot.com/eve)
   - [Notary Public in Maryville, TN: Eveline Crozier](https://www.notarydepot.com/evecro16)
   - [Notary Public in Cedar Hill, TX: Evelyn Jackson](https://www.notarydepot.com/evejacko)
-  - [Notary Public in Richmond, CA: Evelyn Ugaz](https://www.notarydepot.com/evelynugaz)
   - [Notary Public in Camano Island, WA: Cheryl Palmquist](https://www.notarydepot.com/evergreenmobilenotary)
   - [Notary Public in Middletown, DE: Isaac Daniels](https://www.notarydepot.com/everifydocs)
   - [Notary Public in North Versailles, PA: Angela Towner](https://www.notarydepot.com/evertalkin)
@@ -8379,4 +8378,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-09-12T03:03:03Z
+Updated at 2019-09-12T03:23:02Z
