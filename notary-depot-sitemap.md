@@ -7455,6 +7455,7 @@
   - [Notary Public in Hooksett, NH: Sue Parnell](https://www.notarydepot.com/tsparnell)
   - [Notary Public in Denton, TX: Todd Spigener](https://www.notarydepot.com/tspigener)
   - [Notary Public in Bellflower, CA: Tugoa Maria Towles](https://www.notarydepot.com/ttowles)
+  - [Notary Public in Tualatin, OR: Richard Michael Powell](https://www.notarydepot.com/tualatin_notary)
   - [Notary Public in Eugene, OR: Tuana Schirmer](https://www.notarydepot.com/tuanaschirmer)
   - [Notary Public in Hamilton, OH: Tuesday A. Brehm](https://www.notarydepot.com/tuesdayb)
   - [Notary Public in Arlington, VA: Dastagir Jahangir](https://www.notarydepot.com/tugril)
@@ -8377,4 +8378,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-09-13T18:03:02Z
+Updated at 2019-09-13T18:23:02Z
