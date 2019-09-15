@@ -6199,6 +6199,7 @@
   - [Notary Public in Suffolk, VA: Ovedia Parker](https://www.notarydepot.com/oparker09)
   - [Notary Public in Ocean Park, WA: Gina Depriest](https://www.notarydepot.com/opnotary)
   - [Notary Public in Half Moon Bay, CA: Mrs.Bates](https://www.notarydepot.com/orion)
+  - [Notary Public in Austin, TX: Cruz S. Ornelas Jr.](https://www.notarydepot.com/ornelasnotaryservices)
   - [Notary Public in Kissimmee, FL: Robert L. Loos](https://www.notarydepot.com/orostar)
   - [Notary Public in Cambria, CA: Darlene Bennett](https://www.notarydepot.com/oshnbby)
   - [Notary Public in Delray Beach, FL: Kathleen Otting](https://www.notarydepot.com/otting)
@@ -8379,4 +8380,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-09-15T21:25:02Z
+Updated at 2019-09-15T21:45:02Z
