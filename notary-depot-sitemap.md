@@ -1523,6 +1523,7 @@
     - [Notary Public in Southampton, NY](https://www.notarydepot.com/notary-near-me/New-York/Southampton)
     - [Notary Public in Syracuse, NY](https://www.notarydepot.com/notary-near-me/New-York/Syracuse)
     - [Notary Public in Tarrytown, NY](https://www.notarydepot.com/notary-near-me/New-York/Tarrytown)
+    - [Notary Public in Tonawanda, NY](https://www.notarydepot.com/notary-near-me/New-York/Tonawanda)
     - [Notary Public in Utica, NY](https://www.notarydepot.com/notary-near-me/New-York/Utica)
     - [Notary Public in Valley Stream, NY](https://www.notarydepot.com/notary-near-me/New-York/Valley-Stream)
     - [Notary Public in Waterford, NY](https://www.notarydepot.com/notary-near-me/New-York/Waterford)
@@ -7475,6 +7476,7 @@
   - [Notary Public in Pfafftown, NC: Tracy S. Wade](https://www.notarydepot.com/twade3)
   - [Notary Public in Maricopa, AZ: Tearra Warren](https://www.notarydepot.com/twarren)
   - [Notary Public in Columbus, OH: Theresa Workman](https://www.notarydepot.com/twiggy)
+  - [Notary Public in Tonawanda, NY: Ralph J. Abramo](https://www.notarydepot.com/twincityinformation)
   - [Notary Public in Humboldt, TN: Angela Burton](https://www.notarydepot.com/twinkle5)
   - [Notary Public in Chula Vista, CA: Stacey Martin-Lopez](https://www.notarydepot.com/twinsam)
   - [Notary Public in PARCEL RETURN SERVICE, DC: Heather Peterson](https://www.notarydepot.com/twobeseen)
@@ -8382,4 +8384,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-09-16T21:05:02Z
+Updated at 2019-09-16T21:25:02Z
