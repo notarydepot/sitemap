@@ -504,6 +504,7 @@
     - [Notary Public in Littleton, CO](https://www.notarydepot.com/notary-near-me/Colorado/Littleton)
     - [Notary Public in Longmont, CO](https://www.notarydepot.com/notary-near-me/Colorado/Longmont)
     - [Notary Public in Loveland, CO](https://www.notarydepot.com/notary-near-me/Colorado/Loveland)
+    - [Notary Public in Montrose, CO](https://www.notarydepot.com/notary-near-me/Colorado/Montrose)
     - [Notary Public in Northglenn, CO](https://www.notarydepot.com/notary-near-me/Colorado/Northglenn)
     - [Notary Public in Orchard City, CO](https://www.notarydepot.com/notary-near-me/Colorado/Orchard-City)
     - [Notary Public in Pagosa Springs, CO](https://www.notarydepot.com/notary-near-me/Colorado/Pagosa-Springs)
@@ -3158,6 +3159,7 @@
   - [Notary Public in Gulf Breeze, FL: Cheryl Maniscalco](https://www.notarydepot.com/cherylmnotary)
   - [Notary Public in Jasper, FL: Cheryl Young](https://www.notarydepot.com/cherylyoung)
   - [Notary Public in Chesapeake, VA: Marie Griffin](https://www.notarydepot.com/chesapeakenotary)
+  - [Notary Public in Montrose, CO: James Arnold](https://www.notarydepot.com/chewypup1)
   - [Notary Public in Chicago, IL: Chicago Prime Notary](https://www.notarydepot.com/chicagoprimenotary)
   - [Notary Public in Auburn, ME: Donald Robbins](https://www.notarydepot.com/chiefdon)
   - [Notary Public in Palmdale, CA: Chirnese Liverpool](https://www.notarydepot.com/chirnese_liverpool)
@@ -8380,4 +8382,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-09-16T03:25:02Z
+Updated at 2019-09-16T03:45:02Z
