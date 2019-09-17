@@ -1864,6 +1864,7 @@
     - [Notary Public in Anderson, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Anderson)
     - [Notary Public in Beaufort, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Beaufort)
     - [Notary Public in Bluffton, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Bluffton)
+    - [Notary Public in Boiling Springs, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Boiling-Springs)
     - [Notary Public in Charleston, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Charleston)
     - [Notary Public in Clover, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Clover)
     - [Notary Public in Columbia, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Columbia)
@@ -7509,6 +7510,7 @@
   - [Notary Public in Amarillo, TX: The Ups Store #4558](https://www.notarydepot.com/ups4558)
   - [Notary Public in Mechanicsville, VA: Bob and Sandy Moorey](https://www.notarydepot.com/ups4572)
   - [Notary Public in Petaluma, CA: Ups Store 0995](https://www.notarydepot.com/upsstore0995)
+  - [Notary Public in Boiling Springs, SC: Crystal Holmes](https://www.notarydepot.com/upstateagent)
   - [Notary Public in Greenville, SC: Upstate Mobile Notaries, LLC](https://www.notarydepot.com/upstatenotaries)
   - [Notary Public in Greenville, SC: Michael Breisch](https://www.notarydepot.com/upstatenotaryservice)
   - [Notary Public in Phoenixville, PA: Pamela Knight](https://www.notarydepot.com/urban)
@@ -8384,4 +8386,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-09-17T15:05:02Z
+Updated at 2019-09-17T15:25:02Z
