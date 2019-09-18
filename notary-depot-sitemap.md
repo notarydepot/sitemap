@@ -199,7 +199,6 @@
     - [Notary Public in Coarsegold, CA](https://www.notarydepot.com/notary-near-me/California/Coarsegold)
     - [Notary Public in Colton, CA](https://www.notarydepot.com/notary-near-me/California/Colton)
     - [Notary Public in Compton, CA](https://www.notarydepot.com/notary-near-me/California/Compton)
-    - [Notary Public in Concord, CA](https://www.notarydepot.com/notary-near-me/California/Concord)
     - [Notary Public in Cool, CA](https://www.notarydepot.com/notary-near-me/California/Cool)
     - [Notary Public in Corning, CA](https://www.notarydepot.com/notary-near-me/California/Corning)
     - [Notary Public in Corona, CA](https://www.notarydepot.com/notary-near-me/California/Corona)
@@ -5023,7 +5022,6 @@
   - [Notary Public in Woodford, VA: LaWanda Loving](https://www.notarydepot.com/labl79)
   - [Notary Public in San Dimas, CA: Lacey Eisele](https://www.notarydepot.com/laceyeisele)
   - [Notary Public in Humble, TX: Lacey D. Horton](https://www.notarydepot.com/laceyhorton27)
-  - [Notary Public in Concord, CA: Desiree LaChance](https://www.notarydepot.com/lachancenotary)
   - [Notary Public in Muncie, IN: Lacie L Marshall](https://www.notarydepot.com/laciemarshall)
   - [Notary Public in Sterling Heights, MI: Andrea Barnes-Smith](https://www.notarydepot.com/ladiann2006)
   - [Notary Public in Statesville, NC: Lisa R. Howard](https://www.notarydepot.com/ladyasil)
@@ -8388,4 +8386,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-09-18T16:45:02Z
+Updated at 2019-09-18T17:05:02Z
