@@ -5431,7 +5431,6 @@
   - [Notary Public in CA: Marta S. Chavira](https://www.notarydepot.com/martachavira)
   - [Notary Public in Tallahassee, FL: Martha Randell](https://www.notarydepot.com/marthar)
   - [Notary Public in Lancaster, TX: Martha Tennison](https://www.notarydepot.com/marthatennison)
-  - [Notary Public in Austin, TX: Winston Martinez](https://www.notarydepot.com/martinezwinstongmailcom)
   - [Notary Public in Johnson City, TN: Kathy Hawks](https://www.notarydepot.com/martinichef)
   - [Notary Public in Hacienda Heights, CA: Martin Reyes](https://www.notarydepot.com/martinreyes626)
   - [Notary Public in Jacksonville, FL: John Paul](https://www.notarydepot.com/martjp)
@@ -8389,4 +8388,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-09-18T15:25:02Z
+Updated at 2019-09-18T15:45:02Z
