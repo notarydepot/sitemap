@@ -3905,7 +3905,7 @@
   - [Notary Public in St. Louis, MO: Cameron Fearn](https://www.notarydepot.com/fearnc)
   - [Notary Public in Trenton, NJ: Felicia Brittingham](https://www.notarydepot.com/feliciab)
   - [Notary Public in Ewing Township, NJ: Felicia Brittingham](https://www.notarydepot.com/feliciabrittingham)
-  - [Notary Public in Hawaiian Gardens, CA: Notary Public](https://www.notarydepot.com/felipe)
+  - [Notary Public in Hawaiian Gardens, CA: Felipe Cabral](https://www.notarydepot.com/felipe)
   - [Notary Public in Fredericksburg, VA: Geri Gribben](https://www.notarydepot.com/felix123)
   - [Notary Public in Downey, CA: Felix M. Lopez](https://www.notarydepot.com/felix24hours)
   - [Notary Public in Houston, TX: Felix Otero](https://www.notarydepot.com/felixinhouston)
@@ -8389,4 +8389,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-09-18T06:05:02Z
+Updated at 2019-09-18T06:25:02Z
