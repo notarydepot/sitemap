@@ -6071,6 +6071,7 @@
   - [Notary Public in Malibu, CA: Natalie Bernstein](https://www.notarydepot.com/notarynat)
   - [Notary Public in South Bend, IN: Nikki Greene](https://www.notarydepot.com/notarynikki)
   - [Notary Public in North Vernon, IN: Jessica Hvala](https://www.notarydepot.com/notaryninja)
+  - [Notary Public in Columbia, TN: Laquita Amos](https://www.notarydepot.com/notaryninja78)
   - [Notary Public in La Quinta, CA: Lavonda Lee](https://www.notarydepot.com/notarynow22)
   - [Notary Public in Newport Beach, CA: NotaryNow](https://www.notarydepot.com/notarynowcom)
   - [Notary Public in Johns Island, SC: LaQuan T. Freeman](https://www.notarydepot.com/notaryof_theisland)
@@ -8387,4 +8388,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-09-19T20:25:02Z
+Updated at 2019-09-19T20:45:02Z
