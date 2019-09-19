@@ -3282,6 +3282,7 @@
   - [Notary Public in Tampa, FL: Corinne Sesskin](https://www.notarydepot.com/corinnefl)
   - [Notary Public in Langhorne, PA: Corinne Ritzheimer](https://www.notarydepot.com/corinneritz)
   - [Notary Public in Wentworth, NH: Corrine Cormiea](https://www.notarydepot.com/cormiea)
+  - [Notary Public in Corona, CA: Cris Salcedo](https://www.notarydepot.com/coronanotary)
   - [Notary Public in Corpus Christi, TX: *Tony Tomison III](https://www.notarydepot.com/corpuschristinotary)
   - [Notary Public in Orlando, FL: Linda Cortez](https://www.notarydepot.com/cortez)
   - [Notary Public in Camarillo, CA: Antonio Cortez](https://www.notarydepot.com/corteza)
@@ -8386,4 +8387,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-09-19T17:05:03Z
+Updated at 2019-09-19T17:25:02Z
