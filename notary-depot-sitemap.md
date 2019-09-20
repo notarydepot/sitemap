@@ -4203,6 +4203,7 @@
   - [Notary Public in Toledo, OH: STEPHANA GALLOWAY](https://www.notarydepot.com/higalloway)
   - [Notary Public in Toledo, OH: Stephana Galloway](https://www.notarydepot.com/higallowayyahoocom)
   - [Notary Public in Weaver, AL: Teal Higgins](https://www.notarydepot.com/higgins)
+  - [Notary Public in Gainesville, FL: Charnice Johnson](https://www.notarydepot.com/highlyfavoured)
   - [Notary Public in San Diego, CA: Medina&#39;s Mobile Notary](https://www.notarydepot.com/hildam)
   - [Notary Public in Fairfield, CA: John Hildenbrand (Certified Notary Signing Agent)](https://www.notarydepot.com/hildenbrand)
   - [Notary Public in Boyertown, PA: Christine Krause](https://www.notarydepot.com/hillchurchnotary)
@@ -8391,4 +8392,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-09-20T08:45:02Z
+Updated at 2019-09-20T09:05:02Z
