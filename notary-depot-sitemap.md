@@ -1224,6 +1224,7 @@
     - [Notary Public in Ocean Springs, MS](https://www.notarydepot.com/notary-near-me/Mississippi/Ocean-Springs)
     - [Notary Public in Olive Branch, MS](https://www.notarydepot.com/notary-near-me/Mississippi/Olive-Branch)
     - [Notary Public in Pass Christian, MS](https://www.notarydepot.com/notary-near-me/Mississippi/Pass-Christian)
+    - [Notary Public in Pearl, MS](https://www.notarydepot.com/notary-near-me/Mississippi/Pearl)
     - [Notary Public in Raymond, MS](https://www.notarydepot.com/notary-near-me/Mississippi/Raymond)
     - [Notary Public in Ridgeland, MS](https://www.notarydepot.com/notary-near-me/Mississippi/Ridgeland)
     - [Notary Public in Saucier, MS](https://www.notarydepot.com/notary-near-me/Mississippi/Saucier)
@@ -3905,6 +3906,7 @@
   - [Notary Public in Trenton, NJ: Felicia Brittingham](https://www.notarydepot.com/feliciab)
   - [Notary Public in Ewing Township, NJ: Felicia Brittingham](https://www.notarydepot.com/feliciabrittingham)
   - [Notary Public in Hawaiian Gardens, CA: Felipe Cabral](https://www.notarydepot.com/felipe)
+  - [Notary Public in Pearl, MS: Felisha Cook](https://www.notarydepot.com/felishacook)
   - [Notary Public in Fredericksburg, VA: Geri Gribben](https://www.notarydepot.com/felix123)
   - [Notary Public in Downey, CA: Felix M. Lopez](https://www.notarydepot.com/felix24hours)
   - [Notary Public in Houston, TX: Felix Otero](https://www.notarydepot.com/felixinhouston)
@@ -8388,4 +8390,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-09-20T01:25:02Z
+Updated at 2019-09-20T01:45:02Z
