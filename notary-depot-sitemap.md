@@ -2272,6 +2272,7 @@
     - [Notary Public in Charles Town, WV](https://www.notarydepot.com/notary-near-me/West-Virginia/Charles-Town)
     - [Notary Public in Danese, WV](https://www.notarydepot.com/notary-near-me/West-Virginia/Danese)
     - [Notary Public in Davis, WV](https://www.notarydepot.com/notary-near-me/West-Virginia/Davis)
+    - [Notary Public in Falling Waters, WV](https://www.notarydepot.com/notary-near-me/West-Virginia/Falling-Waters)
     - [Notary Public in Harpers Ferry, WV](https://www.notarydepot.com/notary-near-me/West-Virginia/Harpers-Ferry)
     - [Notary Public in Huntington, WV](https://www.notarydepot.com/notary-near-me/West-Virginia/Huntington)
     - [Notary Public in Keyser, WV](https://www.notarydepot.com/notary-near-me/West-Virginia/Keyser)
@@ -7703,6 +7704,7 @@
   - [Notary Public in Troy, OH: William Mouser](https://www.notarydepot.com/wrmouser)
   - [Notary Public in Gainesville, VA: Will Robinson](https://www.notarydepot.com/wrobinson)
   - [Notary Public in Camden, MI: William K Testa](https://www.notarydepot.com/wtesta67)
+  - [Notary Public in Falling Waters, WV: Victoria Colley](https://www.notarydepot.com/wvnotaryvc)
   - [Notary Public in Jennings, LA: Warren W. Hoag, Jr](https://www.notarydepot.com/wwhoagjr)
   - [Notary Public in Cerritos, CA: Ricky Wang](https://www.notarydepot.com/wym68)
   - [Notary Public in Carrollton, TX: Josh Ellison](https://www.notarydepot.com/xdjosh1980)
@@ -8392,4 +8394,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-09-20T19:25:02Z
+Updated at 2019-09-20T19:45:02Z
