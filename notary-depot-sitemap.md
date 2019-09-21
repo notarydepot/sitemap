@@ -862,6 +862,7 @@
     - [Notary Public in Madison, IL](https://www.notarydepot.com/notary-near-me/Illinois/Madison)
     - [Notary Public in Matteson, IL](https://www.notarydepot.com/notary-near-me/Illinois/Matteson)
     - [Notary Public in Melrose Park, IL](https://www.notarydepot.com/notary-near-me/Illinois/Melrose-Park)
+    - [Notary Public in Momence, IL](https://www.notarydepot.com/notary-near-me/Illinois/Momence)
     - [Notary Public in Monee, IL](https://www.notarydepot.com/notary-near-me/Illinois/Monee)
     - [Notary Public in Mount Prospect, IL](https://www.notarydepot.com/notary-near-me/Illinois/Mount-Prospect)
     - [Notary Public in Murphysboro, IL](https://www.notarydepot.com/notary-near-me/Illinois/Murphysboro)
@@ -4769,6 +4770,7 @@
   - [Notary Public in Elk Grove, CA: Kai Brinkley](https://www.notarydepot.com/kaibrinkley)
   - [Notary Public in Beverly Hills, CA: Kaitlynn Lam](https://www.notarydepot.com/kaitlynnlam)
   - [Notary Public in Irvine, CA: Annie Kim](https://www.notarydepot.com/kakongbear)
+  - [Notary Public in Momence, IL: Kaliegh Yohnka](https://www.notarydepot.com/kalieghyohnka)
   - [Notary Public in Henrico, VA: Kenya Hacker](https://www.notarydepot.com/kamori_mobile_notary)
   - [Notary Public in Tulsa, OK: Karen J. O&#39;Brien](https://www.notarydepot.com/kandonotary)
   - [Notary Public in Gibsonton, FL: Candis A. Bryant](https://www.notarydepot.com/kandyrayne)
@@ -8394,4 +8396,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-09-21T02:45:02Z
+Updated at 2019-09-21T03:05:01Z
