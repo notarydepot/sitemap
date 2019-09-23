@@ -4363,6 +4363,7 @@
   - [Notary Public in Modesto, CA: Cindy Garcia and Jan Sawyer](https://www.notarydepot.com/jancin)
   - [Notary Public in Lebanon, OR: Jan M Cogdill](https://www.notarydepot.com/jancogdill)
   - [Notary Public in Colorado Springs, CO: Janet L. Dillenbeck](https://www.notarydepot.com/jand2005)
+  - [Notary Public in Ocala, FL: Jaime Andring](https://www.notarydepot.com/jandring)
   - [Notary Public in Seattle, WA: Janel Lewis-Brookes](https://www.notarydepot.com/jandychazwad)
   - [Notary Public in Fresno, CA: Jane Becerra](https://www.notarydepot.com/jane4fresnoca)
   - [Notary Public in Linwood, NJ: Jane Auld](https://www.notarydepot.com/janeauld)
@@ -8396,4 +8397,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-09-23T15:25:01Z
+Updated at 2019-09-23T15:45:01Z
