@@ -4675,6 +4675,7 @@
   - [Notary Public in Layton, UT: Jim Pettingill](https://www.notarydepot.com/jpettingill)
   - [Notary Public in Westminster, SC: Jennifer M Phillips](https://www.notarydepot.com/jphillips2019)
   - [Notary Public in Bogota, NJ: Joie Polimeda](https://www.notarydepot.com/jplynn10)
+  - [Notary Public in Mesa, AZ: JP Mobile Notary](https://www.notarydepot.com/jpmobilenotary)
   - [Notary Public in Manchester, NH: Myra Anne Mullen](https://www.notarydepot.com/jpmyra)
   - [Notary Public in Napa, CA: Jim Pettis](https://www.notarydepot.com/jpnotary)
   - [Notary Public in Provo, UT: John Poelman](https://www.notarydepot.com/jpoelman)
@@ -8398,4 +8399,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-09-24T21:45:02Z
+Updated at 2019-09-24T22:05:02Z
