@@ -4142,6 +4142,7 @@
   - [Notary Public in Pahrump, NV: Denise Hall](https://www.notarydepot.com/hallsfast)
   - [Notary Public in South Gate, CA: Heather Alvarez](https://www.notarydepot.com/halvarezagent)
   - [Notary Public in West Melbourne, FL: Heather Sandvick](https://www.notarydepot.com/hambamcam)
+  - [Notary Public in Roanoke, VA: Byron Lee Hamlar](https://www.notarydepot.com/hamlarorg)
   - [Notary Public in Sapulpa, OK: Taylor ](https://www.notarydepot.com/hamm)
   - [Notary Public in Lake Elsinore, CA: nadia g tavakkoli](https://www.notarydepot.com/hamnad)
   - [Notary Public in Beaumont, TX: Hana Hamilton](https://www.notarydepot.com/hanahamilton95)
@@ -8397,4 +8398,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-09-24T03:25:02Z
+Updated at 2019-09-24T03:45:02Z
