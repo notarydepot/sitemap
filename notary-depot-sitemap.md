@@ -2407,6 +2407,7 @@
   - [Notary Public in Waterloo, IL: Andrea Grubb](https://www.notarydepot.com/acgchase)
   - [Notary Public in Morristown, TN: Alicia Cirino](https://www.notarydepot.com/acirino202)
   - [Notary Public in Phelan, CA: Alexiss Jones](https://www.notarydepot.com/acjceo)
+  - [Notary Public in Antioch, CA: Jeffrey Clark](https://www.notarydepot.com/acmenotary)
   - [Notary Public in Phoenix, AZ: Anthony Moreno](https://www.notarydepot.com/acm_notary)
   - [Notary Public in Citrus Heights, CA: Alicia Crump](https://www.notarydepot.com/acrump)
   - [Notary Public in Lillian, AL: Debbie Martin Johnson](https://www.notarydepot.com/acsgirl57)
@@ -8403,4 +8404,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-09-25T22:25:02Z
+Updated at 2019-09-25T22:45:02Z
