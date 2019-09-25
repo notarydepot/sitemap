@@ -129,6 +129,7 @@
     - [Notary Public in North Little Rock, AR](https://www.notarydepot.com/notary-near-me/Arkansas/North-Little-Rock)
     - [Notary Public in Pangburn, AR](https://www.notarydepot.com/notary-near-me/Arkansas/Pangburn)
     - [Notary Public in Pea Ridge, AR](https://www.notarydepot.com/notary-near-me/Arkansas/Pea-Ridge)
+    - [Notary Public in Redfield, AR](https://www.notarydepot.com/notary-near-me/Arkansas/Redfield)
     - [Notary Public in Rogers, AR](https://www.notarydepot.com/notary-near-me/Arkansas/Rogers)
     - [Notary Public in Russellville, AR](https://www.notarydepot.com/notary-near-me/Arkansas/Russellville)
     - [Notary Public in Siloam Springs, AR](https://www.notarydepot.com/notary-near-me/Arkansas/Siloam-Springs)
@@ -2949,6 +2950,7 @@
   - [Notary Public in Hesperia, CA: Brenda West](https://www.notarydepot.com/brendawest)
   - [Notary Public in Vacaville, CA: Brenda Green](https://www.notarydepot.com/brengreen)
   - [Notary Public in Mountlake Terrace, WA: Brenmor Mobile Notary](https://www.notarydepot.com/brenmor)
+  - [Notary Public in Redfield, AR: Breonna Coleman](https://www.notarydepot.com/brethenotary)
   - [Notary Public in Mandeville, LA: Brian J. Rhinehart](https://www.notarydepot.com/brhineha)
   - [Notary Public in Fort Worth, TX: Brian Hedger](https://www.notarydepot.com/brian)
   - [Notary Public in Surprise, AZ: Brian Lameira](https://www.notarydepot.com/brian62)
@@ -8401,4 +8403,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-09-25T20:25:02Z
+Updated at 2019-09-25T20:45:01Z
