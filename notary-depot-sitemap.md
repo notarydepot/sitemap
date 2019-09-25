@@ -1630,6 +1630,7 @@
     - [Notary Public in Beachwood, OH](https://www.notarydepot.com/notary-near-me/Ohio/Beachwood)
     - [Notary Public in Bedford, OH](https://www.notarydepot.com/notary-near-me/Ohio/Bedford)
     - [Notary Public in Belpre, OH](https://www.notarydepot.com/notary-near-me/Ohio/Belpre)
+    - [Notary Public in Butler, OH](https://www.notarydepot.com/notary-near-me/Ohio/Butler)
     - [Notary Public in Canton, OH](https://www.notarydepot.com/notary-near-me/Ohio/Canton)
     - [Notary Public in Chandlersville, OH](https://www.notarydepot.com/notary-near-me/Ohio/Chandlersville)
     - [Notary Public in Cincinnati, OH](https://www.notarydepot.com/notary-near-me/Ohio/Cincinnati)
@@ -6934,6 +6935,7 @@
   - [Notary Public in Charles Town, WV: Shirley Harris](https://www.notarydepot.com/shirley4982)
   - [Notary Public in Lake Charles, LA: Shirley Gutierrez](https://www.notarydepot.com/shirleyg47)
   - [Notary Public in Orlando, FL: Shontell Murphy](https://www.notarydepot.com/shontell)
+  - [Notary Public in Butler, OH: Jan Short](https://www.notarydepot.com/shortnote)
   - [Notary Public in Gilbert, AZ: Shoshana Roller](https://www.notarydepot.com/shoshana)
   - [Notary Public in Blairsville, GA: Craig Foucha](https://www.notarydepot.com/shoshone4819)
   - [Notary Public in Thompson, MO: Sharon Dollens](https://www.notarydepot.com/showme)
@@ -8399,4 +8401,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-09-25T17:25:02Z
+Updated at 2019-09-25T17:45:02Z
