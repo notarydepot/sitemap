@@ -4741,7 +4741,6 @@
   - [Notary Public in Salem, OR: Julie Davis](https://www.notarydepot.com/julied)
   - [Notary Public in Redwood City, CA: Julie Daciuk](https://www.notarydepot.com/juliednotary)
   - [Notary Public in Perris, CA: Julie Jones](https://www.notarydepot.com/juliej)
-  - [Notary Public in Los Angeles, CA: Julie Rice](https://www.notarydepot.com/julierice)
   - [Notary Public in Spring Valley, CA: Julie Salvato](https://www.notarydepot.com/juliesalvato)
   - [Notary Public in Conyers, GA: Julie S Strane](https://www.notarydepot.com/juliestrane)
   - [Notary Public in Los Angeles, CA: Eric Andrist](https://www.notarydepot.com/july1962)
@@ -8404,4 +8403,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-09-26T03:45:02Z
+Updated at 2019-09-26T04:05:02Z
