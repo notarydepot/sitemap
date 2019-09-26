@@ -5790,6 +5790,7 @@
   - [Notary Public in Chicago, IL: Abigail](https://www.notarydepot.com/msabbyb)
   - [Notary Public in Streetsboro, OH: Mary Saks](https://www.notarydepot.com/msaks61)
   - [Notary Public in Los Angeles, CA: Yvonne Key](https://www.notarydepot.com/msbelle51)
+  - [Notary Public in Jersey City, NJ: Earthie Daniels-Franklin](https://www.notarydepot.com/msbuddacup)
   - [Notary Public in Portsmouth, VA: Delores Shepherd](https://www.notarydepot.com/mscab1099)
   - [Notary Public in Country Club Hills, IL: Shirley Reynolds](https://www.notarydepot.com/msdamars2001)
   - [Notary Public in Anaheim, CA: Natalie Draffen](https://www.notarydepot.com/msdraffen)
@@ -8403,4 +8404,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-09-26T06:25:02Z
+Updated at 2019-09-26T06:45:01Z
