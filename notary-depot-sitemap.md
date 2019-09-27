@@ -436,6 +436,7 @@
     - [Notary Public in South El Monte, CA](https://www.notarydepot.com/notary-near-me/California/South-El-Monte)
     - [Notary Public in South Gate, CA](https://www.notarydepot.com/notary-near-me/California/South-Gate)
     - [Notary Public in South Lake Tahoe, CA](https://www.notarydepot.com/notary-near-me/California/South-Lake-Tahoe)
+    - [Notary Public in South San Francisco, CA](https://www.notarydepot.com/notary-near-me/California/South-San-Francisco)
     - [Notary Public in Spring Valley, CA](https://www.notarydepot.com/notary-near-me/California/Spring-Valley)
     - [Notary Public in Stockton, CA](https://www.notarydepot.com/notary-near-me/California/Stockton)
     - [Notary Public in Suisun City, CA](https://www.notarydepot.com/notary-near-me/California/Suisun-City)
@@ -3818,6 +3819,7 @@
   - [Notary Public in Baytown, TX: Elon Green](https://www.notarydepot.com/ellie7991)
   - [Notary Public in Aguanga, CA: E. Louise Ceccarelli](https://www.notarydepot.com/elouisec)
   - [Notary Public in Holly, MI: Erika Pezold](https://www.notarydepot.com/elp1234)
+  - [Notary Public in South San Francisco, CA: ELSIE ELIAS](https://www.notarydepot.com/elsieelias89)
   - [Notary Public in Tustin, CA: Liz Bissell](https://www.notarydepot.com/elzbthn1)
   - [Notary Public in Islamorada, FL: P. Lindsay Prayne-Zuluaga](https://www.notarydepot.com/elzulu)
   - [Notary Public in Kansas City, MO: L. Denise Thomas](https://www.notarydepot.com/emahni88)
@@ -8405,4 +8407,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-09-27T17:25:02Z
+Updated at 2019-09-27T17:45:02Z
