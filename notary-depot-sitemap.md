@@ -2960,6 +2960,7 @@
   - [Notary Public in Fairburn, GA: Georgia Attorney Closers](https://www.notarydepot.com/briandpoe)
   - [Notary Public in Tavares, FL: Brian Gruss](https://www.notarydepot.com/briangruss)
   - [Notary Public in Miami, FL: brickell notary](https://www.notarydepot.com/brickell_notary)
+  - [Notary Public in Arlington, TX: Bridgemark Point](https://www.notarydepot.com/bridgemarkpoint)
   - [Notary Public in North Port, FL: Bridget Bergeron](https://www.notarydepot.com/bridget50)
   - [Notary Public in Palmdale, CA: Bridgett Jones](https://www.notarydepot.com/bridgettsnotary)
   - [Notary Public in Ruskin, FL: Brigitte Roberts](https://www.notarydepot.com/brigitte7)
@@ -8409,4 +8410,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-09-30T16:45:02Z
+Updated at 2019-09-30T17:05:03Z
