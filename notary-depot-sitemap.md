@@ -876,6 +876,7 @@
     - [Notary Public in Oak Lawn, IL](https://www.notarydepot.com/notary-near-me/Illinois/Oak-Lawn)
     - [Notary Public in Oak Park, IL](https://www.notarydepot.com/notary-near-me/Illinois/Oak-Park)
     - [Notary Public in Orland Park, IL](https://www.notarydepot.com/notary-near-me/Illinois/Orland-Park)
+    - [Notary Public in Paris, IL](https://www.notarydepot.com/notary-near-me/Illinois/Paris)
     - [Notary Public in Park Ridge, IL](https://www.notarydepot.com/notary-near-me/Illinois/Park-Ridge)
     - [Notary Public in Paxton, IL](https://www.notarydepot.com/notary-near-me/Illinois/Paxton)
     - [Notary Public in Peoria, IL](https://www.notarydepot.com/notary-near-me/Illinois/Peoria)
@@ -3819,6 +3820,7 @@
   - [Notary Public in Gig Harbor, WA: Ellen Metsker](https://www.notarydepot.com/ellenmetsker)
   - [Notary Public in Oakland, CA: Ellen Aronowitz](https://www.notarydepot.com/ellenthenotary)
   - [Notary Public in Baytown, TX: Elon Green](https://www.notarydepot.com/ellie7991)
+  - [Notary Public in Paris, IL: Ellyn Andrews](https://www.notarydepot.com/ellynandrews)
   - [Notary Public in Aguanga, CA: E. Louise Ceccarelli](https://www.notarydepot.com/elouisec)
   - [Notary Public in Holly, MI: Erika Pezold](https://www.notarydepot.com/elp1234)
   - [Notary Public in South San Francisco, CA: ELSIE ELIAS](https://www.notarydepot.com/elsieelias89)
@@ -8412,4 +8414,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-01T00:05:02Z
+Updated at 2019-10-01T00:25:02Z
