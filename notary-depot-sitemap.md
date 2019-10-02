@@ -1030,6 +1030,7 @@
     - [Notary Public in Bangor, ME](https://www.notarydepot.com/notary-near-me/Maine/Bangor)
     - [Notary Public in Boothbay Harbor, ME](https://www.notarydepot.com/notary-near-me/Maine/Boothbay-Harbor)
     - [Notary Public in Brewer, ME](https://www.notarydepot.com/notary-near-me/Maine/Brewer)
+    - [Notary Public in Brunswick, ME](https://www.notarydepot.com/notary-near-me/Maine/Brunswick)
     - [Notary Public in Limington, ME](https://www.notarydepot.com/notary-near-me/Maine/Limington)
     - [Notary Public in North Berwick, ME](https://www.notarydepot.com/notary-near-me/Maine/North-Berwick)
     - [Notary Public in Saco, ME](https://www.notarydepot.com/notary-near-me/Maine/Saco)
@@ -4944,6 +4945,7 @@
   - [Notary Public in Santa Ynez, CA: Catherine (Kitty) Sorensen](https://www.notarydepot.com/kitty)
   - [Notary Public in Bedford, TX: Yale Kitupa](https://www.notarydepot.com/kitupayale)
   - [Notary Public in Vallejo, CA: Kizze Harris](https://www.notarydepot.com/kizze)
+  - [Notary Public in Brunswick, ME: Kelly Hanlin](https://www.notarydepot.com/kjhanlin)
   - [Notary Public in Elizabeth, NJ: Kevin Hyman](https://www.notarydepot.com/kjhyman24)
   - [Notary Public in Portland, OR: Kathryn J. Bradley](https://www.notarydepot.com/kjkb)
   - [Notary Public in Fort Worth, TX: Kasey Warren](https://www.notarydepot.com/kjwarren)
@@ -8415,4 +8417,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-02T20:45:02Z
+Updated at 2019-10-02T21:05:02Z
