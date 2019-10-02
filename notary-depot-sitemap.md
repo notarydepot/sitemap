@@ -7172,6 +7172,7 @@
   - [Notary Public in Albany, OR: Dave Reddington](https://www.notarydepot.com/store3044)
   - [Notary Public in Chester, NJ: The Ups Store](https://www.notarydepot.com/store5497)
   - [Notary Public in Lodi, CA: Don Parker](https://www.notarydepot.com/store5901)
+  - [Notary Public in Ramona, CA: Alicia Storm](https://www.notarydepot.com/stormnotary)
   - [Notary Public in Lillian, AL: Stormi P. Stallings](https://www.notarydepot.com/stormski)
   - [Notary Public in Pahrump, NV: Rhonda Stout](https://www.notarydepot.com/stout_nv2)
   - [Notary Public in Toledo, OH: Sheri Galloway](https://www.notarydepot.com/strictlybusiness)
@@ -8413,4 +8414,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-02T06:25:02Z
+Updated at 2019-10-02T06:45:03Z
