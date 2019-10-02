@@ -6457,6 +6457,7 @@
   - [Notary Public in Rock Hill, SC: Vashti Encarnacion](https://www.notarydepot.com/queenvashti)
   - [Notary Public in Arcadia, CA: Craig Naylor](https://www.notarydepot.com/quickdocs)
   - [Notary Public in Greensburg, PA: Robert Nowlin](https://www.notarydepot.com/quicksigners)
+  - [Notary Public in Eagle Point, OR: Debra Eggleston](https://www.notarydepot.com/quigley1966)
   - [Notary Public in Saint Paul, MN: Joseph P. Kelly](https://www.notarydepot.com/quillnotary)
   - [Notary Public in Pasadena, CA: Kim Quintana ](https://www.notarydepot.com/quintanamns)
   - [Notary Public in Winter Springs, FL: Nequisha Stuckey](https://www.notarydepot.com/quishafla)
@@ -8414,4 +8415,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-02T02:05:02Z
+Updated at 2019-10-02T02:25:02Z
