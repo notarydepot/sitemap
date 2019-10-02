@@ -6054,6 +6054,7 @@
   - [Notary Public in Park Ridge, IL: Shawn Tolu](https://www.notarydepot.com/notaryexpress)
   - [Notary Public in Jacksonville, FL: Rebecca Staples](https://www.notarydepot.com/notaryfast)
   - [Notary Public in Los Angeles, CA: Susanna Turner](https://www.notarydepot.com/notaryforall)
+  - [Notary Public in Buckeye, AZ: oyeen](https://www.notarydepot.com/notaryforyoutrue)
   - [Notary Public in High Point, NC: Frank Modica (10 yrs experience!)](https://www.notarydepot.com/notaryfrank)
   - [Notary Public in Winston-Salem, NC: Frank Modica (over 10yrs experience!)](https://www.notarydepot.com/notaryfrankws)
   - [Notary Public in Longview, WA: Teresa Spain](https://www.notarydepot.com/notarygal1)
@@ -8414,4 +8415,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-02T16:25:01Z
+Updated at 2019-10-02T16:45:02Z
