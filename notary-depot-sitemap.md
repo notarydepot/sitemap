@@ -5157,7 +5157,6 @@
   - [Notary Public in Fort Myers, FL: Leonard J Kozel](https://www.notarydepot.com/lennyk)
   - [Notary Public in Bolingbrook, IL: Lenora Hunt](https://www.notarydepot.com/lenora3)
   - [Notary Public in Davenport, WA: Lenora](https://www.notarydepot.com/lenoracooper)
-  - [Notary Public in Boca Raton, FL: Leonard Shapiro ](https://www.notarydepot.com/leonard36)
   - [Notary Public in Corpus Christi, TX: Leo Rios](https://www.notarydepot.com/leorios)
   - [Notary Public in Ann Arbor, MI: LeQuana Robinson](https://www.notarydepot.com/lequana)
   - [Notary Public in Country Club Hills, IL: Thelesa Stephenson](https://www.notarydepot.com/lesastep34)
@@ -8415,4 +8414,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-02T03:25:02Z
+Updated at 2019-10-02T03:45:01Z
