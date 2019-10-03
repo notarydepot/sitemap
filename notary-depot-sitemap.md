@@ -2641,6 +2641,7 @@
   - [Notary Public in Madison, MS: Anthony Stewart ](https://www.notarydepot.com/antey123)
   - [Notary Public in Costa Mesa, CA: Anthony Rojo](https://www.notarydepot.com/anthonyrojo)
   - [Notary Public in Jonesboro, GA: Angeline Williams](https://www.notarydepot.com/anwilliams)
+  - [Notary Public in Ramona, CA: Sue Baker](https://www.notarydepot.com/anytimenotary)
   - [Notary Public in Bradenton, FL: Amanda Ortega](https://www.notarydepot.com/aortega1)
   - [Notary Public in Albuquerque, NM: Matt Powell](https://www.notarydepot.com/ap7notary)
   - [Notary Public in Benicia, CA: Amanda Pangelina](https://www.notarydepot.com/apangelina)
@@ -8417,4 +8418,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-03T01:25:02Z
+Updated at 2019-10-03T01:45:02Z
