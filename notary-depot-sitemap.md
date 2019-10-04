@@ -4537,6 +4537,7 @@
   - [Notary Public in Anaheim, CA: Jessica R. Levine](https://www.notarydepot.com/jessicka5)
   - [Notary Public in Lancaster, CA: Wanda Smith](https://www.notarydepot.com/jessiess)
   - [Notary Public in Fort Wayne, IN: Jessica Baker](https://www.notarydepot.com/jesskbaker)
+  - [Notary Public in Beaumont, TX: Jessica Wilson](https://www.notarydepot.com/jesswlsn)
   - [Notary Public in Calexico, CA: Jesus Alanis](https://www.notarydepot.com/jesusalan)
   - [Notary Public in Tucson, AZ: Jay Barker](https://www.notarydepot.com/jetson)
   - [Notary Public in Rochester, NY: Julie B. Vella](https://www.notarydepot.com/jewelsb)
@@ -8424,4 +8425,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-04T22:05:03Z
+Updated at 2019-10-04T22:25:02Z
