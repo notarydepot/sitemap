@@ -398,6 +398,7 @@
     - [Notary Public in San Dimas, CA](https://www.notarydepot.com/notary-near-me/California/San-Dimas)
     - [Notary Public in San Fernando, CA](https://www.notarydepot.com/notary-near-me/California/San-Fernando)
     - [Notary Public in San Francisco, CA](https://www.notarydepot.com/notary-near-me/California/San-Francisco)
+    - [Notary Public in San Gabriel, CA](https://www.notarydepot.com/notary-near-me/California/San-Gabriel)
     - [Notary Public in San Jacinto, CA](https://www.notarydepot.com/notary-near-me/California/San-Jacinto)
     - [Notary Public in San Jose, CA](https://www.notarydepot.com/notary-near-me/California/San-Jose)
     - [Notary Public in San Juan Capistrano, CA](https://www.notarydepot.com/notary-near-me/California/San-Juan-Capistrano)
@@ -3079,6 +3080,7 @@
   - [Notary Public in Cuyahoga Falls, OH: Catherine A. Bertoldi](https://www.notarydepot.com/catbrtld)
   - [Notary Public in Plano, TX: Catherine Basile](https://www.notarydepot.com/cathieb)
   - [Notary Public in Wills Point, TX: Cathi Woods](https://www.notarydepot.com/cathiwoods)
+  - [Notary Public in San Gabriel, CA: Cathleen Mendoza](https://www.notarydepot.com/cathleennotary)
   - [Notary Public in Lewiston, ID: Cathy D Choate](https://www.notarydepot.com/cathydcid)
   - [Notary Public in Martinez, CA: Cathy Jenkins](https://www.notarydepot.com/cathyjenkins)
   - [Notary Public in San Diego, CA: Cathy Kirchner](https://www.notarydepot.com/cathyk)
@@ -8418,4 +8420,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-04T00:25:02Z
+Updated at 2019-10-04T00:45:02Z
