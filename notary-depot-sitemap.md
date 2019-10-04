@@ -4245,6 +4245,7 @@
   - [Notary Public in Lake Havasu City, AZ: Holly Skelton](https://www.notarydepot.com/hollyskelton)
   - [Notary Public in Price, UT: Shawna M Popejoy](https://www.notarydepot.com/holynotary)
   - [Notary Public in Washington, IN: Thomas Doyle](https://www.notarydepot.com/hoosieracc)
+  - [Notary Public in Rock Hill, SC: Tashica Thompson](https://www.notarydepot.com/hope)
   - [Notary Public in Belleville, IL: Hope Money](https://www.notarydepot.com/hopetm)
   - [Notary Public in Palm Harbor, FL: John Daniel Manning](https://www.notarydepot.com/hospstwd)
   - [Notary Public in Aurora, CO: Wayne R Morris](https://www.notarydepot.com/housecallsltd)
@@ -8420,4 +8421,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-04T04:05:02Z
+Updated at 2019-10-04T04:25:02Z
