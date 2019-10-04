@@ -1070,6 +1070,7 @@
     - [Notary Public in Hagerstown, MD](https://www.notarydepot.com/notary-near-me/Maryland/Hagerstown)
     - [Notary Public in Huntingtown, MD](https://www.notarydepot.com/notary-near-me/Maryland/Huntingtown)
     - [Notary Public in Hyattsville, MD](https://www.notarydepot.com/notary-near-me/Maryland/Hyattsville)
+    - [Notary Public in Lanham, MD](https://www.notarydepot.com/notary-near-me/Maryland/Lanham)
     - [Notary Public in Marlow Heights, MD](https://www.notarydepot.com/notary-near-me/Maryland/Marlow-Heights)
     - [Notary Public in Middle River, MD](https://www.notarydepot.com/notary-near-me/Maryland/Middle-River)
     - [Notary Public in North East, MD](https://www.notarydepot.com/notary-near-me/Maryland/North-East)
@@ -5869,6 +5870,7 @@
   - [Notary Public in Ruskin, FL: Jessica Robinson](https://www.notarydepot.com/mzrobinson07)
   - [Notary Public in Parker, CO: Christina Manalastas](https://www.notarydepot.com/n1namar13)
   - [Notary Public in Hollister, CA: Nadine Davis](https://www.notarydepot.com/nadinenotary)
+  - [Notary Public in Lanham, MD: Nailah John](https://www.notarydepot.com/nailahjohn)
   - [Notary Public in Alpharetta, GA: Najhia Butler](https://www.notarydepot.com/najhiab)
   - [Notary Public in Arab, AL: James C. Martin](https://www.notarydepot.com/nalabamanotary)
   - [Notary Public in Marietta, GA: Nichole Alexander](https://www.notarydepot.com/nalex1999)
@@ -8421,4 +8423,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-04T18:25:02Z
+Updated at 2019-10-04T18:45:02Z
