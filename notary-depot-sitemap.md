@@ -3352,6 +3352,7 @@
   - [Notary Public in Killeen, TX: Cynthia Smalls](https://www.notarydepot.com/csmallsnotary)
   - [Notary Public in San Jose, CA: Cheryl Staat](https://www.notarydepot.com/cstaat)
   - [Notary Public in Moreno Valley, CA: Charles G. Steinway](https://www.notarydepot.com/csteinway)
+  - [Notary Public in Richardson, TX: Jeanne](https://www.notarydepot.com/cstephens96)
   - [Notary Public in Hinsdale, IL: Cassandra Stovall](https://www.notarydepot.com/cstoval2)
   - [Notary Public in Kansas City, MO: Cynthia](https://www.notarydepot.com/cstrapac)
   - [Notary Public in Costa Mesa, CA: Catherine M. Patel](https://www.notarydepot.com/cthryn)
@@ -8423,4 +8424,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-04T19:25:03Z
+Updated at 2019-10-04T19:45:02Z
