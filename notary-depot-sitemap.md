@@ -2819,7 +2819,7 @@
   - [Notary Public in Henderson, NV: Expedient Signing Services](https://www.notarydepot.com/bellesinc1)
   - [Notary Public in Belen, NM: Pamela Brownlee](https://www.notarydepot.com/belovedelf)
   - [Notary Public in New Haven, CT: Benjamin Greene](https://www.notarydepot.com/bengreene53)
-  - [Notary Public in North Charleston, SC: Benita Bradley](https://www.notarydepot.com/benitabradley)
+  - [Notary Public in Ladson, SC: Benita Bradley](https://www.notarydepot.com/benitabradley)
   - [Notary Public in Troy, MO: Benita K. Cottrell](https://www.notarydepot.com/benitakay)
   - [Notary Public in Eugene, OR: Todd Bennett](https://www.notarydepot.com/bennetttodd)
   - [Notary Public in Appleton, WI: Tony Lange](https://www.notarydepot.com/beontime)
@@ -8421,4 +8421,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-04T13:05:02Z
+Updated at 2019-10-04T13:25:02Z
