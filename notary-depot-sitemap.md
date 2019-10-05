@@ -7366,6 +7366,7 @@
   - [Notary Public in Fort Knox, KY: Heather Dougherty](https://www.notarydepot.com/thkc4)
   - [Notary Public in Temecula, CA: Theresa H. Minder](https://www.notarydepot.com/thm0759)
   - [Notary Public in Clarendon, NC: Angela Thompson](https://www.notarydepot.com/thopson7285)
+  - [Notary Public in Houston, TX: Jaime Thomas](https://www.notarydepot.com/thr4ve)
   - [Notary Public in Roxboro, NC: Tiffany Yarboro](https://www.notarydepot.com/threewingedfury)
   - [Notary Public in Philadelphia, PA: Shirley Thrower](https://www.notarydepot.com/throwers)
   - [Notary Public in Duarte, CA: Thushari S Fernando](https://www.notarydepot.com/thush75)
@@ -8425,4 +8426,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-05T15:25:03Z
+Updated at 2019-10-05T15:45:02Z
