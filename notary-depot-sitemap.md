@@ -4041,7 +4041,6 @@
   - [Notary Public in Winters, CA: Genene Restivo](https://www.notarydepot.com/gencal)
   - [Notary Public in Rockville, MD: Victoria Harrison](https://www.notarydepot.com/genkichan)
   - [Notary Public in Los Angeles, CA: Genna Walsh](https://www.notarydepot.com/gennamwalsh)
-  - [Notary Public in Eugene, OR: Leah](https://www.notarydepot.com/geonotary)
   - [Notary Public in Washington, DC: Maurice Brown](https://www.notarydepot.com/georgetownnotarydc)
   - [Notary Public in Lithonia, GA: Bridgette Wilson Darden](https://www.notarydepot.com/georgianotary)
   - [Notary Public in Lawrenceville, GA: Tanya Young](https://www.notarydepot.com/georgiasoul)
@@ -5138,6 +5137,7 @@
   - [Notary Public in Antioch, CA: Lillian Dubon](https://www.notarydepot.com/ldubon)
   - [Notary Public in Fargo, ND: Lana Feeley](https://www.notarydepot.com/lduffey)
   - [Notary Public in New York, NY: Leah Woods](https://www.notarydepot.com/leah3036)
+  - [Notary Public in Eugene, OR: Leah](https://www.notarydepot.com/leahnotary)
   - [Notary Public in Collinsville, MS: Leandra C. Marable](https://www.notarydepot.com/leandra)
   - [Notary Public in Tulsa, OK: Rebeka L Smith](https://www.notarydepot.com/leannsmith)
   - [Notary Public in Hillside, NJ: Lemard](https://www.notarydepot.com/leclarke)
@@ -8425,4 +8425,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-05T14:25:02Z
+Updated at 2019-10-05T14:45:03Z
