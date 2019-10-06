@@ -2328,6 +2328,7 @@
     - [Notary Public in Wilson, WY](https://www.notarydepot.com/notary-near-me/Wyoming/Wilson)
 - Notary Near Me Profiles
   - [Notary Public in McAllen, TX: Angelina Lopez](https://www.notarydepot.com/021691lopez)
+  - [Notary Public in New Port Richey, FL: Katlen Bobchev](https://www.notarydepot.com/123katlen)
   - [Notary Public in Williamstown, KY: Stephen D Brock](https://www.notarydepot.com/123stephend)
   - [Notary Public in Houston, TX: Uzma Khan](https://www.notarydepot.com/12uzma)
   - [Notary Public in Weatherford, TX: Sid Johnson](https://www.notarydepot.com/134cppm)
@@ -8426,4 +8427,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-06T19:45:02Z
+Updated at 2019-10-06T20:05:02Z
