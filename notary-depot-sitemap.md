@@ -881,6 +881,7 @@
     - [Notary Public in Park Ridge, IL](https://www.notarydepot.com/notary-near-me/Illinois/Park-Ridge)
     - [Notary Public in Paxton, IL](https://www.notarydepot.com/notary-near-me/Illinois/Paxton)
     - [Notary Public in Peoria, IL](https://www.notarydepot.com/notary-near-me/Illinois/Peoria)
+    - [Notary Public in Plainfield, IL](https://www.notarydepot.com/notary-near-me/Illinois/Plainfield)
     - [Notary Public in Princeton, IL](https://www.notarydepot.com/notary-near-me/Illinois/Princeton)
     - [Notary Public in Romeoville, IL](https://www.notarydepot.com/notary-near-me/Illinois/Romeoville)
     - [Notary Public in Sheridan, IL](https://www.notarydepot.com/notary-near-me/Illinois/Sheridan)
@@ -5674,6 +5675,7 @@
   - [Notary Public in Orinda, CA: Mark Likos](https://www.notarydepot.com/mlikos)
   - [Notary Public in El Centro, CA: Maria Munoz](https://www.notarydepot.com/mlizarrag)
   - [Notary Public in Beverly Hills, CA: Maribel Llorens](https://www.notarydepot.com/mllorens)
+  - [Notary Public in Plainfield, IL: Michelle MCGUIRE Ramirez ](https://www.notarydepot.com/mlmr27)
   - [Notary Public in Rancho Santa Margarita, CA: Maimu Lindquist](https://www.notarydepot.com/mlnotaryservices)
   - [Notary Public in Hermiston, OR: Mary Robinson](https://www.notarydepot.com/mlrakamom)
   - [Notary Public in Lake Forest, CA: Michael Silva](https://www.notarydepot.com/mlsnotary)
@@ -8427,4 +8429,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-07T15:25:02Z
+Updated at 2019-10-07T15:45:01Z
