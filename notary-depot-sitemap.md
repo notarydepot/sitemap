@@ -881,7 +881,6 @@
     - [Notary Public in Park Ridge, IL](https://www.notarydepot.com/notary-near-me/Illinois/Park-Ridge)
     - [Notary Public in Paxton, IL](https://www.notarydepot.com/notary-near-me/Illinois/Paxton)
     - [Notary Public in Peoria, IL](https://www.notarydepot.com/notary-near-me/Illinois/Peoria)
-    - [Notary Public in Plainfield, IL](https://www.notarydepot.com/notary-near-me/Illinois/Plainfield)
     - [Notary Public in Princeton, IL](https://www.notarydepot.com/notary-near-me/Illinois/Princeton)
     - [Notary Public in Romeoville, IL](https://www.notarydepot.com/notary-near-me/Illinois/Romeoville)
     - [Notary Public in Sheridan, IL](https://www.notarydepot.com/notary-near-me/Illinois/Sheridan)
@@ -1411,7 +1410,6 @@
     - [Notary Public in Sicklerville, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Sicklerville)
     - [Notary Public in South Orange, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/South-Orange)
     - [Notary Public in South River, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/South-River)
-    - [Notary Public in Summit, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Summit)
     - [Notary Public in Tenafly, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Tenafly)
     - [Notary Public in Toms River, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Toms-River)
     - [Notary Public in Trenton, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Trenton)
@@ -1792,6 +1790,7 @@
     - [Notary Public in Harrisburg, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Harrisburg)
     - [Notary Public in Hatfield, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Hatfield)
     - [Notary Public in Hazleton, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Hazleton)
+    - [Notary Public in Hellertown, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Hellertown)
     - [Notary Public in Holtwood, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Holtwood)
     - [Notary Public in Homer City, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Homer-City)
     - [Notary Public in Irwin, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Irwin)
@@ -5675,7 +5674,6 @@
   - [Notary Public in Orinda, CA: Mark Likos](https://www.notarydepot.com/mlikos)
   - [Notary Public in El Centro, CA: Maria Munoz](https://www.notarydepot.com/mlizarrag)
   - [Notary Public in Beverly Hills, CA: Maribel Llorens](https://www.notarydepot.com/mllorens)
-  - [Notary Public in Plainfield, IL: Michelle MCGUIRE Ramirez ](https://www.notarydepot.com/mlmr27)
   - [Notary Public in Rancho Santa Margarita, CA: Maimu Lindquist](https://www.notarydepot.com/mlnotaryservices)
   - [Notary Public in Hermiston, OR: Mary Robinson](https://www.notarydepot.com/mlrakamom)
   - [Notary Public in Lake Forest, CA: Michael Silva](https://www.notarydepot.com/mlsnotary)
@@ -7417,7 +7415,7 @@
   - [Notary Public in Stockbridge, GA: Tomira Rosser](https://www.notarydepot.com/tlrnotary)
   - [Notary Public in Hemet, CA: Teri Wilson](https://www.notarydepot.com/tlwmomof3)
   - [Notary Public in Franklin Lakes, NJ: Patricia](https://www.notarydepot.com/tmacdon552)
-  - [Notary Public in Summit, NJ: Teri R. Maco](https://www.notarydepot.com/tmaco)
+  - [Notary Public in Hellertown, PA: Teri R. Maco](https://www.notarydepot.com/tmaco)
   - [Notary Public in Nederland, TX: Terry Magouirk](https://www.notarydepot.com/tmagouirk)
   - [Notary Public in Mount Shasta, CA: Teresa Marlatt](https://www.notarydepot.com/tmarlatt)
   - [Notary Public in Miami, FL: Tanya M Melendez](https://www.notarydepot.com/tmarrisa)
@@ -8429,4 +8427,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-07T15:45:01Z
+Updated at 2019-10-07T16:05:02Z
