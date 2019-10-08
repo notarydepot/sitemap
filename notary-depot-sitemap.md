@@ -4306,6 +4306,7 @@
   - [Notary Public in Coral Springs, FL: Mitchell Rudin](https://www.notarydepot.com/insurancenotary)
   - [Notary Public in Colorado Springs, CO: Sandra issacs](https://www.notarydepot.com/integritydriven)
   - [Notary Public in Pittsburgh, PA: Charlean M. Jones](https://www.notarydepot.com/integritynotary)
+  - [Notary Public in Smithfield, VA: Theresa Anderson](https://www.notarydepot.com/integritysignings)
   - [Notary Public in Hesperia, CA: Gabriela Vasquez](https://www.notarydepot.com/intercrew48)
   - [Notary Public in Scottsdale, AZ: Yana Morford](https://www.notarydepot.com/intervolga)
   - [Notary Public in Spokane, WA: Gina Cozza](https://www.notarydepot.com/invizbiz)
@@ -8428,4 +8429,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-08T19:45:02Z
+Updated at 2019-10-08T20:05:02Z
