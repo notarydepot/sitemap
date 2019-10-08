@@ -3157,6 +3157,7 @@
   - [Notary Public in Bakersfield, CA: Charlotte McCaskill](https://www.notarydepot.com/charlottemcc)
   - [Notary Public in Fort Worth, TX: Charlotte B. Morris](https://www.notarydepot.com/charlottetx)
   - [Notary Public in Los Angeles, CA: Charmaine A. Groat](https://www.notarydepot.com/charmz67)
+  - [Notary Public in Waxhaw, NC: Chasity C Lee](https://www.notarydepot.com/chaschey)
   - [Notary Public in Pittsburg, CA: Sindy Hatch](https://www.notarydepot.com/chatch)
   - [Notary Public in Upper Darby, PA: Crystal Hatcher-Edwards](https://www.notarydepot.com/chatcheredwards)
   - [Notary Public in Chicago, IL: Phyllis](https://www.notarydepot.com/chathammobilenotary)
@@ -8427,4 +8428,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-08T17:25:02Z
+Updated at 2019-10-08T17:45:02Z
