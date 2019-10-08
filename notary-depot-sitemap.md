@@ -6713,6 +6713,7 @@
   - [Notary Public in Oaklyn, NJ: Richard Rocco](https://www.notarydepot.com/rr243600)
   - [Notary Public in Indianapolis, IN: Rhonda Byers](https://www.notarydepot.com/rrbyers)
   - [Notary Public in Wichita, KS: Richelle Roybal](https://www.notarydepot.com/rroybal)
+  - [Notary Public in Wichita, KS: Richelle](https://www.notarydepot.com/rrroybal)
   - [Notary Public in Grapevine, TX: Richard S. Bivins, JD](https://www.notarydepot.com/rsbivins)
   - [Notary Public in Terre Haute, IN: R. Scott Whittenburg](https://www.notarydepot.com/rscott)
   - [Notary Public in Los Angeles, CA: Rouana Dunbar](https://www.notarydepot.com/rsdnotary)
@@ -8429,4 +8430,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-08T21:25:02Z
+Updated at 2019-10-08T21:45:01Z
