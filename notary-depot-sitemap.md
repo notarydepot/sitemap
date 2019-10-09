@@ -5258,7 +5258,6 @@
   - [Notary Public in San Jose, CA: Lisa Bistrup](https://www.notarydepot.com/lmbistrup)
   - [Notary Public in Byram, MS: Linda Mccune](https://www.notarydepot.com/lmccune)
   - [Notary Public in Raleigh, NC: Lisa M. Dahlquist](https://www.notarydepot.com/lmdahlquist)
-  - [Notary Public in Battle Ground, WA: Lesley Metscher](https://www.notarydepot.com/lmetscher)
   - [Notary Public in Las Vegas, NV: Lisa M Gaglio](https://www.notarydepot.com/lmgsigningservices)
   - [Notary Public in Atascadero, CA: Linda Mintey](https://www.notarydepot.com/lmintey123)
   - [Notary Public in Fredericksburg, VA: Lisa Jackson](https://www.notarydepot.com/lmjackson73)
@@ -8430,4 +8429,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-09T02:05:02Z
+Updated at 2019-10-09T02:25:02Z
