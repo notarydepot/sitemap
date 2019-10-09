@@ -3659,6 +3659,7 @@
   - [Notary Public in Roseburg, OR: Michelle R. Spier](https://www.notarydepot.com/documentguru)
   - [Notary Public in Shreveport, LA: Audrey Patrice Russ](https://www.notarydepot.com/documentprep)
   - [Notary Public in Hollywood, FL: Michelle Young](https://www.notarydepot.com/dodda27)
+  - [Notary Public in St. Louis, MO: Betty](https://www.notarydepot.com/dogmomstl)
   - [Notary Public in Fontana, CA: Sabrina Gutierrez](https://www.notarydepot.com/dollfin1204)
   - [Notary Public in Orlando, FL: Domingo Vazquez](https://www.notarydepot.com/domingovazquez)
   - [Notary Public in Richmond, VA: Sylvia B. Jones](https://www.notarydepot.com/domono)
@@ -8429,4 +8430,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-09T04:25:02Z
+Updated at 2019-10-09T04:45:02Z
