@@ -2729,6 +2729,7 @@
   - [Notary Public in Lula, GA: Alyssa Vaughn](https://www.notarydepot.com/avaughn)
   - [Notary Public in Lathrop, CA: Angeles Velasco](https://www.notarydepot.com/avelasco)
   - [Notary Public in Manitowoc, WI: Jordan A Erdmann](https://www.notarydepot.com/aviator409)
+  - [Notary Public in Lake City, FL: Christina Vinson](https://www.notarydepot.com/avinsonnotary)
   - [Notary Public in Los Angeles, CA: Holly Brown](https://www.notarydepot.com/avirtuallymindfulassistant)
   - [Notary Public in Omaha, NE: Alicia M. Vogt-Rogers](https://www.notarydepot.com/avogtrogers)
   - [Notary Public in Rockwall, TX: Alyssa Wallace](https://www.notarydepot.com/awallace)
@@ -8430,4 +8431,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-10T00:45:02Z
+Updated at 2019-10-10T01:05:02Z
