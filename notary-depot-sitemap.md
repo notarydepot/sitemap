@@ -2559,6 +2559,7 @@
   - [Notary Public in Greensboro, NC: American Notary Solutions](https://www.notarydepot.com/americannotarysolutions)
   - [Notary Public in Fresno, CA: AnnMarie Hofer](https://www.notarydepot.com/amhofer)
   - [Notary Public in Fullerton, CA: Michael Amini](https://www.notarydepot.com/amini)
+  - [Notary Public in Parsippany-Troy Hills, NJ: Amira](https://www.notarydepot.com/amirawnotarygmailcom)
   - [Notary Public in Woodbridge Township, NJ: Amishi](https://www.notarydepot.com/amishiparikh)
   - [Notary Public in Ligonier, PA: Robert Amicone](https://www.notarydepot.com/amisports)
   - [Notary Public in Glen Burnie, MD: LaTrice ](https://www.notarydepot.com/amobilenotary)
@@ -8434,4 +8435,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-11T22:05:02Z
+Updated at 2019-10-11T22:25:02Z
