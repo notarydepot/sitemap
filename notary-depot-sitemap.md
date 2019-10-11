@@ -7619,6 +7619,7 @@
   - [Notary Public in Cleburne, TX: Vickie Tidwell](https://www.notarydepot.com/vicktidwell)
   - [Notary Public in Boston, MA: Victor Bishop](https://www.notarydepot.com/victorgbishop)
   - [Notary Public in Miami, FL: diana perez](https://www.notarydepot.com/victoria68)
+  - [Notary Public in Victorville, CA: Linda Walker](https://www.notarydepot.com/victorynotarymobile)
   - [Notary Public in Philadelphia, PA: Elizabeth Vidro](https://www.notarydepot.com/vidro1974)
   - [Notary Public in Jacksonville, FL: Victor Kharchenko](https://www.notarydepot.com/vikvikvik)
   - [Notary Public in Fort Lauderdale, FL: Patrick F Wilson](https://www.notarydepot.com/vipgroupservices)
@@ -8431,4 +8432,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-11T02:45:02Z
+Updated at 2019-10-11T03:05:02Z
