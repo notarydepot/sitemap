@@ -1394,6 +1394,7 @@
     - [Notary Public in Paterson, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Paterson)
     - [Notary Public in Pennsauken Township, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Pennsauken-Township)
     - [Notary Public in Phillipsburg, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Phillipsburg)
+    - [Notary Public in Piscataway, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Piscataway)
     - [Notary Public in Piscataway Township, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Piscataway-Township)
     - [Notary Public in Plainfield, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Plainfield)
     - [Notary Public in Point Pleasant Beach, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Point-Pleasant-Beach)
@@ -3457,6 +3458,7 @@
   - [Notary Public in Duluth, GA: Dawn Buford](https://www.notarydepot.com/dawnbuford)
   - [Notary Public in Spanaway, WA: Dawn Cassube](https://www.notarydepot.com/dawncassube)
   - [Notary Public in Manassas, VA: Dawn Davis](https://www.notarydepot.com/dawndavis)
+  - [Notary Public in Piscataway, NJ: Dawne](https://www.notarydepot.com/dawne)
   - [Notary Public in Fallbrook, CA: Dawn Grove](https://www.notarydepot.com/dawngrove)
   - [Notary Public in Egg Harbor Township, NJ: Dawn Baker](https://www.notarydepot.com/dawnh)
   - [Notary Public in Los Angeles, CA: Dawn the Notary](https://www.notarydepot.com/dawnthenotary)
@@ -8432,4 +8434,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-11T20:25:01Z
+Updated at 2019-10-11T20:45:02Z
