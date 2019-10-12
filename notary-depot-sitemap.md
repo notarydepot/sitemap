@@ -3170,6 +3170,7 @@
   - [Notary Public in Watsonville, CA: Christina Feige](https://www.notarydepot.com/checkmat)
   - [Notary Public in Victorville, CA: Rochelle Johnson](https://www.notarydepot.com/chellietee)
   - [Notary Public in North Las Vegas, NV: LaShavia Whatley](https://www.notarydepot.com/chemack)
+  - [Notary Public in Montgomery, AL: Cheryl Marie Henderson](https://www.notarydepot.com/chergrace)
   - [Notary Public in Warrenton, VA: Cherie Beatty](https://www.notarydepot.com/cherie)
   - [Notary Public in Santa Maria, CA: Cheryl Hoyopatubbi](https://www.notarydepot.com/cherihoyo)
   - [Notary Public in Greeley, CO: Cherilyn Clark](https://www.notarydepot.com/cherilyn)
@@ -8435,4 +8436,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-12T02:05:02Z
+Updated at 2019-10-12T02:25:03Z
