@@ -7343,6 +7343,7 @@
   - [Notary Public in Rochelle Park, NJ: Diane Nissen](https://www.notarydepot.com/thealexandritegroup)
   - [Notary Public in Mobile, AL: Carol Steele ](https://www.notarydepot.com/thebamanotary)
   - [Notary Public in Long Beach, CA: Ray Rothwell](https://www.notarydepot.com/thebeardednotary)
+  - [Notary Public in Moreno Valley, CA: Rita Bryan](https://www.notarydepot.com/thebestnotary)
   - [Notary Public in Philadelphia, PA: Tonya Respes](https://www.notarydepot.com/thebest_pa)
   - [Notary Public in Los Angeles, CA: Steve Snyder](https://www.notarydepot.com/thecloser101)
   - [Notary Public in St. Louis, MO: Leonard Hines](https://www.notarydepot.com/theeye)
@@ -8435,4 +8436,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-13T19:45:02Z
+Updated at 2019-10-13T20:05:02Z
