@@ -4744,6 +4744,7 @@
   - [Notary Public in Normal, IL: Janet Summers](https://www.notarydepot.com/jsummers66)
   - [Notary Public in Chesapeake, VA: Joyce Sutton](https://www.notarydepot.com/jsutton)
   - [Notary Public in Highland, CA: Jennifer R. Teames](https://www.notarydepot.com/jteames)
+  - [Notary Public in Charlotte, NC: JASMYNE HARDGE](https://www.notarydepot.com/jthardgemobilenotary)
   - [Notary Public in Phoenix, AZ: Jennifer Thistel](https://www.notarydepot.com/jthistel)
   - [Notary Public in Lake Saint Louis, MO: Jerry O Thompson](https://www.notarydepot.com/jthompson)
   - [Notary Public in East Stroudsburg, PA: Jennifer Valedofsky](https://www.notarydepot.com/jtvale)
@@ -8437,4 +8438,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-15T17:05:03Z
+Updated at 2019-10-15T17:25:03Z
