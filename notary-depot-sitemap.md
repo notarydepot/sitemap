@@ -2603,6 +2603,7 @@
   - [Notary Public in Aberdeen, MS: Angel Sawyer](https://www.notarydepot.com/angelsawyer33)
   - [Notary Public in Littlestown, PA: Angel A. Dunchack](https://www.notarydepot.com/angelsdream)
   - [Notary Public in Spring Hill, TN: Dorothy Wincenciak](https://www.notarydepot.com/angelsdw)
+  - [Notary Public in Snellville, GA: Angela Frazier](https://www.notarydepot.com/angie3830)
   - [Notary Public in Huntington Park, CA: Angelica Baker](https://www.notarydepot.com/angienotary)
   - [Notary Public in Miami, FL: Angela Bonilla](https://www.notarydepot.com/angieosita)
   - [Notary Public in Nacogdoches, TX: Angie Langley](https://www.notarydepot.com/angierlangley)
@@ -8436,4 +8437,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-15T12:25:02Z
+Updated at 2019-10-15T12:45:02Z
