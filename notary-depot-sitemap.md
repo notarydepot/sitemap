@@ -5390,6 +5390,7 @@
   - [Notary Public in West Babylon, NY: Margaret A. Barker](https://www.notarydepot.com/maggie628)
   - [Notary Public in Hoodsport, WA: Kosak Mobile Notary &amp; Loan Signing](https://www.notarydepot.com/maggiemae)
   - [Notary Public in Titusville, FL: Maggie Ostergard](https://www.notarydepot.com/maggieost2)
+  - [Notary Public in Titusville, FL: Maggie Ostergard](https://www.notarydepot.com/maggieost4428)
   - [Notary Public in DeLand, FL: Herbert L. Becker](https://www.notarydepot.com/magicweb)
   - [Notary Public in Shelbyville, TN: Janice Anderson](https://www.notarydepot.com/magnolia)
   - [Notary Public in Goose Creek, SC: Toshawnka T. Mahone](https://www.notarydepot.com/mahonenotary)
@@ -8438,4 +8439,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-16T16:25:02Z
+Updated at 2019-10-16T16:45:03Z
