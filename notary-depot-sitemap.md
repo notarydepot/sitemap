@@ -7675,6 +7675,7 @@
   - [Notary Public in Chicago, IL: Walter Juszczak](https://www.notarydepot.com/walterj)
   - [Notary Public in Waco, TX: Wanda J Green](https://www.notarydepot.com/wangreenyahoocom)
   - [Notary Public in Lancaster, CA: Wanda Smith](https://www.notarydepot.com/wansmobilenotary)
+  - [Notary Public in Union City, CA: Sukhvinder S Waraich](https://www.notarydepot.com/waraichnotary)
   - [Notary Public in Falls Church, VA: Mary E. Warren](https://www.notarydepot.com/warren1721)
   - [Notary Public in Wichita, KS: Stephanie Niedens](https://www.notarydepot.com/watchyousign)
   - [Notary Public in Fort Worth, TX: Marian Watson](https://www.notarydepot.com/watsonnotary)
@@ -8441,4 +8442,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-17T20:25:02Z
+Updated at 2019-10-17T20:45:03Z
