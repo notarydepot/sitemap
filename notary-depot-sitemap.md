@@ -716,6 +716,7 @@
     - [Notary Public in Starke, FL](https://www.notarydepot.com/notary-near-me/Florida/Starke)
     - [Notary Public in Stuart, FL](https://www.notarydepot.com/notary-near-me/Florida/Stuart)
     - [Notary Public in Sunny Isles Beach, FL](https://www.notarydepot.com/notary-near-me/Florida/Sunny-Isles-Beach)
+    - [Notary Public in Sunrise, FL](https://www.notarydepot.com/notary-near-me/Florida/Sunrise)
     - [Notary Public in Tallahassee, FL](https://www.notarydepot.com/notary-near-me/Florida/Tallahassee)
     - [Notary Public in Tampa, FL](https://www.notarydepot.com/notary-near-me/Florida/Tampa)
     - [Notary Public in Tarpon Springs, FL](https://www.notarydepot.com/notary-near-me/Florida/Tarpon-Springs)
@@ -6238,6 +6239,7 @@
   - [Notary Public in Ontario, CA: Andrea Ondatje](https://www.notarydepot.com/ondatjea)
   - [Notary Public in Washington, DC: OneSourceProcess](https://www.notarydepot.com/onesource784)
   - [Notary Public in La Palma, CA: Karla Garcia](https://www.notarydepot.com/onpointnotary)
+  - [Notary Public in Sunrise, FL: Trecia Lewis](https://www.notarydepot.com/onthego)
   - [Notary Public in Modesto, CA: Beverly Stokke](https://www.notarydepot.com/ontherunnotary)
   - [Notary Public in Dallas, TX: Donna Gibson](https://www.notarydepot.com/ontimemobilenotary)
   - [Notary Public in Conroe, TX: Simone Shelton](https://www.notarydepot.com/ontimetosign)
@@ -8439,4 +8441,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-17T14:05:02Z
+Updated at 2019-10-17T14:25:01Z
