@@ -7645,6 +7645,7 @@
   - [Notary Public in Asheville, NC: Vivian Gaddy](https://www.notarydepot.com/vjones1152)
   - [Notary Public in Pompano Beach, FL: Vera Silveri](https://www.notarydepot.com/vjsfla1)
   - [Notary Public in Camarillo, CA: Vivienne C. Lansdown](https://www.notarydepot.com/vlansdown)
+  - [Notary Public in Downey, CA: Elias](https://www.notarydepot.com/vlistener101)
   - [Notary Public in Snellville, GA: Vickie Edmond - Notary Public, Georgia](https://www.notarydepot.com/vlwx31)
   - [Notary Public in Bakersfield, CA: Veronica Mathis](https://www.notarydepot.com/vmathis)
   - [Notary Public in Norcross, GA: Valerie McQueen](https://www.notarydepot.com/vmcqueen)
@@ -8442,4 +8443,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-18T19:05:02Z
+Updated at 2019-10-18T19:25:02Z
