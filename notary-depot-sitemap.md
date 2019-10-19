@@ -4201,6 +4201,7 @@
   - [Notary Public in Cantonment, FL: Beverly Nichols](https://www.notarydepot.com/hcampers)
   - [Notary Public in Doerun, GA: Heidi Cannon](https://www.notarydepot.com/hcannonr)
   - [Notary Public in Cedar Park, TX: Carlene Foley](https://www.notarydepot.com/hcnotary)
+  - [Notary Public in Marietta, GA: Heidi Davies](https://www.notarydepot.com/hdavies)
   - [Notary Public in Idaho Falls, ID: Helen Guymon](https://www.notarydepot.com/hdservices)
   - [Notary Public in Spring Grove, PA: Teresa Klinedinst](https://www.notarydepot.com/hdvrod1)
   - [Notary Public in Cherry Hill, NJ: Dennis McGrath](https://www.notarydepot.com/headhntr)
@@ -8445,4 +8446,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-19T13:45:01Z
+Updated at 2019-10-19T14:05:02Z
