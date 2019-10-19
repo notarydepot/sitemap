@@ -1149,6 +1149,7 @@
     - [Notary Public in Holland, MI](https://www.notarydepot.com/notary-near-me/Michigan/Holland)
     - [Notary Public in Holly, MI](https://www.notarydepot.com/notary-near-me/Michigan/Holly)
     - [Notary Public in Hudsonville, MI](https://www.notarydepot.com/notary-near-me/Michigan/Hudsonville)
+    - [Notary Public in Huron Charter Township, MI](https://www.notarydepot.com/notary-near-me/Michigan/Huron-Charter-Township)
     - [Notary Public in Ionia, MI](https://www.notarydepot.com/notary-near-me/Michigan/Ionia)
     - [Notary Public in Jackson, MI](https://www.notarydepot.com/notary-near-me/Michigan/Jackson)
     - [Notary Public in Kalamazoo, MI](https://www.notarydepot.com/notary-near-me/Michigan/Kalamazoo)
@@ -6088,6 +6089,7 @@
   - [Notary Public in Richmond, VA: Alicia DiMartino](https://www.notarydepot.com/notarygo2)
   - [Notary Public in Kelso, WA: Destiny D Taylor](https://www.notarydepot.com/notarygrl1)
   - [Notary Public in Castro Valley, CA: Heather Boyce](https://www.notarydepot.com/notaryheatherb)
+  - [Notary Public in Huron Charter Township, MI: Shawn Samonek](https://www.notarydepot.com/notaryinmi)
   - [Notary Public in Carriere, MS: Alana Campo](https://www.notarydepot.com/notaryinmotionms)
   - [Notary Public in Union City, PA: Robin Amann](https://www.notarydepot.com/notaryinpa)
   - [Notary Public in Laguna Hills, CA: Lori Huber](https://www.notarydepot.com/notaryintheoc)
@@ -8447,4 +8449,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-19T17:45:01Z
+Updated at 2019-10-19T18:05:03Z
