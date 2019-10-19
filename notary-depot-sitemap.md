@@ -5510,6 +5510,7 @@
   - [Notary Public in Houston, TX: Micquel Wheat](https://www.notarydepot.com/mawheat)
   - [Notary Public in Oceanside, CA: Maximino John DelValle](https://www.notarydepot.com/maxandmichel)
   - [Notary Public in Sequim, WA: VCM](https://www.notarydepot.com/maxwelllegal)
+  - [Notary Public in Minneola, FL: James Mayo](https://www.notarydepot.com/mayonotarypro)
   - [Notary Public in Salt Lake City, UT: Matthew B Baugh](https://www.notarydepot.com/mbaugh)
   - [Notary Public in Wharton, TX: Marti Bennetsen](https://www.notarydepot.com/mbennetsen)
   - [Notary Public in Colchester, VT: Michael Bissonnette](https://www.notarydepot.com/mbissonnet)
@@ -8448,4 +8449,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-19T23:25:02Z
+Updated at 2019-10-19T23:45:02Z
