@@ -1784,6 +1784,7 @@
     - [Notary Public in Easton, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Easton)
     - [Notary Public in Erie, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Erie)
     - [Notary Public in Exton, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Exton)
+    - [Notary Public in Fairview Ferndale, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Fairview-Ferndale)
     - [Notary Public in Flinton, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Flinton)
     - [Notary Public in Glenside, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Glenside)
     - [Notary Public in Greencastle, PA](https://www.notarydepot.com/notary-near-me/Pennsylvania/Greencastle)
@@ -4537,6 +4538,7 @@
   - [Notary Public in Collins, MO: Jerry O Thompson](https://www.notarydepot.com/jerryothompsonreagancom)
   - [Notary Public in Sarasota, FL: Jerry Hoey](https://www.notarydepot.com/jerry_hoey)
   - [Notary Public in Kingsville, TX: Diana C. Miller](https://www.notarydepot.com/jesamlee)
+  - [Notary Public in Fairview-Ferndale, PA: Jesse Storm](https://www.notarydepot.com/jesse)
   - [Notary Public in Bellflower, CA: Jessica](https://www.notarydepot.com/jessica)
   - [Notary Public in Las Vegas, NV: Andrew Springfield](https://www.notarydepot.com/jessica02)
   - [Notary Public in Spring Hill, FL: Jessica Ahearn](https://www.notarydepot.com/jessicaahearn)
@@ -8443,4 +8445,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-19T02:45:02Z
+Updated at 2019-10-19T03:05:02Z
