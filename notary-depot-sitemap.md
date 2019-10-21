@@ -4212,7 +4212,6 @@
   - [Notary Public in Houston, TX: Heather Cumer](https://www.notarydepot.com/heathery35)
   - [Notary Public in Valparaiso, FL: Jarred Heath](https://www.notarydepot.com/heathmobilenotary)
   - [Notary Public in Okeechobee, FL: Heide Miller - Van Miller](https://www.notarydepot.com/heideleemiller)
-  - [Notary Public in Okeechobee, FL: Heide Lee Miller](https://www.notarydepot.com/heidemiller)
   - [Notary Public in Ingalls, IN: Heidi Mcelroy](https://www.notarydepot.com/heidi)
   - [Notary Public in San Diego, CA: Wing Au](https://www.notarydepot.com/heidi910)
   - [Notary Public in Hemet, CA: Jacki Espino](https://www.notarydepot.com/hemetnotary)
@@ -4240,6 +4239,7 @@
   - [Notary Public in Easton, MA: Michael Marram](https://www.notarydepot.com/historian333)
   - [Notary Public in Pearland, TX: Herman ](https://www.notarydepot.com/hjlucas)
   - [Notary Public in Buena Park, CA: Hackzell Jaime](https://www.notarydepot.com/hjrealestate)
+  - [Notary Public in Okeechobee, FL: Heide Lee Miller](https://www.notarydepot.com/hlm)
   - [Notary Public in Okeechobee, FL: Heide Miller](https://www.notarydepot.com/hlmiller)
   - [Notary Public in Front Royal, VA: Holly Millner](https://www.notarydepot.com/hlmillner)
   - [Notary Public in Lafayette, IN: Brian Stump](https://www.notarydepot.com/hlsindiana)
@@ -8450,4 +8450,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-21T19:45:02Z
+Updated at 2019-10-21T20:05:02Z
