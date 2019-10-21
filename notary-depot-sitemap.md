@@ -6815,6 +6815,7 @@
   - [Notary Public in Middletown, OH: Gary Boehm](https://www.notarydepot.com/saonenotary)
   - [Notary Public in Denham Springs, LA: Al Weysham](https://www.notarydepot.com/sapphcco)
   - [Notary Public in Miami, FL: Anissa Pressley](https://www.notarydepot.com/sapphire)
+  - [Notary Public in Rock Hill, SC: Trina C Perry](https://www.notarydepot.com/sapphirenotarysignings)
   - [Notary Public in Schertz, TX: Sarah H. Permenter](https://www.notarydepot.com/sarahhp)
   - [Notary Public in Temple City, CA: Sarah Spina](https://www.notarydepot.com/sarahjohn11)
   - [Notary Public in Mount Vernon, NY: Sarah Rushing](https://www.notarydepot.com/sarahrus)
@@ -8449,4 +8450,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-21T15:05:02Z
+Updated at 2019-10-21T15:25:02Z
