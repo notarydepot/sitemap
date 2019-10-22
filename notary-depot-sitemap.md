@@ -5723,6 +5723,7 @@
   - [Notary Public in Beaumont, TX: Dana Allen](https://www.notarydepot.com/mobilenotarydana)
   - [Notary Public in Fallon, NV: Gregory Anderson](https://www.notarydepot.com/mobilenotarygreg)
   - [Notary Public in San Diego, CA: ronald link](https://www.notarydepot.com/mobilenotaryguy)
+  - [Notary Public in Fayetteville, NC: Gary Smith Jr](https://www.notarydepot.com/mobilenotaryinfayettevillenc)
   - [Notary Public in Urbana, OH: Rhonda M Lippencott](https://www.notarydepot.com/mobilenotaryinohiogmailcom)
   - [Notary Public in Nashville, TN: Cody McKeithan](https://www.notarydepot.com/mobilenotaryintn)
   - [Notary Public in Liberty, MO: Clyde Heppner](https://www.notarydepot.com/mobilenotarykc)
@@ -8452,4 +8453,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-22T14:05:02Z
+Updated at 2019-10-22T14:25:02Z
