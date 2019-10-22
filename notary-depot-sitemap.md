@@ -1342,6 +1342,7 @@
     - [Notary Public in Bogota, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Bogota)
     - [Notary Public in Bound Brook, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Bound-Brook)
     - [Notary Public in Bradley Beach, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Bradley-Beach)
+    - [Notary Public in Bridgeton, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Bridgeton)
     - [Notary Public in Bridgewater, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Bridgewater)
     - [Notary Public in Burlington, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Burlington)
     - [Notary Public in Butler, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Butler)
@@ -4417,6 +4418,7 @@
   - [Notary Public in El Monte, CA: Monica Rodriguez](https://www.notarydepot.com/jaoluv)
   - [Notary Public in Denver, CO: Diana Yvonne Munoz](https://www.notarydepot.com/jared2003)
   - [Notary Public in Lebanon, PA: Jared](https://www.notarydepot.com/jaredclong)
+  - [Notary Public in Bridgeton, NJ: Pam Menear](https://www.notarydepot.com/jasaveoli)
   - [Notary Public in Orlando, FL: Jasmin L. Devitt](https://www.notarydepot.com/jasmindevitt)
   - [Notary Public in Wallington, NJ: Jason DeStefano](https://www.notarydepot.com/jasond)
   - [Notary Public in Ankeny, IA: Jason Welch](https://www.notarydepot.com/jasonlw)
@@ -8452,4 +8454,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-22T17:05:02Z
+Updated at 2019-10-22T17:25:02Z
