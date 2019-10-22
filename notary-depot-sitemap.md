@@ -4657,6 +4657,7 @@
   - [Notary Public in North Wildwood, NJ: Joel Rivera](https://www.notarydepot.com/joelnotary)
   - [Notary Public in Harrisburg, PA: Joel Vargas](https://www.notarydepot.com/joelvargaspanotary)
   - [Notary Public in San Ramon, CA: Joseph Noon](https://www.notarydepot.com/joenoon)
+  - [Notary Public in Paterson, NJ: Joseph Mendoza ](https://www.notarydepot.com/joe_10_)
   - [Notary Public in Anaheim, CA: Johanna DeWitt](https://www.notarydepot.com/johannadewitt)
   - [Notary Public in Weston, FL: Johanna Garcia](https://www.notarydepot.com/johannanotarygmailcom)
   - [Notary Public in Orangevale, CA: John L Savage](https://www.notarydepot.com/johannes8)
@@ -8453,4 +8454,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-22T15:05:02Z
+Updated at 2019-10-22T15:25:02Z
