@@ -4143,6 +4143,7 @@
   - [Notary Public in Philadelphia, PA: Gloria J Stepherson](https://www.notarydepot.com/gstepherson)
   - [Notary Public in Baton Rouge, LA: George Tull](https://www.notarydepot.com/gtull1)
   - [Notary Public in Fayetteville, NC: Jonathan L. Brown Guerrero](https://www.notarydepot.com/guerreromobilesignings)
+  - [Notary Public in : The Guglielmo Services](https://www.notarydepot.com/guidok)
   - [Notary Public in Wilmington, NC: Shelly Taylor](https://www.notarydepot.com/guirus)
   - [Notary Public in North Fort Myers, FL: Lori Lange](https://www.notarydepot.com/gulfbreezenotaryservice)
   - [Notary Public in Spotsylvania, VA: Guru Investigations, Inc.](https://www.notarydepot.com/guruagent)
@@ -8451,4 +8452,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-22T13:05:02Z
+Updated at 2019-10-22T13:25:02Z
