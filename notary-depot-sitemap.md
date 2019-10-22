@@ -1618,7 +1618,6 @@
     - [Notary Public in South Mills, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/South-Mills)
     - [Notary Public in Statesville, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Statesville)
     - [Notary Public in Thomasville, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Thomasville)
-    - [Notary Public in Wake Forest, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Wake-Forest)
     - [Notary Public in Waxhaw, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Waxhaw)
     - [Notary Public in Weaverville, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Weaverville)
     - [Notary Public in Wilmington, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Wilmington)
@@ -5930,7 +5929,6 @@
   - [Notary Public in Philadelphia, PA: Nancy Carr](https://www.notarydepot.com/nc9653)
   - [Notary Public in Miami, FL: Nelson Castillo](https://www.notarydepot.com/ncasti)
   - [Notary Public in Roseboro, NC: April Clark](https://www.notarydepot.com/ncnotary1)
-  - [Notary Public in Wake Forest, NC: Amy Hernandez](https://www.notarydepot.com/ncnotaryservices)
   - [Notary Public in Independence, MO: Norma Campbell](https://www.notarydepot.com/ndcampbell)
   - [Notary Public in Vancouver, WA: Andy Le](https://www.notarydepot.com/ndonly)
   - [Notary Public in San Diego, CA: Nathan Driskill](https://www.notarydepot.com/ndriskill)
@@ -8454,4 +8452,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-22T15:45:02Z
+Updated at 2019-10-22T16:05:02Z
