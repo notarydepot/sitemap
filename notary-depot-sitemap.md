@@ -6353,6 +6353,7 @@
   - [Notary Public in Temecula, CA: Geraldine Lundberg](https://www.notarydepot.com/pepper310)
   - [Notary Public in Lakeland, FL: SONIA PEREZ](https://www.notarydepot.com/perezsolissa)
   - [Notary Public in Flower Mound, TX: Maureen Scott](https://www.notarydepot.com/perform)
+  - [Notary Public in Baton Rouge, LA: Perkins Road Notary](https://www.notarydepot.com/perkinsroadnotary)
   - [Notary Public in Phenix City, AL: Simone Henry-Perusek](https://www.notarydepot.com/perusek)
   - [Notary Public in Howell, NJ: Alia Khan](https://www.notarydepot.com/peshawar1)
   - [Notary Public in Canterbury, CT: Patricia E Sullivan](https://www.notarydepot.com/pesullivan)
@@ -6436,7 +6437,6 @@
   - [Notary Public in Yonkers, NY: Andre Hatchett](https://www.notarydepot.com/prioritynotaryinc)
   - [Notary Public in Huntingtown, MD: Carolyn Sherwood](https://www.notarydepot.com/prissyhoney760)
   - [Notary Public in NY: Prity Rawat](https://www.notarydepot.com/prity1203)
-  - [Notary Public in Baton Rouge, LA: Perkins Road Notary](https://www.notarydepot.com/prnotary1)
   - [Notary Public in Pueblo, CO: Herbert Myers](https://www.notarydepot.com/proactiveaccountingservices)
   - [Notary Public in Tallahassee, FL: Beth Nelson](https://www.notarydepot.com/proctor63)
   - [Notary Public in Ferndale, WA: Laura Vestanen](https://www.notarydepot.com/profnot)
@@ -8452,4 +8452,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-23T16:25:02Z
+Updated at 2019-10-23T16:45:01Z
