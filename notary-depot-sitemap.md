@@ -999,6 +999,7 @@
     - [Notary Public in Simpsonville, KY](https://www.notarydepot.com/notary-near-me/Kentucky/Simpsonville)
     - [Notary Public in Somerset, KY](https://www.notarydepot.com/notary-near-me/Kentucky/Somerset)
     - [Notary Public in Stanford, KY](https://www.notarydepot.com/notary-near-me/Kentucky/Stanford)
+    - [Notary Public in Vanceburg, KY](https://www.notarydepot.com/notary-near-me/Kentucky/Vanceburg)
     - [Notary Public in Williamstown, KY](https://www.notarydepot.com/notary-near-me/Kentucky/Williamstown)
   - [Notaries Public in Louisiana](https://www.notarydepot.com/notary-near-me/Louisiana)
     - [Notary Public in Alexandria, LA](https://www.notarydepot.com/notary-near-me/Louisiana/Alexandria)
@@ -4667,6 +4668,7 @@
   - [Notary Public in Suffield, CT: John B. Cown, &quot;Seals-On-Wheels&quot; (tm)](https://www.notarydepot.com/johncown)
   - [Notary Public in Hialeah, FL: Isis Traveling/Mobile Notary Services](https://www.notarydepot.com/johnisis)
   - [Notary Public in Las Vegas, NV: John Bobé](https://www.notarydepot.com/johnlv)
+  - [Notary Public in Vanceburg, KY: John M. Holder](https://www.notarydepot.com/johnmholder)
   - [Notary Public in Tampa, FL: John Victor Teixido](https://www.notarydepot.com/johnnytuxedo)
   - [Notary Public in NY: John Odocha](https://www.notarydepot.com/johnodocha)
   - [Notary Public in Eastpointe, MI: John Karabacz](https://www.notarydepot.com/johnpioneer)
@@ -8453,4 +8455,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-24T19:45:02Z
+Updated at 2019-10-24T20:05:02Z
