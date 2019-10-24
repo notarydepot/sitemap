@@ -7517,6 +7517,7 @@
   - [Notary Public in Jacksonville, FL: Tachita Saunders](https://www.notarydepot.com/tsaunders)
   - [Notary Public in Tampa, FL: Tiffany Shack](https://www.notarydepot.com/tshack)
   - [Notary Public in Frederick, MD: Patricia W Shadoan](https://www.notarydepot.com/tshadoan)
+  - [Notary Public in Louisville, KY: Tiffany N Shumake](https://www.notarydepot.com/tshumake)
   - [Notary Public in Leesburg, FL: Terri L Silipo](https://www.notarydepot.com/tsilipo)
   - [Notary Public in San Francisco, CA: Tiffany Simi](https://www.notarydepot.com/tsimi)
   - [Notary Public in Philadelphia, PA: Tanya Solomon](https://www.notarydepot.com/tsolomon2020)
@@ -8452,4 +8453,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-24T19:05:02Z
+Updated at 2019-10-24T19:25:01Z
