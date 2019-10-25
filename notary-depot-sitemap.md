@@ -2216,6 +2216,7 @@
     - [Notary Public in Weems, VA](https://www.notarydepot.com/notary-near-me/Virginia/Weems)
     - [Notary Public in West Springfield, VA](https://www.notarydepot.com/notary-near-me/Virginia/West-Springfield)
     - [Notary Public in Williamsburg, VA](https://www.notarydepot.com/notary-near-me/Virginia/Williamsburg)
+    - [Notary Public in Winchester, VA](https://www.notarydepot.com/notary-near-me/Virginia/Winchester)
     - [Notary Public in Woodbridge, VA](https://www.notarydepot.com/notary-near-me/Virginia/Woodbridge)
     - [Notary Public in Woodford, VA](https://www.notarydepot.com/notary-near-me/Virginia/Woodford)
   - [Notaries Public in Washington](https://www.notarydepot.com/notary-near-me/Washington)
@@ -5885,6 +5886,7 @@
   - [Notary Public in Gary, IN: Myra Spearman](https://www.notarydepot.com/myra0919)
   - [Notary Public in Florissant, MO: Nyandi Ife](https://www.notarydepot.com/mysimpletc)
   - [Notary Public in Hialeah, FL: Gladys M. Fonseca](https://www.notarydepot.com/mystiquera1)
+  - [Notary Public in Winchester, VA: Mark Yurescko](https://www.notarydepot.com/myurescko)
   - [Notary Public in Middletown, PA: Heather J Templin](https://www.notarydepot.com/myyellowlabs)
   - [Notary Public in Phoenix, AZ: Tracy Ross](https://www.notarydepot.com/mzbiznezz)
   - [Notary Public in Lithia Springs, GA: Kathy Davis](https://www.notarydepot.com/mzdaviz)
@@ -8456,4 +8458,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-25T22:25:02Z
+Updated at 2019-10-25T22:45:02Z
