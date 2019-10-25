@@ -6833,6 +6833,7 @@
   - [Notary Public in Richmond, VA: Gwendolyn M Barnes](https://www.notarydepot.com/sassib)
   - [Notary Public in Cincinnati, OH: satar](https://www.notarydepot.com/satarba)
   - [Notary Public in Saucier, MS: Brenda R Palmer](https://www.notarydepot.com/sauciernotary)
+  - [Notary Public in Las Vegas, NV: Sean Austin](https://www.notarydepot.com/saustin3383)
   - [Notary Public in Spanaway, WA: Savannah Khan](https://www.notarydepot.com/savannahkhan)
   - [Notary Public in Rowland Heights, CA: Roselle Savary](https://www.notarydepot.com/savarynotaryservices)
   - [Notary Public in Eastlake, OH: Betty Brown](https://www.notarydepot.com/savcash)
@@ -8455,4 +8456,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-25T05:25:03Z
+Updated at 2019-10-25T05:45:02Z
