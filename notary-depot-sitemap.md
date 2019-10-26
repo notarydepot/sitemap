@@ -6768,7 +6768,6 @@
   - [Notary Public in Lewisville, TX: saba Chaudhry](https://www.notarydepot.com/sabanotary)
   - [Notary Public in Los Angeles, CA: Sabrina D. Machado](https://www.notarydepot.com/sabrinamachado)
   - [Notary Public in Santa Clara, CA: Kelby Olson](https://www.notarydepot.com/sac22)
-  - [Notary Public in Floresville, TX: Chi Hung Loo](https://www.notarydepot.com/sacnotary)
   - [Notary Public in Alcolu, SC: Mary Johnson](https://www.notarydepot.com/sade110)
   - [Notary Public in Port Huron, MI: Katherine Sova-Fasbender](https://www.notarydepot.com/safeguardmobilenotary)
   - [Notary Public in Middletown, NY: David Green](https://www.notarydepot.com/safenotary)
@@ -8458,4 +8457,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-26T23:05:02Z
+Updated at 2019-10-26T23:25:02Z
