@@ -3300,6 +3300,7 @@
   - [Notary Public in Thousand Oaks, CA: Holly Litmanovich](https://www.notarydepot.com/conejovalleynotary)
   - [Notary Public in Murrieta, CA: Connie Adams](https://www.notarydepot.com/connie)
   - [Notary Public in Chicago, IL: Constance J. Tucker](https://www.notarydepot.com/constancenchgo)
+  - [Notary Public in Atlanta, GA: Tyrah Carmichael](https://www.notarydepot.com/consultcarmichael)
   - [Notary Public in Cocoa, FL: David Bradley](https://www.notarydepot.com/consultinggroup)
   - [Notary Public in Cincinnati, OH: Susan Schwartz](https://www.notarydepot.com/coolsfancy)
   - [Notary Public in Sonora, CA: Sera A James](https://www.notarydepot.com/coordinator)
@@ -6149,6 +6150,7 @@
   - [Notary Public in NY: Darlene Thomas](https://www.notarydepot.com/notarypublicdthomas)
   - [Notary Public in Knoxville, TN: Kurt Gross](https://www.notarydepot.com/notarypublictn)
   - [Notary Public in Los Angeles, CA: Powell Okpara](https://www.notarydepot.com/notarypublic_ronaldreganbuilding)
+  - [Notary Public in Anaheim, CA: Maricela Rios ](https://www.notarydepot.com/notaryrios)
   - [Notary Public in San Antonio, TX: Robert Marin](https://www.notarydepot.com/notaryrob1800)
   - [Notary Public in Oxnard, CA: Sonya Root](https://www.notarydepot.com/notaryroot)
   - [Notary Public in San Clemente, CA: Louis Pescarmona](https://www.notarydepot.com/notaryrunner)
@@ -8460,4 +8462,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-28T20:45:02Z
+Updated at 2019-10-28T21:05:02Z
