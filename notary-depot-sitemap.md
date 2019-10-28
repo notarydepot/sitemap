@@ -6650,6 +6650,7 @@
   - [Notary Public in New Haven, CT: Aa Mobile Notary Of Ct.](https://www.notarydepot.com/rmavrides)
   - [Notary Public in Houston, TX: Robyn Fudge](https://www.notarydepot.com/rmfudge)
   - [Notary Public in Arkadelphia, AR: Rebekah Winegardner](https://www.notarydepot.com/rmgf11)
+  - [Notary Public in Avondale, AZ: Tanika Sherman](https://www.notarydepot.com/rmnotaries)
   - [Notary Public in Los Angeles, CA: Reggie Muldrow](https://www.notarydepot.com/rmuldrow)
   - [Notary Public in Farmington, MI: Rhonda Young](https://www.notarydepot.com/rmyoung)
   - [Notary Public in Arlington, TX: Roneasha Neal ](https://www.notarydepot.com/rneal134)
@@ -8459,4 +8460,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-28T19:45:02Z
+Updated at 2019-10-28T20:05:02Z
