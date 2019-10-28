@@ -1122,6 +1122,7 @@
   - [Notaries Public in Michigan](https://www.notarydepot.com/notary-near-me/Michigan)
     - [Notary Public in Allegan, MI](https://www.notarydepot.com/notary-near-me/Michigan/Allegan)
     - [Notary Public in Ann Arbor, MI](https://www.notarydepot.com/notary-near-me/Michigan/Ann-Arbor)
+    - [Notary Public in Arcadia, MI](https://www.notarydepot.com/notary-near-me/Michigan/Arcadia)
     - [Notary Public in Bay City, MI](https://www.notarydepot.com/notary-near-me/Michigan/Bay-City)
     - [Notary Public in Benton Harbor, MI](https://www.notarydepot.com/notary-near-me/Michigan/Benton-Harbor)
     - [Notary Public in Berkley, MI](https://www.notarydepot.com/notary-near-me/Michigan/Berkley)
@@ -7571,6 +7572,7 @@
   - [Notary Public in Linden, NJ: Bryan Barbosa](https://www.notarydepot.com/unioncountynotary)
   - [Notary Public in Naples, FL: Sandra Rodriguez](https://www.notarydepot.com/unique1sandy)
   - [Notary Public in Mount Pleasant, SC: LaToya D Scott](https://www.notarydepot.com/unlimitedes2016)
+  - [Notary Public in Arcadia, MI: Kelly Snider](https://www.notarydepot.com/upnorthnotary)
   - [Notary Public in Richmond, VA: Marcus Upton](https://www.notarydepot.com/upnotaryservices)
   - [Notary Public in Amarillo, TX: The Ups Store #0927](https://www.notarydepot.com/ups0927)
   - [Notary Public in Amarillo, TX: The Ups Store #2019](https://www.notarydepot.com/ups2019)
@@ -8457,4 +8459,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-28T01:25:03Z
+Updated at 2019-10-28T01:45:02Z
