@@ -7140,6 +7140,7 @@
   - [Notary Public in Pea Ridge, AR: Sherri L. Ragland](https://www.notarydepot.com/sragland)
   - [Notary Public in San Antonio, TX: Sharon Bass](https://www.notarydepot.com/srbass)
   - [Notary Public in Rockland, MA: Shannan Lee Reis, Esq.](https://www.notarydepot.com/sreis25)
+  - [Notary Public in Houston, TX: S Reta](https://www.notarydepot.com/sreta)
   - [Notary Public in Victorville, CA: Sonia Rivera](https://www.notarydepot.com/srivera)
   - [Notary Public in Lithonia, GA: Liberty Tax Service](https://www.notarydepot.com/srobersonjr1)
   - [Notary Public in Covina, CA: Sally Rosa](https://www.notarydepot.com/srosa1)
@@ -8459,4 +8460,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-28T14:45:02Z
+Updated at 2019-10-28T15:05:02Z
