@@ -7012,6 +7012,7 @@
   - [Notary Public in Atlanta, GA: Georgia Attorney Closers](https://www.notarydepot.com/signingatlanta)
   - [Notary Public in Irvine, CA: Bosha Dorman](https://www.notarydepot.com/signingpros)
   - [Notary Public in Oklahoma City, OK: Diana Bishop](https://www.notarydepot.com/signings)
+  - [Notary Public in Fort Worth, TX: Alisha B](https://www.notarydepot.com/signingsbyalisha)
   - [Notary Public in Nederland, TX: Pamela Lemell](https://www.notarydepot.com/signingsetx)
   - [Notary Public in West Hartford, CT: Twila McKinney](https://www.notarydepot.com/signmeup)
   - [Notary Public in Stockbridge, GA: Nicola Holsey](https://www.notarydepot.com/signright)
@@ -8462,4 +8463,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-29T20:05:02Z
+Updated at 2019-10-29T20:25:02Z
