@@ -90,6 +90,7 @@
     - [Notary Public in Kingman, AZ](https://www.notarydepot.com/notary-near-me/Arizona/Kingman)
     - [Notary Public in Lake Havasu City, AZ](https://www.notarydepot.com/notary-near-me/Arizona/Lake-Havasu-City)
     - [Notary Public in Litchfield Park, AZ](https://www.notarydepot.com/notary-near-me/Arizona/Litchfield-Park)
+    - [Notary Public in Marana, AZ](https://www.notarydepot.com/notary-near-me/Arizona/Marana)
     - [Notary Public in Maricopa, AZ](https://www.notarydepot.com/notary-near-me/Arizona/Maricopa)
     - [Notary Public in Mesa, AZ](https://www.notarydepot.com/notary-near-me/Arizona/Mesa)
     - [Notary Public in Parker, AZ](https://www.notarydepot.com/notary-near-me/Arizona/Parker)
@@ -3749,6 +3750,7 @@
   - [Notary Public in Palatka, FL: Daniel](https://www.notarydepot.com/dtw710)
   - [Notary Public in Naples, FL: Donald E Tyree](https://www.notarydepot.com/dtyree)
   - [Notary Public in Dallas, TX: Daniel Omolola](https://www.notarydepot.com/duke05)
+  - [Notary Public in Marana, AZ: Rex ( Duke ) Mitchell](https://www.notarydepot.com/dukesmobilnotaryservice)
   - [Notary Public in Menifee, CA: Debbie Dunham](https://www.notarydepot.com/dunhamd)
   - [Notary Public in El Dorado Hills, CA: Dustin Shea](https://www.notarydepot.com/dustinsea)
   - [Notary Public in Houston, TX: Deborah Bonner](https://www.notarydepot.com/dvncbonner)
@@ -8466,4 +8468,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-30T04:25:02Z
+Updated at 2019-10-30T04:45:02Z
