@@ -906,6 +906,7 @@
     - [Notary Public in Crown Point, IN](https://www.notarydepot.com/notary-near-me/Indiana/Crown-Point)
     - [Notary Public in Dugger, IN](https://www.notarydepot.com/notary-near-me/Indiana/Dugger)
     - [Notary Public in Dyer, IN](https://www.notarydepot.com/notary-near-me/Indiana/Dyer)
+    - [Notary Public in East Chicago, IN](https://www.notarydepot.com/notary-near-me/Indiana/East-Chicago)
     - [Notary Public in Evansville, IN](https://www.notarydepot.com/notary-near-me/Indiana/Evansville)
     - [Notary Public in Fishers, IN](https://www.notarydepot.com/notary-near-me/Indiana/Fishers)
     - [Notary Public in Fort Wayne, IN](https://www.notarydepot.com/notary-near-me/Indiana/Fort-Wayne)
@@ -7666,6 +7667,7 @@
   - [Notary Public in Pompano Beach, FL: Vera Silveri](https://www.notarydepot.com/vjsfla1)
   - [Notary Public in Camarillo, CA: Vivienne C. Lansdown](https://www.notarydepot.com/vlansdown)
   - [Notary Public in Downey, CA: Elias](https://www.notarydepot.com/vlistener101)
+  - [Notary Public in East Chicago, IN: Victoria Kemp](https://www.notarydepot.com/vloviellc)
   - [Notary Public in Snellville, GA: Vickie Edmond - Notary Public, Georgia](https://www.notarydepot.com/vlwx31)
   - [Notary Public in Bakersfield, CA: Veronica Mathis](https://www.notarydepot.com/vmathis)
   - [Notary Public in Norcross, GA: Valerie McQueen](https://www.notarydepot.com/vmcqueen)
@@ -8463,4 +8465,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-30T02:45:02Z
+Updated at 2019-10-30T03:05:02Z
