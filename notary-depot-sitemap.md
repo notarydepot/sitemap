@@ -6349,6 +6349,7 @@
   - [Notary Public in Wiscasset, ME: Preston Dunning](https://www.notarydepot.com/pdunning)
   - [Notary Public in Hobart, IN: Jena Thomas](https://www.notarydepot.com/peaches)
   - [Notary Public in Savage, MN: John Wilson CNSA](https://www.notarydepot.com/peanut20)
+  - [Notary Public in Southfield, MI: Petrina Edmondson](https://www.notarydepot.com/pedmondsonserenesigningsorg)
   - [Notary Public in Dothan, AL: Cassandra Hart](https://www.notarydepot.com/peetee4u)
   - [Notary Public in Virginia Beach, VA: Peggy Dollison](https://www.notarydepot.com/peggyd01)
   - [Notary Public in Texarkana, AR: Peggy Owenby](https://www.notarydepot.com/peggyowenby)
@@ -8465,4 +8466,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-30T03:45:01Z
+Updated at 2019-10-30T04:05:02Z
