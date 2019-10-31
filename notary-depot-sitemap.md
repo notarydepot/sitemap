@@ -93,6 +93,7 @@
     - [Notary Public in Marana, AZ](https://www.notarydepot.com/notary-near-me/Arizona/Marana)
     - [Notary Public in Maricopa, AZ](https://www.notarydepot.com/notary-near-me/Arizona/Maricopa)
     - [Notary Public in Mesa, AZ](https://www.notarydepot.com/notary-near-me/Arizona/Mesa)
+    - [Notary Public in New River, AZ](https://www.notarydepot.com/notary-near-me/Arizona/New-River)
     - [Notary Public in Parker, AZ](https://www.notarydepot.com/notary-near-me/Arizona/Parker)
     - [Notary Public in Payson, AZ](https://www.notarydepot.com/notary-near-me/Arizona/Payson)
     - [Notary Public in Peoria, AZ](https://www.notarydepot.com/notary-near-me/Arizona/Peoria)
@@ -2927,6 +2928,7 @@
   - [Notary Public in WA: Robert J Hyatt](https://www.notarydepot.com/bob4928)
   - [Notary Public in Fontana, CA: Bobbie L. Moore](https://www.notarydepot.com/bobbiemoore71)
   - [Notary Public in Farmington, MO: Bobbie Suzanne Fitz](https://www.notarydepot.com/bobbiesuzanne)
+  - [Notary Public in New River, AZ: Robert Ryberg](https://www.notarydepot.com/bobbobrybergcom)
   - [Notary Public in Yreka, CA: Robert Buker](https://www.notarydepot.com/bobbuker)
   - [Notary Public in Cranston, RI: Allison](https://www.notarydepot.com/bobcat8891)
   - [Notary Public in Senoia, GA: Robert J. Werner](https://www.notarydepot.com/bobsnotary)
@@ -8468,4 +8470,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-30T23:45:02Z
+Updated at 2019-10-31T00:05:03Z
