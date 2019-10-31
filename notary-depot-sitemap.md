@@ -6755,6 +6755,7 @@
   - [Notary Public in Fort Lauderdale, FL: Marceline Fiorini](https://www.notarydepot.com/rspct4trth)
   - [Notary Public in Stonington, CT: Richard E. Thewissen](https://www.notarydepot.com/rthewissen)
   - [Notary Public in Fort Worth, TX: Regina Thomas](https://www.notarydepot.com/rthomas1790)
+  - [Notary Public in Springfield, OH: Tim Ruggles](https://www.notarydepot.com/rtoshow)
   - [Notary Public in Washington, DC: Raphael Trice](https://www.notarydepot.com/rtrice)
   - [Notary Public in Lake Elsinore, CA: Corrina Dalton](https://www.notarydepot.com/ruby84)
   - [Notary Public in Elba, AL: Dena Richardson](https://www.notarydepot.com/ruedee)
@@ -8470,4 +8471,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-31T11:25:02Z
+Updated at 2019-10-31T11:45:02Z
