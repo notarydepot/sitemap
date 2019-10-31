@@ -647,6 +647,7 @@
     - [Notary Public in Margate, FL](https://www.notarydepot.com/notary-near-me/Florida/Margate)
     - [Notary Public in Marianna, FL](https://www.notarydepot.com/notary-near-me/Florida/Marianna)
     - [Notary Public in Mary Esther, FL](https://www.notarydepot.com/notary-near-me/Florida/Mary-Esther)
+    - [Notary Public in Mascotte, FL](https://www.notarydepot.com/notary-near-me/Florida/Mascotte)
     - [Notary Public in Melbourne, FL](https://www.notarydepot.com/notary-near-me/Florida/Melbourne)
     - [Notary Public in Miami, FL](https://www.notarydepot.com/notary-near-me/Florida/Miami)
     - [Notary Public in Miami Beach, FL](https://www.notarydepot.com/notary-near-me/Florida/Miami-Beach)
@@ -6723,6 +6724,7 @@
   - [Notary Public in Fresno, CA: Rosemary Sambrano](https://www.notarydepot.com/rosemary)
   - [Notary Public in Aurora, CO: Rosa Taylor](https://www.notarydepot.com/roseyq1976)
   - [Notary Public in Statesville, NC: Barbara Rosenkranz](https://www.notarydepot.com/rosiebaby)
+  - [Notary Public in Mascotte, FL: Mary Millour](https://www.notarydepot.com/rotarynotarymobileservices)
   - [Notary Public in Everett, WA: Anna M. Lawton](https://www.notarydepot.com/rovingnotary)
   - [Notary Public in Englewood, FL: Jason R Yates](https://www.notarydepot.com/rowdeyy)
   - [Notary Public in Roxbury Township, NJ: Anne Rich](https://www.notarydepot.com/roxburynotary)
@@ -8471,4 +8473,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-10-31T15:25:01Z
+Updated at 2019-10-31T15:45:02Z
