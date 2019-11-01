@@ -136,6 +136,7 @@
     - [Notary Public in Russellville, AR](https://www.notarydepot.com/notary-near-me/Arkansas/Russellville)
     - [Notary Public in Siloam Springs, AR](https://www.notarydepot.com/notary-near-me/Arkansas/Siloam-Springs)
     - [Notary Public in Springdale, AR](https://www.notarydepot.com/notary-near-me/Arkansas/Springdale)
+    - [Notary Public in Sulphur Springs, AR](https://www.notarydepot.com/notary-near-me/Arkansas/Sulphur-Springs)
     - [Notary Public in Texarkana, AR](https://www.notarydepot.com/notary-near-me/Arkansas/Texarkana)
     - [Notary Public in West Memphis, AR](https://www.notarydepot.com/notary-near-me/Arkansas/West-Memphis)
   - [Notaries Public in California](https://www.notarydepot.com/notary-near-me/California)
@@ -2348,6 +2349,7 @@
   - [Notary Public in CA: Carmina Alvarez](https://www.notarydepot.com/1carmina)
   - [Notary Public in Washington, DC: Corie Bryant](https://www.notarydepot.com/1enterprise)
   - [Notary Public in Highland, CA: Mereh Boghos ](https://www.notarydepot.com/1mereh)
+  - [Notary Public in Sulphur Springs, AR: Charlene V. Miale, N.P., CEO](https://www.notarydepot.com/1notary)
   - [Notary Public in Chicago, IL: BERNICE L CHARLES](https://www.notarydepot.com/1notary2notary)
   - [Notary Public in Applegate, CA: Terry Scott](https://www.notarydepot.com/1speedynotary)
   - [Notary Public in Hanford, CA: Hope Hernandez](https://www.notarydepot.com/2443hope)
@@ -8475,4 +8477,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-01T19:05:03Z
+Updated at 2019-11-01T19:25:01Z
