@@ -6086,6 +6086,7 @@
   - [Notary Public in Pittsburgh, PA: Carol Barbour](https://www.notarydepot.com/notarychickpgh)
   - [Notary Public in Fredericksburg, VA: Cynthia M Stuart](https://www.notarydepot.com/notarycindy)
   - [Notary Public in Fayetteville, GA: Dominic Brown](https://www.notarydepot.com/notarycourier)
+  - [Notary Public in Oxnard, CA: Deanna Good](https://www.notarydepot.com/notarydeanna)
   - [Notary Public in Hobe Sound, FL: Deidra Mccaslin](https://www.notarydepot.com/notarydede)
   - [Notary Public in Boynton Beach, FL: Barbara Willson](https://www.notarydepot.com/notarydepo)
   - [Notary Public in Broomfield, CO: Art R. Romero](https://www.notarydepot.com/notarydepot1tme)
@@ -8477,4 +8478,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-01T19:25:01Z
+Updated at 2019-11-01T19:45:02Z
