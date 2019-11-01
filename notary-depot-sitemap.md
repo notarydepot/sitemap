@@ -1018,6 +1018,7 @@
     - [Notary Public in Franklinton, LA](https://www.notarydepot.com/notary-near-me/Louisiana/Franklinton)
     - [Notary Public in Geismar, LA](https://www.notarydepot.com/notary-near-me/Louisiana/Geismar)
     - [Notary Public in Gonzales, LA](https://www.notarydepot.com/notary-near-me/Louisiana/Gonzales)
+    - [Notary Public in Houma, LA](https://www.notarydepot.com/notary-near-me/Louisiana/Houma)
     - [Notary Public in Jennings, LA](https://www.notarydepot.com/notary-near-me/Louisiana/Jennings)
     - [Notary Public in Kenner, LA](https://www.notarydepot.com/notary-near-me/Louisiana/Kenner)
     - [Notary Public in Lafayette, LA](https://www.notarydepot.com/notary-near-me/Louisiana/Lafayette)
@@ -2949,6 +2950,7 @@
   - [Notary Public in Deltona, FL: Sarina Kelly](https://www.notarydepot.com/bosslady)
   - [Notary Public in La Marque, TX: Ceratha Henderson](https://www.notarydepot.com/bottomlinenotary)
   - [Notary Public in Suncook, NH: David P Boucher](https://www.notarydepot.com/boucher03275)
+  - [Notary Public in Houma, LA: Julie Jeansonne](https://www.notarydepot.com/bouttimeerrandandconciergeservices)
   - [Notary Public in South Orange, NJ: Duane Mccalla](https://www.notarydepot.com/boxx)
   - [Notary Public in Bristol, TN: Beth K. Palin, J.D.](https://www.notarydepot.com/bpalin)
   - [Notary Public in Bradenton, FL: Ronda Braden](https://www.notarydepot.com/bradennotary)
@@ -8473,4 +8475,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-01T17:05:02Z
+Updated at 2019-11-01T17:25:02Z
