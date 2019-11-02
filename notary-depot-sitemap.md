@@ -3157,6 +3157,7 @@
   - [Notary Public in North Miami Beach, FL: Chloe G. Connolly](https://www.notarydepot.com/cgcnotary)
   - [Notary Public in Daytona Beach, FL: Cathy Gentry](https://www.notarydepot.com/cgentry127)
   - [Notary Public in Ridgeville, SC: Carol G. Hill](https://www.notarydepot.com/cghill)
+  - [Notary Public in Chicago, IL: Cobina Gibson](https://www.notarydepot.com/cgibson22)
   - [Notary Public in Kentfield, CA: Chris Gow-Panzardi](https://www.notarydepot.com/cgpmobilenotary1)
   - [Notary Public in Middletown, NY: Christine Hargabus](https://www.notarydepot.com/chabus)
   - [Notary Public in Ventura, CA: Janet Chacon](https://www.notarydepot.com/chaconey)
@@ -8481,4 +8482,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-02T22:45:02Z
+Updated at 2019-11-02T23:05:02Z
