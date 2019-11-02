@@ -1042,6 +1042,7 @@
     - [Notary Public in Brunswick, ME](https://www.notarydepot.com/notary-near-me/Maine/Brunswick)
     - [Notary Public in Limington, ME](https://www.notarydepot.com/notary-near-me/Maine/Limington)
     - [Notary Public in North Berwick, ME](https://www.notarydepot.com/notary-near-me/Maine/North-Berwick)
+    - [Notary Public in Richmond, ME](https://www.notarydepot.com/notary-near-me/Maine/Richmond)
     - [Notary Public in Saco, ME](https://www.notarydepot.com/notary-near-me/Maine/Saco)
     - [Notary Public in South Berwick, ME](https://www.notarydepot.com/notary-near-me/Maine/South-Berwick)
     - [Notary Public in South Portland, ME](https://www.notarydepot.com/notary-near-me/Maine/South-Portland)
@@ -2542,6 +2543,7 @@
   - [Notary Public in Firestone, CO: Alycia Bray](https://www.notarydepot.com/altitudesigningservices)
   - [Notary Public in Tampa, FL: Julissa Alvarez](https://www.notarydepot.com/alvarez8533)
   - [Notary Public in Boynton Beach, FL: Terri T Golden](https://www.notarydepot.com/alwaysavailable)
+  - [Notary Public in Richmond, ME: Patricia Pettee](https://www.notarydepot.com/alwaystrish)
   - [Notary Public in Ionia, MI: Alice L. Samani-zozo](https://www.notarydepot.com/alzsamani)
   - [Notary Public in Beverly Hills, FL: Ann Marie Williams](https://www.notarydepot.com/am24wnotarydepot)
   - [Notary Public in Miami, FL: Amabel Gonzalez](https://www.notarydepot.com/amabelgonzalez1)
@@ -8479,4 +8481,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-02T04:25:02Z
+Updated at 2019-11-02T04:45:02Z
