@@ -6208,6 +6208,7 @@
   - [Notary Public in Arlington, VA: Northern Virginia Notary Services, LLC](https://www.notarydepot.com/novanotaries)
   - [Notary Public in CA: Now Mobile Notary](https://www.notarydepot.com/nowmobilenotary)
   - [Notary Public in Clovis, CA: Nicole L. Parent](https://www.notarydepot.com/nparent)
+  - [Notary Public in Cincinnati, OH: Unique Moore](https://www.notarydepot.com/npmarie)
   - [Notary Public in Bellflower, CA: Nicole Raye](https://www.notarydepot.com/nraye)
   - [Notary Public in Jacksonville, NC: Jennifer L. Campbell](https://www.notarydepot.com/nsacampbell)
   - [Notary Public in Orlando, FL: Jerry Moore](https://www.notarydepot.com/nsacfla)
@@ -8478,4 +8479,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-02T01:05:02Z
+Updated at 2019-11-02T01:25:02Z
