@@ -5096,6 +5096,7 @@
   - [Notary Public in Hollywood, FL: Tammy Sartin](https://www.notarydepot.com/ladysartin)
   - [Notary Public in Tallahassee, FL: ViElla B. Lindsey](https://www.notarydepot.com/ladyvi)
   - [Notary Public in Huntington Beach, CA: Leigh Ann Gilmore](https://www.notarydepot.com/lag911)
+  - [Notary Public in Edison, NJ: Gerriann LaGuardia](https://www.notarydepot.com/laguardiage)
   - [Notary Public in Wichita, KS: Lila Hall](https://www.notarydepot.com/lahallsign)
   - [Notary Public in Scranton, PA: Leo Jackson](https://www.notarydepot.com/lajjr)
   - [Notary Public in Starke, FL: Robert William Rehberg](https://www.notarydepot.com/lakebutler52)
@@ -8482,4 +8483,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-03T19:05:02Z
+Updated at 2019-11-03T19:25:02Z
