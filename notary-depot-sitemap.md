@@ -2408,6 +2408,7 @@
   - [Notary Public in La Mirada, CA: Amber L Bailey](https://www.notarydepot.com/ablmobilenotary)
   - [Notary Public in Knob Noster, MO: Laura Underwood](https://www.notarydepot.com/abovesigning)
   - [Notary Public in Weed, CA: Anita &amp; James Person](https://www.notarydepot.com/abperson)
+  - [Notary Public in Albuquerque, NM: Jennifer Sturtevant ](https://www.notarydepot.com/abqinsurenotary)
   - [Notary Public in Lawrence, KS: Patrick Brown](https://www.notarydepot.com/abrambrownnotary)
   - [Notary Public in Wixom, MI: Susan Becker](https://www.notarydepot.com/absolutenotary)
   - [Notary Public in Shirley, NY: Gyneth Goldstein](https://www.notarydepot.com/abstractsplus)
@@ -8485,4 +8486,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-04T15:25:02Z
+Updated at 2019-11-04T15:45:02Z
