@@ -2912,6 +2912,7 @@
   - [Notary Public in Waterford, PA: Brenda L Peace](https://www.notarydepot.com/blpnotary)
   - [Notary Public in Folsom, CA: Alicia McDonald](https://www.notarydepot.com/blueinknotaryservices)
   - [Notary Public in Oakland, CA: Bianka Brooks](https://www.notarydepot.com/bluenotenotary)
+  - [Notary Public in Miami, FL: Justina Predelus](https://www.notarydepot.com/bluepennotary)
   - [Notary Public in Memphis, TN: Adam Simpson](https://www.notarydepot.com/bluffcitynotaries)
   - [Notary Public in Bluffton, SC: Ilene Shiansky](https://www.notarydepot.com/blufftonnotary)
   - [Notary Public in Lake Forest, CA: Mychel Ann Jeffrey](https://www.notarydepot.com/blujade)
@@ -8484,4 +8485,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-04T01:25:02Z
+Updated at 2019-11-04T01:45:02Z
