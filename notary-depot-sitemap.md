@@ -5554,6 +5554,7 @@
   - [Notary Public in Los Angeles, CA: Keith McGruder](https://www.notarydepot.com/mcgruder)
   - [Notary Public in Apopka, FL: Melanie J Wise](https://www.notarydepot.com/mchinadoll)
   - [Notary Public in Apollo Beach, FL: Melissa Christenson](https://www.notarydepot.com/mchristenson1)
+  - [Notary Public in Salisbury, NC: Susan McHugh](https://www.notarydepot.com/mchughsue)
   - [Notary Public in Arroyo Grande, CA: A Notary to Go](https://www.notarydepot.com/mchuises)
   - [Notary Public in Rainbow City, AL: Miranda Kelley](https://www.notarydepot.com/mchurchill)
   - [Notary Public in Tulsa, OK: Douglas Mcgehee](https://www.notarydepot.com/mcnotary)
@@ -8488,4 +8489,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-05T14:05:02Z
+Updated at 2019-11-05T14:25:03Z
