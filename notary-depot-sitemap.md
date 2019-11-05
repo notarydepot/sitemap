@@ -4524,6 +4524,7 @@
   - [Notary Public in Selma, CA: Jennifer Leal](https://www.notarydepot.com/jenleal)
   - [Notary Public in Port Richey, FL: Jenni Click](https://www.notarydepot.com/jenn113)
   - [Notary Public in Irvine, CA: Jennafer Rohrig](https://www.notarydepot.com/jennafer)
+  - [Notary Public in Arlington, TX: Jenna Hill](https://www.notarydepot.com/jennanotary)
   - [Notary Public in Minneola, FL: Jennifer Sandlin](https://www.notarydepot.com/jennasands)
   - [Notary Public in Port St. Lucie, FL: Jennifer A. Galaviz](https://www.notarydepot.com/jenngalaviz)
   - [Notary Public in East Stroudsburg, PA: Jennifer Bell](https://www.notarydepot.com/jennib)
@@ -8490,4 +8491,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-05T17:25:03Z
+Updated at 2019-11-05T17:45:01Z
