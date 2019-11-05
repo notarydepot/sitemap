@@ -428,6 +428,7 @@
     - [Notary Public in Santa Ynez, CA](https://www.notarydepot.com/notary-near-me/California/Santa-Ynez)
     - [Notary Public in Santee, CA](https://www.notarydepot.com/notary-near-me/California/Santee)
     - [Notary Public in Saratoga, CA](https://www.notarydepot.com/notary-near-me/California/Saratoga)
+    - [Notary Public in Scotts Valley, CA](https://www.notarydepot.com/notary-near-me/California/Scotts-Valley)
     - [Notary Public in Seal Beach, CA](https://www.notarydepot.com/notary-near-me/California/Seal-Beach)
     - [Notary Public in Selma, CA](https://www.notarydepot.com/notary-near-me/California/Selma)
     - [Notary Public in Shingle Springs, CA](https://www.notarydepot.com/notary-near-me/California/Shingle-Springs)
@@ -3045,6 +3046,7 @@
   - [Notary Public in Houston, TX: Cahelia](https://www.notarydepot.com/cahelia)
   - [Notary Public in Houston, TX: Dominique Johnson](https://www.notarydepot.com/cahlaiyla23)
   - [Notary Public in Milton, FL: Terry &amp; Chyril Zale](https://www.notarydepot.com/caileenz49)
+  - [Notary Public in Scotts Valley, CA: Rebecca Arndt](https://www.notarydepot.com/calcoastss)
   - [Notary Public in Palm Bay, FL: Jean A. Caldwell](https://www.notarydepot.com/caldwell1002)
   - [Notary Public in Pontiac, MI: Shayla Caldwell](https://www.notarydepot.com/caldwellprocessing)
   - [Notary Public in Oklahoma City, OK: Caleb Dickenson ](https://www.notarydepot.com/calebthenotary)
@@ -8486,4 +8488,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-05T06:25:03Z
+Updated at 2019-11-05T06:45:02Z
