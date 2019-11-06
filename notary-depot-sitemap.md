@@ -6143,6 +6143,7 @@
   - [Notary Public in Los Angeles, CA: Emily Martiniuk](https://www.notarydepot.com/notarymart)
   - [Notary Public in Union Gap, WA: Mary Soes](https://www.notarydepot.com/notarymarysoes)
   - [Notary Public in Stafford, TX: Bianca Lloyd](https://www.notarydepot.com/notaryme23)
+  - [Notary Public in Houston, TX: Meredith Beck](https://www.notarydepot.com/notarymeredith)
   - [Notary Public in Tampa, FL: Vanessa White](https://www.notarydepot.com/notarymeservices)
   - [Notary Public in Madison, WI: Michelle Kern](https://www.notarydepot.com/notarymichelle)
   - [Notary Public in Chesterfield, MO: Mike Grasso](https://www.notarydepot.com/notarymike)
@@ -8493,4 +8494,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-06T17:25:02Z
+Updated at 2019-11-06T17:45:02Z
