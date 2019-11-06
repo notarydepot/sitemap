@@ -5596,6 +5596,7 @@
   - [Notary Public in Orlando, FL: Melissa I Castillo](https://www.notarydepot.com/melic617)
   - [Notary Public in York, PA: Melinda Y. Bell](https://www.notarydepot.com/melindaybell)
   - [Notary Public in Fort Pierce, FL: Melissa Mills Sweeney](https://www.notarydepot.com/melissafl)
+  - [Notary Public in Bakersfield, CA: Melissa Legg](https://www.notarydepot.com/melissalegg)
   - [Notary Public in Westminster, CO: Melissa](https://www.notarydepot.com/melissalynn)
   - [Notary Public in Wilmington, NC: Melissa Ortega](https://www.notarydepot.com/melissaortega8)
   - [Notary Public in Aliso Viejo, CA: Melissa Afshar](https://www.notarydepot.com/melissa_afshar)
@@ -8491,4 +8492,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-05T23:45:02Z
+Updated at 2019-11-06T00:05:02Z
