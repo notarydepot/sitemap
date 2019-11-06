@@ -3807,6 +3807,7 @@
   - [Notary Public in Pompano Beach, FL: Edward Farlow](https://www.notarydepot.com/edfarlow)
   - [Notary Public in Duluth, MN: Edith (Edie) Fontaine](https://www.notarydepot.com/edithfontaine)
   - [Notary Public in Aurora, CO: A Notary 2 Go!](https://www.notarydepot.com/edj1963)
+  - [Notary Public in Easton, PA: Eduard Eekhof](https://www.notarydepot.com/eduardeekhof)
   - [Notary Public in San Lorenzo, CA: Edward](https://www.notarydepot.com/edward510)
   - [Notary Public in Tecumseh, MI: Ed Wilson](https://www.notarydepot.com/edwilson)
   - [Notary Public in Hollywood, FL: Edwin Delgado](https://www.notarydepot.com/edwindelgado)
@@ -8492,4 +8493,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-06T15:05:02Z
+Updated at 2019-11-06T15:25:01Z
