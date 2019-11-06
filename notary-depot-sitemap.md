@@ -6140,7 +6140,7 @@
   - [Notary Public in Peoria, AZ: Alfred Manns](https://www.notarydepot.com/notarymann)
   - [Notary Public in Peoria, AZ: Alfred G Manns](https://www.notarydepot.com/notarymann1)
   - [Notary Public in Christiansburg, VA: Mark A Evans](https://www.notarydepot.com/notarymark1)
-  - [Notary Public in Burbank, CA: Emily Martiniuk](https://www.notarydepot.com/notarymart)
+  - [Notary Public in Los Angeles, CA: Emily Martiniuk](https://www.notarydepot.com/notarymart)
   - [Notary Public in Union Gap, WA: Mary Soes](https://www.notarydepot.com/notarymarysoes)
   - [Notary Public in Stafford, TX: Bianca Lloyd](https://www.notarydepot.com/notaryme23)
   - [Notary Public in Tampa, FL: Vanessa White](https://www.notarydepot.com/notarymeservices)
@@ -8493,4 +8493,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-06T16:25:02Z
+Updated at 2019-11-06T16:45:02Z
