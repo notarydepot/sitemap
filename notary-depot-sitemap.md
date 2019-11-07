@@ -4785,7 +4785,6 @@
   - [Notary Public in East Stroudsburg, PA: Jennifer Valedofsky](https://www.notarydepot.com/jtvale)
   - [Notary Public in Randolph, NY: Judith Korff](https://www.notarydepot.com/judith_ny)
   - [Notary Public in South Elgin, IL: Judith Ann Berlin](https://www.notarydepot.com/judy)
-  - [Notary Public in El Dorado Hills, CA: Judy Bujold](https://www.notarydepot.com/judybujold)
   - [Notary Public in Canterbury, CT: Judy Galinat](https://www.notarydepot.com/judyg83)
   - [Notary Public in Lake City, FL: Judy Chapman](https://www.notarydepot.com/judykc)
   - [Notary Public in De Pere, WI: Judy Lane](https://www.notarydepot.com/judylane)
@@ -8498,4 +8497,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-07T03:05:02Z
+Updated at 2019-11-07T03:25:01Z
