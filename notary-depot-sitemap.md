@@ -225,6 +225,7 @@
     - [Notary Public in El Centro, CA](https://www.notarydepot.com/notary-near-me/California/El-Centro)
     - [Notary Public in El Dorado Hills, CA](https://www.notarydepot.com/notary-near-me/California/El-Dorado-Hills)
     - [Notary Public in El Monte, CA](https://www.notarydepot.com/notary-near-me/California/El-Monte)
+    - [Notary Public in El Segundo, CA](https://www.notarydepot.com/notary-near-me/California/El-Segundo)
     - [Notary Public in El Sobrante, CA](https://www.notarydepot.com/notary-near-me/California/El-Sobrante)
     - [Notary Public in Elk Grove, CA](https://www.notarydepot.com/notary-near-me/California/Elk-Grove)
     - [Notary Public in Emeryville, CA](https://www.notarydepot.com/notary-near-me/California/Emeryville)
@@ -5086,6 +5087,7 @@
   - [Notary Public in San Francisco, CA: Kyle Devin Eisenberg](https://www.notarydepot.com/kylecooks12)
   - [Notary Public in Manhattan, KS: Kyle Droste](https://www.notarydepot.com/kyle_droste)
   - [Notary Public in Conifer, CO: Kym Zillioux](https://www.notarydepot.com/kymzillioux)
+  - [Notary Public in El Segundo, CA: KO Notary](https://www.notarydepot.com/kyofattycat0327)
   - [Notary Public in Burnsville, MN: Kyriaky Machovsky](https://www.notarydepot.com/kyriaky01)
   - [Notary Public in Woodford, VA: LaWanda Loving](https://www.notarydepot.com/labl79)
   - [Notary Public in San Dimas, CA: Lacey Eisele](https://www.notarydepot.com/laceyeisele)
@@ -8494,4 +8496,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-07T00:25:03Z
+Updated at 2019-11-07T00:45:02Z
