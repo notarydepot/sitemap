@@ -1460,6 +1460,7 @@
     - [Notary Public in Auburn, NY](https://www.notarydepot.com/notary-near-me/New-York/Auburn)
     - [Notary Public in Baldwin, NY](https://www.notarydepot.com/notary-near-me/New-York/Baldwin)
     - [Notary Public in Baldwinsville, NY](https://www.notarydepot.com/notary-near-me/New-York/Baldwinsville)
+    - [Notary Public in Batavia, NY](https://www.notarydepot.com/notary-near-me/New-York/Batavia)
     - [Notary Public in Bay Shore, NY](https://www.notarydepot.com/notary-near-me/New-York/Bay-Shore)
     - [Notary Public in Bemus Point, NY](https://www.notarydepot.com/notary-near-me/New-York/Bemus-Point)
     - [Notary Public in Bridgeport, NY](https://www.notarydepot.com/notary-near-me/New-York/Bridgeport)
@@ -4347,6 +4348,7 @@
   - [Notary Public in Hazlet, NJ: Mary Kmiotek](https://www.notarydepot.com/ipaul23)
   - [Notary Public in Ayer, MA: Korey Humphreys](https://www.notarydepot.com/ipsnotary)
   - [Notary Public in Odessa, NY: Irina Schmidt](https://www.notarydepot.com/irinaschmidt)
+  - [Notary Public in Batavia, NY: Tricia Johnson ](https://www.notarydepot.com/irishniss)
   - [Notary Public in American Canyon, CA: Anthony Fagen](https://www.notarydepot.com/irishrover94503)
   - [Notary Public in Hilton Head Island, SC: Ruqayyah Ar Raheem ](https://www.notarydepot.com/irisnotes007)
   - [Notary Public in Garfield, NJ: Maria](https://www.notarydepot.com/isa2175)
@@ -8496,4 +8498,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-07T02:45:01Z
+Updated at 2019-11-07T03:05:02Z
