@@ -712,6 +712,7 @@
     - [Notary Public in San Antonio, FL](https://www.notarydepot.com/notary-near-me/Florida/San-Antonio)
     - [Notary Public in Sanford, FL](https://www.notarydepot.com/notary-near-me/Florida/Sanford)
     - [Notary Public in Sarasota, FL](https://www.notarydepot.com/notary-near-me/Florida/Sarasota)
+    - [Notary Public in Satellite Beach, FL](https://www.notarydepot.com/notary-near-me/Florida/Satellite-Beach)
     - [Notary Public in Sebastian, FL](https://www.notarydepot.com/notary-near-me/Florida/Sebastian)
     - [Notary Public in Seffner, FL](https://www.notarydepot.com/notary-near-me/Florida/Seffner)
     - [Notary Public in Seminole, FL](https://www.notarydepot.com/notary-near-me/Florida/Seminole)
@@ -2986,6 +2987,7 @@
   - [Notary Public in Vacaville, CA: Brenda Green](https://www.notarydepot.com/brengreen)
   - [Notary Public in Mountlake Terrace, WA: Brenmor Mobile Notary](https://www.notarydepot.com/brenmor)
   - [Notary Public in Redfield, AR: Breonna Coleman](https://www.notarydepot.com/brethenotary)
+  - [Notary Public in Satellite Beach, FL: Brevard Notary Service-Mobile-24-7 www.brevardnotaryservice.com](https://www.notarydepot.com/brevardnotaryservice)
   - [Notary Public in Mandeville, LA: Brian J. Rhinehart](https://www.notarydepot.com/brhineha)
   - [Notary Public in Fort Worth, TX: Brian Hedger](https://www.notarydepot.com/brian)
   - [Notary Public in Surprise, AZ: Brian Lameira](https://www.notarydepot.com/brian62)
@@ -8501,4 +8503,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-08T17:25:02Z
+Updated at 2019-11-08T17:45:01Z
