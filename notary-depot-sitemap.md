@@ -2987,6 +2987,7 @@
   - [Notary Public in Vacaville, CA: Brenda Green](https://www.notarydepot.com/brengreen)
   - [Notary Public in Mountlake Terrace, WA: Brenmor Mobile Notary](https://www.notarydepot.com/brenmor)
   - [Notary Public in Redfield, AR: Breonna Coleman](https://www.notarydepot.com/brethenotary)
+  - [Notary Public in Melbourne, FL: Brevard Notary Service-Mobile-24-7 www.brevardnotaryservice.com](https://www.notarydepot.com/brevardnotary)
   - [Notary Public in Satellite Beach, FL: Brevard Notary Service-Mobile-24-7 www.brevardnotaryservice.com](https://www.notarydepot.com/brevardnotaryservice)
   - [Notary Public in Mandeville, LA: Brian J. Rhinehart](https://www.notarydepot.com/brhineha)
   - [Notary Public in Fort Worth, TX: Brian Hedger](https://www.notarydepot.com/brian)
@@ -6093,6 +6094,7 @@
   - [Notary Public in Fort Mohave, AZ: Michelle Encinas](https://www.notarydepot.com/notarybiz)
   - [Notary Public in Urbandale, IA: Robert Fitzgerrell](https://www.notarydepot.com/notarybob)
   - [Notary Public in Ocean Springs, MS: Garrett Ryan Thompson](https://www.notarydepot.com/notaryboy05)
+  - [Notary Public in Palm Bay, FL: Brevard Notary Service-Mobile-24-7 www.brevardnotaryservice.com](https://www.notarydepot.com/notarybrevard)
   - [Notary Public in East Haven, CT: Nancy C Bode](https://www.notarydepot.com/notarybusiness2010)
   - [Notary Public in San Diego, CA: Avery Skidmore](https://www.notarydepot.com/notarybyavery)
   - [Notary Public in Port Angeles, WA: Brandi G. Shepherd](https://www.notarydepot.com/notarybybrandi)
@@ -8503,4 +8505,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-08T17:45:01Z
+Updated at 2019-11-08T18:05:02Z
