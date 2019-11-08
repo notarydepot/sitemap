@@ -2359,6 +2359,7 @@
   - [Notary Public in Chicago, IL: BERNICE L CHARLES](https://www.notarydepot.com/1notary2notary)
   - [Notary Public in Applegate, CA: Terry Scott](https://www.notarydepot.com/1speedynotary)
   - [Notary Public in Hanford, CA: Hope Hernandez](https://www.notarydepot.com/2443hope)
+  - [Notary Public in Sebastian, FL: Brevard Notary Service-Mobile-24-7 www.brevardnotaryservice.com](https://www.notarydepot.com/247notarybrevard)
   - [Notary Public in Auburn, WA: Traci S. Felton](https://www.notarydepot.com/247travelingnotaryservice)
   - [Notary Public in San Bernardino, CA: Anthony Jones](https://www.notarydepot.com/24hourmobilenotary)
   - [Notary Public in Katy, TX: DAdreinne Sweatt](https://www.notarydepot.com/24hournotarytx)
@@ -2825,6 +2826,7 @@
   - [Notary Public in Fort Lauderdale, FL: Barbara Devore](https://www.notarydepot.com/bdevore)
   - [Notary Public in Elizabeth, NJ: Blasina Diaz](https://www.notarydepot.com/bdiaznj)
   - [Notary Public in Hewitt, TX: Benjamin D. Picazo](https://www.notarydepot.com/bdpicazo)
+  - [Notary Public in Cocoa, FL: Brevard Notary Service-Mobile-24-7 www.brevardnotaryservice.com](https://www.notarydepot.com/beachnotary)
   - [Notary Public in Arlington, TX: Sophia GibsonWilliams](https://www.notarydepot.com/beadwoman1)
   - [Notary Public in Ceres, CA: Corinne Pereira](https://www.notarydepot.com/bear87)
   - [Notary Public in Vero Beach, FL: Rebecca D. Fair](https://www.notarydepot.com/beccafl)
@@ -8505,4 +8507,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-08T18:05:02Z
+Updated at 2019-11-08T18:25:02Z
