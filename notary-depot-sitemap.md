@@ -7436,6 +7436,7 @@
   - [Notary Public in Roxboro, NC: Tiffany Yarboro](https://www.notarydepot.com/threewingedfury)
   - [Notary Public in Philadelphia, PA: Shirley Thrower](https://www.notarydepot.com/throwers)
   - [Notary Public in Duarte, CA: Thushari S Fernando](https://www.notarydepot.com/thush75)
+  - [Notary Public in Apopka, FL: Thy Nguyen Langley ](https://www.notarydepot.com/thynguyen)
   - [Notary Public in Cody, WY: Lauren Tibert Wells](https://www.notarydepot.com/tibertlm)
   - [Notary Public in Apple Valley, CA: Heidi Elliott](https://www.notarydepot.com/tidinhodd)
   - [Notary Public in NY: Tiffany Choice](https://www.notarydepot.com/tiffany)
@@ -8499,4 +8500,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-08T00:05:02Z
+Updated at 2019-11-08T00:25:02Z
