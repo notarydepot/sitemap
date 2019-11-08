@@ -5283,6 +5283,7 @@
   - [Notary Public in CA: Lisa Whall](https://www.notarydepot.com/lisawhall99)
   - [Notary Public in MA: Steven R. W. Leahy, Attorney at Law](https://www.notarydepot.com/livefree)
   - [Notary Public in Southfield, MI: Lucki Notary](https://www.notarydepot.com/livory)
+  - [Notary Public in Bakersfield, CA: Lizbeth Soto](https://www.notarydepot.com/lizbethsoto)
   - [Notary Public in Ionia, MI: Elizabeth A Cook](https://www.notarydepot.com/lizcook)
   - [Notary Public in Gloversville, NY: Elizabeth Donnelly](https://www.notarydepot.com/lizdon)
   - [Notary Public in Longwood, FL: Elizabeth Leon](https://www.notarydepot.com/lizsnotaryservices)
@@ -8500,4 +8501,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-08T04:05:02Z
+Updated at 2019-11-08T04:25:02Z
