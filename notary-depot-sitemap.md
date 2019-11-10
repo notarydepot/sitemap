@@ -1630,6 +1630,7 @@
     - [Notary Public in Salisbury, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Salisbury)
     - [Notary Public in South Mills, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/South-Mills)
     - [Notary Public in Statesville, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Statesville)
+    - [Notary Public in Swansboro, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Swansboro)
     - [Notary Public in Thomasville, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Thomasville)
     - [Notary Public in Waxhaw, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Waxhaw)
     - [Notary Public in Weaverville, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Weaverville)
@@ -3380,6 +3381,7 @@
   - [Notary Public in Monticello, NY: David G Komatz](https://www.notarydepot.com/crossroadsacctg)
   - [Notary Public in Kent, WA: Dana Velkers](https://www.notarydepot.com/crownjake)
   - [Notary Public in Manville, NJ: Christine Gorbatuk](https://www.notarydepot.com/crsteen0615)
+  - [Notary Public in Swansboro, NC: Johanna ](https://www.notarydepot.com/crystalcoastnotary)
   - [Notary Public in New Port Richey, FL: Crystal Thibodeaux](https://www.notarydepot.com/crystalth)
   - [Notary Public in Lincoln, NE: Crystal Yeutter](https://www.notarydepot.com/cryyeutter)
   - [Notary Public in Dayton, OH: Carlos Scarpero](https://www.notarydepot.com/cscarpero)
@@ -8510,4 +8512,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-10T02:45:01Z
+Updated at 2019-11-10T03:05:02Z
