@@ -5100,6 +5100,7 @@
   - [Notary Public in Manhattan, KS: Kyle Droste](https://www.notarydepot.com/kyle_droste)
   - [Notary Public in Conifer, CO: Kym Zillioux](https://www.notarydepot.com/kymzillioux)
   - [Notary Public in El Segundo, CA: KO Notary](https://www.notarydepot.com/kyofattycat0327)
+  - [Notary Public in Fresno, CA: Kyran Caples](https://www.notarydepot.com/kyranac)
   - [Notary Public in Burnsville, MN: Kyriaky Machovsky](https://www.notarydepot.com/kyriaky01)
   - [Notary Public in Woodford, VA: LaWanda Loving](https://www.notarydepot.com/labl79)
   - [Notary Public in San Dimas, CA: Lacey Eisele](https://www.notarydepot.com/laceyeisele)
@@ -8512,4 +8513,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-10T04:45:02Z
+Updated at 2019-11-10T05:05:02Z
