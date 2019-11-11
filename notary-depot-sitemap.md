@@ -6652,6 +6652,7 @@
   - [Notary Public in Grover Beach, CA: Raymond Grieco](https://www.notarydepot.com/rgrieco13)
   - [Notary Public in Wyandotte, MI: Roy Spears](https://www.notarydepot.com/rgspears48)
   - [Notary Public in San Diego, CA: Ryan Haggins](https://www.notarydepot.com/rhaggins)
+  - [Notary Public in Oklahoma City, OK: RHEA THORNTON](https://www.notarydepot.com/rheathornton)
   - [Notary Public in Riverbank, CA: Rose Hernandez](https://www.notarydepot.com/rhernandez)
   - [Notary Public in Dania Beach, FL: Robert Tresh](https://www.notarydepot.com/rherst)
   - [Notary Public in Wakonda, SD: Ruth Hessman](https://www.notarydepot.com/rhessman)
@@ -8514,4 +8515,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-11T21:05:02Z
+Updated at 2019-11-11T21:25:02Z
