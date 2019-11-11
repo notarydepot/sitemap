@@ -6070,6 +6070,7 @@
   - [Notary Public in Bakersfield, CA: Violeta Lopez-Pacheco](https://www.notarydepot.com/notary03)
   - [Notary Public in NY: Harry Singh](https://www.notarydepot.com/notary101)
   - [Notary Public in Jacksonville, FL: Frida](https://www.notarydepot.com/notary2019)
+  - [Notary Public in Douglasville, GA: Regina Whipple Tompkins](https://www.notarydepot.com/notary22)
   - [Notary Public in Long Beach, CA: Yvonne Johnson](https://www.notarydepot.com/notary23)
   - [Notary Public in Mahwah, NJ: Patrick Williams](https://www.notarydepot.com/notary284)
   - [Notary Public in Noblesville, IN: Richard Scott Stern](https://www.notarydepot.com/notary2939)
@@ -8513,4 +8514,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-11T16:45:02Z
+Updated at 2019-11-11T17:05:02Z
