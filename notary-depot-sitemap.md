@@ -7323,6 +7323,7 @@
   - [Notary Public in Fillmore, CA: Sylvia E. Garibay](https://www.notarydepot.com/sylgaribay)
   - [Notary Public in Santa Ana, CA: Sonya S. Zuniga](https://www.notarydepot.com/szuniga50)
   - [Notary Public in San Diego, CA: Silvia Bobadilla](https://www.notarydepot.com/s_bobadilla25)
+  - [Notary Public in Kings Mountain, KY: Steven Roach](https://www.notarydepot.com/s_roach)
   - [Notary Public in Carson, CA: Kiko Lee](https://www.notarydepot.com/tababy)
   - [Notary Public in CA: Tabitha Martin](https://www.notarydepot.com/tabithamartin)
   - [Notary Public in Orlando, FL: Teresa A. Burrell](https://www.notarydepot.com/taburrell)
@@ -8514,4 +8515,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-12T14:25:02Z
+Updated at 2019-11-12T14:45:02Z
