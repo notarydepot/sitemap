@@ -2271,6 +2271,7 @@
     - [Notary Public in Moses Lake, WA](https://www.notarydepot.com/notary-near-me/Washington/Moses-Lake)
     - [Notary Public in Mountlake Terrace, WA](https://www.notarydepot.com/notary-near-me/Washington/Mountlake-Terrace)
     - [Notary Public in Mukilteo, WA](https://www.notarydepot.com/notary-near-me/Washington/Mukilteo)
+    - [Notary Public in Newport, WA](https://www.notarydepot.com/notary-near-me/Washington/Newport)
     - [Notary Public in Ocean Park, WA](https://www.notarydepot.com/notary-near-me/Washington/Ocean-Park)
     - [Notary Public in Olympia, WA](https://www.notarydepot.com/notary-near-me/Washington/Olympia)
     - [Notary Public in Orting, WA](https://www.notarydepot.com/notary-near-me/Washington/Orting)
@@ -3167,6 +3168,7 @@
   - [Notary Public in Dearborn, MI: Shannon Fields](https://www.notarydepot.com/certifiednotaryshannongmailcom)
   - [Notary Public in Concord, NC: Danielle Moore](https://www.notarydepot.com/certified_notary_orchidone)
   - [Notary Public in Andrews, TX: Erik Wilkinson, Mls](https://www.notarydepot.com/cew1968)
+  - [Notary Public in Orlando, FL: Pete Adams](https://www.notarydepot.com/cflnotarypete)
   - [Notary Public in Carolina Beach, NC: Carol Ann Flinn](https://www.notarydepot.com/cfsac7)
   - [Notary Public in North Miami Beach, FL: Chloe G. Connolly](https://www.notarydepot.com/cgcnotary)
   - [Notary Public in Daytona Beach, FL: Cathy Gentry](https://www.notarydepot.com/cgentry127)
@@ -6778,7 +6780,7 @@
   - [Notary Public in Honolulu, HI: Michelle Turner](https://www.notarydepot.com/royltnla)
   - [Notary Public in Clarks Summit, PA: Ryan P. Campbell, Esq.](https://www.notarydepot.com/rpcampbell99)
   - [Notary Public in Macedonia, OH: Ronald Perelka](https://www.notarydepot.com/rperelka)
-  - [Notary Public in Clifton, NJ: Richard Plishka](https://www.notarydepot.com/rplishka)
+  - [Notary Public in Newport, WA: RICHARD PLISHKA](https://www.notarydepot.com/rplishka)
   - [Notary Public in San Bernardino, CA: Robert E. Powell](https://www.notarydepot.com/rpowell)
   - [Notary Public in Tampa, FL: Renee Primus](https://www.notarydepot.com/rprimus)
   - [Notary Public in NY: Signature Notary Ink.](https://www.notarydepot.com/rquartey)
@@ -8515,4 +8517,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-12T19:05:02Z
+Updated at 2019-11-12T19:25:02Z
