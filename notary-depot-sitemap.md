@@ -1426,6 +1426,7 @@
     - [Notary Public in Sicklerville, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Sicklerville)
     - [Notary Public in South Orange, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/South-Orange)
     - [Notary Public in South River, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/South-River)
+    - [Notary Public in Teaneck, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Teaneck)
     - [Notary Public in Tenafly, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Tenafly)
     - [Notary Public in Toms River, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Toms-River)
     - [Notary Public in Trenton, NJ](https://www.notarydepot.com/notary-near-me/New-Jersey/Trenton)
@@ -2271,7 +2272,6 @@
     - [Notary Public in Moses Lake, WA](https://www.notarydepot.com/notary-near-me/Washington/Moses-Lake)
     - [Notary Public in Mountlake Terrace, WA](https://www.notarydepot.com/notary-near-me/Washington/Mountlake-Terrace)
     - [Notary Public in Mukilteo, WA](https://www.notarydepot.com/notary-near-me/Washington/Mukilteo)
-    - [Notary Public in Newport, WA](https://www.notarydepot.com/notary-near-me/Washington/Newport)
     - [Notary Public in Ocean Park, WA](https://www.notarydepot.com/notary-near-me/Washington/Ocean-Park)
     - [Notary Public in Olympia, WA](https://www.notarydepot.com/notary-near-me/Washington/Olympia)
     - [Notary Public in Orting, WA](https://www.notarydepot.com/notary-near-me/Washington/Orting)
@@ -6780,7 +6780,7 @@
   - [Notary Public in Honolulu, HI: Michelle Turner](https://www.notarydepot.com/royltnla)
   - [Notary Public in Clarks Summit, PA: Ryan P. Campbell, Esq.](https://www.notarydepot.com/rpcampbell99)
   - [Notary Public in Macedonia, OH: Ronald Perelka](https://www.notarydepot.com/rperelka)
-  - [Notary Public in Newport, WA: RICHARD PLISHKA](https://www.notarydepot.com/rplishka)
+  - [Notary Public in Teaneck, NJ: RICHARD PLISHKA](https://www.notarydepot.com/rplishka)
   - [Notary Public in San Bernardino, CA: Robert E. Powell](https://www.notarydepot.com/rpowell)
   - [Notary Public in Tampa, FL: Renee Primus](https://www.notarydepot.com/rprimus)
   - [Notary Public in NY: Signature Notary Ink.](https://www.notarydepot.com/rquartey)
@@ -8517,4 +8517,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-12T19:25:02Z
+Updated at 2019-11-12T19:45:03Z
