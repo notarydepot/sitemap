@@ -2368,6 +2368,7 @@
   - [Notary Public in Katy, TX: DAdreinne Sweatt](https://www.notarydepot.com/24hournotarytx)
   - [Notary Public in Collegeville, PA: Stephen Sitron](https://www.notarydepot.com/25thour)
   - [Notary Public in Moreno Valley, CA: Jana Balderas](https://www.notarydepot.com/2balderas)
+  - [Notary Public in Detroit, MI: Brittany Sharpley](https://www.notarydepot.com/313notary)
   - [Notary Public in Houston, TX: 360 Mobile Notary](https://www.notarydepot.com/360notary)
   - [Notary Public in San Jose, CA: 3Yz Enterprise, Inc. Mark Wise](https://www.notarydepot.com/3yz)
   - [Notary Public in Antioch, CA: Imelda D. Rivera](https://www.notarydepot.com/4536steedway)
@@ -8518,4 +8519,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-13T02:45:02Z
+Updated at 2019-11-13T03:05:01Z
