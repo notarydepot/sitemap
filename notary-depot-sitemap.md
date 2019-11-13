@@ -4947,6 +4947,7 @@
   - [Notary Public in Fairfax, VA: Kelly Gulich](https://www.notarydepot.com/kellygulich)
   - [Notary Public in Pomona, CA: Kelly Shah](https://www.notarydepot.com/kellyshah)
   - [Notary Public in San Antonio, TX: Ms. Kelly Spicer](https://www.notarydepot.com/kellyspicer)
+  - [Notary Public in Suffolk, VA: Kelton Dildy](https://www.notarydepot.com/kelton1986)
   - [Notary Public in Las Vegas, NV: Kelvie Malia Shelton](https://www.notarydepot.com/kelviemalia)
   - [Notary Public in San Ramon, CA: Kemi Onifade](https://www.notarydepot.com/kemsho)
   - [Notary Public in Leesburg, VA: Kenan Goeller](https://www.notarydepot.com/kenan)
@@ -8517,4 +8518,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-13T00:05:02Z
+Updated at 2019-11-13T00:25:02Z
