@@ -1134,6 +1134,7 @@
     - [Notary Public in Allegan, MI](https://www.notarydepot.com/notary-near-me/Michigan/Allegan)
     - [Notary Public in Ann Arbor, MI](https://www.notarydepot.com/notary-near-me/Michigan/Ann-Arbor)
     - [Notary Public in Arcadia, MI](https://www.notarydepot.com/notary-near-me/Michigan/Arcadia)
+    - [Notary Public in Bath Township, MI](https://www.notarydepot.com/notary-near-me/Michigan/Bath-Township)
     - [Notary Public in Bay City, MI](https://www.notarydepot.com/notary-near-me/Michigan/Bay-City)
     - [Notary Public in Benton Harbor, MI](https://www.notarydepot.com/notary-near-me/Michigan/Benton-Harbor)
     - [Notary Public in Berkley, MI](https://www.notarydepot.com/notary-near-me/Michigan/Berkley)
@@ -3335,6 +3336,7 @@
   - [Notary Public in Cocoa, FL: David Bradley](https://www.notarydepot.com/consultinggroup)
   - [Notary Public in Cincinnati, OH: Susan Schwartz](https://www.notarydepot.com/coolsfancy)
   - [Notary Public in Sonora, CA: Sera A James](https://www.notarydepot.com/coordinator)
+  - [Notary Public in Bath Township, MI: Cora ](https://www.notarydepot.com/coraschimanski)
   - [Notary Public in Fort Worth, TX: Corey Milsap](https://www.notarydepot.com/coreymilsap)
   - [Notary Public in Shreveport, LA: Corey D. Williams](https://www.notarydepot.com/coreywilliams)
   - [Notary Public in Cary, IL: Cori Lentine](https://www.notarydepot.com/corilentine)
@@ -8521,4 +8523,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-15T12:05:01Z
+Updated at 2019-11-15T12:25:02Z
