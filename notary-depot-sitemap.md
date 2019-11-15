@@ -6203,6 +6203,7 @@
   - [Notary Public in NY: Darlene Thomas](https://www.notarydepot.com/notarypublicdthomas)
   - [Notary Public in Knoxville, TN: Kurt Gross](https://www.notarydepot.com/notarypublictn)
   - [Notary Public in Los Angeles, CA: Powell Okpara](https://www.notarydepot.com/notarypublic_ronaldreganbuilding)
+  - [Notary Public in NY: R Singh](https://www.notarydepot.com/notaryrichmondhill)
   - [Notary Public in Anaheim, CA: Maricela Rios ](https://www.notarydepot.com/notaryrios)
   - [Notary Public in San Antonio, TX: Robert Marin](https://www.notarydepot.com/notaryrob1800)
   - [Notary Public in Oxnard, CA: Sonya Root](https://www.notarydepot.com/notaryroot)
@@ -8524,4 +8525,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-15T20:45:02Z
+Updated at 2019-11-15T21:05:02Z
