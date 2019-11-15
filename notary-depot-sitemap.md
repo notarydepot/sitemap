@@ -5176,7 +5176,7 @@
   - [Notary Public in Sandston, VA: Anitra Watson](https://www.notarydepot.com/law4u10724)
   - [Notary Public in Hernando, FL: Lori A. Warren, C.n.p., C.n.s.a.](https://www.notarydepot.com/lawarren)
   - [Notary Public in Suffolk, VA: Gina Jones](https://www.notarydepot.com/lawbaby)
-  - [Notary Public in Orange, CA: Derrick Taberski](https://www.notarydepot.com/lawgnome)
+  - [Notary Public in Anaheim, CA: Derrick Taberski](https://www.notarydepot.com/lawgnome)
   - [Notary Public in Nashville, TN: LaWon Gladney](https://www.notarydepot.com/lawonnotary)
   - [Notary Public in Orlando, FL: lawsuitfundingfast](https://www.notarydepot.com/lawsuitfundingfast)
   - [Notary Public in Decatur, GA: Betty Williams-Kirby](https://www.notarydepot.com/lawyer27)
@@ -8521,4 +8521,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-15T06:25:02Z
+Updated at 2019-11-15T06:45:02Z
