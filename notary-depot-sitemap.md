@@ -4316,6 +4316,7 @@
   - [Notary Public in Los Angeles, CA: Hugo Enriquez](https://www.notarydepot.com/hugoenr87)
   - [Notary Public in DeLand, FL: Wesley C. Kibler](https://www.notarydepot.com/hvnotary)
   - [Notary Public in Pleasanton, CA: Helen Wardale](https://www.notarydepot.com/hwardale)
+  - [Notary Public in Stockbridge, GA: Brandi Hyche ](https://www.notarydepot.com/hychemobilenotary)
   - [Notary Public in Lincolnton, NC: Casey Hylton](https://www.notarydepot.com/hyltoncasey)
   - [Notary Public in Sunbury, OH: Holly Settles](https://www.notarydepot.com/h_settles)
   - [Notary Public in Currie, NC: shaniqua owens](https://www.notarydepot.com/iaitme)
@@ -8526,4 +8527,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-17T02:05:01Z
+Updated at 2019-11-17T02:25:02Z
