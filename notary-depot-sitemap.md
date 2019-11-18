@@ -4376,6 +4376,7 @@
   - [Notary Public in Santa Maria, CA: Live Scan &amp; Mobile Notary Solutions](https://www.notarydepot.com/isimobilenotary)
   - [Notary Public in Mansfield, TX: Deborah Renee Quarles](https://www.notarydepot.com/islanddebbie)
   - [Notary Public in Alameda, CA: Emi Johnston](https://www.notarydepot.com/islandnotary)
+  - [Notary Public in Bradenton, FL: Michael R Alleyne](https://www.notarydepot.com/islandnotary77)
   - [Notary Public in Wadmalaw Island, SC: LaQuan T. Freeman](https://www.notarydepot.com/island_notary)
   - [Notary Public in Sacramento, CA: Sabrina Donelli](https://www.notarydepot.com/italiana1972)
   - [Notary Public in Vista, CA: Annette Webb](https://www.notarydepot.com/itsawebb)
@@ -8527,4 +8528,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-18T14:45:02Z
+Updated at 2019-11-18T15:05:02Z
