@@ -7723,6 +7723,7 @@
   - [Notary Public in Seattle, WA: Daniela Borovska](https://www.notarydepot.com/virove1)
   - [Notary Public in New Braunfels, TX: Miriam Fairchild](https://www.notarydepot.com/virtualfairchild)
   - [Notary Public in DeKalb, IL: Katrina Brown](https://www.notarydepot.com/virtualkat)
+  - [Notary Public in Albuquerque, NM: Charlene LeGrand](https://www.notarydepot.com/virtuosova)
   - [Notary Public in Conyers, GA: Jennifer Van](https://www.notarydepot.com/visitthevans)
   - [Notary Public in Villa Park, CA: Vivien A. Phan](https://www.notarydepot.com/vivienaphan)
   - [Notary Public in Santa Fe Springs, CA: Vivian Jacinto](https://www.notarydepot.com/vivsnotary)
@@ -8529,4 +8530,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-18T21:05:02Z
+Updated at 2019-11-18T21:25:02Z
