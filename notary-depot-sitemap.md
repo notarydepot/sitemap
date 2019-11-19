@@ -3222,6 +3222,7 @@
   - [Notary Public in Montrose, CO: James Arnold](https://www.notarydepot.com/chewypup1)
   - [Notary Public in Chicago, IL: Chicago Prime Notary](https://www.notarydepot.com/chicagoprimenotary)
   - [Notary Public in Auburn, ME: Donald Robbins](https://www.notarydepot.com/chiefdon)
+  - [Notary Public in Anderson, SC: Albert D Pepiton](https://www.notarydepot.com/chipster88)
   - [Notary Public in Palmdale, CA: Chirnese Liverpool](https://www.notarydepot.com/chirnese_liverpool)
   - [Notary Public in Bolingbrook, IL: Thesia Ralston](https://www.notarydepot.com/chitownnotary)
   - [Notary Public in Oakland, CA: Charles Henry Jackson III](https://www.notarydepot.com/chjmobile)
@@ -8529,4 +8530,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-19T12:05:02Z
+Updated at 2019-11-19T12:25:01Z
