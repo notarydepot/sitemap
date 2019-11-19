@@ -4881,7 +4881,7 @@
   - [Notary Public in CA: Karla Jaffe](https://www.notarydepot.com/karlaj818)
   - [Notary Public in NJ: Karl Fortsch](https://www.notarydepot.com/karlfortsch)
   - [Notary Public in Houston, TX: Karla A. robinson](https://www.notarydepot.com/karobinson)
-  - [Notary Public in Abilene, TX: Angela D Rowe](https://www.notarydepot.com/karowe)
+  - [Notary Public in Abilene, TX: Angela D Rowe](https://www.notarydepot.com/karowe12)
   - [Notary Public in Rancho Cucamonga, CA: Kimberly Ann Shepperd](https://www.notarydepot.com/kas)
   - [Notary Public in Highland Park, NJ: Ken Sachs](https://www.notarydepot.com/kasas)
   - [Notary Public in Valley Stream, NY: Kasheika Brown](https://www.notarydepot.com/kasheikanbrown)
@@ -8531,4 +8531,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-19T18:25:01Z
+Updated at 2019-11-19T18:45:02Z
