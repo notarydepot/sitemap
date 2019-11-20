@@ -145,6 +145,7 @@
     - [Notary Public in Aguanga, CA](https://www.notarydepot.com/notary-near-me/California/Aguanga)
     - [Notary Public in Alameda, CA](https://www.notarydepot.com/notary-near-me/California/Alameda)
     - [Notary Public in Aliso Viejo, CA](https://www.notarydepot.com/notary-near-me/California/Aliso-Viejo)
+    - [Notary Public in Alpine, CA](https://www.notarydepot.com/notary-near-me/California/Alpine)
     - [Notary Public in Altadena, CA](https://www.notarydepot.com/notary-near-me/California/Altadena)
     - [Notary Public in American Canyon, CA](https://www.notarydepot.com/notary-near-me/California/American-Canyon)
     - [Notary Public in Anaheim, CA](https://www.notarydepot.com/notary-near-me/California/Anaheim)
@@ -6427,6 +6428,7 @@
   - [Notary Public in Canterbury, CT: Patricia E Sullivan](https://www.notarydepot.com/pesullivan)
   - [Notary Public in Warrington, PA: Peter Pirolli Jr.](https://www.notarydepot.com/pete823)
   - [Notary Public in Port St. Lucie, FL: Peter J. Church](https://www.notarydepot.com/peterc)
+  - [Notary Public in Alpine, CA: Peter Ring](https://www.notarydepot.com/petering)
   - [Notary Public in Sacramento, CA: Peter Stone Atty](https://www.notarydepot.com/peterlawstone)
   - [Notary Public in Alexandria, VA: Peter Wintermute](https://www.notarydepot.com/peterwintermute)
   - [Notary Public in Orlando, FL: petrona criswell](https://www.notarydepot.com/petrona)
@@ -8533,4 +8535,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-20T21:05:02Z
+Updated at 2019-11-20T21:25:02Z
