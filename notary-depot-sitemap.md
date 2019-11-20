@@ -1992,6 +1992,7 @@
     - [Notary Public in Beaumont, TX](https://www.notarydepot.com/notary-near-me/Texas/Beaumont)
     - [Notary Public in Bedford, TX](https://www.notarydepot.com/notary-near-me/Texas/Bedford)
     - [Notary Public in Belton, TX](https://www.notarydepot.com/notary-near-me/Texas/Belton)
+    - [Notary Public in Benbrook, TX](https://www.notarydepot.com/notary-near-me/Texas/Benbrook)
     - [Notary Public in Bryan, TX](https://www.notarydepot.com/notary-near-me/Texas/Bryan)
     - [Notary Public in Burleson, TX](https://www.notarydepot.com/notary-near-me/Texas/Burleson)
     - [Notary Public in Campbell, TX](https://www.notarydepot.com/notary-near-me/Texas/Campbell)
@@ -3077,7 +3078,7 @@
   - [Notary Public in Mesa, AZ: Candance Speidel](https://www.notarydepot.com/candita4)
   - [Notary Public in Palm Harbor, FL: Joseph Farrell](https://www.notarydepot.com/cando)
   - [Notary Public in CA: Chris Andries](https://www.notarydepot.com/candries)
-  - [Notary Public in Fort Worth, TX: Steven &amp; Carrie Eakin](https://www.notarydepot.com/candsnotary)
+  - [Notary Public in Benbrook, TX: Steve Eakin](https://www.notarydepot.com/candsnotary)
   - [Notary Public in Riverside, CA: Carmela Arndt, Riverside, Ca Mobile Notary Service](https://www.notarydepot.com/canotarysvc)
   - [Notary Public in Houston, TX: Kenneth W. Robinson](https://www.notarydepot.com/canrememberbyyou)
   - [Notary Public in Vidor, TX: Chris Anthony](https://www.notarydepot.com/canthony)
@@ -8532,4 +8533,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-20T16:45:02Z
+Updated at 2019-11-20T17:05:02Z
