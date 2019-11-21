@@ -6115,6 +6115,7 @@
   - [Notary Public in Richmond, TX: Ella Duru](https://www.notarydepot.com/notaryatyourservice)
   - [Notary Public in Sun City, AZ: Esther Goetz](https://www.notarydepot.com/notaryaz)
   - [Notary Public in Santa Ana, CA: gilbert L salvador](https://www.notarydepot.com/notarybert)
+  - [Notary Public in Scranton, PA: Christine Stawinsky ](https://www.notarydepot.com/notarybest1)
   - [Notary Public in Fort Mohave, AZ: Michelle Encinas](https://www.notarydepot.com/notarybiz)
   - [Notary Public in Urbandale, IA: Robert Fitzgerrell](https://www.notarydepot.com/notarybob)
   - [Notary Public in Ocean Springs, MS: Garrett Ryan Thompson](https://www.notarydepot.com/notaryboy05)
@@ -8536,4 +8537,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-21T04:45:02Z
+Updated at 2019-11-21T05:05:01Z
