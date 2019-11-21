@@ -5608,7 +5608,7 @@
   - [Notary Public in Bristol, VA: Walter H Schilling Jr.](https://www.notarydepot.com/meatman21)
   - [Notary Public in Glendale, AZ: Mechelle Tucker](https://www.notarydepot.com/mechelle)
   - [Notary Public in Glendale, AZ: Mechelle](https://www.notarydepot.com/mechelle1st)
-  - [Notary Public in Charlotte, NC: Pampa Sinha](https://www.notarydepot.com/mecklenburgnotary)
+  - [Notary Public in Huntersville, NC: Pampa Sinha](https://www.notarydepot.com/mecklenburgnotary)
   - [Notary Public in Fresno, CA: Andrea Medina](https://www.notarydepot.com/medinanotary)
   - [Notary Public in Santa Clara, CA: Meenakshi Certified Signing Agent    ](https://www.notarydepot.com/meenakshicertifiedloansigning)
   - [Notary Public in Fresno, CA: Jamie Davis](https://www.notarydepot.com/megan1)
@@ -8537,4 +8537,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-21T17:05:02Z
+Updated at 2019-11-21T17:25:02Z
