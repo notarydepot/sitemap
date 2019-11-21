@@ -5789,6 +5789,7 @@
   - [Notary Public in Liberty, MO: Clyde Heppner](https://www.notarydepot.com/mobilenotarykc)
   - [Notary Public in Los Angeles, CA: Charles Ross](https://www.notarydepot.com/mobilenotarylaxcrossgmailcom)
   - [Notary Public in Alexandria, VA: Lisa D Brightsen](https://www.notarydepot.com/mobilenotarylisa)
+  - [Notary Public in Covina, CA: Martha ](https://www.notarydepot.com/mobilenotarymgutierrezgmailcom)
   - [Notary Public in Mount Airy, NC: Davee Daughenbaugh ](https://www.notarydepot.com/mobilenotaryondemand)
   - [Notary Public in Boynton Beach, FL: Mobile Notary Service](https://www.notarydepot.com/mobilenotarypbc)
   - [Notary Public in Glendale, AZ: Shawna Smith](https://www.notarydepot.com/mobilenotaryphx)
@@ -8537,4 +8538,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-21T19:25:02Z
+Updated at 2019-11-21T19:45:02Z
