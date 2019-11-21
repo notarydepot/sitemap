@@ -7635,6 +7635,7 @@
   - [Notary Public in Savannah, GA: Pheon Tyson](https://www.notarydepot.com/tysonph1)
   - [Notary Public in Portland, TX: Tammy Zipprian](https://www.notarydepot.com/tzipp1984)
   - [Notary Public in Menifee, CA: Gary Roberts](https://www.notarydepot.com/u123823)
+  - [Notary Public in NY: Marie J Ramsay](https://www.notarydepot.com/ubernotary)
   - [Notary Public in Garden Grove, CA: Isabel C. Stevens](https://www.notarydepot.com/uclanotary)
   - [Notary Public in Fremont, CA: Udaya K Padmanabhuni](https://www.notarydepot.com/udayak)
   - [Notary Public in Dublin, CA: 24 Hour Document Signing Services](https://www.notarydepot.com/udxdirect)
@@ -8535,4 +8536,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-21T00:45:02Z
+Updated at 2019-11-21T01:05:02Z
