@@ -891,6 +891,7 @@
     - [Notary Public in Park Ridge, IL](https://www.notarydepot.com/notary-near-me/Illinois/Park-Ridge)
     - [Notary Public in Paxton, IL](https://www.notarydepot.com/notary-near-me/Illinois/Paxton)
     - [Notary Public in Peoria, IL](https://www.notarydepot.com/notary-near-me/Illinois/Peoria)
+    - [Notary Public in Plainfield, IL](https://www.notarydepot.com/notary-near-me/Illinois/Plainfield)
     - [Notary Public in Princeton, IL](https://www.notarydepot.com/notary-near-me/Illinois/Princeton)
     - [Notary Public in Romeoville, IL](https://www.notarydepot.com/notary-near-me/Illinois/Romeoville)
     - [Notary Public in Sheridan, IL](https://www.notarydepot.com/notary-near-me/Illinois/Sheridan)
@@ -4942,6 +4943,7 @@
   - [Notary Public in Salt Lake City, UT: Dez Keene](https://www.notarydepot.com/keenenotarypro)
   - [Notary Public in Lehigh Acres, FL: George Duncan](https://www.notarydepot.com/keepitrealmobile)
   - [Notary Public in Mount Olive Township, NJ: Philip Friedland](https://www.notarydepot.com/keeptaxes)
+  - [Notary Public in Plainfield, IL: Keia Giles](https://www.notarydepot.com/keiatg)
   - [Notary Public in Bellflower, CA: ***Lakeisha Howard***](https://www.notarydepot.com/keisha)
   - [Notary Public in Lancaster, TX: Keisha Pope](https://www.notarydepot.com/keishapope)
   - [Notary Public in Rocky Mount, NC: Keisha Ward](https://www.notarydepot.com/keishaward)
@@ -8538,4 +8540,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-22T03:05:02Z
+Updated at 2019-11-22T03:25:02Z
