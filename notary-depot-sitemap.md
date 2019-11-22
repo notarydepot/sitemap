@@ -3868,6 +3868,7 @@
   - [Notary Public in Chino Hills, CA: Lynita Scott](https://www.notarydepot.com/elegantnotary)
   - [Notary Public in CA: Elena Togoe](https://www.notarydepot.com/elena052560)
   - [Notary Public in La Mesa, CA: Chelsea Addison](https://www.notarydepot.com/eleventhhourmobilenotary)
+  - [Notary Public in New York, NY: Elias](https://www.notarydepot.com/elias)
   - [Notary Public in West Palm Beach, FL: Elijah James](https://www.notarydepot.com/elijah9891)
   - [Notary Public in Chino Hills, CA: Kim Pitts](https://www.notarydepot.com/elijah99)
   - [Notary Public in San Mateo, CA: The Best Bay Area Notaryâ„¢](https://www.notarydepot.com/elijones)
@@ -8540,4 +8541,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-22T14:25:02Z
+Updated at 2019-11-22T14:45:02Z
