@@ -5026,6 +5026,7 @@
   - [Notary Public in Santa Ynez, CA: Catherine (Kitty) Sorensen](https://www.notarydepot.com/kitty)
   - [Notary Public in Bedford, TX: Yale Kitupa](https://www.notarydepot.com/kitupayale)
   - [Notary Public in Vallejo, CA: Kizze Harris](https://www.notarydepot.com/kizze)
+  - [Notary Public in Florissant, MO: Kim ](https://www.notarydepot.com/kjfields1)
   - [Notary Public in Brunswick, ME: Kelly Hanlin](https://www.notarydepot.com/kjhanlin)
   - [Notary Public in Elizabeth, NJ: Kevin Hyman](https://www.notarydepot.com/kjhyman24)
   - [Notary Public in Portland, OR: Kathryn J. Bradley](https://www.notarydepot.com/kjkb)
@@ -8543,4 +8544,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-23T17:50:02Z
+Updated at 2019-11-23T18:10:01Z
