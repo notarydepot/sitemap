@@ -6104,7 +6104,7 @@
   - [Notary Public in Fontana, CA: Debra A. Stewart](https://www.notarydepot.com/notary2yourdoor)
   - [Notary Public in Georgetown, TX: Sandra K. Collins](https://www.notarydepot.com/notary3040)
   - [Notary Public in Stockton, CA: Luis Castaneda](https://www.notarydepot.com/notary3122)
-  - [Notary Public in Orlando, FL: Frances Garcia](https://www.notarydepot.com/notary32824)
+  - [Notary Public in Kissimmee, FL: Frances Garcia](https://www.notarydepot.com/notary32824)
   - [Notary Public in Sterling Heights, MI: Damara Telesz](https://www.notarydepot.com/notary3306)
   - [Notary Public in Fairburn, GA: Dee Hill](https://www.notarydepot.com/notary357)
   - [Notary Public in Troy, MI: D McCaskill](https://www.notarydepot.com/notary365)
@@ -8545,4 +8545,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-24T14:30:02Z
+Updated at 2019-11-24T14:50:02Z
