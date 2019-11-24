@@ -5404,6 +5404,7 @@
   - [Notary Public in Houston, TX: Lyudmyla Patalakh](https://www.notarydepot.com/luda)
   - [Notary Public in Moreno Valley, CA: Luetta Clark](https://www.notarydepot.com/luetta)
   - [Notary Public in Katy, TX: Luciana Farria](https://www.notarydepot.com/lufarria)
+  - [Notary Public in FL: Luis B. Rivera](https://www.notarydepot.com/luisbrivera)
   - [Notary Public in Jacksonville, FL: Luke Sawyer](https://www.notarydepot.com/lukesawyer)
   - [Notary Public in Rancho Santa Margarita, CA: Victor Cardi](https://www.notarydepot.com/lukescoach)
   - [Notary Public in Pittston, PA: Mary Louise Mamary](https://www.notarydepot.com/lulu)
@@ -8544,4 +8545,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-24T21:10:02Z
+Updated at 2019-11-24T21:30:02Z
