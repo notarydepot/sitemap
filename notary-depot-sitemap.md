@@ -7570,6 +7570,7 @@
   - [Notary Public in Norfolk, VA: Toronicia Woods,CSA Title Producer](https://www.notarydepot.com/toronicia)
   - [Notary Public in New Britain, CT: Antonio](https://www.notarydepot.com/torriola07)
   - [Notary Public in Casper, WY: Tosca Jones](https://www.notarydepot.com/toscab)
+  - [Notary Public in McDonough, GA: Jasmine Alexander](https://www.notarydepot.com/totalnotaryservices)
   - [Notary Public in Fishkill, NY: Trenton P Hall](https://www.notarydepot.com/tphall)
   - [Notary Public in Hollywood, FL: Tania Wallace](https://www.notarydepot.com/tpray)
   - [Notary Public in Highland, NY: Tracee V Smythe](https://www.notarydepot.com/tracee)
@@ -8545,4 +8546,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-25T15:10:02Z
+Updated at 2019-11-25T15:30:02Z
