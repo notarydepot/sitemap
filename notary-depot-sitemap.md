@@ -1101,6 +1101,7 @@
     - [Notary Public in Riva, MD](https://www.notarydepot.com/notary-near-me/Maryland/Riva)
     - [Notary Public in Rockville, MD](https://www.notarydepot.com/notary-near-me/Maryland/Rockville)
     - [Notary Public in Silver Spring, MD](https://www.notarydepot.com/notary-near-me/Maryland/Silver-Spring)
+    - [Notary Public in Sparks Glencoe, MD](https://www.notarydepot.com/notary-near-me/Maryland/Sparks-Glencoe)
     - [Notary Public in Towson, MD](https://www.notarydepot.com/notary-near-me/Maryland/Towson)
     - [Notary Public in Upper Marlboro, MD](https://www.notarydepot.com/notary-near-me/Maryland/Upper-Marlboro)
     - [Notary Public in Waldorf, MD](https://www.notarydepot.com/notary-near-me/Maryland/Waldorf)
@@ -6153,6 +6154,7 @@
   - [Notary Public in Park Ridge, IL: Shawn Tolu](https://www.notarydepot.com/notaryexpress)
   - [Notary Public in Jacksonville, FL: Rebecca Staples](https://www.notarydepot.com/notaryfast)
   - [Notary Public in Los Angeles, CA: Susanna Turner](https://www.notarydepot.com/notaryforall)
+  - [Notary Public in Sparks Glencoe, MD: Tamarra M Jones](https://www.notarydepot.com/notaryforyouandyoutoo)
   - [Notary Public in Buckeye, AZ: oyeen](https://www.notarydepot.com/notaryforyoutrue)
   - [Notary Public in High Point, NC: Frank Modica (10 yrs experience!)](https://www.notarydepot.com/notaryfrank)
   - [Notary Public in Winston-Salem, NC: Frank Modica (over 10yrs experience!)](https://www.notarydepot.com/notaryfrankws)
@@ -8546,4 +8548,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-27T01:50:02Z
+Updated at 2019-11-27T02:10:02Z
