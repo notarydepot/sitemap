@@ -2991,7 +2991,6 @@
   - [Notary Public in Stow, OH: Brandy Money](https://www.notarydepot.com/brandymny)
   - [Notary Public in Snellville, GA: Brandy Gifford](https://www.notarydepot.com/brandy_g2)
   - [Notary Public in Lake Forest, CA: J. M. Smith](https://www.notarydepot.com/brasring)
-  - [Notary Public in Saginaw, MI: Brayden Kessler](https://www.notarydepot.com/braydenkessler)
   - [Notary Public in Clermont, FL: Brenda DeArmond](https://www.notarydepot.com/brdearmond)
   - [Notary Public in Brea, CA: Ken Case](https://www.notarydepot.com/breakenn)
   - [Notary Public in El Monte, CA: Brenda Galindo](https://www.notarydepot.com/brenda1227)
@@ -8548,4 +8547,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-27T04:30:02Z
+Updated at 2019-11-27T04:50:03Z
