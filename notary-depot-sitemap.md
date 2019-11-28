@@ -605,6 +605,8 @@
     - [Notary Public in Delray Beach, FL](https://www.notarydepot.com/notary-near-me/Florida/Delray-Beach)
     - [Notary Public in Deltona, FL](https://www.notarydepot.com/notary-near-me/Florida/Deltona)
     - [Notary Public in Dover, FL](https://www.notarydepot.com/notary-near-me/Florida/Dover)
+    - [Notary Public in East Palatka, FL](https://www.notarydepot.com/notary-near-me/Florida/East-Palatka)
+    - [Notary Public in Elkton, FL](https://www.notarydepot.com/notary-near-me/Florida/Elkton)
     - [Notary Public in Ellenton, FL](https://www.notarydepot.com/notary-near-me/Florida/Ellenton)
     - [Notary Public in Englewood, FL](https://www.notarydepot.com/notary-near-me/Florida/Englewood)
     - [Notary Public in Eustis, FL](https://www.notarydepot.com/notary-near-me/Florida/Eustis)
@@ -4504,7 +4506,7 @@
   - [Notary Public in Coldwater, MI: Jennifer Born](https://www.notarydepot.com/jborn01)
   - [Notary Public in Minneapolis, MN: Jason Borowitz](https://www.notarydepot.com/jborowitz)
   - [Notary Public in Port Richey, FL: Judith M. Bowes](https://www.notarydepot.com/jbowes)
-  - [Notary Public in Philadelphia, PA: Jason Hardy-Ramsey](https://www.notarydepot.com/jbramsey98)
+  - [Notary Public in East Palatka, FL: Jason Hardy-Ramsey](https://www.notarydepot.com/jbramsey98)
   - [Notary Public in Laguna Niguel, CA: Jaime Bronn](https://www.notarydepot.com/jbronn)
   - [Notary Public in Ramona, CA: Jeff Teixeira](https://www.notarydepot.com/jbteix)
   - [Notary Public in Plano, TX: Jason Burkhalter](https://www.notarydepot.com/jburkhalter)
@@ -5891,6 +5893,7 @@
   - [Notary Public in Chicago, IL: Abigail](https://www.notarydepot.com/msabbyb)
   - [Notary Public in Streetsboro, OH: Mary Saks](https://www.notarydepot.com/msaks61)
   - [Notary Public in Los Angeles, CA: Yvonne Key](https://www.notarydepot.com/msbelle51)
+  - [Notary Public in Elkton, FL: Beatrice Murray](https://www.notarydepot.com/msbnotary)
   - [Notary Public in Jersey City, NJ: Earthie Daniels-Franklin](https://www.notarydepot.com/msbuddacup)
   - [Notary Public in Portsmouth, VA: Delores Shepherd](https://www.notarydepot.com/mscab1099)
   - [Notary Public in Country Club Hills, IL: Shirley Reynolds](https://www.notarydepot.com/msdamars2001)
@@ -8548,4 +8551,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-28T04:10:02Z
+Updated at 2019-11-28T04:30:02Z
