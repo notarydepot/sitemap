@@ -4504,6 +4504,7 @@
   - [Notary Public in Coldwater, MI: Jennifer Born](https://www.notarydepot.com/jborn01)
   - [Notary Public in Minneapolis, MN: Jason Borowitz](https://www.notarydepot.com/jborowitz)
   - [Notary Public in Port Richey, FL: Judith M. Bowes](https://www.notarydepot.com/jbowes)
+  - [Notary Public in Philadelphia, PA: Jason Hardy-Ramsey](https://www.notarydepot.com/jbramsey98)
   - [Notary Public in Laguna Niguel, CA: Jaime Bronn](https://www.notarydepot.com/jbronn)
   - [Notary Public in Ramona, CA: Jeff Teixeira](https://www.notarydepot.com/jbteix)
   - [Notary Public in Plano, TX: Jason Burkhalter](https://www.notarydepot.com/jburkhalter)
@@ -8547,4 +8548,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-28T03:50:02Z
+Updated at 2019-11-28T04:10:02Z
