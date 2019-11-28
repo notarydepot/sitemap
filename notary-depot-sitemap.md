@@ -6068,6 +6068,7 @@
   - [Notary Public in Glendale, AZ: Nancy Lopez](https://www.notarydepot.com/nltays)
   - [Notary Public in Miami, FL: Nancy Mayea](https://www.notarydepot.com/nmayea)
   - [Notary Public in New London, CT: Niecy McCoy](https://www.notarydepot.com/nmccoy317)
+  - [Notary Public in Albuquerque, NM: Garrett Smith](https://www.notarydepot.com/nmmobilenotary)
   - [Notary Public in New Britain, CT: Nicole Marie Tine](https://www.notarydepot.com/nmtine4)
   - [Notary Public in Hollywood, FL: Nick Nikolaidis](https://www.notarydepot.com/nnickolas)
   - [Notary Public in Louisville, KY: Peggy Dockery](https://www.notarydepot.com/noblenotaries)
@@ -8549,4 +8550,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-28T23:10:02Z
+Updated at 2019-11-28T23:30:02Z
