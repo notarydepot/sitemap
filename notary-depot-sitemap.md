@@ -3330,6 +3330,7 @@
   - [Notary Public in Indianapolis, IN: Kyle [Kee-Lee] Inez Cole](https://www.notarydepot.com/colefolk)
   - [Notary Public in Northglenn, CO: Kim Coleman](https://www.notarydepot.com/colemakr)
   - [Notary Public in Oakland, CA: Joanna M Cole, Notary Public](https://www.notarydepot.com/colesigningagent)
+  - [Notary Public in Richardson, TX: Colina Robinson](https://www.notarydepot.com/colinar)
   - [Notary Public in Swartz Creek, MI: Colin Chea](https://www.notarydepot.com/colinchea)
   - [Notary Public in Chesapeake, VA: Colleen Holmes, CSA](https://www.notarydepot.com/colleen)
   - [Notary Public in Lake Elsinore, CA: Colleen M Gomez](https://www.notarydepot.com/colleengomez3)
@@ -8550,4 +8551,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-29T14:10:02Z
+Updated at 2019-11-29T14:30:02Z
