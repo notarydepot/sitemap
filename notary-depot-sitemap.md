@@ -3076,6 +3076,7 @@
   - [Notary Public in Louisville, KY: Callie Baker](https://www.notarydepot.com/calliebaker)
   - [Notary Public in Los Angeles, CA: Mendel Plotke](https://www.notarydepot.com/calnotary)
   - [Notary Public in Fayette, MS: Calvin Muhammad](https://www.notarydepot.com/calvinjam)
+  - [Notary Public in Cambria, CA: William Rogers](https://www.notarydepot.com/cambrianotary)
   - [Notary Public in Dexter, MO: Camie Jelinek](https://www.notarydepot.com/camiejelinek)
   - [Notary Public in Brentwood, CA: Sheree Mischelle Valadez](https://www.notarydepot.com/camobilenotary)
   - [Notary Public in Temple City, CA: Candace E. Correll](https://www.notarydepot.com/candacenotary)
@@ -8553,4 +8554,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-30T01:10:02Z
+Updated at 2019-11-30T01:30:02Z
