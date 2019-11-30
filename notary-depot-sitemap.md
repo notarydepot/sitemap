@@ -4679,6 +4679,7 @@
   - [Notary Public in Lake Forest, CA: Joeanne Manzala](https://www.notarydepot.com/jmanzala0922)
   - [Notary Public in York, PA: Jolynn Mcdowell](https://www.notarydepot.com/jmcdowell801)
   - [Notary Public in Fouke, AR: Jonathan McIntyre](https://www.notarydepot.com/jmcintyre)
+  - [Notary Public in Duluth, GA: Joanne Garlington](https://www.notarydepot.com/jmgarlington)
   - [Notary Public in Bettendorf, IA: Janiece M Goldsberry](https://www.notarydepot.com/jmgberry)
   - [Notary Public in Roseville, CA: Jennifer Grinder](https://www.notarydepot.com/jmgrinder)
   - [Notary Public in Milford Charter Township, MI: John Micallef](https://www.notarydepot.com/jmicallefnotary)
@@ -8556,4 +8557,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-11-30T21:50:01Z
+Updated at 2019-11-30T22:10:02Z
