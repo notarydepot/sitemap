@@ -559,6 +559,7 @@
     - [Notary Public in Dover, DE](https://www.notarydepot.com/notary-near-me/Delaware/Dover)
     - [Notary Public in Lewes, DE](https://www.notarydepot.com/notary-near-me/Delaware/Lewes)
     - [Notary Public in Middletown, DE](https://www.notarydepot.com/notary-near-me/Delaware/Middletown)
+    - [Notary Public in Millsboro, DE](https://www.notarydepot.com/notary-near-me/Delaware/Millsboro)
     - [Notary Public in New Castle, DE](https://www.notarydepot.com/notary-near-me/Delaware/New-Castle)
     - [Notary Public in Wilmington, DE](https://www.notarydepot.com/notary-near-me/Delaware/Wilmington)
   - [Notaries Public in District of Columbia](https://www.notarydepot.com/notary-near-me/District-of-Columbia)
@@ -7401,6 +7402,7 @@
   - [Notary Public in Haines City, FL: Thomas Murphy](https://www.notarydepot.com/tbmurphy1)
   - [Notary Public in The Colony, TX: Tonie Boaman](https://www.notarydepot.com/tboaman)
   - [Notary Public in Englewood, CO: Gaile Mink](https://www.notarydepot.com/tbooki)
+  - [Notary Public in Millsboro, DE: Tara Broadway](https://www.notarydepot.com/tbroadway)
   - [Notary Public in Larkspur, CO: Therese A. Christopher](https://www.notarydepot.com/tc4106)
   - [Notary Public in Stockton, CA: Tanisha Castle](https://www.notarydepot.com/tcastle2)
   - [Notary Public in Long Beach, CA: Toyicha Chisom](https://www.notarydepot.com/tchisom)
@@ -8557,4 +8559,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-01T18:50:02Z
+Updated at 2019-12-01T19:10:02Z
