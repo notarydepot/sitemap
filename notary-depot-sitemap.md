@@ -7396,6 +7396,7 @@
   - [Notary Public in Bridgeport, CT: Tasha Brown](https://www.notarydepot.com/tashgirl226)
   - [Notary Public in Johnston, SC: Tashia Jackson](https://www.notarydepot.com/tashia)
   - [Notary Public in Atoka, OK: Sherri Middleton](https://www.notarydepot.com/taxnotary)
+  - [Notary Public in Mount Pleasant, SC: Dawne](https://www.notarydepot.com/taylord)
   - [Notary Public in Saint Pauls, NC: Alex Taylor](https://www.notarydepot.com/taylornotarync)
   - [Notary Public in San Jacinto, CA: Jessica Clark](https://www.notarydepot.com/tbansheeman)
   - [Notary Public in Harrisburg, NC: Tasha Barnes](https://www.notarydepot.com/tbarnes)
@@ -8560,4 +8561,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-03T20:30:02Z
+Updated at 2019-12-03T20:50:02Z
