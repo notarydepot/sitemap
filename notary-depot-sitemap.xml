@@ -1655,6 +1655,7 @@
       <url><loc>https://www.notarydepot.com/notary-near-me/North-Dakota/Bismarck</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
       <url><loc>https://www.notarydepot.com/notary-near-me/North-Dakota/Fargo</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
       <url><loc>https://www.notarydepot.com/notary-near-me/North-Dakota/Washburn</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+      <url><loc>https://www.notarydepot.com/notary-near-me/North-Dakota/West-Fargo</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
       <url><loc>https://www.notarydepot.com/notary-near-me/North-Dakota/Williston</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
     <url><loc>https://www.notarydepot.com/notary-near-me/Ohio</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
       <url><loc>https://www.notarydepot.com/notary-near-me/Ohio/Alliance</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
@@ -2273,7 +2274,6 @@
       <url><loc>https://www.notarydepot.com/notary-near-me/Washington/Fox-Island</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
       <url><loc>https://www.notarydepot.com/notary-near-me/Washington/Gig-Harbor</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
       <url><loc>https://www.notarydepot.com/notary-near-me/Washington/Goldendale</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-      <url><loc>https://www.notarydepot.com/notary-near-me/Washington/Hoodsport</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
       <url><loc>https://www.notarydepot.com/notary-near-me/Washington/Kelso</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
       <url><loc>https://www.notarydepot.com/notary-near-me/Washington/Kennewick</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
       <url><loc>https://www.notarydepot.com/notary-near-me/Washington/Kent</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
@@ -7839,6 +7839,7 @@
     <url><loc>https://www.notarydepot.com/willi1185</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
     <url><loc>https://www.notarydepot.com/williadd</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
     <url><loc>https://www.notarydepot.com/william</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://www.notarydepot.com/williamdowd6</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
     <url><loc>https://www.notarydepot.com/williamk</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
     <url><loc>https://www.notarydepot.com/wilma</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
     <url><loc>https://www.notarydepot.com/winedude</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>

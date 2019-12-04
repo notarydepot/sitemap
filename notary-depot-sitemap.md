@@ -1651,6 +1651,7 @@
     - [Notary Public in Bismarck, ND](https://www.notarydepot.com/notary-near-me/North-Dakota/Bismarck)
     - [Notary Public in Fargo, ND](https://www.notarydepot.com/notary-near-me/North-Dakota/Fargo)
     - [Notary Public in Washburn, ND](https://www.notarydepot.com/notary-near-me/North-Dakota/Washburn)
+    - [Notary Public in West Fargo, ND](https://www.notarydepot.com/notary-near-me/North-Dakota/West-Fargo)
     - [Notary Public in Williston, ND](https://www.notarydepot.com/notary-near-me/North-Dakota/Williston)
   - [Notaries Public in Ohio](https://www.notarydepot.com/notary-near-me/Ohio)
     - [Notary Public in Alliance, OH](https://www.notarydepot.com/notary-near-me/Ohio/Alliance)
@@ -2269,7 +2270,6 @@
     - [Notary Public in Fox Island, WA](https://www.notarydepot.com/notary-near-me/Washington/Fox-Island)
     - [Notary Public in Gig Harbor, WA](https://www.notarydepot.com/notary-near-me/Washington/Gig-Harbor)
     - [Notary Public in Goldendale, WA](https://www.notarydepot.com/notary-near-me/Washington/Goldendale)
-    - [Notary Public in Hoodsport, WA](https://www.notarydepot.com/notary-near-me/Washington/Hoodsport)
     - [Notary Public in Kelso, WA](https://www.notarydepot.com/notary-near-me/Washington/Kelso)
     - [Notary Public in Kennewick, WA](https://www.notarydepot.com/notary-near-me/Washington/Kennewick)
     - [Notary Public in Kent, WA](https://www.notarydepot.com/notary-near-me/Washington/Kent)
@@ -5471,7 +5471,7 @@
   - [Notary Public in Jacksonville, FL: Jose R Maestre](https://www.notarydepot.com/maeproser)
   - [Notary Public in NY: Michael Galente](https://www.notarydepot.com/magalente)
   - [Notary Public in West Babylon, NY: Margaret A. Barker](https://www.notarydepot.com/maggie628)
-  - [Notary Public in Hoodsport, WA: Kosak Mobile Notary &amp; Loan Signing](https://www.notarydepot.com/maggiemae)
+  - [Notary Public in West Fargo, ND: Kosak Mobile Notary &amp; Loan Signing](https://www.notarydepot.com/maggiemae)
   - [Notary Public in Titusville, FL: Maggie Ostergard](https://www.notarydepot.com/maggieost2)
   - [Notary Public in Titusville, FL: Maggie Ostergard](https://www.notarydepot.com/maggieost4428)
   - [Notary Public in DeLand, FL: Herbert L. Becker](https://www.notarydepot.com/magicweb)
@@ -7836,6 +7836,7 @@
   - [Notary Public in North Babylon, NY: Michael S. Williams](https://www.notarydepot.com/willi1185)
   - [Notary Public in Willingboro, NJ: Harry D Walker](https://www.notarydepot.com/williadd)
   - [Notary Public in Seminole, FL: William James Kinmonth](https://www.notarydepot.com/william)
+  - [Notary Public in Cathedral City, CA: William Dowd](https://www.notarydepot.com/williamdowd6)
   - [Notary Public in Huntington Beach, CA: W](https://www.notarydepot.com/williamk)
   - [Notary Public in Reading, PA: Paula M. Marks](https://www.notarydepot.com/wilma)
   - [Notary Public in Tracy, CA: James Lamb](https://www.notarydepot.com/winedude)
@@ -8564,4 +8565,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-04T22:30:02Z
+Updated at 2019-12-04T22:50:02Z
