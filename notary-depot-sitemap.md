@@ -205,6 +205,7 @@
     - [Notary Public in Coarsegold, CA](https://www.notarydepot.com/notary-near-me/California/Coarsegold)
     - [Notary Public in Colton, CA](https://www.notarydepot.com/notary-near-me/California/Colton)
     - [Notary Public in Compton, CA](https://www.notarydepot.com/notary-near-me/California/Compton)
+    - [Notary Public in Concord, CA](https://www.notarydepot.com/notary-near-me/California/Concord)
     - [Notary Public in Cool, CA](https://www.notarydepot.com/notary-near-me/California/Cool)
     - [Notary Public in Corning, CA](https://www.notarydepot.com/notary-near-me/California/Corning)
     - [Notary Public in Corona, CA](https://www.notarydepot.com/notary-near-me/California/Corona)
@@ -3340,6 +3341,7 @@
   - [Notary Public in Swartz Creek, MI: Colin Chea](https://www.notarydepot.com/colinchea)
   - [Notary Public in Chesapeake, VA: Colleen Holmes, CSA](https://www.notarydepot.com/colleen)
   - [Notary Public in Lake Elsinore, CA: Colleen M Gomez](https://www.notarydepot.com/colleengomez3)
+  - [Notary Public in Concord, CA: Michelle Comerford](https://www.notarydepot.com/comeroni)
   - [Notary Public in Fontana, CA: Marian Jackson](https://www.notarydepot.com/comet222)
   - [Notary Public in Columbia, MO: Ellen Rees](https://www.notarydepot.com/comonotary)
   - [Notary Public in Jacksonville, FL: Andrew Alexander Brown](https://www.notarydepot.com/competentnotary)
@@ -8561,4 +8563,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-04T19:50:02Z
+Updated at 2019-12-04T20:10:02Z
