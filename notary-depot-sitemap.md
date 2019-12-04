@@ -6861,6 +6861,7 @@
   - [Notary Public in Los Angeles, CA: Sabrina D. Machado](https://www.notarydepot.com/sabrinamachado)
   - [Notary Public in Santa Clara, CA: Kelby Olson](https://www.notarydepot.com/sac22)
   - [Notary Public in Alcolu, SC: Mary Johnson](https://www.notarydepot.com/sade110)
+  - [Notary Public in Valley Stream, NY: sadia khan](https://www.notarydepot.com/sadiakhan17)
   - [Notary Public in Port Huron, MI: Katherine Sova-Fasbender](https://www.notarydepot.com/safeguardmobilenotary)
   - [Notary Public in Middletown, NY: David Green](https://www.notarydepot.com/safenotary)
   - [Notary Public in Jacksonville, FL: Sagitta Woodie](https://www.notarydepot.com/sagitta35)
@@ -8563,4 +8564,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-04T21:50:02Z
+Updated at 2019-12-04T22:10:02Z
