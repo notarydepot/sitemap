@@ -3248,7 +3248,6 @@
   - [Notary Public in Concord, NC: Christopher R. Orris](https://www.notarydepot.com/chrisorris)
   - [Notary Public in Holiday, FL: Christina Kelley](https://www.notarydepot.com/chrissyk)
   - [Notary Public in Berrysburg, PA: Christina Bordner](https://www.notarydepot.com/chrissynsa)
-  - [Notary Public in Reisterstown, MD: Christa Johnson](https://www.notarydepot.com/christaaj)
   - [Notary Public in Tallahassee, FL: Christa Ray-Nelson](https://www.notarydepot.com/christaray1)
   - [Notary Public in Clifton Heights, PA: Christina A Nelson](https://www.notarydepot.com/christinanelson)
   - [Notary Public in Philadelphia, PA: Christina A Nelson](https://www.notarydepot.com/christinanelson2000)
@@ -8565,4 +8564,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-05T16:30:02Z
+Updated at 2019-12-05T16:50:02Z
