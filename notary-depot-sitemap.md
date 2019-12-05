@@ -7897,6 +7897,7 @@
   - [Notary Public in Lee&#39;s Summit, MO: Yessenia Gonzalez](https://www.notarydepot.com/yessy)
   - [Notary Public in Grover Beach, CA: Yvonne Fisher](https://www.notarydepot.com/yfisi)
   - [Notary Public in Henderson, NV: Erica ](https://www.notarydepot.com/yg2n)
+  - [Notary Public in Pembroke Pines, FL: Yvette Henning ](https://www.notarydepot.com/yghenninggmailcom)
   - [Notary Public in Irvine, CA: Mihi Lee](https://www.notarydepot.com/yihi)
   - [Notary Public in San Francisco, CA: Yishra Flores](https://www.notarydepot.com/yishraflores)
   - [Notary Public in Brentwood, CA: Yvonne K. Philapil](https://www.notarydepot.com/ykphilapil)
@@ -8565,4 +8566,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-05T22:50:02Z
+Updated at 2019-12-05T23:10:02Z
