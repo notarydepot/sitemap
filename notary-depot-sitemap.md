@@ -7854,6 +7854,7 @@
   - [Notary Public in Greenville, SC: Andrew snyder](https://www.notarydepot.com/wolfy2k18)
   - [Notary Public in Bristol, VA: Earlene Wood](https://www.notarydepot.com/woody1945)
   - [Notary Public in Castro Valley, CA: Woody Williams](https://www.notarydepot.com/woodywms)
+  - [Notary Public in Seattle, WA: Antoine Wooten](https://www.notarydepot.com/wooten161)
   - [Notary Public in Moorpark, CA: Linda Foster](https://www.notarydepot.com/wordwizard)
   - [Notary Public in Pearland, TX: NiKeitaa Stewart](https://www.notarydepot.com/work2018)
   - [Notary Public in Gardena, CA: Melva E. Scott](https://www.notarydepot.com/worryfree)
@@ -8564,4 +8565,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-05T20:10:02Z
+Updated at 2019-12-05T20:30:02Z
