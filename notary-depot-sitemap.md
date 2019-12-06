@@ -6588,6 +6588,7 @@
   - [Notary Public in Bellevue, WA: Bellevue Notary](https://www.notarydepot.com/qweester)
   - [Notary Public in Oviedo, FL: Rhonda Dietz](https://www.notarydepot.com/r0nnisd)
   - [Notary Public in Jacksonville, FL: Roy A. Anderson](https://www.notarydepot.com/ra1222)
+  - [Notary Public in Riverside, CA: Raychel Borquez](https://www.notarydepot.com/rabnotary)
   - [Notary Public in Stillwater, MN: Rachael Harvey](https://www.notarydepot.com/rachael1952)
   - [Notary Public in Bristow, VA: Rachael Bacon](https://www.notarydepot.com/rachaelbacon)
   - [Notary Public in Lakeside, CA: Rachel Benson](https://www.notarydepot.com/rachelnotary)
@@ -8568,4 +8569,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-06T21:10:02Z
+Updated at 2019-12-06T21:30:02Z
