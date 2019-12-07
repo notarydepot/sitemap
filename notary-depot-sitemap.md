@@ -3314,6 +3314,7 @@
   - [Notary Public in Foxboro, WI: Christine Mcdonald](https://www.notarydepot.com/cmcdonald)
   - [Notary Public in NY: Cynthia Mcfarlane ](https://www.notarydepot.com/cmcfarlane)
   - [Notary Public in Westport, CT: claudia ](https://www.notarydepot.com/cmdesalas)
+  - [Notary Public in San Jose, CA: Crissy Ghanim](https://www.notarydepot.com/cmgnotaryservice)
   - [Notary Public in Wallington, NJ: Cheryl Mihalik](https://www.notarydepot.com/cmihalik)
   - [Notary Public in Chesterfield, VA: Wendy Hevener](https://www.notarydepot.com/cmnllc)
   - [Notary Public in Pelion, SC: Chadwick H Moore Notary Public South Carolina](https://www.notarydepot.com/cmnotarysite)
@@ -8569,4 +8570,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-07T00:30:02Z
+Updated at 2019-12-07T00:50:02Z
