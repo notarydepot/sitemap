@@ -1940,6 +1940,7 @@
     - [Notary Public in Westminster, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/Westminster)
     - [Notary Public in York, SC](https://www.notarydepot.com/notary-near-me/South-Carolina/York)
   - [Notaries Public in South Dakota](https://www.notarydepot.com/notary-near-me/South-Dakota)
+    - [Notary Public in Huron, SD](https://www.notarydepot.com/notary-near-me/South-Dakota/Huron)
     - [Notary Public in Mount Vernon, SD](https://www.notarydepot.com/notary-near-me/South-Dakota/Mount-Vernon)
     - [Notary Public in Sisseton, SD](https://www.notarydepot.com/notary-near-me/South-Dakota/Sisseton)
     - [Notary Public in Wakonda, SD](https://www.notarydepot.com/notary-near-me/South-Dakota/Wakonda)
@@ -6880,6 +6881,7 @@
   - [Notary Public in Houston, TX: Felicia Evans](https://www.notarydepot.com/salter123)
   - [Notary Public in Corpus Christi, TX: Zenaida Alvarez (Sandy)](https://www.notarydepot.com/salvarez)
   - [Notary Public in South Portland, ME: Eva C. Sommer](https://www.notarydepot.com/samantha99)
+  - [Notary Public in Huron, SD: Araceli Moya](https://www.notarydepot.com/samcely57350)
   - [Notary Public in Salem, OR: Same Day Signings LLC](https://www.notarydepot.com/sameday)
   - [Notary Public in Gig Harbor, WA: David Morse](https://www.notarydepot.com/samfbm)
   - [Notary Public in Los Angeles, CA: Samira Sharif](https://www.notarydepot.com/samira)
@@ -8570,4 +8572,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-08T16:10:02Z
+Updated at 2019-12-08T16:30:02Z
