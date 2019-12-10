@@ -6788,7 +6788,7 @@
   - [Notary Public in Costa Mesa, CA: Roma San Antonio](https://www.notarydepot.com/romabinh)
   - [Notary Public in Chicago, IL: Desiree Roman](https://www.notarydepot.com/romanendeavors)
   - [Notary Public in Russellville, AR: Ronald D. Hall](https://www.notarydepot.com/ronaldhall)
-  - [Notary Public in Raleigh, NC: Ronda](https://www.notarydepot.com/ronda)
+  - [Notary Public in Raleigh, NC: Ronda Rudd](https://www.notarydepot.com/ronda)
   - [Notary Public in Raleigh, NC: Ronda Rudd](https://www.notarydepot.com/ronda35)
   - [Notary Public in San Leandro, CA: Ronza M. Bargas](https://www.notarydepot.com/ronica)
   - [Notary Public in Durham, NC: Rhonda Nails](https://www.notarydepot.com/ronnieceo)
@@ -7835,7 +7835,7 @@
   - [Notary Public in Stewartstown, NH: Cindy M. Dorman](https://www.notarydepot.com/whistlingbrz)
   - [Notary Public in Princeton, IL: A Notary Direct 2 U](https://www.notarydepot.com/whitestache)
   - [Notary Public in Lake Charles, LA: Candice Menard](https://www.notarydepot.com/whodat)
-  - [Notary Public in Marietta, GA: A W E. Inc](https://www.notarydepot.com/willall)
+  - [Notary Public in Smyrna, GA: William Allen](https://www.notarydepot.com/willall)
   - [Notary Public in Miami, FL: Willie L. Alston](https://www.notarydepot.com/willalston)
   - [Notary Public in Kissimmee, FL: Shirley Willhide](https://www.notarydepot.com/willhide)
   - [Notary Public in North Babylon, NY: Michael S. Williams](https://www.notarydepot.com/willi1185)
@@ -8572,4 +8572,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-10T22:10:02Z
+Updated at 2019-12-10T22:30:02Z
