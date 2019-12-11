@@ -7748,7 +7748,6 @@
   - [Notary Public in Thousand Oaks, CA: Victoria Blackwood](https://www.notarydepot.com/vickie)
   - [Notary Public in San Diego, CA: Vicki Sedano](https://www.notarydepot.com/vickonian)
   - [Notary Public in Cleburne, TX: Vickie Tidwell](https://www.notarydepot.com/vicktidwell)
-  - [Notary Public in Boston, MA: Victor Bishop](https://www.notarydepot.com/victorgbishop)
   - [Notary Public in Miami, FL: diana perez](https://www.notarydepot.com/victoria68)
   - [Notary Public in Victorville, CA: Linda Walker](https://www.notarydepot.com/victorynotarymobile)
   - [Notary Public in Philadelphia, PA: Elizabeth Vidro](https://www.notarydepot.com/vidro1974)
@@ -8572,4 +8571,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-11T04:10:02Z
+Updated at 2019-12-11T04:30:01Z
