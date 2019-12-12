@@ -762,6 +762,7 @@
     - [Notary Public in Buford, GA](https://www.notarydepot.com/notary-near-me/Georgia/Buford)
     - [Notary Public in Byron, GA](https://www.notarydepot.com/notary-near-me/Georgia/Byron)
     - [Notary Public in College Park, GA](https://www.notarydepot.com/notary-near-me/Georgia/College-Park)
+    - [Notary Public in Columbus, GA](https://www.notarydepot.com/notary-near-me/Georgia/Columbus)
     - [Notary Public in Conyers, GA](https://www.notarydepot.com/notary-near-me/Georgia/Conyers)
     - [Notary Public in Cordele, GA](https://www.notarydepot.com/notary-near-me/Georgia/Cordele)
     - [Notary Public in Covington, GA](https://www.notarydepot.com/notary-near-me/Georgia/Covington)
@@ -6354,6 +6355,7 @@
   - [Notary Public in Cambria, CA: Darlene Bennett](https://www.notarydepot.com/oshnbby)
   - [Notary Public in Delray Beach, FL: Kathleen Otting](https://www.notarydepot.com/otting)
   - [Notary Public in San Martin, CA: Laray Ourricariet](https://www.notarydepot.com/ourricariet)
+  - [Notary Public in Columbus, GA: Dustin Martin](https://www.notarydepot.com/overclocktech)
   - [Notary Public in Anaheim, CA: Newness, Inc. * Notary Public* Loan Signing Agent*](https://www.notarydepot.com/overcomersarah)
   - [Notary Public in Fairburn, GA: Louis D Martin](https://www.notarydepot.com/ownlee18)
   - [Notary Public in Homestead, FL: Oswaldo Anglero ](https://www.notarydepot.com/ozzie)
@@ -8572,4 +8574,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-12T15:10:01Z
+Updated at 2019-12-12T15:30:01Z
