@@ -6039,6 +6039,7 @@
   - [Notary Public in Odessa, NY: Irina Schmidt](https://www.notarydepot.com/newyorknotary)
   - [Notary Public in Baldwinsville, NY: Steven T. Milana](https://www.notarydepot.com/newyorknotaryyahoocom)
   - [Notary Public in Hatfield, PA: Vene Moses](https://www.notarydepot.com/nexus)
+  - [Notary Public in Richmond, VA: Noewie Bemah](https://www.notarydepot.com/nfbemah)
   - [Notary Public in Las Vegas, NV: Noel Foster](https://www.notarydepot.com/nfoster1258)
   - [Notary Public in Spring Hill, FL: Noel](https://www.notarydepot.com/ngbornot)
   - [Notary Public in Downey, CA: Natasha](https://www.notarydepot.com/ngonzales04)
@@ -8571,4 +8572,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-12T06:30:02Z
+Updated at 2019-12-12T06:50:02Z
