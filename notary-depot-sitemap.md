@@ -1544,6 +1544,7 @@
     - [Notary Public in Port Byron, NY](https://www.notarydepot.com/notary-near-me/New-York/Port-Byron)
     - [Notary Public in Port Jervis, NY](https://www.notarydepot.com/notary-near-me/New-York/Port-Jervis)
     - [Notary Public in Randolph, NY](https://www.notarydepot.com/notary-near-me/New-York/Randolph)
+    - [Notary Public in Riverhead, NY](https://www.notarydepot.com/notary-near-me/New-York/Riverhead)
     - [Notary Public in Rochester, NY](https://www.notarydepot.com/notary-near-me/New-York/Rochester)
     - [Notary Public in Rome, NY](https://www.notarydepot.com/notary-near-me/New-York/Rome)
     - [Notary Public in Ronkonkoma, NY](https://www.notarydepot.com/notary-near-me/New-York/Ronkonkoma)
@@ -2910,6 +2911,7 @@
   - [Notary Public in Freeport, NY: Sandra J Bigelow](https://www.notarydepot.com/bigs1212)
   - [Notary Public in Colorado Springs, CO: Melissa Engeseth](https://www.notarydepot.com/bijounotary)
   - [Notary Public in Grand Prairie, TX: Lidia Molina](https://www.notarydepot.com/bilingualnotary)
+  - [Notary Public in Riverhead, NY: Merlyn Viera](https://www.notarydepot.com/bilingualnotary2)
   - [Notary Public in Los Angeles, CA: Yazmin Arevalo](https://www.notarydepot.com/bilingualnotary90032)
   - [Notary Public in Benicia, CA: William Hertan Iii](https://www.notarydepot.com/bill)
   - [Notary Public in Owenton, KY: William P. O&#39;Banion](https://www.notarydepot.com/billyo)
@@ -8574,4 +8576,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-12T17:30:02Z
+Updated at 2019-12-12T17:50:02Z
