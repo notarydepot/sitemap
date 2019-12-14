@@ -2787,6 +2787,7 @@
   - [Notary Public in Wilmington, NC: Allen Young](https://www.notarydepot.com/ayoungnotary)
   - [Notary Public in Euclid, OH: Anitra King](https://www.notarydepot.com/aysnotary)
   - [Notary Public in Plymouth, MI: Alex G Yvonnou](https://www.notarydepot.com/ayvonnou)
+  - [Notary Public in Tucson, AZ: Isreal Young](https://www.notarydepot.com/azdocs)
   - [Notary Public in Gilbert, AZ: Amy L. Rodriguez](https://www.notarydepot.com/azloannotary)
   - [Notary Public in Tucson, AZ: Lisa McHugh Refre](https://www.notarydepot.com/azsigningz)
   - [Notary Public in San Luis Obispo, CA: Kimberly Jackson](https://www.notarydepot.com/aztecjax)
@@ -8577,4 +8578,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-14T16:30:02Z
+Updated at 2019-12-14T16:50:02Z
