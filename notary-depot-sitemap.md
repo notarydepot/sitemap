@@ -1625,6 +1625,7 @@
     - [Notary Public in Morganton, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Morganton)
     - [Notary Public in Mount Airy, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Mount-Airy)
     - [Notary Public in Murphy, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Murphy)
+    - [Notary Public in Nashville, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Nashville)
     - [Notary Public in Oak Ridge, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Oak-Ridge)
     - [Notary Public in Oakboro, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Oakboro)
     - [Notary Public in Parkton, NC](https://www.notarydepot.com/notary-near-me/North-Carolina/Parkton)
@@ -2674,6 +2675,7 @@
   - [Notary Public in Pounding Mill, VA: Mary Starling](https://www.notarydepot.com/anniesone)
   - [Notary Public in Irvine, CA: Annie Kim](https://www.notarydepot.com/annieyukim)
   - [Notary Public in San Antonio, TX: Annie Cazarez](https://www.notarydepot.com/annie_oakley_sa)
+  - [Notary Public in Nashville, NC: Landa Moore Moody](https://www.notarydepot.com/annlanda)
   - [Notary Public in Lake Forest, CA: Ann Marie Nugent](https://www.notarydepot.com/annmariethesealingnotary)
   - [Notary Public in Stuart, FL: Ann M McLaughlin, Mba](https://www.notarydepot.com/annmclaughlin)
   - [Notary Public in San Francisco, CA: Ann Marie Murtagh](https://www.notarydepot.com/annmurtaghcomcastnet)
@@ -8578,4 +8580,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-15T00:50:02Z
+Updated at 2019-12-15T01:10:01Z
