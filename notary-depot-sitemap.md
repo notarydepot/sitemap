@@ -4362,6 +4362,7 @@
   - [Notary Public in Whittier, CA: Paula Bautista](https://www.notarydepot.com/imboss6)
   - [Notary Public in Miami, FL: Diana Perez](https://www.notarydepot.com/imdependable)
   - [Notary Public in Sacramento, CA: Derrick M Bulaich](https://www.notarydepot.com/imobilenotary)
+  - [Notary Public in Roanoke, VA: Kimberly Journiette](https://www.notarydepot.com/imperialsigning)
   - [Notary Public in Charlotte, NC: Jamica S. Hitchcock](https://www.notarydepot.com/imsigning)
   - [Notary Public in Riverside, CA: Yvonne N. Gow](https://www.notarydepot.com/inapinch)
   - [Notary Public in Santa Rosa, CA: In Black &amp; White Mobile Notary Services](https://www.notarydepot.com/inbwmobile)
@@ -8582,4 +8583,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-15T07:50:02Z
+Updated at 2019-12-15T08:10:02Z
