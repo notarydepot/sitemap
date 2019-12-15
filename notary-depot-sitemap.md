@@ -2033,6 +2033,7 @@
     - [Notary Public in Denison, TX](https://www.notarydepot.com/notary-near-me/Texas/Denison)
     - [Notary Public in Denton, TX](https://www.notarydepot.com/notary-near-me/Texas/Denton)
     - [Notary Public in DeSoto, TX](https://www.notarydepot.com/notary-near-me/Texas/DeSoto)
+    - [Notary Public in Dickinson, TX](https://www.notarydepot.com/notary-near-me/Texas/Dickinson)
     - [Notary Public in Donna, TX](https://www.notarydepot.com/notary-near-me/Texas/Donna)
     - [Notary Public in Duncanville, TX](https://www.notarydepot.com/notary-near-me/Texas/Duncanville)
     - [Notary Public in El Paso, TX](https://www.notarydepot.com/notary-near-me/Texas/El-Paso)
@@ -5271,6 +5272,7 @@
   - [Notary Public in Country Club Hills, IL: Thelesa Stephenson](https://www.notarydepot.com/lesastep34)
   - [Notary Public in Jonesboro, GA: D. Gahagan-Lester](https://www.notarydepot.com/lesternotaryservices)
   - [Notary Public in Pomona, CA: Gloria Delfin](https://www.notarydepot.com/leti5050)
+  - [Notary Public in Dickinson, TX: Justin](https://www.notarydepot.com/levelupmte)
   - [Notary Public in Summerville, SC: Leverne Palmer ](https://www.notarydepot.com/levernepalmer)
   - [Notary Public in Saint Martinville, LA: Lisa](https://www.notarydepot.com/lgeorge)
   - [Notary Public in Long Beach, CA: Leticia Gutièrrez](https://www.notarydepot.com/lgmobile26)
@@ -8580,4 +8582,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-15T05:30:02Z
+Updated at 2019-12-15T05:50:02Z
