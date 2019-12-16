@@ -2746,6 +2746,7 @@
   - [Notary Public in Pinellas Park, FL: Ashley](https://www.notarydepot.com/ashley_nyegaard)
   - [Notary Public in Lincoln, NE: Ashoul Adam](https://www.notarydepot.com/ashoul)
   - [Notary Public in Castleton, VT: Gerard Ashton](https://www.notarydepot.com/ashtongjcomcastnet)
+  - [Notary Public in NY: Asia Hamiel](https://www.notarydepot.com/asiahamiel)
   - [Notary Public in Columbia, MS: Angela Simon](https://www.notarydepot.com/asimon31)
   - [Notary Public in Bakersfield, CA: Angela M. Sinks](https://www.notarydepot.com/asinks)
   - [Notary Public in Charlotte, NC: Amanda Smith](https://www.notarydepot.com/asmith4u)
@@ -8585,4 +8586,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-16T14:50:02Z
+Updated at 2019-12-16T15:10:02Z
