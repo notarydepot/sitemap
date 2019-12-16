@@ -1333,6 +1333,7 @@
     - [Notary Public in Fernley, NV](https://www.notarydepot.com/notary-near-me/Nevada/Fernley)
     - [Notary Public in Henderson, NV](https://www.notarydepot.com/notary-near-me/Nevada/Henderson)
     - [Notary Public in Las Vegas, NV](https://www.notarydepot.com/notary-near-me/Nevada/Las-Vegas)
+    - [Notary Public in Laughlin, NV](https://www.notarydepot.com/notary-near-me/Nevada/Laughlin)
     - [Notary Public in North Las Vegas, NV](https://www.notarydepot.com/notary-near-me/Nevada/North-Las-Vegas)
     - [Notary Public in Pahrump, NV](https://www.notarydepot.com/notary-near-me/Nevada/Pahrump)
     - [Notary Public in Reno, NV](https://www.notarydepot.com/notary-near-me/Nevada/Reno)
@@ -5200,6 +5201,7 @@
   - [Notary Public in Charlotte, NC: Francisco Salazar](https://www.notarydepot.com/latinsigner)
   - [Notary Public in Addison, TX: LaToya Smith](https://www.notarydepot.com/latoyasmith1985)
   - [Notary Public in Norcross, GA: LaToya Butler](https://www.notarydepot.com/latoyawbutler)
+  - [Notary Public in Laughlin, NV: Jonathan Lorenz](https://www.notarydepot.com/laughlinservice)
   - [Notary Public in Portola, CA: Laura Ross](https://www.notarydepot.com/laura0957)
   - [Notary Public in Brisbane, CA: laura e allenby](https://www.notarydepot.com/lauraa16)
   - [Notary Public in Modesto, CA: Laura J Biewer](https://www.notarydepot.com/laurab)
@@ -8586,4 +8588,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-16T22:50:01Z
+Updated at 2019-12-16T23:10:02Z
