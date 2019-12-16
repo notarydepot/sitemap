@@ -5384,6 +5384,7 @@
   - [Notary Public in Brentwood, CA: Doreen Lopinto](https://www.notarydepot.com/lopinto96)
   - [Notary Public in Murrieta, CA: Lora Nasby](https://www.notarydepot.com/loradave)
   - [Notary Public in Hollywood, FL: M Lorena Saldana](https://www.notarydepot.com/lorenas03)
+  - [Notary Public in Houston, TX: Lorena Francisca Leonard](https://www.notarydepot.com/lorenayoyo)
   - [Notary Public in Sacramento, CA: Lori Kennedy](https://www.notarydepot.com/lorimobilenotary)
   - [Notary Public in Limestone, TN: Lori Mcginnis](https://www.notarydepot.com/lorirhae)
   - [Notary Public in Sarasota, FL: Lorna Sammoury](https://www.notarydepot.com/lornaaline)
@@ -8584,4 +8585,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-15T23:50:01Z
+Updated at 2019-12-16T00:10:02Z
