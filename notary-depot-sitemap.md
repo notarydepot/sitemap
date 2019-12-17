@@ -977,6 +977,7 @@
     - [Notary Public in Waukee, IA](https://www.notarydepot.com/notary-near-me/Iowa/Waukee)
     - [Notary Public in Windsor Heights, IA](https://www.notarydepot.com/notary-near-me/Iowa/Windsor-Heights)
   - [Notaries Public in Kansas](https://www.notarydepot.com/notary-near-me/Kansas)
+    - [Notary Public in Bonner Springs, KS](https://www.notarydepot.com/notary-near-me/Kansas/Bonner-Springs)
     - [Notary Public in Holton, KS](https://www.notarydepot.com/notary-near-me/Kansas/Holton)
     - [Notary Public in Junction City, KS](https://www.notarydepot.com/notary-near-me/Kansas/Junction-City)
     - [Notary Public in Lawrence, KS](https://www.notarydepot.com/notary-near-me/Kansas/Lawrence)
@@ -4934,6 +4935,7 @@
   - [Notary Public in Mahopac, NY: Katharine Pearsall](https://www.notarydepot.com/kathy)
   - [Notary Public in Melbourne, FL: Kathy Krug](https://www.notarydepot.com/kathykk7)
   - [Notary Public in Beaumont, TX: Katie C Matthews ](https://www.notarydepot.com/katiecmatthewsnotarygmailcom)
+  - [Notary Public in Bonner Springs, KS: Katie Sabutis ](https://www.notarydepot.com/katiekcnotary)
   - [Notary Public in Los Angeles, CA: Ekaterina Oganesova](https://www.notarydepot.com/katienotary)
   - [Notary Public in Mission Viejo, CA: Katie Richman](https://www.notarydepot.com/katierichmannotary)
   - [Notary Public in New Castle, DE: Katina Bantum](https://www.notarydepot.com/katina)
@@ -8588,4 +8590,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-17T20:10:02Z
+Updated at 2019-12-17T20:30:02Z
