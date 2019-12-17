@@ -7541,7 +7541,6 @@
   - [Notary Public in Washington, DC: Traci Long Morris-NNA Certified/Background Screened](https://www.notarydepot.com/tinka2)
   - [Notary Public in NJ: Deborah A. Sterling](https://www.notarydepot.com/tioga74)
   - [Notary Public in Placerville, CA: Patricia Crooks](https://www.notarydepot.com/tish)
-  - [Notary Public in Janesville, WI: Loren](https://www.notarydepot.com/tjmobilenotary)
   - [Notary Public in Gladstone, OR: Karen Trost](https://www.notarydepot.com/tkaybe)
   - [Notary Public in Topsham, ME: Tim Keene](https://www.notarydepot.com/tkeene83)
   - [Notary Public in Bessemer, AL: Kimberly Terry](https://www.notarydepot.com/tkimmie)
@@ -8588,4 +8587,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-17T19:30:02Z
+Updated at 2019-12-17T19:50:02Z
