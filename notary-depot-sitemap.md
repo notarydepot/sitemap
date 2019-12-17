@@ -2720,6 +2720,7 @@
   - [Notary Public in NJ: Araceli Hamilton](https://www.notarydepot.com/arih0214)
   - [Notary Public in Lake Mary, FL: Arilee Rivera](https://www.notarydepot.com/arilee)
   - [Notary Public in Sapulpa, OK: Arlanda F. Smith](https://www.notarydepot.com/arlandasmith)
+  - [Notary Public in Glendale, CA: Aram Manukyan](https://www.notarydepot.com/armanukyan76)
   - [Notary Public in Merigold, MS: Aneika Moore](https://www.notarydepot.com/armoore)
   - [Notary Public in Atlanta, GA: Bruce Wayne Anderson](https://www.notarydepot.com/armyvet)
   - [Notary Public in Floresville, TX: Faye Taylor](https://www.notarydepot.com/arnionmobile)
@@ -8587,4 +8588,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-17T19:50:02Z
+Updated at 2019-12-17T20:10:02Z
