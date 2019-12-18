@@ -5073,6 +5073,7 @@
   - [Notary Public in Woodridge, IL: Kermina Lacy](https://www.notarydepot.com/klacy30)
   - [Notary Public in Gloucester Courthouse, VA: Karen Lawson](https://www.notarydepot.com/klawson8)
   - [Notary Public in Napa, CA: Kerri Josslin-Falk](https://www.notarydepot.com/kljossl)
+  - [Notary Public in Streamwood, IL: Kimberly Kelley Adamowicz](https://www.notarydepot.com/klk112)
   - [Notary Public in Story, WY: Karen Loughan](https://www.notarydepot.com/kloughan)
   - [Notary Public in Longview, WA: Katherine Peebles](https://www.notarydepot.com/klpeebles)
   - [Notary Public in Salisbury, NC: Kevin E. McCullough](https://www.notarydepot.com/kmac60)
@@ -8590,4 +8591,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-18T02:50:01Z
+Updated at 2019-12-18T03:10:02Z
