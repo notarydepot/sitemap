@@ -3535,6 +3535,7 @@
   - [Notary Public in Piscataway, NJ: Dawne](https://www.notarydepot.com/dawne)
   - [Notary Public in Fallbrook, CA: Dawn Grove](https://www.notarydepot.com/dawngrove)
   - [Notary Public in Egg Harbor Township, NJ: Dawn Baker](https://www.notarydepot.com/dawnh)
+  - [Notary Public in Toledo, OH: Dawn M Brown](https://www.notarydepot.com/dawnsnotary)
   - [Notary Public in Los Angeles, CA: Dawn the Notary](https://www.notarydepot.com/dawnthenotary)
   - [Notary Public in Yuma, AZ: Dan Dawson](https://www.notarydepot.com/dawsondocs)
   - [Notary Public in Amarillo, TX: Ron and Lynn Day](https://www.notarydepot.com/daynote)
@@ -8591,4 +8592,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-18T18:10:02Z
+Updated at 2019-12-18T18:30:01Z
