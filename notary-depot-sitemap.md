@@ -3865,7 +3865,7 @@
   - [Notary Public in Bemidji, MN: Elayne Hampson](https://www.notarydepot.com/eendorsements)
   - [Notary Public in Mandeville, LA: Erica S. Sharp](https://www.notarydepot.com/eesharp1231)
   - [Notary Public in Upper Marlboro, MD: Erika Ellison Wymes](https://www.notarydepot.com/eewsigns)
-  - [Notary Public in Naples, FL: Eric Filkowski](https://www.notarydepot.com/efilkowskigmailcom)
+  - [Notary Public in North Fort Myers, FL: Eric Filkowski](https://www.notarydepot.com/efilkowskigmailcom)
   - [Notary Public in Santa Rosa, CA: Elizabeth Foust](https://www.notarydepot.com/efoust)
   - [Notary Public in San Antonio, TX: Elizabeth Garza](https://www.notarydepot.com/egarza579)
   - [Notary Public in Tucson, AZ: Enrique A. Gonzalez](https://www.notarydepot.com/egnotary)
@@ -8592,4 +8592,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-18T22:50:02Z
+Updated at 2019-12-18T23:10:01Z
