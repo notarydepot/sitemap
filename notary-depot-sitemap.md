@@ -644,7 +644,6 @@
     - [Notary Public in Lake City, FL](https://www.notarydepot.com/notary-near-me/Florida/Lake-City)
     - [Notary Public in Lake Mary, FL](https://www.notarydepot.com/notary-near-me/Florida/Lake-Mary)
     - [Notary Public in Lake Placid, FL](https://www.notarydepot.com/notary-near-me/Florida/Lake-Placid)
-    - [Notary Public in Lake Wales, FL](https://www.notarydepot.com/notary-near-me/Florida/Lake-Wales)
     - [Notary Public in Lake Worth, FL](https://www.notarydepot.com/notary-near-me/Florida/Lake-Worth)
     - [Notary Public in Lakeland, FL](https://www.notarydepot.com/notary-near-me/Florida/Lakeland)
     - [Notary Public in Land O&#39; Lakes, FL](https://www.notarydepot.com/notary-near-me/Florida/Land-O-Lakes)
@@ -5400,7 +5399,7 @@
   - [Notary Public in New York, NY: Lorraine Tom](https://www.notarydepot.com/lorrainetom)
   - [Notary Public in CA: Louise Olin](https://www.notarydepot.com/louiseolin)
   - [Notary Public in Grand Prairie, TX: Lourae Crichton](https://www.notarydepot.com/lourae)
-  - [Notary Public in Lake Wales, FL: Luis Toro](https://www.notarydepot.com/lousnotaryservices)
+  - [Notary Public in Port Richey, FL: Luis Toro](https://www.notarydepot.com/lousnotaryservices)
   - [Notary Public in Belle Chasse, LA: Lara Lovas](https://www.notarydepot.com/lovasl)
   - [Notary Public in Carrollton, TX: Martha Aleman](https://www.notarydepot.com/lovi0803)
   - [Notary Public in Dallas, TX: Sharon Davis](https://www.notarydepot.com/lovie2009)
@@ -8593,4 +8592,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-19T16:30:02Z
+Updated at 2019-12-19T16:50:01Z
