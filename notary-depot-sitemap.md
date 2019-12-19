@@ -2229,6 +2229,7 @@
     - [Notary Public in Petersburg, VA](https://www.notarydepot.com/notary-near-me/Virginia/Petersburg)
     - [Notary Public in Portsmouth, VA](https://www.notarydepot.com/notary-near-me/Virginia/Portsmouth)
     - [Notary Public in Pounding Mill, VA](https://www.notarydepot.com/notary-near-me/Virginia/Pounding-Mill)
+    - [Notary Public in Reva, VA](https://www.notarydepot.com/notary-near-me/Virginia/Reva)
     - [Notary Public in Richmond, VA](https://www.notarydepot.com/notary-near-me/Virginia/Richmond)
     - [Notary Public in Roanoke, VA](https://www.notarydepot.com/notary-near-me/Virginia/Roanoke)
     - [Notary Public in Sandston, VA](https://www.notarydepot.com/notary-near-me/Virginia/Sandston)
@@ -6294,7 +6295,7 @@
   - [Notary Public in Nashville, TN: Cherry Reve-Vidiaux](https://www.notarydepot.com/notary_at_ceonetwork)
   - [Notary Public in San Ramon, CA: Olin H. Covington dba Notary To Go](https://www.notarydepot.com/notary_to_go)
   - [Notary Public in Westminster, CA: Thu Tran](https://www.notarydepot.com/notary_ttran)
-  - [Notary Public in Almond, WI: Anthony L. Thacker III](https://www.notarydepot.com/notdemand)
+  - [Notary Public in Reva, VA: Anthony L. Thacker III](https://www.notarydepot.com/notdemand)
   - [Notary Public in Portland, OR: Jenny Tuck](https://www.notarydepot.com/noteable)
   - [Notary Public in Charlotte, NC: Kendra R. Robinson ](https://www.notarydepot.com/noted1)
   - [Notary Public in Washington, DC: Noelle Thomas](https://www.notarydepot.com/notednotarydc)
@@ -8592,4 +8593,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-19T01:10:02Z
+Updated at 2019-12-19T01:30:02Z
