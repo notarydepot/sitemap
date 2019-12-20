@@ -7845,6 +7845,7 @@
   - [Notary Public in Las Vegas, NV: Wendy Regge](https://www.notarydepot.com/wendyregge)
   - [Notary Public in Moses Lake, WA: Wendy Shiflett](https://www.notarydepot.com/wendyshiflett)
   - [Notary Public in Arcanum, OH: Scott Wert](https://www.notarydepot.com/wertscott)
+  - [Notary Public in Miami, FL: Manasha West](https://www.notarydepot.com/westcornerstonenotary)
   - [Notary Public in Westlake Village, CA: Westlake Notary](https://www.notarydepot.com/westlakenotary2)
   - [Notary Public in Willits, CA: Grace M. Westlund](https://www.notarydepot.com/westlund)
   - [Notary Public in Kailua-Kona, HI: J. Lorelle Carter](https://www.notarydepot.com/westsidenotary)
@@ -8592,4 +8593,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-19T23:50:02Z
+Updated at 2019-12-20T00:10:02Z
