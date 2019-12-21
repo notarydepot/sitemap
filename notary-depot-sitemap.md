@@ -5348,6 +5348,7 @@
   - [Notary Public in Great Neck, NY: Elisa Rappoport](https://www.notarydepot.com/lisaw2690)
   - [Notary Public in CA: Lisa Whall](https://www.notarydepot.com/lisawhall99)
   - [Notary Public in MA: Steven R. W. Leahy, Attorney at Law](https://www.notarydepot.com/livefree)
+  - [Notary Public in Raleigh, NC: Matthew Bradshaw](https://www.notarydepot.com/livetobefit24)
   - [Notary Public in Southfield, MI: Lucki Notary](https://www.notarydepot.com/livory)
   - [Notary Public in Bakersfield, CA: Lizbeth Soto](https://www.notarydepot.com/lizbethsoto)
   - [Notary Public in Ionia, MI: Elizabeth A Cook](https://www.notarydepot.com/lizcook)
@@ -8595,4 +8596,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-21T20:10:02Z
+Updated at 2019-12-21T20:30:02Z
