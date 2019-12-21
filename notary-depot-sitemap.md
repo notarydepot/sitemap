@@ -4431,6 +4431,7 @@
   - [Notary Public in Euclid, OH: Jacqueline Hardges](https://www.notarydepot.com/jackieh)
   - [Notary Public in Cape Coral, FL: jacklin JOhns](https://www.notarydepot.com/jacklin)
   - [Notary Public in Cape Coral, FL: jackie](https://www.notarydepot.com/jacklin12)
+  - [Notary Public in Abilene, TX: Jackie Minze](https://www.notarydepot.com/jackminze)
   - [Notary Public in Cool, CA: Jack Stephens](https://www.notarydepot.com/jackpar71)
   - [Notary Public in Lancaster, CA: Tammie](https://www.notarydepot.com/jacksonmobilenotary)
   - [Notary Public in Columbus, OH: Jaclyn L. Nelson](https://www.notarydepot.com/jackvince)
@@ -8594,4 +8595,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-21T19:50:02Z
+Updated at 2019-12-21T20:10:02Z
