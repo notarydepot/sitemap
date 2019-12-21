@@ -3658,6 +3658,7 @@
   - [Notary Public in Lake Forest, CA: Lauren Saunders](https://www.notarydepot.com/dialanotary)
   - [Notary Public in Bend, OR: Katherine Hollister](https://www.notarydepot.com/diamondad)
   - [Notary Public in Fresno, CA: Albert Avedissian](https://www.notarydepot.com/diamondnotary)
+  - [Notary Public in Gainesville, FL: Charnice Johnson](https://www.notarydepot.com/diamondstar)
   - [Notary Public in Bella Vista, AR: Diana Massey](https://www.notarydepot.com/dianadmassey)
   - [Notary Public in San Francisco, CA: Diana Polyakov](https://www.notarydepot.com/diananotary)
   - [Notary Public in CA: Diane M Alexander](https://www.notarydepot.com/diane319)
@@ -4306,7 +4307,6 @@
   - [Notary Public in Toledo, OH: STEPHANA GALLOWAY](https://www.notarydepot.com/higalloway)
   - [Notary Public in Toledo, OH: Stephana Galloway](https://www.notarydepot.com/higallowayyahoocom)
   - [Notary Public in Weaver, AL: Teal Higgins](https://www.notarydepot.com/higgins)
-  - [Notary Public in Gainesville, FL: Charnice Johnson](https://www.notarydepot.com/highlyfavoured)
   - [Notary Public in San Diego, CA: Medina&#39;s Mobile Notary](https://www.notarydepot.com/hildam)
   - [Notary Public in Fairfield, CA: John Hildenbrand (Certified Notary Signing Agent)](https://www.notarydepot.com/hildenbrand)
   - [Notary Public in Boyertown, PA: Christine Krause](https://www.notarydepot.com/hillchurchnotary)
@@ -8594,4 +8594,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-21T08:10:02Z
+Updated at 2019-12-21T08:30:02Z
