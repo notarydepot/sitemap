@@ -4663,6 +4663,7 @@
   - [Notary Public in Farmingville, NY: Jill C Burke](https://www.notarydepot.com/jillcburke)
   - [Notary Public in Seffner, FL: Jillian](https://www.notarydepot.com/jillian33584)
   - [Notary Public in Walnut Creek, CA: Jill F Levine](https://www.notarydepot.com/jillifer33)
+  - [Notary Public in Montrose, CO: James G. Arnold](https://www.notarydepot.com/jimarnold)
   - [Notary Public in Rancho Cordova, CA: Jim Rogers](https://www.notarydepot.com/jimerogers)
   - [Notary Public in Meridian, ID: James](https://www.notarydepot.com/jiminidaho15)
   - [Notary Public in Hebron, OH: James K. Lowe](https://www.notarydepot.com/jimlowe)
@@ -8596,4 +8597,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-22T01:10:03Z
+Updated at 2019-12-22T01:30:02Z
