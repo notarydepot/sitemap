@@ -7205,6 +7205,7 @@
   - [Notary Public in Dallas, TX: Shay](https://www.notarydepot.com/smilingnotary)
   - [Notary Public in Sacramento, CA: Shaharzen Milsap](https://www.notarydepot.com/smilsap)
   - [Notary Public in Waukegan, IL: Sharhonda Mitchell](https://www.notarydepot.com/smitchell)
+  - [Notary Public in Arlington, VA: Rana L. Smith](https://www.notarydepot.com/smithseal)
   - [Notary Public in Ridgeland, MS: Taunya Smith ](https://www.notarydepot.com/smithtaxprep)
   - [Notary Public in Vancouver, WA: A Notary Service](https://www.notarydepot.com/smitty)
   - [Notary Public in Manteca, CA: Jenee Selsor](https://www.notarydepot.com/smobilenotary)
@@ -8597,4 +8598,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-23T04:50:02Z
+Updated at 2019-12-23T05:10:03Z
