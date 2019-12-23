@@ -2582,6 +2582,7 @@
   - [Notary Public in Palmdale, CA: Anthony Madera](https://www.notarydepot.com/amadera)
   - [Notary Public in Chula Vista, CA: Martha C. Amador](https://www.notarydepot.com/amadornotary)
   - [Notary Public in Saint Petersburg, FL: Laura L Robertson](https://www.notarydepot.com/amaghqua)
+  - [Notary Public in Duluth, MN: Amanda Karpinski](https://www.notarydepot.com/amanda1018)
   - [Notary Public in Tallahassee, FL: Amanda Doumanian Reeves](https://www.notarydepot.com/amandad335)
   - [Notary Public in Tacoma, WA: Amanda Jorgensen](https://www.notarydepot.com/amandajorgensen)
   - [Notary Public in Brentwood, CA: Charlotte Amanda Eason](https://www.notarydepot.com/amandamichigan)
@@ -4794,7 +4795,7 @@
   - [Notary Public in Westminster, SC: Jennifer M Phillips](https://www.notarydepot.com/jphillips2019)
   - [Notary Public in Bogota, NJ: Joie Polimeda](https://www.notarydepot.com/jplynn10)
   - [Notary Public in Mesa, AZ: JP Mobile Notary](https://www.notarydepot.com/jpmobilenotary)
-  - [Notary Public in Manchester, NH: Myra Anne Mullen](https://www.notarydepot.com/jpmyra)
+  - [Notary Public in Manchester, NH: Myra  Mullen](https://www.notarydepot.com/jpmyra)
   - [Notary Public in Napa, CA: Jim Pettis](https://www.notarydepot.com/jpnotary)
   - [Notary Public in Provo, UT: John Poelman](https://www.notarydepot.com/jpoelman)
   - [Notary Public in Little Rock, AR: Joni Powers](https://www.notarydepot.com/jpow79)
@@ -8598,4 +8599,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-23T15:10:02Z
+Updated at 2019-12-23T15:30:03Z
