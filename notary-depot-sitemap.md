@@ -5445,7 +5445,7 @@
   - [Notary Public in FL: Luis B. Rivera](https://www.notarydepot.com/luisbrivera)
   - [Notary Public in Jacksonville, FL: Luke Sawyer](https://www.notarydepot.com/lukesawyer)
   - [Notary Public in Rancho Santa Margarita, CA: Victor Cardi](https://www.notarydepot.com/lukescoach)
-  - [Notary Public in Pittston, PA: Mary Louise Mamary](https://www.notarydepot.com/lulu)
+  - [Notary Public in Fort Myers, FL: Mary Louise Mamary](https://www.notarydepot.com/lulu)
   - [Notary Public in Middletown, DE: Tawanda Lum ](https://www.notarydepot.com/lummobilenotary)
   - [Notary Public in Fontana, CA: Guadalupe Perez](https://www.notarydepot.com/lupe)
   - [Notary Public in Chula Vista, CA: Lupe Ruiz](https://www.notarydepot.com/luper)
@@ -8599,4 +8599,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-23T17:10:02Z
+Updated at 2019-12-23T17:30:02Z
