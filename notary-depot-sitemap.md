@@ -913,6 +913,7 @@
     - [Notary Public in Anderson, IN](https://www.notarydepot.com/notary-near-me/Indiana/Anderson)
     - [Notary Public in Bluffton, IN](https://www.notarydepot.com/notary-near-me/Indiana/Bluffton)
     - [Notary Public in Boonville, IN](https://www.notarydepot.com/notary-near-me/Indiana/Boonville)
+    - [Notary Public in Brazil, IN](https://www.notarydepot.com/notary-near-me/Indiana/Brazil)
     - [Notary Public in Brownsburg, IN](https://www.notarydepot.com/notary-near-me/Indiana/Brownsburg)
     - [Notary Public in Cedar Lake, IN](https://www.notarydepot.com/notary-near-me/Indiana/Cedar-Lake)
     - [Notary Public in Chesterton, IN](https://www.notarydepot.com/notary-near-me/Indiana/Chesterton)
@@ -2887,6 +2888,7 @@
   - [Notary Public in Danese, WV: Roseann Berry](https://www.notarydepot.com/berryr)
   - [Notary Public in Houston, TX: Brenda Espino](https://www.notarydepot.com/bespino)
   - [Notary Public in Moody, AL: Shev Singleton](https://www.notarydepot.com/bestcloser)
+  - [Notary Public in Brazil, IN: Rhonda J Gorbett](https://www.notarydepot.com/bestrg)
   - [Notary Public in West Palm Beach, FL: Betania Valente Nassar](https://www.notarydepot.com/betaniavalente)
   - [Notary Public in Myrtle Creek, OR: Bethany H. Peterman](https://www.notarydepot.com/bethany)
   - [Notary Public in Chino Hills, CA: Bethany ](https://www.notarydepot.com/bethanyyaroma)
@@ -8599,4 +8601,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-23T18:50:02Z
+Updated at 2019-12-23T19:10:01Z
