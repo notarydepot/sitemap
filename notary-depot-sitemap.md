@@ -5591,7 +5591,6 @@
   - [Notary Public in Tazewell, VA: Mary Starling](https://www.notarydepot.com/mary)
   - [Notary Public in Morgan City, LA: Mary Ann Fontenot](https://www.notarydepot.com/maryannfontenot)
   - [Notary Public in Philadelphia, PA: Mary A. Williams](https://www.notarydepot.com/maryawilliams)
-  - [Notary Public in Tempe, AZ: Mary Carlton](https://www.notarydepot.com/marycarlton)
   - [Notary Public in Bakersfield, CA: MaryCatherine Tibbs](https://www.notarydepot.com/marycatherinet)
   - [Notary Public in Murrieta, CA: Mary Ann Davenport](https://www.notarydepot.com/marydport)
   - [Notary Public in Irvine, CA: Mary Ellen Aguirre](https://www.notarydepot.com/maryellenaguirre)
@@ -8601,4 +8600,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-25T19:30:02Z
+Updated at 2019-12-25T19:50:02Z
