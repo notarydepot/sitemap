@@ -3136,7 +3136,6 @@
   - [Notary Public in Winston-Salem, NC: Florence Adams](https://www.notarydepot.com/carolinahomes)
   - [Notary Public in Howell, NJ: Carol Paolillo](https://www.notarydepot.com/carolpaolillo)
   - [Notary Public in Jackson, TN: Carolyn Perry](https://www.notarydepot.com/carolyn38301)
-  - [Notary Public in Westminster, CO: Carolyn L. Bodley](https://www.notarydepot.com/carolynco)
   - [Notary Public in Spring, TX: Carolyn Helmick](https://www.notarydepot.com/carolynh)
   - [Notary Public in Pompano Beach, FL: Lisa Carr](https://www.notarydepot.com/carrli)
   - [Notary Public in Eugene, OR: Wanona R. Carroll](https://www.notarydepot.com/carrollsnotaryservice)
@@ -8602,4 +8601,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-26T17:50:02Z
+Updated at 2019-12-26T18:10:02Z
