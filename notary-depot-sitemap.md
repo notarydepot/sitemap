@@ -7225,7 +7225,6 @@
   - [Notary Public in Steamboat Springs, CO: Steven N Novack](https://www.notarydepot.com/snovack)
   - [Notary Public in Mesa, AZ: Carl Snow](https://www.notarydepot.com/snowfire)
   - [Notary Public in Williamsburg, VA: Vivian Prescott](https://www.notarydepot.com/snowy6246)
-  - [Notary Public in Chicago, IL: Syreeta Talbert](https://www.notarydepot.com/sntalbert)
   - [Notary Public in Maple Heights, OH: Sharon Nunley](https://www.notarydepot.com/snunley25)
   - [Notary Public in Rancho Cucamonga, CA: Dana Mayer](https://www.notarydepot.com/socalnana)
   - [Notary Public in San Dimas, CA: lisa bittner](https://www.notarydepot.com/socalsignings)
@@ -8601,4 +8600,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-26T19:10:01Z
+Updated at 2019-12-26T19:30:02Z
