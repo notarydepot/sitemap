@@ -173,6 +173,7 @@
     - [Notary Public in Big Bear, CA](https://www.notarydepot.com/notary-near-me/California/Big-Bear)
     - [Notary Public in Big Bear Lake, CA](https://www.notarydepot.com/notary-near-me/California/Big-Bear-Lake)
     - [Notary Public in Bonita, CA](https://www.notarydepot.com/notary-near-me/California/Bonita)
+    - [Notary Public in Brawley, CA](https://www.notarydepot.com/notary-near-me/California/Brawley)
     - [Notary Public in Brea, CA](https://www.notarydepot.com/notary-near-me/California/Brea)
     - [Notary Public in Brentwood, CA](https://www.notarydepot.com/notary-near-me/California/Brentwood)
     - [Notary Public in Brisbane, CA](https://www.notarydepot.com/notary-near-me/California/Brisbane)
@@ -5093,6 +5094,7 @@
   - [Notary Public in Tracy, CA: Kirstie McKenzie](https://www.notarydepot.com/kmckenzie)
   - [Notary Public in Monterey, CA: Kristina McGinnis](https://www.notarydepot.com/kmcnapa)
   - [Notary Public in Washington Township, NJ: Karen Millen](https://www.notarydepot.com/kmloch)
+  - [Notary Public in Brawley, CA: Kathy Perdomo](https://www.notarydepot.com/kmperdomo)
   - [Notary Public in Clinton, MD: Kamesha Spears](https://www.notarydepot.com/kmsmobilenotarygmailcom)
   - [Notary Public in Lawrenceville, GA: LaSonya Abdallah](https://www.notarydepot.com/kmtnotary)
   - [Notary Public in Kent, WA: Kim Nelson](https://www.notarydepot.com/knelson206)
@@ -8600,4 +8602,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-26T08:50:02Z
+Updated at 2019-12-26T09:10:01Z
