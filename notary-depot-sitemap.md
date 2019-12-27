@@ -4089,7 +4089,6 @@
   - [Notary Public in Aurora, CO: Gaetan Delahousse](https://www.notarydepot.com/gaetan)
   - [Notary Public in Saint Petersburg, FL: Andrew Gailey](https://www.notarydepot.com/gailey4)
   - [Notary Public in Jacksonville, FL: Gail Mauthe](https://www.notarydepot.com/gailmauthe)
-  - [Notary Public in West Hartford, CT: Robert Ziff](https://www.notarydepot.com/gailzee1)
   - [Notary Public in Pottstown, PA: Joel Rubincam](https://www.notarydepot.com/galaxy0088)
   - [Notary Public in Longwood, FL: Gale Bryson](https://www.notarydepot.com/galeellis)
   - [Notary Public in Amsterdam, NY: Catherine Purdum](https://www.notarydepot.com/galigirl80)
@@ -8601,4 +8600,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-27T18:30:02Z
+Updated at 2019-12-27T18:50:02Z
