@@ -3852,6 +3852,7 @@
   - [Notary Public in Austin, TX: Edyta Sawin](https://www.notarydepot.com/ebsawin)
   - [Notary Public in Bluff City, TN: Eileen Burke](https://www.notarydepot.com/eburke356)
   - [Notary Public in Los Angeles, CA: Eneetra Gage](https://www.notarydepot.com/ecgage)
+  - [Notary Public in Weymouth, MA: Elizabeth ciccolo](https://www.notarydepot.com/eciccolo)
   - [Notary Public in Lake Jackson, TX: Denise La Fleur](https://www.notarydepot.com/ecmns)
   - [Notary Public in Minneapolis, MN: Ebony Pittman](https://www.notarydepot.com/ecpitt07)
   - [Notary Public in NY: Elena J Barrantes](https://www.notarydepot.com/eculnan1)
@@ -8602,4 +8603,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-28T21:10:02Z
+Updated at 2019-12-28T21:30:02Z
