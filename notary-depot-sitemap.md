@@ -4024,6 +4024,7 @@
   - [Notary Public in Castle Rock, CO: Fredrica Fowle](https://www.notarydepot.com/ffowle)
   - [Notary Public in Big Pine Key, FL: F. Crystal Iannetta](https://www.notarydepot.com/fiannetta2)
   - [Notary Public in Bowie, MD: Denise Hayden](https://www.notarydepot.com/finelinesv)
+  - [Notary Public in Hollister, CA: Nellie ](https://www.notarydepot.com/finestnotary)
   - [Notary Public in Vienna, VA: Eric Finke](https://www.notarydepot.com/finkeeg)
   - [Notary Public in Hayesville, NC: Suzan Finnerty](https://www.notarydepot.com/finnerty)
   - [Notary Public in Springfield, VA: Fiona Ferguson-McKinnon ](https://www.notarydepot.com/fionathesigner)
@@ -8601,4 +8602,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-28T20:30:02Z
+Updated at 2019-12-28T20:50:02Z
