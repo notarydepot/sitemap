@@ -7411,6 +7411,7 @@
   - [Notary Public in New York, NY: Taliah Karim](https://www.notarydepot.com/taliah)
   - [Notary Public in Los Angeles, CA: Talmadge Haven](https://www.notarydepot.com/talmadge)
   - [Notary Public in NY: Tamara Bourdeau](https://www.notarydepot.com/tamarabourdeau)
+  - [Notary Public in Hialeah, FL: Tamara Zelaya](https://www.notarydepot.com/tamarazelaya)
   - [Notary Public in Long Beach, CA: Tameka Gomez](https://www.notarydepot.com/tameka1)
   - [Notary Public in Charlotte, NC: Tami Griffin](https://www.notarydepot.com/tamikadg)
   - [Notary Public in Charleston, SC: tamikoroberts2003@yahoo.com](https://www.notarydepot.com/tamikor)
@@ -8604,4 +8605,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-29T16:10:02Z
+Updated at 2019-12-29T16:30:02Z
