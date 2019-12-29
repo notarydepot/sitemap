@@ -7594,6 +7594,7 @@
   - [Notary Public in Chattanooga, TN: Jennifer Smith](https://www.notarydepot.com/tnmobileclosings)
   - [Notary Public in Knoxville, TN: Elizabeth Sierra-Bronner](https://www.notarydepot.com/tnnotary)
   - [Notary Public in Hillsboro, TN: Terra Fisher](https://www.notarydepot.com/tnnote)
+  - [Notary Public in Columbus, OH: Penny Tolber](https://www.notarydepot.com/tolbernotary)
   - [Notary Public in Tyler, TX: Michael Tolbert](https://www.notarydepot.com/tolbertme)
   - [Notary Public in Charlotte, NC: Tomeka Lynch](https://www.notarydepot.com/tomeka36)
   - [Notary Public in Leland, NC: Tom Foushee](https://www.notarydepot.com/tomfoushee)
@@ -8603,4 +8604,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-29T00:50:02Z
+Updated at 2019-12-29T01:10:02Z
