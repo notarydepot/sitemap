@@ -543,6 +543,7 @@
     - [Notary Public in New Britain, CT](https://www.notarydepot.com/notary-near-me/Connecticut/New-Britain)
     - [Notary Public in New Haven, CT](https://www.notarydepot.com/notary-near-me/Connecticut/New-Haven)
     - [Notary Public in New London, CT](https://www.notarydepot.com/notary-near-me/Connecticut/New-London)
+    - [Notary Public in Redding, CT](https://www.notarydepot.com/notary-near-me/Connecticut/Redding)
     - [Notary Public in Rocky Hill, CT](https://www.notarydepot.com/notary-near-me/Connecticut/Rocky-Hill)
     - [Notary Public in Sharon, CT](https://www.notarydepot.com/notary-near-me/Connecticut/Sharon)
     - [Notary Public in South Windsor, CT](https://www.notarydepot.com/notary-near-me/Connecticut/South-Windsor)
@@ -5038,6 +5039,7 @@
   - [Notary Public in Ormond Beach, FL: Kim Bell](https://www.notarydepot.com/kimbellnotary)
   - [Notary Public in Vacaville, CA: Kimberly Bell](https://www.notarydepot.com/kimberlybell)
   - [Notary Public in North Myrtle Beach, SC: Kimberly Paul](https://www.notarydepot.com/kimberlyp6)
+  - [Notary Public in Redding, CT: Kimberly A Wood](https://www.notarydepot.com/kimberlywood7)
   - [Notary Public in Alliance, OH: Kim Henderson](https://www.notarydepot.com/kimboohio)
   - [Notary Public in Chino Hills, CA: Kim Inola Brunier](https://www.notarydepot.com/kimbrunier)
   - [Notary Public in Midlothian, VA: Kim Burcham](https://www.notarydepot.com/kimburcham)
@@ -8607,4 +8609,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-30T16:30:02Z
+Updated at 2019-12-30T16:50:02Z
