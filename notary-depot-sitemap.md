@@ -2280,6 +2280,7 @@
     - [Notary Public in Fox Island, WA](https://www.notarydepot.com/notary-near-me/Washington/Fox-Island)
     - [Notary Public in Gig Harbor, WA](https://www.notarydepot.com/notary-near-me/Washington/Gig-Harbor)
     - [Notary Public in Goldendale, WA](https://www.notarydepot.com/notary-near-me/Washington/Goldendale)
+    - [Notary Public in Graham, WA](https://www.notarydepot.com/notary-near-me/Washington/Graham)
     - [Notary Public in Kelso, WA](https://www.notarydepot.com/notary-near-me/Washington/Kelso)
     - [Notary Public in Kennewick, WA](https://www.notarydepot.com/notary-near-me/Washington/Kennewick)
     - [Notary Public in Kent, WA](https://www.notarydepot.com/notary-near-me/Washington/Kent)
@@ -5084,6 +5085,7 @@
   - [Notary Public in Streamwood, IL: Kimberly Kelley Adamowicz](https://www.notarydepot.com/klk112)
   - [Notary Public in Story, WY: Karen Loughan](https://www.notarydepot.com/kloughan)
   - [Notary Public in Longview, WA: Katherine Peebles](https://www.notarydepot.com/klpeebles)
+  - [Notary Public in Graham, WA: Kristy Gradel](https://www.notarydepot.com/klynner147)
   - [Notary Public in Salisbury, NC: Kevin E. McCullough](https://www.notarydepot.com/kmac60)
   - [Notary Public in Camarillo, CA: Karen Mason](https://www.notarydepot.com/kmason3)
   - [Notary Public in Cocoa, FL: Karen Cooper](https://www.notarydepot.com/kmaureen)
@@ -8605,4 +8607,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-30T05:10:02Z
+Updated at 2019-12-30T05:30:02Z
