@@ -2718,6 +2718,7 @@
   - [Notary Public in Clarksville, TN: A Quick Note in Tennessee ](https://www.notarydepot.com/aquicknotesbcglobalnet)
   - [Notary Public in Escondido, CA: Araceli Hernandez](https://www.notarydepot.com/araceli822)
   - [Notary Public in Tracy, CA: Alicia Ramirez](https://www.notarydepot.com/aramirez)
+  - [Notary Public in Hattiesburg, MS: April ](https://www.notarydepot.com/arbnotary)
   - [Notary Public in Duncanville, TX: Angelita Haddock](https://www.notarydepot.com/arecoleh)
   - [Notary Public in Downey, CA: Robert Pryor](https://www.notarydepot.com/aredubb)
   - [Notary Public in Granite Falls, NC: Bob Taylor](https://www.notarydepot.com/arernotary)
@@ -8610,4 +8611,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-31T13:30:02Z
+Updated at 2019-12-31T13:50:02Z
