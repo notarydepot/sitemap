@@ -2211,6 +2211,7 @@
     - [Notary Public in Henrico, VA](https://www.notarydepot.com/notary-near-me/Virginia/Henrico)
     - [Notary Public in Herndon, VA](https://www.notarydepot.com/notary-near-me/Virginia/Herndon)
     - [Notary Public in Hopewell, VA](https://www.notarydepot.com/notary-near-me/Virginia/Hopewell)
+    - [Notary Public in King George, VA](https://www.notarydepot.com/notary-near-me/Virginia/King-George)
     - [Notary Public in Leesburg, VA](https://www.notarydepot.com/notary-near-me/Virginia/Leesburg)
     - [Notary Public in Lightfoot, VA](https://www.notarydepot.com/notary-near-me/Virginia/Lightfoot)
     - [Notary Public in Locust Grove, VA](https://www.notarydepot.com/notary-near-me/Virginia/Locust-Grove)
@@ -2752,6 +2753,7 @@
   - [Notary Public in Belhaven, NC: Ashley Chase](https://www.notarydepot.com/ashleychase6671)
   - [Notary Public in Lake Elsinore, CA: Ashley Johnson](https://www.notarydepot.com/ashleyjohnson)
   - [Notary Public in Madera, CA: Ashley Martinez](https://www.notarydepot.com/ashleym1)
+  - [Notary Public in King George, VA: Ashley Nicole McNulty](https://www.notarydepot.com/ashleynicolemcnulty)
   - [Notary Public in Long Beach, CA: Ashley H. Oraguzie ](https://www.notarydepot.com/ashleyoraguzienotary)
   - [Notary Public in Pinellas Park, FL: Ashley](https://www.notarydepot.com/ashley_nyegaard)
   - [Notary Public in Lincoln, NE: Ashoul Adam](https://www.notarydepot.com/ashoul)
@@ -8611,4 +8613,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-31T16:50:02Z
+Updated at 2019-12-31T17:10:02Z
