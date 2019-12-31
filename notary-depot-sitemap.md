@@ -6382,6 +6382,7 @@
   - [Notary Public in Conroe, TX: Simone Shelton](https://www.notarydepot.com/ontimetosign)
   - [Notary Public in Suffolk, VA: Ovedia Parker](https://www.notarydepot.com/oparker09)
   - [Notary Public in Ocean Park, WA: Gina Depriest](https://www.notarydepot.com/opnotary)
+  - [Notary Public in Lebanon, OR: Julia Harmon](https://www.notarydepot.com/oregonassistant2u)
   - [Notary Public in Half Moon Bay, CA: Mrs.Bates](https://www.notarydepot.com/orion)
   - [Notary Public in Austin, TX: Cruz S. Ornelas Jr.](https://www.notarydepot.com/ornelasnotaryservices)
   - [Notary Public in Kissimmee, FL: Robert L. Loos](https://www.notarydepot.com/orostar)
@@ -8609,4 +8610,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2019-12-31T01:30:02Z
+Updated at 2019-12-31T01:50:02Z
