@@ -7371,7 +7371,6 @@
   - [Notary Public in Port Richey, FL: Sunshine Signing Connection](https://www.notarydepot.com/sunshinesigning)
   - [Notary Public in Oceano, CA: Susan M. Schrader](https://www.notarydepot.com/supers)
   - [Notary Public in Dallas, TX: Benjamin Garcia](https://www.notarydepot.com/supreme523)
-  - [Notary Public in Upper Marlboro, MD: Kimberly Williams](https://www.notarydepot.com/supremesa1)
   - [Notary Public in Westbury, NY: William A Walker](https://www.notarydepot.com/surfcaster)
   - [Notary Public in Worcester, MA: Tina M. Hood](https://www.notarydepot.com/surmisez)
   - [Notary Public in Tucson, AZ: Susan Simmons](https://www.notarydepot.com/susan1)
@@ -8613,4 +8612,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2020-01-01T18:10:02Z
+Updated at 2020-01-01T18:30:02Z
