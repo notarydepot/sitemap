@@ -5832,7 +5832,6 @@
   - [Notary Public in Fontana, CA: Alicia Venner ](https://www.notarydepot.com/mobileexpressnotary)
   - [Notary Public in Coral Gables, FL: Rafael A Rincon](https://www.notarydepot.com/mobileflnotary)
   - [Notary Public in Dallas, TX: Shannon Dyson](https://www.notarydepot.com/mobileloancloser)
-  - [Notary Public in Holland, MI: Mary Blowers](https://www.notarydepot.com/mobilemary)
   - [Notary Public in CA: Deborah O. Prideaux](https://www.notarydepot.com/mobilenotary)
   - [Notary Public in Corona, CA: Julia Ortiz, Mobile Notary/Loan Signing Specialist](https://www.notarydepot.com/mobilenotary247)
   - [Notary Public in Harpers Ferry, WV: Candace Rowan](https://www.notarydepot.com/mobilenotary25425)
@@ -7373,7 +7372,7 @@
   - [Notary Public in Port Richey, FL: Sunshine Signing Connection](https://www.notarydepot.com/sunshinesigning)
   - [Notary Public in Oceano, CA: Susan M. Schrader](https://www.notarydepot.com/supers)
   - [Notary Public in Dallas, TX: Benjamin Garcia](https://www.notarydepot.com/supreme523)
-  - [Notary Public in Upper Marlboro, MD: Kimberly Williams](https://www.notarydepot.com/supremesign)
+  - [Notary Public in Upper Marlboro, MD: Kimberly Williams](https://www.notarydepot.com/supremesa1)
   - [Notary Public in Westbury, NY: William A Walker](https://www.notarydepot.com/surfcaster)
   - [Notary Public in Worcester, MA: Tina M. Hood](https://www.notarydepot.com/surmisez)
   - [Notary Public in Tucson, AZ: Susan Simmons](https://www.notarydepot.com/susan1)
@@ -8615,4 +8614,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2020-01-01T17:30:02Z
+Updated at 2020-01-01T17:50:02Z
