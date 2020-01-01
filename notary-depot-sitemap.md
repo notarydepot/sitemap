@@ -2857,6 +2857,7 @@
   - [Notary Public in Littlestown, PA: Bob Crook](https://www.notarydepot.com/bc1506)
   - [Notary Public in Dallas, GA: Barrett D. Cappetto](https://www.notarydepot.com/bcappetto)
   - [Notary Public in Duluth, MN: Billie Jo Carlson-Thompson](https://www.notarydepot.com/bcarls2)
+  - [Notary Public in Prince Frederick, MD: Belinda Church](https://www.notarydepot.com/bchurch330)
   - [Notary Public in Beverly Hills, CA: Bared Costanian](https://www.notarydepot.com/bcostanian)
   - [Notary Public in Saint Petersburg, FL: Brittni Cotilla](https://www.notarydepot.com/bcotilla)
   - [Notary Public in Altamont, NY: Barbara Davis](https://www.notarydepot.com/bdavis)
@@ -3080,7 +3081,6 @@
   - [Notary Public in Sandpoint, ID: Bernice E. Webb](https://www.notarydepot.com/bwebb)
   - [Notary Public in Whittier, CA: Brenda Whinnem](https://www.notarydepot.com/bwnotary)
   - [Notary Public in NY: Janine Cardone](https://www.notarydepot.com/byairbysea)
-  - [Notary Public in Prince Frederick, MD: Belinda Church](https://www.notarydepot.com/byoung330)
   - [Notary Public in Kearney, MO: Sherri Duncan](https://www.notarydepot.com/bythexco)
   - [Notary Public in Jacksonville, FL: Alicia Fuller](https://www.notarydepot.com/bythexnotary)
   - [Notary Public in Pasco, WA: C](https://www.notarydepot.com/c123anderson)
@@ -8612,4 +8612,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2020-01-01T20:50:02Z
+Updated at 2020-01-01T21:10:02Z
