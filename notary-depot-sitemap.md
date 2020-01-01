@@ -1764,7 +1764,6 @@
     - [Notary Public in Hillsboro, OR](https://www.notarydepot.com/notary-near-me/Oregon/Hillsboro)
     - [Notary Public in Lake Oswego, OR](https://www.notarydepot.com/notary-near-me/Oregon/Lake-Oswego)
     - [Notary Public in Lebanon, OR](https://www.notarydepot.com/notary-near-me/Oregon/Lebanon)
-    - [Notary Public in Medford, OR](https://www.notarydepot.com/notary-near-me/Oregon/Medford)
     - [Notary Public in Metolius, OR](https://www.notarydepot.com/notary-near-me/Oregon/Metolius)
     - [Notary Public in Molalla, OR](https://www.notarydepot.com/notary-near-me/Oregon/Molalla)
     - [Notary Public in Myrtle Creek, OR](https://www.notarydepot.com/notary-near-me/Oregon/Myrtle-Creek)
@@ -4282,7 +4281,7 @@
   - [Notary Public in Cleveland, MO: Theresa Hawkins](https://www.notarydepot.com/hawkins)
   - [Notary Public in Plainfield, NJ: Clarissa Hawkins](https://www.notarydepot.com/hawkinsnotary)
   - [Notary Public in Huntington Beach, CA: Jaclyn Ross](https://www.notarydepot.com/hbjaclyn30)
-  - [Notary Public in Medford, OR: Hilda Pantoja](https://www.notarydepot.com/hbpantoja)
+  - [Notary Public in Central Point, OR: Hilda Pantoja](https://www.notarydepot.com/hbpantoja)
   - [Notary Public in Palm Beach Gardens, FL: Humberto Velasco](https://www.notarydepot.com/hbtousa)
   - [Notary Public in Cantonment, FL: Beverly Nichols](https://www.notarydepot.com/hcampers)
   - [Notary Public in Doerun, GA: Heidi Cannon](https://www.notarydepot.com/hcannonr)
@@ -8614,4 +8613,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2020-01-01T17:50:02Z
+Updated at 2020-01-01T18:10:02Z
