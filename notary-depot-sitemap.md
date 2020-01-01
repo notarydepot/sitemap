@@ -5106,6 +5106,7 @@
   - [Notary Public in Lawrenceville, GA: LaSonya Abdallah](https://www.notarydepot.com/kmtnotary)
   - [Notary Public in Kent, WA: Kim Nelson](https://www.notarydepot.com/knelson206)
   - [Notary Public in Rindge, NH: Lauralei Knight](https://www.notarydepot.com/knightnotary)
+  - [Notary Public in Knoxville, TN: Betty Krachey](https://www.notarydepot.com/knoxnotary)
   - [Notary Public in Los Angeles, CA: Carla Kemp](https://www.notarydepot.com/kntebiz)
   - [Notary Public in Dallas, TX: Knyoka Lawson](https://www.notarydepot.com/knyokalawson)
   - [Notary Public in Los Angeles, CA: Amir Tabrizi](https://www.notarydepot.com/kodakmacysplaza)
@@ -8613,4 +8614,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2020-01-01T03:10:02Z
+Updated at 2020-01-01T03:30:01Z
