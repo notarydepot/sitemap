@@ -4945,6 +4945,7 @@
   - [Notary Public in Columbia, MD: Kathryn](https://www.notarydepot.com/kathrynam)
   - [Notary Public in Beaumont, CA: Kathryn Reynolds](https://www.notarydepot.com/kathrynbr)
   - [Notary Public in Mahopac, NY: Katharine Pearsall](https://www.notarydepot.com/kathy)
+  - [Notary Public in Inverness, FL: Kathleen Indelicato](https://www.notarydepot.com/kathyinotary)
   - [Notary Public in Melbourne, FL: Kathy Krug](https://www.notarydepot.com/kathykk7)
   - [Notary Public in Beaumont, TX: Katie C Matthews ](https://www.notarydepot.com/katiecmatthewsnotarygmailcom)
   - [Notary Public in Bonner Springs, KS: Katie Sabutis ](https://www.notarydepot.com/katiekcnotary)
@@ -8613,4 +8614,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2020-01-02T16:10:01Z
+Updated at 2020-01-02T16:30:02Z
