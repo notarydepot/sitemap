@@ -2962,6 +2962,7 @@
   - [Notary Public in Folsom, CA: Alicia McDonald](https://www.notarydepot.com/blueinknotaryservices)
   - [Notary Public in Oakland, CA: Bianka Brooks](https://www.notarydepot.com/bluenotenotary)
   - [Notary Public in Miami, FL: Justina Predelus](https://www.notarydepot.com/bluepennotary)
+  - [Notary Public in Sandpoint, ID: Jennifer S Hampson](https://www.notarydepot.com/bluewaterconsultinginc)
   - [Notary Public in Memphis, TN: Adam Simpson](https://www.notarydepot.com/bluffcitynotaries)
   - [Notary Public in Bluffton, SC: Ilene Shiansky](https://www.notarydepot.com/blufftonnotary)
   - [Notary Public in Lake Forest, CA: Mychel Ann Jeffrey](https://www.notarydepot.com/blujade)
@@ -8615,4 +8616,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2020-01-03T21:10:02Z
+Updated at 2020-01-03T21:30:02Z
