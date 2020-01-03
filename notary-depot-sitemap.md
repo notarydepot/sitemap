@@ -7519,6 +7519,7 @@
   - [Notary Public in West Haverstraw, NY: Helen Hardeen](https://www.notarydepot.com/themobilenotary)
   - [Notary Public in Los Angeles, CA: Michelle Morgan](https://www.notarydepot.com/themorganstandard)
   - [Notary Public in Chester, NJ: Melanie B. Heit Rivellese](https://www.notarydepot.com/thenoblenotary)
+  - [Notary Public in Wyandotte, MI: Candice Angotti](https://www.notarydepot.com/thenotaryauthority)
   - [Notary Public in San Diego, CA: Lois Downing](https://www.notarydepot.com/thenotarygal)
   - [Notary Public in Stockton, CA: R. Garrett](https://www.notarydepot.com/thenotarygeek)
   - [Notary Public in Tampa, FL: Theresa Hense](https://www.notarydepot.com/thense)
@@ -8613,4 +8614,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2020-01-03T12:10:02Z
+Updated at 2020-01-03T12:30:02Z
