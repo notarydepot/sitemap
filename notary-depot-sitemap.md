@@ -6153,7 +6153,7 @@
   - [Notary Public in Springdale, AR: Rebecka Ebsen](https://www.notarydepot.com/notary2coxnet)
   - [Notary Public in Houston, TX: Wayne Hamilton, Certified Signing Agent](https://www.notarydepot.com/notary2notary)
   - [Notary Public in Uniontown, PA: Judith A. Carter](https://www.notarydepot.com/notary2travel)
-  - [Notary Public in Whittier, CA: Linda J. Ortega](https://www.notarydepot.com/notary2u)
+  - [Notary Public in Murrieta, CA: Linda J Ortega](https://www.notarydepot.com/notary2u)
   - [Notary Public in Wallingford, CT: Madison ](https://www.notarydepot.com/notary2you)
   - [Notary Public in Fontana, CA: Debra A. Stewart](https://www.notarydepot.com/notary2yourdoor)
   - [Notary Public in Georgetown, TX: Sandra K. Collins](https://www.notarydepot.com/notary3040)
@@ -8614,4 +8614,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2020-01-03T20:30:02Z
+Updated at 2020-01-03T20:50:02Z
