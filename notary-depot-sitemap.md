@@ -7901,6 +7901,7 @@
   - [Notary Public in Holtwood, PA: Walter Rees](https://www.notarydepot.com/wlrees)
   - [Notary Public in Hesperia, CA: Wendy Madsen](https://www.notarydepot.com/wmadsen)
   - [Notary Public in Berkeley, CA: William Northup](https://www.notarydepot.com/wmn_notary_public)
+  - [Notary Public in Pflugerville, TX: Samantha Daniels](https://www.notarydepot.com/wnbaorbust)
   - [Notary Public in Vidalia, GA: Wendy Howell](https://www.notarydepot.com/wnhowell)
   - [Notary Public in Greenville, SC: Andrew snyder](https://www.notarydepot.com/wolfy2k18)
   - [Notary Public in Bristol, VA: Earlene Wood](https://www.notarydepot.com/woody1945)
@@ -8617,4 +8618,4 @@
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
 
-Updated at 2020-01-04T22:30:02Z
+Updated at 2020-01-04T22:50:02Z
