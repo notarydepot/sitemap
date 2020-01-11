@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-01-11 01:28am
+Updated at 2020-01-11 01:48am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -3902,7 +3902,7 @@ Updated at 2020-01-11 01:28am
   - [Notary Public in La Mesa, CA: Chelsea Addison](https://www.notarydepot.com/eleventhhourmobilenotary)
   - [Notary Public in West Palm Beach, FL: Elijah James](https://www.notarydepot.com/elijah9891)
   - [Notary Public in Chino Hills, CA: Kim Pitts](https://www.notarydepot.com/elijah99)
-  - [Notary Public in San Mateo, CA: The Best Bay Area Notaryâ„¢](https://www.notarydepot.com/elijones)
+  - [Notary Public in San Mateo, CA: The Best Bay Area Notary](https://www.notarydepot.com/elijones)
   - [Notary Public in Rancho Cucamonga, CA: Elisa Hughes](https://www.notarydepot.com/elisahughes1)
   - [Notary Public in Sugar Land, TX:  Stephanie Carrier ](https://www.notarydepot.com/elitedoc)
   - [Notary Public in Fort Smith, AR: Steven k. Rice](https://www.notarydepot.com/elitemobilenotary)
