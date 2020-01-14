@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-01-13 03:48pm
+Updated at 2020-01-13 04:08pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -2320,7 +2320,6 @@ Updated at 2020-01-13 03:48pm
   - [Notaries Public in Wyoming](https://www.notarydepot.com/notary-near-me/Wyoming)
     - [Notary Public in Casper, Wyoming](https://www.notarydepot.com/notary-near-me/Wyoming/Casper)
     - [Notary Public in Cheyenne, Wyoming](https://www.notarydepot.com/notary-near-me/Wyoming/Cheyenne)
-    - [Notary Public in Cody, Wyoming](https://www.notarydepot.com/notary-near-me/Wyoming/Cody)
     - [Notary Public in Lovell, Wyoming](https://www.notarydepot.com/notary-near-me/Wyoming/Lovell)
     - [Notary Public in Riverton, Wyoming](https://www.notarydepot.com/notary-near-me/Wyoming/Riverton)
     - [Notary Public in Story, Wyoming](https://www.notarydepot.com/notary-near-me/Wyoming/Story)
@@ -7634,7 +7633,6 @@ Updated at 2020-01-13 03:48pm
   - [Notary Public in Philadelphia, PA: Shirley Thrower](https://www.notarydepot.com/throwers)
   - [Notary Public in Duarte, CA: Thushari S Fernando](https://www.notarydepot.com/thush75)
   - [Notary Public in Apopka, FL: Thy Nguyen Langley ](https://www.notarydepot.com/thynguyen)
-  - [Notary Public in Cody, WY: Lauren Tibert Wells](https://www.notarydepot.com/tibertlm)
   - [Notary Public in Apple Valley, CA: Heidi Elliott](https://www.notarydepot.com/tidinhodd)
   - [Notary Public in NY: Tiffany Choice](https://www.notarydepot.com/tiffany)
   - [Notary Public in Upland, CA: TIFFANY HARMS](https://www.notarydepot.com/tiffanyharms77)

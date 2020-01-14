@@ -4,7 +4,7 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<url><loc>https://www.notarydepot.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority><lastmod>2020-01-13</lastmod></url>
+<url><loc>https://www.notarydepot.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority><lastmod>2020-01-14</lastmod></url>
 <url><loc>https://www.notarydepot.com/blog</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
 <url><loc>https://www.notarydepot.com/about</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
 <url><loc>https://www.notarydepot.com/contact</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
@@ -2320,7 +2320,6 @@
   <url><loc>https://www.notarydepot.com/notary-near-me/Wyoming</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
     <url><loc>https://www.notarydepot.com/notary-near-me/Wyoming/Casper</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
     <url><loc>https://www.notarydepot.com/notary-near-me/Wyoming/Cheyenne</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-    <url><loc>https://www.notarydepot.com/notary-near-me/Wyoming/Cody</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
     <url><loc>https://www.notarydepot.com/notary-near-me/Wyoming/Lovell</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
     <url><loc>https://www.notarydepot.com/notary-near-me/Wyoming/Riverton</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
     <url><loc>https://www.notarydepot.com/notary-near-me/Wyoming/Story</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
@@ -7633,7 +7632,6 @@
   <url><loc>https://www.notarydepot.com/throwers</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.notarydepot.com/thush75</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.notarydepot.com/thynguyen</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.notarydepot.com/tibertlm</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.notarydepot.com/tidinhodd</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.notarydepot.com/tiffany</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.notarydepot.com/tiffanyharms77</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
