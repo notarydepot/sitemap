@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-01-16 07:28am
+Updated at 2020-01-16 07:48am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -4221,7 +4221,6 @@ Updated at 2020-01-16 07:28am
   - [Notary Public in Salt Lake City, UT: Jon Doe](https://www.notarydepot.com/gregwooten)
   - [Notary Public in Richmond, VA: D. Aviles](https://www.notarydepot.com/greyarrow)
   - [Notary Public in Jacksonville, FL: Grisselle Betancourt](https://www.notarydepot.com/grisselle)
-  - [Notary Public in Ramona, CA: Sue Baker](https://www.notarydepot.com/grmabak52)
   - [Notary Public in Vista, CA: Glenda Rooney](https://www.notarydepot.com/grooneynotary)
   - [Notary Public in Portsmouth, VA: Gladys Sample Andrews](https://www.notarydepot.com/gsa757)
   - [Notary Public in Lathrop, CA: Gary Sidhu](https://www.notarydepot.com/gsidhu)
