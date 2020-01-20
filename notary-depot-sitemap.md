@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-01-20 11:28am
+Updated at 2020-01-20 11:48am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -7523,6 +7523,7 @@ Updated at 2020-01-20 11:28am
   - [Notary Public in Indianapolis, IN: Tanisha Michelle McCormick](https://www.notarydepot.com/tanishamp16)
   - [Notary Public in Manhattan Beach, CA: Essential Mobile Notary](https://www.notarydepot.com/tanna)
   - [Notary Public in Fort Lauderdale, FL: Cesar Ballerini](https://www.notarydepot.com/tano)
+  - [Notary Public in Blaine, WA: Tanya Chevis](https://www.notarydepot.com/tanya%20chevis)
   - [Notary Public in Morgan City, LA: Tanya Escort](https://www.notarydepot.com/tanyaescort)
   - [Notary Public in Crestview, FL: Tanya Rivera](https://www.notarydepot.com/tanyanadam)
   - [Notary Public in Los Angeles, CA: Tara Gipson](https://www.notarydepot.com/taradeng2)
