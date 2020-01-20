@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-01-20 12:08pm
+Updated at 2020-01-20 12:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -5309,6 +5309,7 @@ Updated at 2020-01-20 12:08pm
   - [Notary Public in Seal Beach, CA: Lee Muncie](https://www.notarydepot.com/leemuncie)
   - [Notary Public in Anacortes, WA: Sandra Meyer](https://www.notarydepot.com/leesameyer)
   - [Notary Public in Fontana, CA: Leslie Fierro](https://www.notarydepot.com/lefierro)
+  - [Notary Public in Blaine, WA: Tanya Chevis](https://www.notarydepot.com/legalbegal)
   - [Notary Public in Chesterfield, VA: Monica James](https://www.notarydepot.com/legalnotes4u)
   - [Notary Public in NY: Igor Kuperman](https://www.notarydepot.com/legendfx)
   - [Notary Public in Philadelphia, PA: Tish Gastearl](https://www.notarydepot.com/legsongo)
@@ -7523,7 +7524,6 @@ Updated at 2020-01-20 12:08pm
   - [Notary Public in Indianapolis, IN: Tanisha Michelle McCormick](https://www.notarydepot.com/tanishamp16)
   - [Notary Public in Manhattan Beach, CA: Essential Mobile Notary](https://www.notarydepot.com/tanna)
   - [Notary Public in Fort Lauderdale, FL: Cesar Ballerini](https://www.notarydepot.com/tano)
-  - [Notary Public in Blaine, WA: Tanya Chevis](https://www.notarydepot.com/tanya%20chevis)
   - [Notary Public in Morgan City, LA: Tanya Escort](https://www.notarydepot.com/tanyaescort)
   - [Notary Public in Crestview, FL: Tanya Rivera](https://www.notarydepot.com/tanyanadam)
   - [Notary Public in Los Angeles, CA: Tara Gipson](https://www.notarydepot.com/taradeng2)
