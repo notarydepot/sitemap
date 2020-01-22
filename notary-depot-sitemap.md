@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-01-22 09:48am
+Updated at 2020-01-22 10:08am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -10,6 +10,7 @@ Updated at 2020-01-22 09:48am
   - [Notary Advice Part 2: Online Presence](https://www.notarydepot.com/blog/notary-advice-part-2-online-presence)
   - [Notary Advice Part 1: Ground Game](https://www.notarydepot.com/blog/notary-advice-part-1-ground-game)
   - [Be Careful, Not All Notaries Are Signing Agents](https://www.notarydepot.com/blog/be-careful-not-all-notaries-are-signing-agents)
+  - [5 Ways to Protect Yourself as a Biker](https://www.notarydepot.com/blog/5-ways-to-protect-yourself-as-a-biker)
   - [Checklist: 8 Notary Public Supplies You Need](https://www.notarydepot.com/blog/checklist-8-notary-public-supplies-you-need)
   - [Everything You Should Know Before Your House Closing](https://www.notarydepot.com/blog/everything-you-should-know-before-your-house-closing)
   - [Notary Service vs. Notary Signing Agent: What's The Difference?](https://www.notarydepot.com/blog/notary-service-vs-notary-signing-agents)
