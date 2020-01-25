@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-01-25 08:48am
+Updated at 2020-01-25 09:08am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -4769,7 +4769,6 @@ Updated at 2020-01-25 08:48am
   - [Notary Public in Canby, OR: Jennie Schroder](https://www.notarydepot.com/joelle98)
   - [Notary Public in North Wildwood, NJ: Joel Rivera](https://www.notarydepot.com/joelnotary)
   - [Notary Public in Harrisburg, PA: Joel Vargas](https://www.notarydepot.com/joelvargaspanotary)
-  - [Notary Public in San Ramon, CA: Joseph Noon](https://www.notarydepot.com/joenoon)
   - [Notary Public in Anaheim, CA: Johanna DeWitt](https://www.notarydepot.com/johannadewitt)
   - [Notary Public in Weston, FL: Johanna Garcia](https://www.notarydepot.com/johannanotarygmailcom)
   - [Notary Public in Orangevale, CA: John L Savage](https://www.notarydepot.com/johannes8)
