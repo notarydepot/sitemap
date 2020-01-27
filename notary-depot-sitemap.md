@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-01-26 06:28pm
+Updated at 2020-01-26 06:48pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -505,7 +505,6 @@ Updated at 2020-01-26 06:28pm
     - [Notary Public in Cañon City, Colorado](https://www.notarydepot.com/notary-near-me/Colorado/Ca%C3-on-City)
     - [Notary Public in Castle Rock, Colorado](https://www.notarydepot.com/notary-near-me/Colorado/Castle-Rock)
     - [Notary Public in Colorado Springs, Colorado](https://www.notarydepot.com/notary-near-me/Colorado/Colorado-Springs)
-    - [Notary Public in Conifer, Colorado](https://www.notarydepot.com/notary-near-me/Colorado/Conifer)
     - [Notary Public in Denver, Colorado](https://www.notarydepot.com/notary-near-me/Colorado/Denver)
     - [Notary Public in Englewood, Colorado](https://www.notarydepot.com/notary-near-me/Colorado/Englewood)
     - [Notary Public in Firestone, Colorado](https://www.notarydepot.com/notary-near-me/Colorado/Firestone)
@@ -5193,7 +5192,6 @@ Updated at 2020-01-26 06:28pm
   - [Notary Public in Naples, FL: Kathryn Huffer](https://www.notarydepot.com/kyhuffer)
   - [Notary Public in San Francisco, CA: Kyle Devin Eisenberg](https://www.notarydepot.com/kylecooks12)
   - [Notary Public in Manhattan, KS: Kyle Droste](https://www.notarydepot.com/kyle_droste)
-  - [Notary Public in Conifer, CO: Kym Zillioux](https://www.notarydepot.com/kymzillioux)
   - [Notary Public in El Segundo, CA: KO Notary](https://www.notarydepot.com/kyofattycat0327)
   - [Notary Public in Fresno, CA: Kyran Caples](https://www.notarydepot.com/kyranac)
   - [Notary Public in Burnsville, MN: Kyriaky Machovsky](https://www.notarydepot.com/kyriaky01)
