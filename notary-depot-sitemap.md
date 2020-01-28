@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-01-27 04:48pm
+Updated at 2020-01-27 05:08pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -4188,7 +4188,7 @@ Updated at 2020-01-27 04:48pm
   - [Notary Public in Haines City, FL: Gloria Jasper](https://www.notarydepot.com/gloriajasper)
   - [Notary Public in Stratford, CT: gloria sancho](https://www.notarydepot.com/gloriasancho)
   - [Notary Public in Vero Beach, FL: Gloria Taylor](https://www.notarydepot.com/glotaylor)
-  - [Notary Public in Deerfield Beach, FL: Gloriaivette Melendez](https://www.notarydepot.com/gmelendez)
+  - [Notary Public in Oakland Park, FL: Gloriaivette Melendez](https://www.notarydepot.com/gmelendez)
   - [Notary Public in Marcus Hook, PA: Gerald M Geimer](https://www.notarydepot.com/gmgeimer)
   - [Notary Public in Seattle, WA: Gabriel McTigue](https://www.notarydepot.com/gmnotary)
   - [Notary Public in Sarasota, FL: Yolanda Gaines](https://www.notarydepot.com/gmobilenotary)
