@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-02-03 05:28pm
+Updated at 2020-02-03 05:48pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -3568,6 +3568,7 @@ Updated at 2020-02-03 05:28pm
   - [Notary Public in Bracey, VA: Denise Johnson](https://www.notarydepot.com/de63038)
   - [Notary Public in Phoenix, AZ: Deana Lowrance, Professional "Mobile" Signing Agent & Notary](https://www.notarydepot.com/deanaj)
   - [Notary Public in Hampton, VA: David E. Dean](https://www.notarydepot.com/deande)
+  - [Notary Public in Louisville, KY: DeAnne Lewis](https://www.notarydepot.com/deannelewis)
   - [Notary Public in Rocky Point, NC: Deborah A. Newkirk](https://www.notarydepot.com/deb)
   - [Notary Public in Liverpool, NY: Debra Mcleod](https://www.notarydepot.com/debbie)
   - [Notary Public in NY: Debbie Cobb](https://www.notarydepot.com/debbiecobb)
