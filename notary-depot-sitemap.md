@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-02-05 02:08pm
+Updated at 2020-02-05 02:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -4489,6 +4489,7 @@ Updated at 2020-02-05 02:08pm
   - [Notary Public in Brunswick, GA: jamie simmons](https://www.notarydepot.com/jamiesi)
   - [Notary Public in Oklahoma City, OK: Jamie Parker](https://www.notarydepot.com/jamiessign)
   - [Notary Public in Hendersonville, NC: Jamie Stark](https://www.notarydepot.com/jamiestark)
+  - [Notary Public in St. Louis, MO: Jamika Kemper](https://www.notarydepot.com/jamikakemper)
   - [Notary Public in North Tonawanda, NY: James Barnes](https://www.notarydepot.com/jamm1972)
   - [Notary Public in Richmond, CA: Nicole Welch](https://www.notarydepot.com/jammy1922)
   - [Notary Public in Midlothian, TX: Jana Fallen](https://www.notarydepot.com/jana072566)
