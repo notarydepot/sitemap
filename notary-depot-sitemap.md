@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-02-06 12:08pm
+Updated at 2020-02-06 12:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -6400,7 +6400,6 @@ Updated at 2020-02-06 12:08pm
   - [Notary Public in Plano, TX: Kimberly D. Murray](https://www.notarydepot.com/ntxmobilenotary)
   - [Notary Public in Richmond, VA: Shauna J Murrell](https://www.notarydepot.com/nuattitude)
   - [Notary Public in San Antonio, TX: Sonja S. Koenig](https://www.notarydepot.com/nubianqueen08)
-  - [Notary Public in New Windsor, NY: Colleen Nugent](https://www.notarydepot.com/nugentca)
   - [Notary Public in Ellington, CT: Christina Scavetta](https://www.notarydepot.com/nutmegnotary)
   - [Notary Public in Port Byron, NY: Nancy V. Amie](https://www.notarydepot.com/nvamie)
   - [Notary Public in Alexandria, VA: Michelle M](https://www.notarydepot.com/nvlslady)
