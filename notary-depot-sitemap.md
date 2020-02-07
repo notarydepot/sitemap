@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-02-07 12:48pm
+Updated at 2020-02-07 01:08pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -6310,6 +6310,7 @@ Updated at 2020-02-07 12:48pm
   - [Notary Public in Gretna, VA: Colette](https://www.notarydepot.com/notarymomma)
   - [Notary Public in Sunny Isles Beach, FL: Mott Kornicki ](https://www.notarydepot.com/notarymott)
   - [Notary Public in Malibu, CA: Natalie Bernstein](https://www.notarydepot.com/notarynat)
+  - [Notary Public in Colton, CA: Nick Castrellon](https://www.notarydepot.com/notarynick)
   - [Notary Public in South Bend, IN: Nikki Greene](https://www.notarydepot.com/notarynikki)
   - [Notary Public in North Vernon, IN: Jessica Hvala](https://www.notarydepot.com/notaryninja)
   - [Notary Public in Columbia, TN: Laquita Amos](https://www.notarydepot.com/notaryninja78)
