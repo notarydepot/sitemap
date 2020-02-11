@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-02-10 05:08pm
+Updated at 2020-02-10 05:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -1204,6 +1204,7 @@ Updated at 2020-02-10 05:08pm
     - [Notary Public in Port Huron, Michigan](https://www.notarydepot.com/notary-near-me/Michigan/Port-Huron)
     - [Notary Public in Redford Charter Township, Michigan](https://www.notarydepot.com/notary-near-me/Michigan/Redford-Charter-Township)
     - [Notary Public in Rochester, Michigan](https://www.notarydepot.com/notary-near-me/Michigan/Rochester)
+    - [Notary Public in Rochester Hills, Michigan](https://www.notarydepot.com/notary-near-me/Michigan/Rochester-Hills)
     - [Notary Public in Romulus, Michigan](https://www.notarydepot.com/notary-near-me/Michigan/Romulus)
     - [Notary Public in Saginaw, Michigan](https://www.notarydepot.com/notary-near-me/Michigan/Saginaw)
     - [Notary Public in Sault Ste. Marie, Michigan](https://www.notarydepot.com/notary-near-me/Michigan/Sault-Ste-Marie)
@@ -5335,6 +5336,7 @@ Updated at 2020-02-10 05:08pm
   - [Notary Public in Pomona, CA: Gloria Delfin](https://www.notarydepot.com/leti5050)
   - [Notary Public in Dickinson, TX: Justin](https://www.notarydepot.com/levelupmte)
   - [Notary Public in Summerville, SC: Leverne Palmer ](https://www.notarydepot.com/levernepalmer)
+  - [Notary Public in Rochester Hills, MI: LaVerne Farmer](https://www.notarydepot.com/lfarmer100)
   - [Notary Public in Saint Martinville, LA: Lisa](https://www.notarydepot.com/lgeorge)
   - [Notary Public in Long Beach, CA: Leticia Gutièrrez](https://www.notarydepot.com/lgmobile26)
   - [Notary Public in Phoenix, AZ: Maria Goins](https://www.notarydepot.com/lgoins)
