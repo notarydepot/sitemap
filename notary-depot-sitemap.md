@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-02-14 08:28pm
+Updated at 2020-02-14 08:48pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -7496,7 +7496,7 @@ Updated at 2020-02-14 08:28pm
   - [Notary Public in San Diego, CA: Patrick J. Swies](https://www.notarydepot.com/swiesnotary)
   - [Notary Public in Chino Hills, CA: Christen Peyjen Ho](https://www.notarydepot.com/swiftelite)
   - [Notary Public in Hampton, VA: Sara Williams](https://www.notarydepot.com/swilliams)
-  - [Notary Public in Ann Arbor, MI: Stacie Williams](https://www.notarydepot.com/swilliams48%20)
+  - [Notary Public in Ann Arbor, MI: Stacie Williams](https://www.notarydepot.com/swilliams48)
   - [Notary Public in Stansbury Park, UT: Scott Mortensen](https://www.notarydepot.com/swmortensen)
   - [Notary Public in Santa Fe, NM: Judy Sparks](https://www.notarydepot.com/swnotary)
   - [Notary Public in Raleigh, NC: Shirley Parker](https://www.notarydepot.com/swparker)
