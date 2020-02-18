@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-02-18 05:08am
+Updated at 2020-02-18 05:28am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -3356,7 +3356,7 @@ Updated at 2020-02-18 05:08am
   - [Notary Public in Lake Elsinore, CA: Colleen M Gomez](https://www.notarydepot.com/colleengomez3)
   - [Notary Public in Concord, CA: Michelle Comerford](https://www.notarydepot.com/comeroni)
   - [Notary Public in Fontana, CA: Marian Jackson](https://www.notarydepot.com/comet222)
-  - [Notary Public in Columbia, MO: Ellen Rees](https://www.notarydepot.com/comonotary)
+  - [Notary Public in Columbia, MO: Ellen Holt](https://www.notarydepot.com/comonotary)
   - [Notary Public in Jacksonville, FL: Andrew Alexander Brown](https://www.notarydepot.com/competentnotary)
   - [Notary Public in New York, NY: Edward J. Bryant](https://www.notarydepot.com/conciergenotary)
   - [Notary Public in Thousand Oaks, CA: Holly Litmanovich](https://www.notarydepot.com/conejovalleynotary)
