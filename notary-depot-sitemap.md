@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-02-19 01:08pm
+Updated at 2020-02-19 01:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -705,6 +705,7 @@ Updated at 2020-02-19 01:08pm
     - [Notary Public in Pensacola, Florida](https://www.notarydepot.com/notary-near-me/Florida/Pensacola)
     - [Notary Public in Perry, Florida](https://www.notarydepot.com/notary-near-me/Florida/Perry)
     - [Notary Public in Pinellas Park, Florida](https://www.notarydepot.com/notary-near-me/Florida/Pinellas-Park)
+    - [Notary Public in Plantation, Florida](https://www.notarydepot.com/notary-near-me/Florida/Plantation)
     - [Notary Public in Poinciana, Florida](https://www.notarydepot.com/notary-near-me/Florida/Poinciana)
     - [Notary Public in Pompano Beach, Florida](https://www.notarydepot.com/notary-near-me/Florida/Pompano-Beach)
     - [Notary Public in Port Charlotte, Florida](https://www.notarydepot.com/notary-near-me/Florida/Port-Charlotte)
@@ -4086,7 +4087,7 @@ Updated at 2020-02-19 01:08pm
   - [Notary Public in Port Hueneme, CA: Simone Lewis](https://www.notarydepot.com/frenchie)
   - [Notary Public in Acworth, GA: Milton Nolen](https://www.notarydepot.com/freshvision)
   - [Notary Public in Clearwater, FL: Robert Charles](https://www.notarydepot.com/fritz8)
-  - [Notary Public in Fort Lauderdale, FL: Kenya Frost](https://www.notarydepot.com/frostkenya)
+  - [Notary Public in Plantation, FL: Kenya Frost](https://www.notarydepot.com/frostkenya)
   - [Notary Public in North Little Rock, AR: Amon](https://www.notarydepot.com/frostymay23)
   - [Notary Public in Santa Ana, CA: Ruschka E Sanguinetti](https://www.notarydepot.com/fruityru)
   - [Notary Public in Woodbridge, VA: Frederick Shaw](https://www.notarydepot.com/fshaw)
