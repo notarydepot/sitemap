@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-02-21 11:08am
+Updated at 2020-02-21 11:28am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -133,6 +133,7 @@ Updated at 2020-02-21 11:08am
     - [Notary Public in Little Rock, Arkansas](https://www.notarydepot.com/notary-near-me/Arkansas/Little-Rock)
     - [Notary Public in Lowell, Arkansas](https://www.notarydepot.com/notary-near-me/Arkansas/Lowell)
     - [Notary Public in Maumelle, Arkansas](https://www.notarydepot.com/notary-near-me/Arkansas/Maumelle)
+    - [Notary Public in Morrilton, Arkansas](https://www.notarydepot.com/notary-near-me/Arkansas/Morrilton)
     - [Notary Public in Mountain Home, Arkansas](https://www.notarydepot.com/notary-near-me/Arkansas/Mountain-Home)
     - [Notary Public in North Little Rock, Arkansas](https://www.notarydepot.com/notary-near-me/Arkansas/North-Little-Rock)
     - [Notary Public in Pangburn, Arkansas](https://www.notarydepot.com/notary-near-me/Arkansas/Pangburn)
@@ -4215,6 +4216,7 @@ Updated at 2020-02-21 11:08am
   - [Notary Public in Easton, PA: Monica B. Voloshin](https://www.notarydepot.com/greaterlehighvalleynotary)
   - [Notary Public in Glendale, CA: Goren G Tatarian](https://www.notarydepot.com/greatimingnotary)
   - [Notary Public in Fayetteville, NC: Gary Smith Jr](https://www.notarydepot.com/greatopps)
+  - [Notary Public in Morrilton, AR: Glenna Tindall](https://www.notarydepot.com/greentx36)
   - [Notary Public in Mooresville, NC: Greg Atkinson](https://www.notarydepot.com/gregatkinson)
   - [Notary Public in Long Beach, CA: Greg Brown](https://www.notarydepot.com/gregb)
   - [Notary Public in San Tan Valley, AZ: Greg Estrada](https://www.notarydepot.com/gregestrada)
