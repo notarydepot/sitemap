@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-02-27 10:48am
+Updated at 2020-02-27 11:08am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -952,7 +952,6 @@ Updated at 2020-02-27 10:48am
     - [Notary Public in Newburgh, Indiana](https://www.notarydepot.com/notary-near-me/Indiana/Newburgh)
     - [Notary Public in New Palestine, Indiana](https://www.notarydepot.com/notary-near-me/Indiana/New-Palestine)
     - [Notary Public in Noblesville, Indiana](https://www.notarydepot.com/notary-near-me/Indiana/Noblesville)
-    - [Notary Public in North Vernon, Indiana](https://www.notarydepot.com/notary-near-me/Indiana/North-Vernon)
     - [Notary Public in Rockville, Indiana](https://www.notarydepot.com/notary-near-me/Indiana/Rockville)
     - [Notary Public in South Bend, Indiana](https://www.notarydepot.com/notary-near-me/Indiana/South-Bend)
     - [Notary Public in Terre Haute, Indiana](https://www.notarydepot.com/notary-near-me/Indiana/Terre-Haute)
@@ -6316,7 +6315,6 @@ Updated at 2020-02-27 10:48am
   - [Notary Public in Malibu, CA: Natalie Bernstein](https://www.notarydepot.com/notarynat)
   - [Notary Public in Colton, CA: Nick Castrellon](https://www.notarydepot.com/notarynick)
   - [Notary Public in South Bend, IN: Nikki Greene](https://www.notarydepot.com/notarynikki)
-  - [Notary Public in North Vernon, IN: Jessica Hvala](https://www.notarydepot.com/notaryninja)
   - [Notary Public in Columbia, TN: Laquita Amos](https://www.notarydepot.com/notaryninja78)
   - [Notary Public in La Quinta, CA: Lavonda Lee](https://www.notarydepot.com/notarynow22)
   - [Notary Public in Newport Beach, CA: NotaryNow](https://www.notarydepot.com/notarynowcom)
