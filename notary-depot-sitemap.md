@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-02-27 10:28am
+Updated at 2020-02-27 10:48am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -4833,7 +4833,7 @@ Updated at 2020-02-27 10:28am
   - [Notary Public in Mesa, AZ: JP Mobile Notary](https://www.notarydepot.com/jpmobilenotary)
   - [Notary Public in Manchester, NH: Myra  Mullen](https://www.notarydepot.com/jpmyra)
   - [Notary Public in Napa, CA: Jim Pettis](https://www.notarydepot.com/jpnotary)
-  - [Notary Public in Provo, UT: John Poelman](https://www.notarydepot.com/jpoelman)
+  - [Notary Public in Provo, UT: Blair Poelman](https://www.notarydepot.com/jpoelman)
   - [Notary Public in Little Rock, AR: Joni Powers](https://www.notarydepot.com/jpow79)
   - [Notary Public in Portland, OR: Jennifer N Powell](https://www.notarydepot.com/jpowellnsa)
   - [Notary Public in San Dimas, CA: Jeanne Pratt](https://www.notarydepot.com/jprattnotary)
