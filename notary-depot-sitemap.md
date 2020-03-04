@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-03-04 12:08pm
+Updated at 2020-03-04 12:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -5989,6 +5989,7 @@ Updated at 2020-03-04 12:08pm
   - [Notary Public in Stockton, CA: Michelle C. Robertson](https://www.notarydepot.com/mrobertson1)
   - [Notary Public in Irving, TX: Melandie Rota](https://www.notarydepot.com/mrota123)
   - [Notary Public in Tavares, FL: Sakeena Butler](https://www.notarydepot.com/mrsbutler10)
+  - [Notary Public in Jacksonville, FL: Sheena Grant](https://www.notarydepot.com/mrsgrant14)
   - [Notary Public in Stafford, TX: La Keisha Redd](https://www.notarydepot.com/mrsnotary)
   - [Notary Public in Spring, TX: Juwana Turner](https://www.notarydepot.com/mrs_turner28)
   - [Notary Public in Saint Petersburg, FL: Michael D.Wright Sr.](https://www.notarydepot.com/mrwright)
