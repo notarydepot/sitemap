@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-03-03 04:28pm
+Updated at 2020-03-03 04:48pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -1554,7 +1554,6 @@ Updated at 2020-03-03 04:28pm
     - [Notary Public in Peekskill, New York](https://www.notarydepot.com/notary-near-me/New-York/Peekskill)
     - [Notary Public in Plainview, New York](https://www.notarydepot.com/notary-near-me/New-York/Plainview)
     - [Notary Public in Port Byron, New York](https://www.notarydepot.com/notary-near-me/New-York/Port-Byron)
-    - [Notary Public in Port Jervis, New York](https://www.notarydepot.com/notary-near-me/New-York/Port-Jervis)
     - [Notary Public in Randolph, New York](https://www.notarydepot.com/notary-near-me/New-York/Randolph)
     - [Notary Public in Riverhead, New York](https://www.notarydepot.com/notary-near-me/New-York/Riverhead)
     - [Notary Public in Rochester, New York](https://www.notarydepot.com/notary-near-me/New-York/Rochester)
@@ -5760,7 +5759,6 @@ Updated at 2020-03-03 04:28pm
   - [Notary Public in Federal Way, WA: Misty](https://www.notarydepot.com/mflavel)
   - [Notary Public in Limestone, NY: Michelle L Flynn](https://www.notarydepot.com/mflynn)
   - [Notary Public in Annandale, VA: Michael Fontaine](https://www.notarydepot.com/mfontaine1)
-  - [Notary Public in Port Jervis, NY: Misty Fuller](https://www.notarydepot.com/mfuller)
   - [Notary Public in Fort Lauderdale, FL: Martina Adams](https://www.notarydepot.com/mgadams)
   - [Notary Public in Pasadena, TX: Mario Garcia](https://www.notarydepot.com/mgarcia0410)
   - [Notary Public in Murfreesboro, TN: Renee M. Gentry](https://www.notarydepot.com/mgentry345)
