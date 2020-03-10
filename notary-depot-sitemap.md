@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-03-10 05:28am
+Updated at 2020-03-10 05:48am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -1773,6 +1773,7 @@ Updated at 2020-03-10 05:28am
     - [Notary Public in Drums, Pennsylvania](https://www.notarydepot.com/notary-near-me/Pennsylvania/Drums)
     - [Notary Public in Easton, Pennsylvania](https://www.notarydepot.com/notary-near-me/Pennsylvania/Easton)
     - [Notary Public in East Stroudsburg, Pennsylvania](https://www.notarydepot.com/notary-near-me/Pennsylvania/East-Stroudsburg)
+    - [Notary Public in Elverson, Pennsylvania](https://www.notarydepot.com/notary-near-me/Pennsylvania/Elverson)
     - [Notary Public in Erie, Pennsylvania](https://www.notarydepot.com/notary-near-me/Pennsylvania/Erie)
     - [Notary Public in Exton, Pennsylvania](https://www.notarydepot.com/notary-near-me/Pennsylvania/Exton)
     - [Notary Public in Fairview-Ferndale, Pennsylvania](https://www.notarydepot.com/notary-near-me/Pennsylvania/Fairview-Ferndale)
@@ -1815,7 +1816,6 @@ Updated at 2020-03-10 05:28am
     - [Notary Public in Narberth, Pennsylvania](https://www.notarydepot.com/notary-near-me/Pennsylvania/Narberth)
     - [Notary Public in Nazareth, Pennsylvania](https://www.notarydepot.com/notary-near-me/Pennsylvania/Nazareth)
     - [Notary Public in New Castle, Pennsylvania](https://www.notarydepot.com/notary-near-me/Pennsylvania/New-Castle)
-    - [Notary Public in Newtown Square, Pennsylvania](https://www.notarydepot.com/notary-near-me/Pennsylvania/Newtown-Square)
     - [Notary Public in Northern Cambria, Pennsylvania](https://www.notarydepot.com/notary-near-me/Pennsylvania/Northern-Cambria)
     - [Notary Public in North Versailles, Pennsylvania](https://www.notarydepot.com/notary-near-me/Pennsylvania/North-Versailles)
     - [Notary Public in Oil City, Pennsylvania](https://www.notarydepot.com/notary-near-me/Pennsylvania/Oil-City)
@@ -3515,7 +3515,7 @@ Updated at 2020-03-10 05:28am
   - [Notary Public in Mount Airy, NC: Davee Hall](https://www.notarydepot.com/daveed)
   - [Notary Public in Altamonte Springs, FL: Dave Heine](https://www.notarydepot.com/daveh)
   - [Notary Public in Schenectady, NY: Davia M. Falvo](https://www.notarydepot.com/daviam_123)
-  - [Notary Public in Newtown Square, PA: David](https://www.notarydepot.com/davidc)
+  - [Notary Public in Elverson, PA: David](https://www.notarydepot.com/davidc)
   - [Notary Public in Maumee, OH: David Flathers](https://www.notarydepot.com/davidflathers)
   - [Notary Public in Northborough, MA: David E Jusseaume](https://www.notarydepot.com/davidjuss)
   - [Notary Public in Atlanta, GA: Atlanta Notaries](https://www.notarydepot.com/davidkimpi)
