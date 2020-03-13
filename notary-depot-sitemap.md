@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-03-13 10:08am
+Updated at 2020-03-13 10:28am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -2835,7 +2835,6 @@ Updated at 2020-03-13 10:08am
   - [Notary Public in Duluth, MN: Billie Jo Carlson-Thompson](https://www.notarydepot.com/bcarls2)
   - [Notary Public in Prince Frederick, MD: Belinda Church](https://www.notarydepot.com/bchurch330)
   - [Notary Public in Beverly Hills, CA: Bared Costanian](https://www.notarydepot.com/bcostanian)
-  - [Notary Public in Saint Petersburg, FL: Brittni Cotilla](https://www.notarydepot.com/bcotilla)
   - [Notary Public in Altamont, NY: Barbara Davis](https://www.notarydepot.com/bdavis)
   - [Notary Public in Cypress, CA: Bogdana Dees](https://www.notarydepot.com/bdees)
   - [Notary Public in Fort Lauderdale, FL: Barbara Devore](https://www.notarydepot.com/bdevore)
@@ -7341,7 +7340,6 @@ Updated at 2020-03-13 10:08am
   - [Notary Public in Brentwood, TN: Sonja Deantignac](https://www.notarydepot.com/sonjadeanrose)
   - [Notary Public in Beaumont, CA: Sonja Avitia](https://www.notarydepot.com/sonjanotary)
   - [Notary Public in Oklahoma City, OK: James E. Lloyd Iii](https://www.notarydepot.com/sooner310)
-  - [Notary Public in San Diego, CA: Sophia Sanchez](https://www.notarydepot.com/sophiasan)
   - [Notary Public in Mount Holly, NJ: Yvette Ray](https://www.notarydepot.com/sotdl04)
   - [Notary Public in Schwenksville, PA: MELANIE ALTEMUS](https://www.notarydepot.com/sourceoneautogroup)
   - [Notary Public in Boynton Beach, FL: Vannessa Delgado](https://www.notarydepot.com/southflnotary)
