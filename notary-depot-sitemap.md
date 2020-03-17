@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-03-17 02:08pm
+Updated at 2020-03-17 02:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -6982,6 +6982,7 @@ Updated at 2020-03-17 02:08pm
   - [Notary Public in Lewisville, TX: saba Chaudhry](https://www.notarydepot.com/sabanotary)
   - [Notary Public in Los Angeles, CA: Sabrina D. Machado](https://www.notarydepot.com/sabrinamachado)
   - [Notary Public in Santa Clara, CA: Kelby Olson](https://www.notarydepot.com/sac22)
+  - [Notary Public in Mobile, AL: Erica Wilson](https://www.notarydepot.com/sacire218)
   - [Notary Public in Alcolu, SC: Mary Johnson](https://www.notarydepot.com/sade110)
   - [Notary Public in Valley Stream, NY: sadia khan](https://www.notarydepot.com/sadiakhan17)
   - [Notary Public in Port Huron, MI: Katherine Sova-Fasbender](https://www.notarydepot.com/safeguardmobilenotary)
