@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-03-26 02:48pm
+Updated at 2020-03-26 03:08pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -1345,7 +1345,6 @@ Updated at 2020-03-26 02:48pm
     - [Notary Public in Fernley, Nevada](https://www.notarydepot.com/notary-near-me/Nevada/Fernley)
     - [Notary Public in Henderson, Nevada](https://www.notarydepot.com/notary-near-me/Nevada/Henderson)
     - [Notary Public in Las Vegas, Nevada](https://www.notarydepot.com/notary-near-me/Nevada/Las-Vegas)
-    - [Notary Public in Laughlin, Nevada](https://www.notarydepot.com/notary-near-me/Nevada/Laughlin)
     - [Notary Public in North Las Vegas, Nevada](https://www.notarydepot.com/notary-near-me/Nevada/North-Las-Vegas)
     - [Notary Public in Pahrump, Nevada](https://www.notarydepot.com/notary-near-me/Nevada/Pahrump)
     - [Notary Public in Reno, Nevada](https://www.notarydepot.com/notary-near-me/Nevada/Reno)
@@ -5255,7 +5254,6 @@ Updated at 2020-03-26 02:48pm
   - [Notary Public in Charlotte, NC: Francisco Salazar](https://www.notarydepot.com/latinsigner)
   - [Notary Public in Addison, TX: LaToya Smith](https://www.notarydepot.com/latoyasmith1985)
   - [Notary Public in Norcross, GA: LaToya Butler](https://www.notarydepot.com/latoyawbutler)
-  - [Notary Public in Laughlin, NV: Jonathan Lorenz](https://www.notarydepot.com/laughlinservice)
   - [Notary Public in Portola, CA: Laura Ross](https://www.notarydepot.com/laura0957)
   - [Notary Public in Brisbane, CA: laura e allenby](https://www.notarydepot.com/lauraa16)
   - [Notary Public in Modesto, CA: Laura J Biewer](https://www.notarydepot.com/laurab)
