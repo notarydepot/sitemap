@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-03-29 09:28am
+Updated at 2020-03-29 09:48am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -5866,6 +5866,7 @@ Updated at 2020-03-29 09:28am
   - [Notary Public in Lake Forest, CA: Michael Silva](https://www.notarydepot.com/mlsnotary)
   - [Notary Public in Hemet, CA: Mayra Zavala](https://www.notarydepot.com/mlz1983)
   - [Notary Public in Pueblo, CO: Michael M. Mares](https://www.notarydepot.com/mmaresnotary)
+  - [Notary Public in Montgomery, AL: Marcus Calhoun McCant](https://www.notarydepot.com/mmccant)
   - [Notary Public in Petaluma, CA: Petaluma Mail Depot](https://www.notarydepot.com/mmcguigan)
   - [Notary Public in Durham, NC: Moniqua S. McLean](https://www.notarydepot.com/mmclean)
   - [Notary Public in Nashville, TN: Mark McLeod](https://www.notarydepot.com/mmcleod)
