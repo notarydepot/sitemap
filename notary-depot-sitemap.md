@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-04-01 01:08pm
+Updated at 2020-04-01 01:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -3497,7 +3497,6 @@ Updated at 2020-04-01 01:08pm
   - [Notary Public in Mahopac, NY: Dan Pearsall](https://www.notarydepot.com/danielpearsall)
   - [Notary Public in Orange Park, FL: Grover D Daniels](https://www.notarydepot.com/danielsg65)
   - [Notary Public in Westbury, NY: Daniel C. Jaipaul](https://www.notarydepot.com/danita46)
-  - [Notary Public in St. Petersburg, FL: Daniel T Kortenhaus](https://www.notarydepot.com/dannotary1)
   - [Notary Public in Mahopac, NY: Dan Pearsall](https://www.notarydepot.com/danpearsall)
   - [Notary Public in Las Vegas, NV: Dante Thompson](https://www.notarydepot.com/dantethompson)
   - [Notary Public in North Aurora, IL: Deborah Ann Otero](https://www.notarydepot.com/daotero)
@@ -4775,6 +4774,7 @@ Updated at 2020-04-01 01:08pm
   - [Notary Public in North Wildwood, NJ: Joel Rivera](https://www.notarydepot.com/joelnotary)
   - [Notary Public in Harrisburg, PA: Joel Vargas](https://www.notarydepot.com/joelvargaspanotary)
   - [Notary Public in San Ramon, CA: Joseph Noon](https://www.notarydepot.com/joenoon)
+  - [Notary Public in St. Petersburg, FL: Joe Smith](https://www.notarydepot.com/joesmith112)
   - [Notary Public in Anaheim, CA: Johanna DeWitt](https://www.notarydepot.com/johannadewitt)
   - [Notary Public in Weston, FL: Johanna Garcia](https://www.notarydepot.com/johannanotarygmailcom)
   - [Notary Public in Orangevale, CA: John L Savage](https://www.notarydepot.com/johannes8)
