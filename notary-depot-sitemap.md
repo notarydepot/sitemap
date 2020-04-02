@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-04-01 08:48pm
+Updated at 2020-04-01 09:08pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -3212,7 +3212,6 @@ Updated at 2020-04-01 08:48pm
   - [Notary Public in Wilmington, NC: Charlene M. Bradley](https://www.notarydepot.com/charleeb)
   - [Notary Public in Atlanta, GA: Charlene Montgomery](https://www.notarydepot.com/charlenem1212)
   - [Notary Public in Seville, FL: Charles D. Rivers](https://www.notarydepot.com/charlesdrivers)
-  - [Notary Public in Libby, MT: Sindy Filler](https://www.notarydepot.com/charlotica74)
   - [Notary Public in Bakersfield, CA: Charlotte McCaskill](https://www.notarydepot.com/charlottemcc)
   - [Notary Public in Fort Worth, TX: Charlotte B. Morris](https://www.notarydepot.com/charlottetx)
   - [Notary Public in Los Angeles, CA: Charmaine A. Groat](https://www.notarydepot.com/charmz67)
@@ -7121,6 +7120,7 @@ Updated at 2020-04-01 08:48pm
   - [Notary Public in Fontana, CA: Sandra E. Schickel](https://www.notarydepot.com/ses)
   - [Notary Public in Pasadena, CA: Robert P. Wheaton](https://www.notarydepot.com/sevendaynotary)
   - [Notary Public in Clover, SC: Cedric D.Seymour](https://www.notarydepot.com/seymournotary)
+  - [Notary Public in Libby, MT: Sindy Filler](https://www.notarydepot.com/sfiller)
   - [Notary Public in Liberty Hill, TX: Busy Bee Notary](https://www.notarydepot.com/sfnaus12)
   - [Notary Public in Alexandria, VA: Susan F. Solomon](https://www.notarydepot.com/sfsolomon)
   - [Notary Public in NC: Sherri Gabel](https://www.notarydepot.com/sgabel)
