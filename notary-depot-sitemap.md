@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-04-04 03:48pm
+Updated at 2020-04-04 04:08pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -534,6 +534,7 @@ Updated at 2020-04-04 03:48pm
     - [Notary Public in Thornton, Colorado](https://www.notarydepot.com/notary-near-me/Colorado/Thornton)
     - [Notary Public in Timnath, Colorado](https://www.notarydepot.com/notary-near-me/Colorado/Timnath)
     - [Notary Public in Trinidad, Colorado](https://www.notarydepot.com/notary-near-me/Colorado/Trinidad)
+    - [Notary Public in Wellington, Colorado](https://www.notarydepot.com/notary-near-me/Colorado/Wellington)
     - [Notary Public in Westminster, Colorado](https://www.notarydepot.com/notary-near-me/Colorado/Westminster)
   - [Notaries Public in Connecticut](https://www.notarydepot.com/notary-near-me/Connecticut)
     - [Notary Public in Bolton, Connecticut](https://www.notarydepot.com/notary-near-me/Connecticut/Bolton)
@@ -3954,6 +3955,7 @@ Updated at 2020-04-04 03:48pm
   - [Notary Public in Meadville, PA: Erin Giliberto](https://www.notarydepot.com/eringiliberto)
   - [Notary Public in El Paso, TX: Wanda Sanchez](https://www.notarydepot.com/erqueenwanda)
   - [Notary Public in Tulsa, OK: Eryn Strapac](https://www.notarydepot.com/erynstrapac)
+  - [Notary Public in Wellington, CO: Nathan Josey](https://www.notarydepot.com/esa2020)
   - [Notary Public in Fort Lauderdale, FL: Elvira Santana](https://www.notarydepot.com/esantana)
   - [Notary Public in Knoxville, TN: Elizabeth Sierra Bronner](https://www.notarydepot.com/esierra)
   - [Notary Public in Port Orchard, WA: Elizabeth A. Soliday](https://www.notarydepot.com/esoliday)
@@ -4478,7 +4480,6 @@ Updated at 2020-04-04 03:48pm
   - [Notary Public in Brunswick, GA: jamie simmons](https://www.notarydepot.com/jamiesi)
   - [Notary Public in Oklahoma City, OK: Jamie Parker](https://www.notarydepot.com/jamiessign)
   - [Notary Public in Hendersonville, NC: Jamie Stark](https://www.notarydepot.com/jamiestark)
-  - [Notary Public in St. Louis, MO: Jamika Kemper](https://www.notarydepot.com/jamikakemper)
   - [Notary Public in North Tonawanda, NY: James Barnes](https://www.notarydepot.com/jamm1972)
   - [Notary Public in Richmond, CA: Nicole Welch](https://www.notarydepot.com/jammy1922)
   - [Notary Public in Midlothian, TX: Jana Fallen](https://www.notarydepot.com/jana072566)
