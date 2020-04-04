@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-04-04 03:08pm
+Updated at 2020-04-04 03:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -3868,7 +3868,6 @@ Updated at 2020-04-04 03:08pm
   - [Notary Public in Houston, TX: Denise Tutor](https://www.notarydepot.com/eekamouse36)
   - [Notary Public in Bemidji, MN: Elayne Hampson](https://www.notarydepot.com/eendorsements)
   - [Notary Public in Mandeville, LA: Erica S. Sharp](https://www.notarydepot.com/eesharp1231)
-  - [Notary Public in Upper Marlboro, MD: Erika Ellison Wymes](https://www.notarydepot.com/eewsigns)
   - [Notary Public in North Fort Myers, FL: Eric Filkowski](https://www.notarydepot.com/efilkowskigmailcom)
   - [Notary Public in Santa Rosa, CA: Elizabeth Foust](https://www.notarydepot.com/efoust)
   - [Notary Public in San Antonio, TX: Elizabeth Garza](https://www.notarydepot.com/egarza579)
@@ -4206,7 +4205,6 @@ Updated at 2020-04-04 03:08pm
   - [Notary Public in Coconut Creek, FL: GEORGIANNE SYKES](https://www.notarydepot.com/grandaz)
   - [Notary Public in Rancho Palos Verdes, CA: Rhonda](https://www.notarydepot.com/grandmother)
   - [Notary Public in Vista, CA: Grant Siracusa](https://www.notarydepot.com/grant_s)
-  - [Notary Public in Easton, PA: Monica B. Voloshin](https://www.notarydepot.com/greaterlehighvalleynotary)
   - [Notary Public in Glendale, CA: Goren G Tatarian](https://www.notarydepot.com/greatimingnotary)
   - [Notary Public in Fayetteville, NC: Gary Smith Jr](https://www.notarydepot.com/greatopps)
   - [Notary Public in Morrilton, AR: Glenna Tindall](https://www.notarydepot.com/greentx36)
@@ -4343,7 +4341,6 @@ Updated at 2020-04-04 03:08pm
   - [Notary Public in South River, NJ: Sally Holden](https://www.notarydepot.com/holdennotarynj)
   - [Notary Public in St. Augustine, FL: Tony Holladay](https://www.notarydepot.com/holl7275)
   - [Notary Public in San Diego, CA: Dave Holland](https://www.notarydepot.com/holland5151)
-  - [Notary Public in San Luis Obispo, CA: Holly Campuzano](https://www.notarydepot.com/hollycampuzano)
   - [Notary Public in Charlotte, NC: Holly Evans](https://www.notarydepot.com/hollyevans)
   - [Notary Public in Lake Havasu City, AZ: Holly Skelton](https://www.notarydepot.com/hollyskelton)
   - [Notary Public in Price, UT: Shawna M Popejoy](https://www.notarydepot.com/holynotary)
@@ -5504,7 +5501,6 @@ Updated at 2020-04-04 03:08pm
   - [Notary Public in Carrollton, TX: Laura Miller](https://www.notarydepot.com/lvlmiller)
   - [Notary Public in North Las Vegas, NV: Pete Anderson](https://www.notarydepot.com/lvnotary)
   - [Notary Public in Cranston, RI: Larry Warner](https://www.notarydepot.com/lwarner)
-  - [Notary Public in Williamsburg, VA: LaTonya Wallace-Conyers](https://www.notarydepot.com/lwcvanotary77)
   - [Notary Public in Plainview, NY: Linda Wegman](https://www.notarydepot.com/lwegman)
   - [Notary Public in Woodbridge, VA: Lisa West](https://www.notarydepot.com/lwestn3)
   - [Notary Public in Newport News, VA: Lisa Harrell](https://www.notarydepot.com/lwharrell)
@@ -6970,7 +6966,6 @@ Updated at 2020-04-04 03:08pm
   - [Notary Public in Lewisville, TX: saba Chaudhry](https://www.notarydepot.com/sabanotary)
   - [Notary Public in Los Angeles, CA: Sabrina D. Machado](https://www.notarydepot.com/sabrinamachado)
   - [Notary Public in Santa Clara, CA: Kelby Olson](https://www.notarydepot.com/sac22)
-  - [Notary Public in Mobile, AL: Erica Wilson](https://www.notarydepot.com/sacire218)
   - [Notary Public in Alcolu, SC: Mary Johnson](https://www.notarydepot.com/sade110)
   - [Notary Public in Valley Stream, NY: sadia khan](https://www.notarydepot.com/sadiakhan17)
   - [Notary Public in Port Huron, MI: Katherine Sova-Fasbender](https://www.notarydepot.com/safeguardmobilenotary)
