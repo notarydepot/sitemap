@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-04-08 11:28am
+Updated at 2020-04-08 11:48am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -4250,7 +4250,6 @@ Updated at 2020-04-08 11:28am
   - [Notary Public in Windsor charter Township, MI: Heather Albert](https://www.notarydepot.com/halberthnrnotarycom)
   - [Notary Public in Pollock Pines, CA: Dawn Marie Hall](https://www.notarydepot.com/hallfamily99)
   - [Notary Public in Wichita Falls, TX: Hallmark Realtor Group and Notary Services](https://www.notarydepot.com/hallmarkrealtorgroup)
-  - [Notary Public in Orrville, OH: Jared](https://www.notarydepot.com/hallnotaryservices)
   - [Notary Public in Pahrump, NV: Denise Hall](https://www.notarydepot.com/hallsfast)
   - [Notary Public in South Gate, CA: Heather Alvarez](https://www.notarydepot.com/halvarezagent)
   - [Notary Public in West Melbourne, FL: Heather Sandvick](https://www.notarydepot.com/hambamcam)
