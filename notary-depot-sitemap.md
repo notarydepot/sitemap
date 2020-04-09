@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-04-09 07:48am
+Updated at 2020-04-09 08:08am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -4185,7 +4185,6 @@ Updated at 2020-04-09 07:48am
   - [Notary Public in Vero Beach, FL: Gloria Taylor](https://www.notarydepot.com/glotaylor)
   - [Notary Public in Oakland Park, FL: Gloriaivette Melendez](https://www.notarydepot.com/gmelendez)
   - [Notary Public in Marcus Hook, PA: Gerald M Geimer](https://www.notarydepot.com/gmgeimer)
-  - [Notary Public in Seattle, WA: Gabriel McTigue](https://www.notarydepot.com/gmnotary)
   - [Notary Public in Sarasota, FL: Yolanda Gaines](https://www.notarydepot.com/gmobilenotary)
   - [Notary Public in Pittsburgh, PA: Bonnie J. Bokor](https://www.notarydepot.com/goalhinj)
   - [Notary Public in Baltimore, MD: Darlene M Glover-Sommers](https://www.notarydepot.com/godschild)
