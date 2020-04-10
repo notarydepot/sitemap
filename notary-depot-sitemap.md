@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-04-09 11:08pm
+Updated at 2020-04-09 11:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -8,9 +8,9 @@ Updated at 2020-04-09 11:08pm
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
   - [COVID-19: Tips for Notaries Public](https://www.notarydepot.com/blog/coronavirus-covid-19-tips-for-notaries-public)
+  - [Marketing Your Notary Business [Enter The Digital Realm] 2020 Full Guide](https://www.notarydepot.com/blog/marketing-your-notary-business-enter-the-digital-realm-2020-full-guide)
   - [Notary Advice Part 2: Online Presence](https://www.notarydepot.com/blog/notary-advice-part-2-online-presence)
   - [Notary Advice Part 1: Ground Game](https://www.notarydepot.com/blog/notary-advice-part-1-ground-game)
-  - [Marketing Your Notary Business [Enter The Digital Realm] 2020 Full Guide](https://www.notarydepot.com/blog/marketing-your-notary-business-enter-the-digital-realm-2020-full-guide)
   - [Smartphone Statistics Notaries Need to Know in 2020](https://www.notarydepot.com/blog/smartphone-statistics-notaries-need-to-know-in-2020)
   - [Be Careful, Not All Notaries Are Signing Agents](https://www.notarydepot.com/blog/be-careful-not-all-notaries-are-signing-agents)
   - [5 Ways to Protect Yourself as a Biker](https://www.notarydepot.com/blog/5-ways-to-protect-yourself-as-a-biker)
