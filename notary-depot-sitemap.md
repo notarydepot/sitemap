@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-04-13 08:28pm
+Updated at 2020-04-13 08:48pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -1063,7 +1063,6 @@ Updated at 2020-04-13 08:28pm
     - [Notary Public in Bangor, Maine](https://www.notarydepot.com/notary-near-me/Maine/Bangor)
     - [Notary Public in Boothbay Harbor, Maine](https://www.notarydepot.com/notary-near-me/Maine/Boothbay-Harbor)
     - [Notary Public in Brewer, Maine](https://www.notarydepot.com/notary-near-me/Maine/Brewer)
-    - [Notary Public in Brunswick, Maine](https://www.notarydepot.com/notary-near-me/Maine/Brunswick)
     - [Notary Public in Limington, Maine](https://www.notarydepot.com/notary-near-me/Maine/Limington)
     - [Notary Public in North Berwick, Maine](https://www.notarydepot.com/notary-near-me/Maine/North-Berwick)
     - [Notary Public in Richmond, Maine](https://www.notarydepot.com/notary-near-me/Maine/Richmond)
@@ -5084,7 +5083,7 @@ Updated at 2020-04-13 08:28pm
   - [Notary Public in Bedford, TX: Yale Kitupa](https://www.notarydepot.com/kitupayale)
   - [Notary Public in Vallejo, CA: Kizze Harris](https://www.notarydepot.com/kizze)
   - [Notary Public in Florissant, MO: Kim ](https://www.notarydepot.com/kjfields1)
-  - [Notary Public in Brunswick, ME: Kelly Hanlin](https://www.notarydepot.com/kjhanlin)
+  - [Notary Public in New York, NY: Kelly Hanlin](https://www.notarydepot.com/kjhanlin)
   - [Notary Public in Elizabeth, NJ: Kevin Hyman](https://www.notarydepot.com/kjhyman24)
   - [Notary Public in Portland, OR: Kathryn J. Bradley](https://www.notarydepot.com/kjkb)
   - [Notary Public in Fort Worth, TX: Kasey Warren](https://www.notarydepot.com/kjwarren)
