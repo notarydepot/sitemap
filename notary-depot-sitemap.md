@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-04-13 09:48pm
+Updated at 2020-04-13 10:08pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -5083,7 +5083,6 @@ Updated at 2020-04-13 09:48pm
   - [Notary Public in Bedford, TX: Yale Kitupa](https://www.notarydepot.com/kitupayale)
   - [Notary Public in Vallejo, CA: Kizze Harris](https://www.notarydepot.com/kizze)
   - [Notary Public in Florissant, MO: Kim ](https://www.notarydepot.com/kjfields1)
-  - [Notary Public in New York, NY: Kelly Hanlin](https://www.notarydepot.com/kjhanlin)
   - [Notary Public in Elizabeth, NJ: Kevin Hyman](https://www.notarydepot.com/kjhyman24)
   - [Notary Public in Portland, OR: Kathryn J. Bradley](https://www.notarydepot.com/kjkb)
   - [Notary Public in Fort Worth, TX: Kasey Warren](https://www.notarydepot.com/kjwarren)
