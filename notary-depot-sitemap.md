@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-04-22 07:48am
+Updated at 2020-04-22 08:08am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -2097,6 +2097,7 @@ Updated at 2020-04-22 07:48am
     - [Notary Public in Troy, Texas](https://www.notarydepot.com/notary-near-me/Texas/Troy)
     - [Notary Public in Tyler, Texas](https://www.notarydepot.com/notary-near-me/Texas/Tyler)
     - [Notary Public in Uvalde, Texas](https://www.notarydepot.com/notary-near-me/Texas/Uvalde)
+    - [Notary Public in Victoria, Texas](https://www.notarydepot.com/notary-near-me/Texas/Victoria)
     - [Notary Public in Vidor, Texas](https://www.notarydepot.com/notary-near-me/Texas/Vidor)
     - [Notary Public in Waco, Texas](https://www.notarydepot.com/notary-near-me/Texas/Waco)
     - [Notary Public in Waxahachie, Texas](https://www.notarydepot.com/notary-near-me/Texas/Waxahachie)
@@ -6069,6 +6070,7 @@ Updated at 2020-04-22 07:48am
   - [Notary Public in Naples, FL: Lisa Prestegard](https://www.notarydepot.com/naplesnsa)
   - [Notary Public in Homestead, FL: Naecovia Davis](https://www.notarydepot.com/naranjanotary)
   - [Notary Public in Chester, VA: Betty Raymond](https://www.notarydepot.com/nascar20186)
+  - [Notary Public in Victoria, TX: Bobbi Brown](https://www.notarydepot.com/nascr03)
   - [Notary Public in Englishtown, NJ: Natalie Boss](https://www.notarydepot.com/nat0001)
   - [Notary Public in Salem, OR: Natalie de Clare](https://www.notarydepot.com/nataliedeclare)
   - [Notary Public in Hollywood, FL: Natasha Gamboa](https://www.notarydepot.com/natashag)
