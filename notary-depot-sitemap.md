@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-04-22 10:28am
+Updated at 2020-04-22 10:48am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -7968,7 +7968,6 @@ Updated at 2020-04-22 10:28am
   - [Notary Public in Macedon, NY: Warren Jeffries](https://www.notarydepot.com/wjeffriesny)
   - [Notary Public in Massena, NY: Wendy Vice](https://www.notarydepot.com/wjvice1)
   - [Notary Public in Holtwood, PA: Walter Rees](https://www.notarydepot.com/wlrees)
-  - [Notary Public in Hesperia, CA: Wendy Madsen](https://www.notarydepot.com/wmadsen)
   - [Notary Public in Berkeley, CA: William Northup](https://www.notarydepot.com/wmn_notary_public)
   - [Notary Public in Pflugerville, TX: Samantha Daniels](https://www.notarydepot.com/wnbaorbust)
   - [Notary Public in Vidalia, GA: Wendy Howell](https://www.notarydepot.com/wnhowell)
