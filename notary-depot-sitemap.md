@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-04-22 05:08pm
+Updated at 2020-04-22 05:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -1146,6 +1146,7 @@ Updated at 2020-04-22 05:08pm
     - [Notary Public in Quincy, Massachusetts](https://www.notarydepot.com/notary-near-me/Massachusetts/Quincy)
     - [Notary Public in Rockland, Massachusetts](https://www.notarydepot.com/notary-near-me/Massachusetts/Rockland)
     - [Notary Public in ROXBURY CROSSING, Massachusetts](https://www.notarydepot.com/notary-near-me/Massachusetts/ROXBURY-CROSSING)
+    - [Notary Public in Southbridge, Massachusetts](https://www.notarydepot.com/notary-near-me/Massachusetts/Southbridge)
     - [Notary Public in Springfield, Massachusetts](https://www.notarydepot.com/notary-near-me/Massachusetts/Springfield)
     - [Notary Public in Swansea, Massachusetts](https://www.notarydepot.com/notary-near-me/Massachusetts/Swansea)
     - [Notary Public in Tewksbury, Massachusetts](https://www.notarydepot.com/notary-near-me/Massachusetts/Tewksbury)
@@ -5717,6 +5718,7 @@ Updated at 2020-04-22 05:08pm
   - [Notary Public in Bakersfield, CA: Melissa Legg](https://www.notarydepot.com/melissalegg)
   - [Notary Public in Westminster, CO: Melissa](https://www.notarydepot.com/melissalynn)
   - [Notary Public in Durham, NC: Melissa Ortega](https://www.notarydepot.com/melissaortega8)
+  - [Notary Public in Southbridge, MA: Melody Beach](https://www.notarydepot.com/melody)
   - [Notary Public in Knoxville, TN: Melody Sullivan](https://www.notarydepot.com/melodyeaglin)
   - [Notary Public in Richmond, VA: Melody N. Skinner](https://www.notarydepot.com/melodyskinner)
   - [Notary Public in Camarillo, CA: Melissa Snodgrass](https://www.notarydepot.com/melsnod)
