@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-04-28 03:08am
+Updated at 2020-04-28 03:28am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -2304,6 +2304,7 @@ Updated at 2020-04-28 03:08am
     - [Notary Public in Kenosha, Wisconsin](https://www.notarydepot.com/notary-near-me/Wisconsin/Kenosha)
     - [Notary Public in Madison, Wisconsin](https://www.notarydepot.com/notary-near-me/Wisconsin/Madison)
     - [Notary Public in Manitowoc, Wisconsin](https://www.notarydepot.com/notary-near-me/Wisconsin/Manitowoc)
+    - [Notary Public in Menomonee Falls, Wisconsin](https://www.notarydepot.com/notary-near-me/Wisconsin/Menomonee-Falls)
     - [Notary Public in Menomonie, Wisconsin](https://www.notarydepot.com/notary-near-me/Wisconsin/Menomonie)
     - [Notary Public in Milton, Wisconsin](https://www.notarydepot.com/notary-near-me/Wisconsin/Milton)
     - [Notary Public in Milwaukee, Wisconsin](https://www.notarydepot.com/notary-near-me/Wisconsin/Milwaukee)
@@ -4167,6 +4168,7 @@ Updated at 2020-04-28 03:08am
   - [Notary Public in Riverside, CA: Gina Valvo](https://www.notarydepot.com/ginavalvonotary)
   - [Notary Public in Las Vegas, NV: Lori Noon](https://www.notarydepot.com/ginger)
   - [Notary Public in Cincinnati, OH: Virginia A Barnhart](https://www.notarydepot.com/ginnhart)
+  - [Notary Public in Menomonee Falls, WI: Virginia Tate](https://www.notarydepot.com/ginny1078)
   - [Notary Public in Hendersonville, NC: Virginia Bohanan](https://www.notarydepot.com/ginnyb)
   - [Notary Public in West Sacramento, CA: Giselle Rodriguez](https://www.notarydepot.com/gisell7)
   - [Notary Public in Brandon, FL: Giselle Abdul](https://www.notarydepot.com/gisellea)
