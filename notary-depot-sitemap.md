@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-04-30 03:28pm
+Updated at 2020-04-30 03:48pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -117,7 +117,6 @@ Updated at 2020-04-30 03:28pm
     - [Notary Public in Tempe, Arizona](https://www.notarydepot.com/notary-near-me/Arizona/Tempe)
     - [Notary Public in Tolleson, Arizona](https://www.notarydepot.com/notary-near-me/Arizona/Tolleson)
     - [Notary Public in Tucson, Arizona](https://www.notarydepot.com/notary-near-me/Arizona/Tucson)
-    - [Notary Public in Vail, Arizona](https://www.notarydepot.com/notary-near-me/Arizona/Vail)
     - [Notary Public in Waddell, Arizona](https://www.notarydepot.com/notary-near-me/Arizona/Waddell)
     - [Notary Public in Williams, Arizona](https://www.notarydepot.com/notary-near-me/Arizona/Williams)
     - [Notary Public in Yuma, Arizona](https://www.notarydepot.com/notary-near-me/Arizona/Yuma)
@@ -2807,7 +2806,6 @@ Updated at 2020-04-30 03:28pm
   - [Notary Public in Las Vegas, NV: Barbara Giglio](https://www.notarydepot.com/barbaragiglio)
   - [Notary Public in Gadsden, AL: Barbara Jurick](https://www.notarydepot.com/barbarajurick)
   - [Notary Public in Humble, TX: Barbara Lane Snowden Mobile Notary](https://www.notarydepot.com/barbaral)
-  - [Notary Public in Vail, AZ: Barbara R. Linker](https://www.notarydepot.com/barbaralca)
   - [Notary Public in Escondido, CA: Barbara Willkie](https://www.notarydepot.com/barbaramobilenotary)
   - [Notary Public in Richmond, VA: Barbara Noell Bartek](https://www.notarydepot.com/barbartk)
   - [Notary Public in Hialeah, FL: Barbara Sanchez](https://www.notarydepot.com/barbie74)
