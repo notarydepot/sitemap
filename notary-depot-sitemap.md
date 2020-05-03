@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-05-02 07:48pm
+Updated at 2020-05-02 08:08pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -3647,6 +3647,7 @@ Updated at 2020-05-02 07:48pm
   - [Notary Public in CA: Dianna Gonzalez ](https://www.notarydepot.com/dgfirstclassnotary1)
   - [Notary Public in Castro Valley, CA: Denise Gonsalves](https://www.notarydepot.com/dgonsalves66)
   - [Notary Public in Pittston, PA: Donna Marie Graham](https://www.notarydepot.com/dgraham)
+  - [Notary Public in West Jordan, UT: Dani Greenland](https://www.notarydepot.com/dgreenland)
   - [Notary Public in Scappoose, OR: Robin Wilson](https://www.notarydepot.com/dgsdesigns)
   - [Notary Public in League City, TX: Debra Hardin](https://www.notarydepot.com/dhardin70)
   - [Notary Public in Gambier, OH: Deborah Hart](https://www.notarydepot.com/dhart72)
@@ -5551,7 +5552,6 @@ Updated at 2020-05-02 07:48pm
   - [Notary Public in El Sobrante, CA: Majeda Brice](https://www.notarydepot.com/majedabrice)
   - [Notary Public in Saginaw, MI: Adriana Maldonado](https://www.notarydepot.com/majesticenterprises)
   - [Notary Public in Fort Worth, TX: Shirley Ephram-Neal](https://www.notarydepot.com/makeithappen)
-  - [Notary Public in West Jordan, UT: Dani Greenland](https://www.notarydepot.com/makeitofficial)
   - [Notary Public in Hendersonville, NC: Jaime Chandler](https://www.notarydepot.com/makeitofficialnotaryservices)
   - [Notary Public in Patterson, CA: Victoria C. Alaniz](https://www.notarydepot.com/malanizv)
   - [Notary Public in Metairie, LA: Malbrough Notary, LLC](https://www.notarydepot.com/malbroughnotary)
