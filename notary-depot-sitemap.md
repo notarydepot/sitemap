@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-05-04 01:48pm
+Updated at 2020-05-04 02:08pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -6062,7 +6062,7 @@ Updated at 2020-05-04 01:48pm
   - [Notary Public in Worcester, MA: Notary Now 24/7](https://www.notarydepot.com/nancyflash)
   - [Notary Public in Bushkill, PA: Nancy Korb](https://www.notarydepot.com/nancykorb)
   - [Notary Public in Bowie, MD: Nancy McKinney](https://www.notarydepot.com/nancymckinney60gmailcom)
-  - [Notary Public in Punta Gorda, FL: Nancy A. Slattery](https://www.notarydepot.com/nancyrose22)
+  - [Notary Public in Punta Gorda, FL: Nancy A. Coughlin](https://www.notarydepot.com/nancyrose22)
   - [Notary Public in Santa Monica, CA: Nancy](https://www.notarydepot.com/nancythenotary)
   - [Notary Public in Walnut Creek, CA: Nancy Thomas](https://www.notarydepot.com/nancythomas)
   - [Notary Public in Dixon, CA: Natalie Angelman](https://www.notarydepot.com/nangelman)
