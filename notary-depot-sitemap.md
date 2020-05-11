@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-05-10 08:28pm
+Updated at 2020-05-10 08:48pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -6085,7 +6085,7 @@ Updated at 2020-05-10 08:28pm
   - [Notary Public in Stevens Point, WI: Phillip D Schobert](https://www.notarydepot.com/naturecare)
   - [Notary Public in Fremont, CA: Navdeep Kaur](https://www.notarydepot.com/navdeepkaur)
   - [Notary Public in Sacramento, CA: naveen kumar](https://www.notarydepot.com/naveenkortagmailcom)
-  - [Notary Public in Los Angeles, CA: Navid Pakt](https://www.notarydepot.com/navidy1)
+  - [Notary Public in Los Angeles, CA: N Paktan](https://www.notarydepot.com/navidy1)
   - [Notary Public in Glendale, CA: Nazeli Khachatryan](https://www.notarydepot.com/nazeli)
   - [Notary Public in Roanoke, VA: Natalie Brown](https://www.notarydepot.com/nb22310)
   - [Notary Public in Castro Valley, CA: Nicole Briggs](https://www.notarydepot.com/nbriggsmoblenotary)
