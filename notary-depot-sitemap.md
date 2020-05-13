@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-05-13 11:28am
+Updated at 2020-05-13 11:48am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -2316,7 +2316,6 @@ Updated at 2020-05-13 11:28am
     - [Notary Public in Reedsburg, Wisconsin](https://www.notarydepot.com/notary-near-me/Wisconsin/Reedsburg)
     - [Notary Public in River Falls, Wisconsin](https://www.notarydepot.com/notary-near-me/Wisconsin/River-Falls)
     - [Notary Public in Sheboygan, Wisconsin](https://www.notarydepot.com/notary-near-me/Wisconsin/Sheboygan)
-    - [Notary Public in South Range, Wisconsin](https://www.notarydepot.com/notary-near-me/Wisconsin/South-Range)
     - [Notary Public in Stevens Point, Wisconsin](https://www.notarydepot.com/notary-near-me/Wisconsin/Stevens-Point)
     - [Notary Public in Waukesha, Wisconsin](https://www.notarydepot.com/notary-near-me/Wisconsin/Waukesha)
     - [Notary Public in Wausau, Wisconsin](https://www.notarydepot.com/notary-near-me/Wisconsin/Wausau)
@@ -4925,7 +4924,7 @@ Updated at 2020-05-13 11:28am
   - [Notary Public in CA: Kapil Kumar](https://www.notarydepot.com/kapilk)
   - [Notary Public in Washington, DC: Craig Pooler](https://www.notarydepot.com/kappa98)
   - [Notary Public in Colorado Springs, CO: Kimberly Aquino](https://www.notarydepot.com/kaquino1986)
-  - [Notary Public in South Range, WI: Kara R. Gunderson](https://www.notarydepot.com/kara4308)
+  - [Notary Public in Duluth, MN: Kara R. Gunderson](https://www.notarydepot.com/kara4308)
   - [Notary Public in Brookhaven, MS: Kara Dawn Forman](https://www.notarydepot.com/karadawn)
   - [Notary Public in San Marcos, CA: Karen L. Farley](https://www.notarydepot.com/karen1227)
   - [Notary Public in Manchester, NH: Karen L. Brown](https://www.notarydepot.com/karen1958)
