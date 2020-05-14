@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-05-13 07:08pm
+Updated at 2020-05-13 07:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -3739,6 +3739,7 @@ Updated at 2020-05-13 07:08pm
   - [Notary Public in Pomona, CA: Betrayn Drinkard](https://www.notarydepot.com/docs2bsigned)
   - [Notary Public in Roseburg, OR: Michelle R. Spier](https://www.notarydepot.com/documentguru)
   - [Notary Public in Shreveport, LA: Audrey Patrice Russ](https://www.notarydepot.com/documentprep)
+  - [Notary Public in Lake Charles, LA: latoya butler](https://www.notarydepot.com/documents2rescue)
   - [Notary Public in Hollywood, FL: Michelle Young](https://www.notarydepot.com/dodda27)
   - [Notary Public in St. Louis, MO: Betty](https://www.notarydepot.com/dogmomstl)
   - [Notary Public in Fontana, CA: Sabrina Gutierrez](https://www.notarydepot.com/dollfin1204)
@@ -5239,7 +5240,6 @@ Updated at 2020-05-13 07:08pm
   - [Notary Public in Marlow Heights, MD: Latashia](https://www.notarydepot.com/latashia)
   - [Notary Public in Charlotte, NC: Francisco Salazar](https://www.notarydepot.com/latinsigner)
   - [Notary Public in Addison, TX: LaToya Smith](https://www.notarydepot.com/latoyasmith1985)
-  - [Notary Public in Norcross, GA: LaToya Butler](https://www.notarydepot.com/latoyawbutler)
   - [Notary Public in Portola, CA: Laura Ross](https://www.notarydepot.com/laura0957)
   - [Notary Public in Brisbane, CA: laura e allenby](https://www.notarydepot.com/lauraa16)
   - [Notary Public in Modesto, CA: Laura J Biewer](https://www.notarydepot.com/laurab)
