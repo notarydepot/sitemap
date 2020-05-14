@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-05-14 03:08am
+Updated at 2020-05-14 03:28am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -5648,6 +5648,7 @@ Updated at 2020-05-14 03:08am
   - [Notary Public in Wilmington, NC: Patricia McMillan](https://www.notarydepot.com/matico)
   - [Notary Public in Vallejo, CA: Matt Reustle](https://www.notarydepot.com/matt)
   - [Notary Public in Atlanta, GA: Matthew Dickason](https://www.notarydepot.com/mattdickason)
+  - [Notary Public in Wailuku, HI: Christine Ortiz](https://www.notarydepot.com/mauiskater)
   - [Notary Public in New Orleans, LA: Zarul W Lodwick](https://www.notarydepot.com/maumus1225)
   - [Notary Public in Traverse City, MI: Maureen Rozmus](https://www.notarydepot.com/maureen)
   - [Notary Public in NJ: Shabana Sathe](https://www.notarydepot.com/mausam35)
@@ -7251,7 +7252,6 @@ Updated at 2020-05-14 03:08am
   - [Notary Public in Tracy, CA: Stanley Price](https://www.notarydepot.com/sjpricejr52)
   - [Notary Public in Warm Springs, VA: Sherry Ryder](https://www.notarydepot.com/sjryder)
   - [Notary Public in Los Angeles, CA: Steve Jurado](https://www.notarydepot.com/sjurado1)
-  - [Notary Public in Wailuku, HI: Christine Ortiz](https://www.notarydepot.com/skater39)
   - [Notary Public in Charlotte, NC: Katherine Shea Grant](https://www.notarydepot.com/skatshea)
   - [Notary Public in Harrisburg, PA: Megan S. Barto](https://www.notarydepot.com/skeetle09)
   - [Notary Public in Beachwood, OH: Susan Kellner](https://www.notarydepot.com/skellner)
