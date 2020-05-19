@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-05-19 08:09am
+Updated at 2020-05-19 08:29am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -3168,7 +3168,6 @@ Updated at 2020-05-19 08:09am
   - [Notary Public in Mount Vernon, NY: 433 Nuber Avenue](https://www.notarydepot.com/cece1000)
   - [Notary Public in Houston, TX: Carmen](https://www.notarydepot.com/cecewillams)
   - [Notary Public in St. Louis, MO: Cecily Stewart Hawksworth](https://www.notarydepot.com/cecilyhawksworth)
-  - [Notary Public in Tampa, FL: Cynthia Burt](https://www.notarydepot.com/cedburt)
   - [Notary Public in Lake Mary, FL: Christopher Leone](https://www.notarydepot.com/ceeleone)
   - [Notary Public in Clarksville, TN: Calvin E Hullett](https://www.notarydepot.com/cehullett)
   - [Notary Public in Orlando, FL: Celena](https://www.notarydepot.com/celenat5)
