@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-05-19 08:49am
+Updated at 2020-05-19 09:09am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -2473,7 +2473,6 @@ Updated at 2020-05-19 08:49am
   - [Notary Public in Nevada City, CA: Andrea Inks](https://www.notarydepot.com/ainks)
   - [Notary Public in Denver, NC: Teresa Harris](https://www.notarydepot.com/airbear)
   - [Notary Public in Missoula, MT: Derrick A Dodson](https://www.notarydepot.com/airborne)
-  - [Notary Public in Jacksonville, FL: CONSWALA PARRIS](https://www.notarydepot.com/aisnotaryfl)
   - [Notary Public in Las Vegas, NV: Andrea Vigil](https://www.notarydepot.com/ajavigil3)
   - [Notary Public in Moss Point, MS: Andre J. Debose](https://www.notarydepot.com/ajdebose)
   - [Notary Public in Dugger, IN: Aaron](https://www.notarydepot.com/ajevans)
