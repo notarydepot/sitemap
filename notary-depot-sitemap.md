@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-05-20 08:48am
+Updated at 2020-05-20 09:08am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -340,7 +340,6 @@ Updated at 2020-05-20 08:48am
     - [Notary Public in Morgan Hill, California](https://www.notarydepot.com/notary-near-me/California/Morgan-Hill)
     - [Notary Public in Moss Beach, California](https://www.notarydepot.com/notary-near-me/California/Moss-Beach)
     - [Notary Public in Mountain View, California](https://www.notarydepot.com/notary-near-me/California/Mountain-View)
-    - [Notary Public in Mount Shasta, California](https://www.notarydepot.com/notary-near-me/California/Mount-Shasta)
     - [Notary Public in Murrieta, California](https://www.notarydepot.com/notary-near-me/California/Murrieta)
     - [Notary Public in Muscoy, California](https://www.notarydepot.com/notary-near-me/California/Muscoy)
     - [Notary Public in Napa, California](https://www.notarydepot.com/notary-near-me/California/Napa)
@@ -7660,7 +7659,6 @@ Updated at 2020-05-20 08:48am
   - [Notary Public in Franklin Lakes, NJ: Patricia](https://www.notarydepot.com/tmacdon552)
   - [Notary Public in Hellertown, PA: Teri R. Maco](https://www.notarydepot.com/tmaco)
   - [Notary Public in Nederland, TX: Terry Magouirk](https://www.notarydepot.com/tmagouirk)
-  - [Notary Public in Mount Shasta, CA: Teresa Marlatt](https://www.notarydepot.com/tmarlatt)
   - [Notary Public in Miami, FL: Tanya M Melendez](https://www.notarydepot.com/tmarrisa)
   - [Notary Public in Erlanger, KY: Teresa J. McDowell](https://www.notarydepot.com/tmcdowell)
   - [Notary Public in Gastonia, NC: Tangela Caldwell](https://www.notarydepot.com/tmcexpress)
