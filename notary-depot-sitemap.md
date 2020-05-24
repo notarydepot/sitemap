@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-05-24 08:08am
+Updated at 2020-05-24 08:28am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -2544,7 +2544,6 @@ Updated at 2020-05-24 08:08am
   - [Notary Public in Altadena, CA: Pamela McKinney](https://www.notarydepot.com/altapasanotary)
   - [Notary Public in Firestone, CO: Alycia Bray](https://www.notarydepot.com/altitudesigningservices)
   - [Notary Public in Tampa, FL: Julissa Alvarez](https://www.notarydepot.com/alvarez8533)
-  - [Notary Public in Boynton Beach, FL: Terri T Golden](https://www.notarydepot.com/alwaysavailable)
   - [Notary Public in Richmond, ME: Patricia Pettee](https://www.notarydepot.com/alwaystrish)
   - [Notary Public in Ionia, MI: Alice L. Samani-zozo](https://www.notarydepot.com/alzsamani)
   - [Notary Public in Beverly Hills, FL: Ann Marie Williams](https://www.notarydepot.com/am24wnotarydepot)
@@ -4190,6 +4189,7 @@ Updated at 2020-05-24 08:08am
   - [Notary Public in Baltimore, MD: Darlene M Glover-Sommers](https://www.notarydepot.com/godschild)
   - [Notary Public in Fremont, CA: S Gokalgandhi](https://www.notarydepot.com/gokalgandhi)
   - [Notary Public in NY: Dmitriy Pagul](https://www.notarydepot.com/goldenapplerealty)
+  - [Notary Public in Boynton Beach, FL: Terri T Golden](https://www.notarydepot.com/goldennotary)
   - [Notary Public in Lafayette, IN: KaSheena Wilbur](https://www.notarydepot.com/goldlinenotary)
   - [Notary Public in Morganton, NC: Cassie Caldwell](https://www.notarydepot.com/golfergal)
   - [Notary Public in Compton, CA: Rosalba Gonzalez](https://www.notarydepot.com/gonzaleznotary)
