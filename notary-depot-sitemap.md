@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-05-30 07:08am
+Updated at 2020-05-30 07:28am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -6268,8 +6268,6 @@ Updated at 2020-05-30 07:08am
   - [Notary Public in Carolina Beach, NC: Carol Ann Flinn](https://www.notarydepot.com/carolf)
 
   - [Notary Public in Henderson, NV: Carol Hecht](https://www.notarydepot.com/carolhecht)
-
-  - [Notary Public in Winston-Salem, NC: Florence Adams](https://www.notarydepot.com/carolinahomes)
 
   - [Notary Public in Howell, NJ: Carol Paolillo](https://www.notarydepot.com/carolpaolillo)
 
