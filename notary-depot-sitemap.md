@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-05-30 10:28am
+Updated at 2020-05-30 10:48am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -15854,6 +15854,8 @@ Updated at 2020-05-30 10:28am
   - [Notary Public in Yreka, CA: Valarie A. Wiley](https://www.notarydepot.com/vwiley)
 
   - [Notary Public in Oklahoma City, OK: Jeffrey Wade](https://www.notarydepot.com/wadej4)
+
+  - [Notary Public in Orange City, FL: Wade Shiu](https://www.notarydepot.com/wadeshiu)
 
   - [Notary Public in Henderson, NV: douglas r. waite](https://www.notarydepot.com/waite1)
 
