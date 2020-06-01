@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-06-01 06:28am
+Updated at 2020-06-01 06:48am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -6193,7 +6193,7 @@ Updated at 2020-06-01 06:28am
 
   - [Notary Public in Oklahoma City, OK: Caleb Dickenson ](https://www.notarydepot.com/calebthenotary)
 
-  - [Notary Public in Murrieta, CA: Marie Armenta](https://www.notarydepot.com/caligirlz111)
+  - [Notary Public in Winchester, CA: Marie](https://www.notarydepot.com/caligirlz111)
 
   - [Notary Public in Louisville, KY: Callie Baker](https://www.notarydepot.com/calliebaker)
 
