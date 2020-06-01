@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-05-31 05:48pm
+Updated at 2020-05-31 06:08pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -14205,7 +14205,7 @@ Updated at 2020-05-31 05:48pm
 
   - [Notary Public in Stockton, CA: Corinne Seaton](https://www.notarydepot.com/seatonnotary)
 
-  - [Notary Public in Bear, DE: Ouseph Seesan Ed](https://www.notarydepot.com/seesan)
+  - [Notary Public in Bear, DE: Seesan Ed](https://www.notarydepot.com/seesan)
 
   - [Notary Public in South Holland, IL: Shawana](https://www.notarydepot.com/segpgilmore)
 
