@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-06-02 01:48pm
+Updated at 2020-06-02 02:08pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -1056,8 +1056,6 @@ Updated at 2020-06-02 01:48pm
     - [Notary Public in Pueblo, Colorado](https://www.notarydepot.com/notary-near-me/Colorado/Pueblo)
   
     - [Notary Public in Rifle, Colorado](https://www.notarydepot.com/notary-near-me/Colorado/Rifle)
-  
-    - [Notary Public in Steamboat Springs, Colorado](https://www.notarydepot.com/notary-near-me/Colorado/Steamboat-Springs)
   
     - [Notary Public in Thornton, Colorado](https://www.notarydepot.com/notary-near-me/Colorado/Thornton)
   
@@ -14640,8 +14638,6 @@ Updated at 2020-06-02 01:48pm
   - [Notary Public in St. George, UT: Rob Foster](https://www.notarydepot.com/snooprobbyrob)
 
   - [Notary Public in ROXBURY CROSSING, MA: Suffolk Notaries](https://www.notarydepot.com/snotaries)
-
-  - [Notary Public in Steamboat Springs, CO: Steven N Novack](https://www.notarydepot.com/snovack)
 
   - [Notary Public in Mesa, AZ: Carl Snow](https://www.notarydepot.com/snowfire)
 
