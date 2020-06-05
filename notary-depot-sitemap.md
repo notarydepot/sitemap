@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-06-05 10:28am
+Updated at 2020-06-05 10:48am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -7476,8 +7476,6 @@ Updated at 2020-06-05 10:28am
   - [Notary Public in Piedmont, AL: Deanna L. Minton](https://www.notarydepot.com/dminton)
 
   - [Notary Public in Citrus Heights, CA: Daniel Miranda](https://www.notarydepot.com/dmlegal)
-
-  - [Notary Public in Los Angeles, CA: d-Mobile Notary](https://www.notarydepot.com/dmobilenotary)
 
   - [Notary Public in Moreno Valley, CA: Denise Mason](https://www.notarydepot.com/dmsears)
 
