@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-06-07 08:08am
+Updated at 2020-06-07 08:28am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -8301,7 +8301,7 @@ Updated at 2020-06-07 08:08am
 
   - [Notary Public in Washington, DC: Maurice Brown](https://www.notarydepot.com/georgetownnotarydc)
 
-  - [Notary Public in Lithonia, GA: Bridgette Wilson Darden](https://www.notarydepot.com/georgianotary)
+  - [Notary Public in Tucker, GA: Bridgette Wilson Darden](https://www.notarydepot.com/georgianotary)
 
   - [Notary Public in Lawrenceville, GA: Tanya Young](https://www.notarydepot.com/georgiasoul)
 
