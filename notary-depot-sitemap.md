@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-06-08 11:08pm
+Updated at 2020-06-08 11:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -12422,8 +12422,6 @@ Updated at 2020-06-08 11:08pm
   - [Notary Public in Long Beach, CA: Yvonne Johnson](https://www.notarydepot.com/notary23)
 
   - [Notary Public in Mahwah, NJ: Patrick Williams](https://www.notarydepot.com/notary284)
-
-  - [Notary Public in Noblesville, IN: Richard Scott Stern](https://www.notarydepot.com/notary2939)
 
   - [Notary Public in Springdale, AR: Rebecka Ebsen](https://www.notarydepot.com/notary2coxnet)
 
