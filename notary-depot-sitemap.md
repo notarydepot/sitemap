@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-06-10 05:08pm
+Updated at 2020-06-10 05:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -11061,7 +11061,7 @@ Updated at 2020-06-10 05:08pm
 
   - [Notary Public in Newberry, FL: M. Lynn Mulholland](https://www.notarydepot.com/lynn_mulholland)
 
-  - [Notary Public in Clermont, FL: Linda Cowels-Murray](https://www.notarydepot.com/lynnmurray)
+  - [Notary Public in Clermont, FL: Linda Cowels](https://www.notarydepot.com/lynnmurray)
 
   - [Notary Public in Raleigh, NC: Lynn Lowry](https://www.notarydepot.com/lynnnc)
 
