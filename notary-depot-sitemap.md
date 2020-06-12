@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-06-12 09:08am
+Updated at 2020-06-12 09:28am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -14876,8 +14876,6 @@ Updated at 2020-06-12 09:08am
   - [Notary Public in Chapel Hill, NC: La-Eula](https://www.notarydepot.com/strictlybzness)
 
   - [Notary Public in Lansing, MI: Shanna M. Strouse](https://www.notarydepot.com/strouse19461)
-
-  - [Notary Public in Puyallup, WA: Eric Strub](https://www.notarydepot.com/strubnotary)
 
   - [Notary Public in South El Monte, CA: Susan Tusing](https://www.notarydepot.com/stusing)
 
