@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-06-13 03:48pm
+Updated at 2020-06-13 04:08pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -6696,8 +6696,6 @@ Updated at 2020-06-13 03:48pm
   - [Notary Public in Woodland, CA: Jack M Conaway](https://www.notarydepot.com/cnsajc)
 
   - [Notary Public in Fort Myers, FL: Melissa A Young](https://www.notarydepot.com/cobysmom08)
-
-  - [Notary Public in Modesto, CA: Consuelo Huerta](https://www.notarydepot.com/cochoa04)
 
   - [Notary Public in Lancaster, CA: Elizabeth Ann Ballentine](https://www.notarydepot.com/code3mobilenotary)
 
@@ -14568,8 +14566,6 @@ Updated at 2020-06-13 03:48pm
   - [Notary Public in Scotts, MI: Sara L Carrier](https://www.notarydepot.com/slcarrier)
 
   - [Notary Public in Birmingham, AL: Barbara Penick](https://www.notarydepot.com/slevinblp)
-
-  - [Notary Public in Rancho Cucamonga, CA: Mary Huerta](https://www.notarydepot.com/slinky)
 
   - [Notary Public in Fairbanks, AK: Sandra L. Kreider](https://www.notarydepot.com/slkreider)
 
