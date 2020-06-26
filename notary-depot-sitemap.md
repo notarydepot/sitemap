@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-06-26 02:28am
+Updated at 2020-06-26 02:48am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -15,6 +15,8 @@ Updated at 2020-06-26 02:28am
   - [Notary Advice Part 2: Online Presence](https://www.notarydepot.com/blog/notary-advice-part-2-online-presence)
 
   - [Notary Advice Part 1: Ground Game](https://www.notarydepot.com/blog/notary-advice-part-1-ground-game)
+
+  - [How to Protect Your Business from Personal Injury Claims](https://www.notarydepot.com/blog/how-to-protect-your-business-from-personal-injury-claims)
 
   - [Smartphone Statistics Notaries Need to Know in 2020](https://www.notarydepot.com/blog/smartphone-statistics-notaries-need-to-know-in-2020)
 
