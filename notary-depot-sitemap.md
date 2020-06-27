@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-06-27 12:48pm
+Updated at 2020-06-27 01:08pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -2565,8 +2565,6 @@ Updated at 2020-06-27 12:48pm
     - [Notary Public in Terry, Mississippi](https://www.notarydepot.com/notary-near-me/Mississippi/Terry)
   
     - [Notary Public in Tupelo, Mississippi](https://www.notarydepot.com/notary-near-me/Mississippi/Tupelo)
-  
-    - [Notary Public in Vancleave, Mississippi](https://www.notarydepot.com/notary-near-me/Mississippi/Vancleave)
   
     - [Notary Public in Vicksburg, Mississippi](https://www.notarydepot.com/notary-near-me/Mississippi/Vicksburg)
   
@@ -10648,8 +10646,6 @@ Updated at 2020-06-27 12:48pm
   - [Notary Public in Broussard, LA: Victoria Lemoine](https://www.notarydepot.com/lemoinevic)
 
   - [Notary Public in Buffalo, NY: Leonid Shapiro](https://www.notarydepot.com/len1956)
-
-  - [Notary Public in Vancleave, MS: Lene' Braun](https://www.notarydepot.com/lene1978)
 
   - [Notary Public in Fort Myers, FL: Leonard J Kozel](https://www.notarydepot.com/lennyk)
 
