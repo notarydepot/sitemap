@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-06-27 05:28pm
+Updated at 2020-06-27 05:48pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -15350,8 +15350,6 @@ Updated at 2020-06-27 05:28pm
   - [Notary Public in Gastonia, NC: Tangela Caldwell](https://www.notarydepot.com/tmcexpress)
 
   - [Notary Public in Camarillo, CA: Theresa Marie Cronin](https://www.notarydepot.com/tmcnotarycali58)
-
-  - [Notary Public in Glendale, AZ: Tina Donato](https://www.notarydepot.com/tmdonato)
 
   - [Notary Public in Quincy, CA: Traci M. Downey](https://www.notarydepot.com/tmdowney)
 
