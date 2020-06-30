@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-06-29 09:48pm
+Updated at 2020-06-29 10:08pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -13289,7 +13289,7 @@ Updated at 2020-06-29 09:48pm
 
   - [Notary Public in Vancouver, WA: Bruce A Samuelson Sr](https://www.notarydepot.com/proserv)
 
-  - [Notary Public in Paso Robles, CA: Cheryl Elliott](https://www.notarydepot.com/prosigner)
+  - [Notary Public in Santa Maria, CA: Cheryl Elliott](https://www.notarydepot.com/prosigner)
 
   - [Notary Public in Waldorf, MD: Jeffery Dennison](https://www.notarydepot.com/protax20601)
 
