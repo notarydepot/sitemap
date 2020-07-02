@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-07-02 06:08am
+Updated at 2020-07-02 06:28am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -13950,8 +13950,6 @@ Updated at 2020-07-02 06:08am
   - [Notary Public in Alcolu, SC: Mary Johnson](https://www.notarydepot.com/sade110)
 
   - [Notary Public in Valley Stream, NY: sadia khan](https://www.notarydepot.com/sadiakhan17)
-
-  - [Notary Public in Port Huron, MI: Katherine Sova-Fasbender](https://www.notarydepot.com/safeguardmobilenotary)
 
   - [Notary Public in Middletown, NY: David Green](https://www.notarydepot.com/safenotary)
 
