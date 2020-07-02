@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-07-02 01:08pm
+Updated at 2020-07-02 01:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -11970,8 +11970,6 @@ Updated at 2020-07-02 01:08pm
   - [Notary Public in Irving, TX: Melandie Rota](https://www.notarydepot.com/mrota123)
 
   - [Notary Public in Tavares, FL: Sakeena Butler](https://www.notarydepot.com/mrsbutler10)
-
-  - [Notary Public in Jacksonville, FL: Sheena Grant](https://www.notarydepot.com/mrsgrant14)
 
   - [Notary Public in Stafford, TX: La Keisha Redd](https://www.notarydepot.com/mrsnotary)
 
