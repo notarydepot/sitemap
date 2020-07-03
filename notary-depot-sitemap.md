@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-07-02 05:48pm
+Updated at 2020-07-02 06:08pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -14308,8 +14308,6 @@ Updated at 2020-07-02 05:48pm
   - [Notary Public in Houston, TX: Shatoria Reynolds](https://www.notarydepot.com/shatoriareynolds)
 
   - [Notary Public in Melbourne, FL: Shauna Thirion](https://www.notarydepot.com/shaunathirion)
-
-  - [Notary Public in Las Vegas, NV: Shaun Federico](https://www.notarydepot.com/shaunfedericonotary)
 
   - [Notary Public in Rock Hill, SC: Shauntae Jordan](https://www.notarydepot.com/shauntaej)
 
