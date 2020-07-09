@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-07-08 11:08pm
+Updated at 2020-07-08 11:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -15,6 +15,8 @@ Updated at 2020-07-08 11:08pm
   - [Notary Advice Part 2: Online Presence](https://www.notarydepot.com/blog/notary-advice-part-2-online-presence)
 
   - [Notary Advice Part 1: Ground Game](https://www.notarydepot.com/blog/notary-advice-part-1-ground-game)
+
+  - [5 Ways To Ask Your Clients For Reviews](https://www.notarydepot.com/blog/5-ways-to-ask-your-clients-for-reviews)
 
   - [How to Protect Your Business from Personal Injury Claims](https://www.notarydepot.com/blog/how-to-protect-your-business-from-personal-injury-claims)
 
