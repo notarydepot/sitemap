@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-07-11 01:28pm
+Updated at 2020-07-11 01:48pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -14542,8 +14542,6 @@ Updated at 2020-07-11 01:28pm
   - [Notary Public in Clarkdale, AZ: Stephanie Ferguson](https://www.notarydepot.com/skferguson)
 
   - [Notary Public in Las Vegas, NV: Anna](https://www.notarydepot.com/skittlebadu)
-
-  - [Notary Public in St. Petersburg, FL: Samantha Kittles ](https://www.notarydepot.com/skittlesnotary)
 
   - [Notary Public in Coralville, IA: Robby Elgin](https://www.notarydepot.com/skoool)
 
