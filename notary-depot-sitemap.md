@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-07-23 08:28pm
+Updated at 2020-07-23 08:48pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -14191,7 +14191,7 @@ Updated at 2020-07-23 08:28pm
 
   - [Notary Public in Fullerton, CA: Sean Park](https://www.notarydepot.com/seanpark)
 
-  - [Notary Public in Stockton, CA: Corinne Seaton](https://www.notarydepot.com/seatonnotary)
+  - [Notary Public in Stockton, CA: N/A](https://www.notarydepot.com/seatonnotary)
 
   - [Notary Public in Bear, DE: Seesan Ed](https://www.notarydepot.com/seesan)
 
