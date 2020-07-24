@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-07-23 08:48pm
+Updated at 2020-07-23 09:08pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -12367,6 +12367,8 @@ Updated at 2020-07-23 08:48pm
 
   - [Notary Public in Bermuda Dunes, CA: Maria Lozano](https://www.notarydepot.com/noblenotary)
 
+  - [Notary Public in Stockton, CA: N/A](https://www.notarydepot.com/nobody%20)
+
   - [Notary Public in Piedmont, AL: Twyla Baggett](https://www.notarydepot.com/nokisi)
 
   - [Notary Public in Montclair, VA: Nolita Long](https://www.notarydepot.com/nolitanotary)
@@ -14190,8 +14192,6 @@ Updated at 2020-07-23 08:48pm
   - [Notary Public in Newport Beach, CA: sean](https://www.notarydepot.com/seanm22)
 
   - [Notary Public in Fullerton, CA: Sean Park](https://www.notarydepot.com/seanpark)
-
-  - [Notary Public in Stockton, CA: N/A](https://www.notarydepot.com/seatonnotary)
 
   - [Notary Public in Bear, DE: Seesan Ed](https://www.notarydepot.com/seesan)
 
