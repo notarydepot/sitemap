@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-07-25 09:08am
+Updated at 2020-07-25 09:28am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -6505,8 +6505,6 @@ Updated at 2020-07-25 09:08am
 
   - [Notary Public in Montrose, CO: James Arnold](https://www.notarydepot.com/chewypup1)
 
-  - [Notary Public in Chicago, IL: Carrie Rivera](https://www.notarydepot.com/chicagomobilenotaries)
-
   - [Notary Public in Chicago, IL: Chicago Prime Notary](https://www.notarydepot.com/chicagoprimenotary)
 
   - [Notary Public in Auburn, ME: Donald Robbins](https://www.notarydepot.com/chiefdon)
@@ -6804,6 +6802,8 @@ Updated at 2020-07-25 09:08am
   - [Notary Public in Mililani, HI: Claire Pilar](https://www.notarydepot.com/cpilar6789)
 
   - [Notary Public in Los Angeles, CA: Catherine Pitman](https://www.notarydepot.com/cpitman)
+
+  - [Notary Public in Chicago, IL: Carrie Rivera](https://www.notarydepot.com/cpns5865)
 
   - [Notary Public in Katy, TX: Carolyn A. Powell](https://www.notarydepot.com/cpowell12)
 
