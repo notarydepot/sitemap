@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-07-27 02:28pm
+Updated at 2020-07-27 02:48pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -5900,6 +5900,8 @@ Updated at 2020-07-27 02:28pm
   - [Notary Public in Walnut Creek, CA: Beth Lassila](https://www.notarydepot.com/blassila)
 
   - [Notary Public in Boise, ID: Jason](https://www.notarydepot.com/blazzer)
+
+  - [Notary Public in Montgomery, AL: Raquel Broom ](https://www.notarydepot.com/blb%20notary)
 
   - [Notary Public in NJ: Caroljean Rich](https://www.notarydepot.com/blkbear)
 
@@ -13434,8 +13436,6 @@ Updated at 2020-07-27 02:28pm
   - [Notary Public in Miami, FL: Roudy Antenor](https://www.notarydepot.com/rantenor)
 
   - [Notary Public in Franklin, NC: Raphael Fetrat](https://www.notarydepot.com/raphael)
-
-  - [Notary Public in Fort Myers, FL: Raquel Broom ](https://www.notarydepot.com/raquelbroom)
 
   - [Notary Public in New York, NY: Fanny R Gomez](https://www.notarydepot.com/raquelsolo)
 
