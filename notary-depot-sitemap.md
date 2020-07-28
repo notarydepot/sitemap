@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-07-28 07:28am
+Updated at 2020-07-28 07:48am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -5465,6 +5465,8 @@ Updated at 2020-07-28 07:28am
 
   - [Notary Public in Paoli, PA: Arthur M Rosenbaum](https://www.notarydepot.com/artrose)
 
+  - [Notary Public in Walnut, CA: Aileen Sabio](https://www.notarydepot.com/asabio)
+
   - [Notary Public in Dallas, TX: Saheed Aiyeojenku](https://www.notarydepot.com/asaheed)
 
   - [Notary Public in Mishawaka, IN: Ahmed Said](https://www.notarydepot.com/asaid)
@@ -7550,8 +7552,6 @@ Updated at 2020-07-28 07:28am
   - [Notary Public in Meadville, PA: Donna Sadwick](https://www.notarydepot.com/donnas)
 
   - [Notary Public in Santa Ana, CA: don sneddon](https://www.notarydepot.com/donsneddon)
-
-  - [Notary Public in Walnut, CA: Aileen Sabio](https://www.notarydepot.com/donyaleen)
 
   - [Notary Public in Costa Mesa, CA: Jill Bernshouse](https://www.notarydepot.com/door2doornotary)
 
