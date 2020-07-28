@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-07-28 03:08pm
+Updated at 2020-07-28 03:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -8854,8 +8854,6 @@ Updated at 2020-07-28 03:08pm
   - [Notary Public in Hesperia, CA: Gabriela Vasquez](https://www.notarydepot.com/intercrew48)
 
   - [Notary Public in Scottsdale, AZ: Yana Morford](https://www.notarydepot.com/intervolga)
-
-  - [Notary Public in Spokane, WA: Gina Cozza](https://www.notarydepot.com/invizbiz)
 
   - [Notary Public in Hazlet, NJ: Mary Kmiotek](https://www.notarydepot.com/ipaul23)
 
