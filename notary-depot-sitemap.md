@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-08-01 08:08pm
+Updated at 2020-08-01 08:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -14994,6 +14994,8 @@ Updated at 2020-08-01 08:08pm
   - [Notary Public in Los Angeles, CA: Talmadge Haven](https://www.notarydepot.com/talmadge)
 
   - [Notary Public in NY: Tamara Bourdeau](https://www.notarydepot.com/tamarabourdeau)
+
+  - [Notary Public in Greensboro, NC: Tamara Henderson](https://www.notarydepot.com/tamarahenderson86)
 
   - [Notary Public in Hialeah, FL: Tamara Zelaya](https://www.notarydepot.com/tamarazelaya)
 
