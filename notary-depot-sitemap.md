@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-08-05 08:28am
+Updated at 2020-08-05 08:48am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -7042,6 +7042,8 @@ Updated at 2020-08-05 08:28am
   - [Notary Public in Hooksett, NH: Daryl McKinnon](https://www.notarydepot.com/darylm)
 
   - [Notary Public in Fort Lauderdale, FL: Dasheka Kitchen](https://www.notarydepot.com/dasheka82)
+
+  - [Notary Public in Boston, MA: DaVan Johnson](https://www.notarydepot.com/davanj)
 
   - [Notary Public in Oak Forest, IL: David Ellice](https://www.notarydepot.com/davcamp)
 
