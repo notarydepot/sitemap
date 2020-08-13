@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-08-12 08:08pm
+Updated at 2020-08-12 08:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -9456,8 +9456,6 @@ Updated at 2020-08-12 08:08pm
   - [Notary Public in Scotch Plains, NJ: Jim Lissemore](https://www.notarydepot.com/jlissem)
 
   - [Notary Public in Antioch, CA: Jessica Mendiola](https://www.notarydepot.com/jlmendiola)
-
-  - [Notary Public in Glendale, CA: Jeannie LoBue](https://www.notarydepot.com/jlobue)
 
   - [Notary Public in Augusta, GA: Jared Lopez](https://www.notarydepot.com/jlopeznotary)
 
