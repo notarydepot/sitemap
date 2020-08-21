@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-08-21 09:08am
+Updated at 2020-08-21 09:28am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -9040,8 +9040,6 @@ Updated at 2020-08-21 09:08am
   - [Notary Public in Mount Vernon, OH: Janet Houseberg](https://www.notarydepot.com/janeth)
 
   - [Notary Public in Rancho Cucamonga, CA: Janet Lynch](https://www.notarydepot.com/janetlynch)
-
-  - [Notary Public in Lucedale, MS: Janet Pattison](https://www.notarydepot.com/janetpattison)
 
   - [Notary Public in Cameron, MO: Jan Gordon](https://www.notarydepot.com/jangordon39)
 
