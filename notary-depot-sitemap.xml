@@ -4575,6 +4575,8 @@
   
     <url><loc>https://www.notarydepot.com/notary-near-me/Washington/Seattle</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   
+    <url><loc>https://www.notarydepot.com/notary-near-me/Washington/Sedro-Woolley</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  
     <url><loc>https://www.notarydepot.com/notary-near-me/Washington/Shoreline</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   
     <url><loc>https://www.notarydepot.com/notary-near-me/Washington/Snohomish</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
@@ -11253,6 +11255,8 @@
   <url><loc>https://www.notarydepot.com/marlod</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
 
   <url><loc>https://www.notarydepot.com/marnee</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+
+  <url><loc>https://www.notarydepot.com/marquisnotary</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
 
   <url><loc>https://www.notarydepot.com/marsian</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
 
