@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-08-23 11:48am
+Updated at 2020-08-23 12:08pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -12050,8 +12050,6 @@ Updated at 2020-08-23 11:48am
   - [Notary Public in Fredericksburg, VA: Yvette D Fowler](https://www.notarydepot.com/mswells1)
 
   - [Notary Public in Fulton, NY: Theresa M. Clark-Switzer](https://www.notarydepot.com/mswitze1)
-
-  - [Notary Public in Chicago, IL: Marissa Terry](https://www.notarydepot.com/mterry2005)
 
   - [Notary Public in St. Augustine, FL: Michael K Tippit](https://www.notarydepot.com/mtippit)
 
