@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-08-26 08:28am
+Updated at 2020-08-26 08:48am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -107,6 +107,8 @@ Updated at 2020-08-26 08:28am
     - [Notary Public in Guntersville, Alabama](https://www.notarydepot.com/notary-near-me/Alabama/Guntersville)
   
     - [Notary Public in Helena, Alabama](https://www.notarydepot.com/notary-near-me/Alabama/Helena)
+  
+    - [Notary Public in Hoover, Alabama](https://www.notarydepot.com/notary-near-me/Alabama/Hoover)
   
     - [Notary Public in Huntsville, Alabama](https://www.notarydepot.com/notary-near-me/Alabama/Huntsville)
   
@@ -10686,6 +10688,8 @@ Updated at 2020-08-26 08:28am
   - [Notary Public in Matthews, NC: Lynne T Guist](https://www.notarydepot.com/lguist)
 
   - [Notary Public in Parkton, NC: Linda R Gurnee](https://www.notarydepot.com/lgurnee)
+
+  - [Notary Public in Hoover, AL: Lanetta Harper ALC, NCC,TCH,CATP](https://www.notarydepot.com/lharper2020)
 
   - [Notary Public in Oxon Hill, MD: Lawanna Harrod](https://www.notarydepot.com/lharrod)
 
