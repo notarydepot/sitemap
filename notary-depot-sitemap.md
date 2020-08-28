@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-08-28 12:48pm
+Updated at 2020-08-28 01:08pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -14028,6 +14028,8 @@ Updated at 2020-08-28 12:48pm
   - [Notary Public in North Miami, FL: Sandra Ellington](https://www.notarydepot.com/sandraellington)
 
   - [Notary Public in Clermont, FL: Sandra Hernandez](https://www.notarydepot.com/sandrahernandez)
+
+  - [Notary Public in Lehigh Acres, FL: Sandralea Nieves James](https://www.notarydepot.com/sandralea)
 
   - [Notary Public in Salinas, CA: Sandra Lemos](https://www.notarydepot.com/sandralemos)
 
