@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-08-28 10:48pm
+Updated at 2020-08-28 11:08pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -13,6 +13,8 @@ Updated at 2020-08-28 10:48pm
   - [Marketing Your Notary Business [Enter The Digital Realm] 2020 Full Guide](https://www.notarydepot.com/blog/marketing-your-notary-business-enter-the-digital-realm-2020-full-guide)
 
   - [Notary Advice Part 2: Online Presence](https://www.notarydepot.com/blog/notary-advice-part-2-online-presence)
+
+  - [5 Powerful Tools to Grow Your Notary Business (2020 Digital Secrets)](https://www.notarydepot.com/blog/5-powerful-tools-to-grow-your-notary-business-2020-digital-secrets)
 
   - [Notary Advice Part 1: Ground Game](https://www.notarydepot.com/blog/notary-advice-part-1-ground-game)
 
