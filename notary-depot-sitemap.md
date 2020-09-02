@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-09-02 04:28pm
+Updated at 2020-09-02 04:48pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -12909,7 +12909,7 @@ Updated at 2020-09-02 04:28pm
 
   - [Notary Public in Half Moon Bay, CA: Mrs.Bates](https://www.notarydepot.com/orion)
 
-  - [Notary Public in Austin, TX: Cruz S. Ornelas Jr.](https://www.notarydepot.com/ornelasnotaryservices)
+  - [Notary Public in Austin, TX: CS. Ornelas Jr.](https://www.notarydepot.com/ornelasnotaryservices)
 
   - [Notary Public in Kissimmee, FL: Robert L. Loos](https://www.notarydepot.com/orostar)
 
