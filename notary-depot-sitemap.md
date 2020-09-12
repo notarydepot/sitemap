@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-09-12 07:48am
+Updated at 2020-09-12 08:08am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -11709,7 +11709,7 @@ Updated at 2020-09-12 07:48am
 
   - [Notary Public in Millersville, MO: Maria Moore](https://www.notarydepot.com/mjmmobilenotary)
 
-  - [Notary Public in Ladson, SC: michael johnson](https://www.notarydepot.com/mjskilz1)
+  - [Notary Public in Ladson, SC: Michael Johnson](https://www.notarydepot.com/mjskilz1)
 
   - [Notary Public in Jacksonville, FL: Monika Campbell](https://www.notarydepot.com/mka322)
 
