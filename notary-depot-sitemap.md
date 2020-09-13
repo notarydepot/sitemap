@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-09-13 09:08am
+Updated at 2020-09-13 09:28am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -13361,7 +13361,7 @@ Updated at 2020-09-13 09:08am
 
   - [Notary Public in Pueblo, CO: Bonnie Dewolfe](https://www.notarydepot.com/pwnsllc)
 
-  - [Notary Public in Knoxville, TN: Paula Yakey](https://www.notarydepot.com/pyakey)
+  - [Notary Public in Bristol, VA: Paula Yakey](https://www.notarydepot.com/pyakey)
 
   - [Notary Public in Norco, CA: Pamela A Zogg](https://www.notarydepot.com/pzogg)
 
