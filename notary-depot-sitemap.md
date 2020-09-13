@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-09-13 09:48am
+Updated at 2020-09-13 10:08am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -437,8 +437,6 @@ Updated at 2020-09-13 09:48am
     - [Notary Public in Concord, California](https://www.notarydepot.com/notary-near-me/California/Concord)
   
     - [Notary Public in Cool, California](https://www.notarydepot.com/notary-near-me/California/Cool)
-  
-    - [Notary Public in Corning, California](https://www.notarydepot.com/notary-near-me/California/Corning)
   
     - [Notary Public in Corona, California](https://www.notarydepot.com/notary-near-me/California/Corona)
   
@@ -16120,8 +16118,6 @@ Updated at 2020-09-13 09:48am
   - [Notary Public in Downey, CA: Zalynda Shields](https://www.notarydepot.com/zalynda)
 
   - [Notary Public in East Brunswick, NJ: George Bandy](https://www.notarydepot.com/zamankeid)
-
-  - [Notary Public in Corning, CA: Sharleigh Zavaglia ](https://www.notarydepot.com/zavaglia21)
 
   - [Notary Public in Gainesville, FL: Bradford S MarElia](https://www.notarydepot.com/zbestcloser)
 
