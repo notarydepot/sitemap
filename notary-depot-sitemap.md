@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-09-13 03:08pm
+Updated at 2020-09-13 03:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -7163,7 +7163,7 @@ Updated at 2020-09-13 03:08pm
 
   - [Notary Public in Drums, PA: Diana L Donahue](https://www.notarydepot.com/ddonahue)
 
-  - [Notary Public in Bracey, VA: Denise Johnson](https://www.notarydepot.com/de63038)
+  - [Notary Public in Sparks, NV: Denise Johnson](https://www.notarydepot.com/de63038)
 
   - [Notary Public in Phoenix, AZ: Deana Lowrance, Professional "Mobile" Signing Agent & Notary](https://www.notarydepot.com/deanaj)
 
