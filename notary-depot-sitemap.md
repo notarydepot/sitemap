@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-09-19 01:48pm
+Updated at 2020-09-19 02:08pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -8634,8 +8634,6 @@ Updated at 2020-09-19 01:48pm
   - [Notary Public in Richmond, RI: Heather Ciuryla](https://www.notarydepot.com/heatherciuryla)
 
   - [Notary Public in Murrieta, CA: Heather Mattson](https://www.notarydepot.com/heathermattson)
-
-  - [Notary Public in Titusville, FL: Heather Parodi ](https://www.notarydepot.com/heatherparodi)
 
   - [Notary Public in Wyandotte, MI: Heather R. Thornsberry](https://www.notarydepot.com/heathert729)
 
