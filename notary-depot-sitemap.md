@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-09-19 06:08pm
+Updated at 2020-09-19 06:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -13883,7 +13883,7 @@ Updated at 2020-09-19 06:08pm
 
   - [Notary Public in Wichita, KS: Richelle Roybal](https://www.notarydepot.com/rroybal)
 
-  - [Notary Public in Wichita, KS: Richelle](https://www.notarydepot.com/rrroybal)
+  - [Notary Public in Wichita, KS: Roybal Consulting LLC](https://www.notarydepot.com/rrroybal)
 
   - [Notary Public in Grapevine, TX: Richard S. Bivins, JD](https://www.notarydepot.com/rsbivins)
 
