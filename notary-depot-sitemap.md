@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-09-20 09:48pm
+Updated at 2020-09-20 10:08pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -9523,7 +9523,7 @@ Updated at 2020-09-20 09:48pm
 
   - [Notary Public in Yerington, NV: Joanne Sarkisian](https://www.notarydepot.com/joannesark)
 
-  - [Notary Public in Lansing, MI: Joan M Havens](https://www.notarydepot.com/joannieh)
+  - [Notary Public in Helena, MT: Joan M Havens](https://www.notarydepot.com/joannieh)
 
   - [Notary Public in Crystal Falls, MI: Joan Havens](https://www.notarydepot.com/joanniehwi)
 
