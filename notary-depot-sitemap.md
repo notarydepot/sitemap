@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-09-23 08:48am
+Updated at 2020-09-23 09:08am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -1010,8 +1010,6 @@ Updated at 2020-09-23 08:48am
     - [Notary Public in Aurora, Colorado](https://www.notarydepot.com/notary-near-me/Colorado/Aurora)
   
     - [Notary Public in Brighton, Colorado](https://www.notarydepot.com/notary-near-me/Colorado/Brighton)
-  
-    - [Notary Public in Broomfield, Colorado](https://www.notarydepot.com/notary-near-me/Colorado/Broomfield)
   
     - [Notary Public in Cañon City, Colorado](https://www.notarydepot.com/notary-near-me/Colorado/Ca%C3-on-City)
   
@@ -12528,8 +12526,6 @@ Updated at 2020-09-23 08:48am
   - [Notary Public in Hobe Sound, FL: Deidra Mccaslin](https://www.notarydepot.com/notarydede)
 
   - [Notary Public in Boynton Beach, FL: Barbara Willson](https://www.notarydepot.com/notarydepo)
-
-  - [Notary Public in Broomfield, CO: Art R. Romero](https://www.notarydepot.com/notarydepot1tme)
 
   - [Notary Public in Palmdale, CA: Cassandra Stanciell](https://www.notarydepot.com/notarydiva)
 
