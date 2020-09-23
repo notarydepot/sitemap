@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-09-22 06:48pm
+Updated at 2020-09-22 07:08pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -2223,6 +2223,8 @@ Updated at 2020-09-22 06:48pm
     - [Notary Public in Marlow Heights, Maryland](https://www.notarydepot.com/notary-near-me/Maryland/Marlow-Heights)
   
     - [Notary Public in Middle River, Maryland](https://www.notarydepot.com/notary-near-me/Maryland/Middle-River)
+  
+    - [Notary Public in Milford Mill, Maryland](https://www.notarydepot.com/notary-near-me/Maryland/Milford-Mill)
   
     - [Notary Public in North East, Maryland](https://www.notarydepot.com/notary-near-me/Maryland/North-East)
   
@@ -11968,6 +11970,8 @@ Updated at 2020-09-22 06:48pm
   - [Notary Public in Houston, TX: Marie Deal](https://www.notarydepot.com/mrguidry)
 
   - [Notary Public in Atlanta, GA: Dayle A Hazel](https://www.notarydepot.com/mrhazel)
+
+  - [Notary Public in Milford Mill, MD: Michael T Rice Jr](https://www.notarydepot.com/mrice)
 
   - [Notary Public in Glendale, AZ: Mary Riley](https://www.notarydepot.com/mriley55)
 
