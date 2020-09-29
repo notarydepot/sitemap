@@ -4085,6 +4085,8 @@
   
     <url><loc>https://www.notarydepot.com/notary-near-me/Texas/Irving</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   
+    <url><loc>https://www.notarydepot.com/notary-near-me/Texas/Jonestown</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  
     <url><loc>https://www.notarydepot.com/notary-near-me/Texas/Katy</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   
     <url><loc>https://www.notarydepot.com/notary-near-me/Texas/Kemp</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
@@ -8617,6 +8619,8 @@
   <url><loc>https://www.notarydepot.com/hcampers</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
 
   <url><loc>https://www.notarydepot.com/hcannonr</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+
+  <url><loc>https://www.notarydepot.com/hcmn</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
 
   <url><loc>https://www.notarydepot.com/hcnotary</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
 

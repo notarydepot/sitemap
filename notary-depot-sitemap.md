@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-09-29 12:08am
+Updated at 2020-09-29 12:28am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -4084,6 +4084,8 @@ Updated at 2020-09-29 12:08am
     - [Notary Public in Ingleside, Texas](https://www.notarydepot.com/notary-near-me/Texas/Ingleside)
   
     - [Notary Public in Irving, Texas](https://www.notarydepot.com/notary-near-me/Texas/Irving)
+  
+    - [Notary Public in Jonestown, Texas](https://www.notarydepot.com/notary-near-me/Texas/Jonestown)
   
     - [Notary Public in Katy, Texas](https://www.notarydepot.com/notary-near-me/Texas/Katy)
   
@@ -8618,6 +8620,8 @@ Updated at 2020-09-29 12:08am
   - [Notary Public in Cantonment, FL: Beverly Nichols](https://www.notarydepot.com/hcampers)
 
   - [Notary Public in Doerun, GA: Heidi Cannon](https://www.notarydepot.com/hcannonr)
+
+  - [Notary Public in Jonestown, TX: Trish Aikman](https://www.notarydepot.com/hcmn)
 
   - [Notary Public in Cedar Park, TX: Carlene Foley](https://www.notarydepot.com/hcnotary)
 
