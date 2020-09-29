@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-09-29 07:48am
+Updated at 2020-09-29 08:08am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -3328,8 +3328,6 @@ Updated at 2020-09-29 07:48am
     - [Notary Public in Johnstown, Ohio](https://www.notarydepot.com/notary-near-me/Ohio/Johnstown)
   
     - [Notary Public in London, Ohio](https://www.notarydepot.com/notary-near-me/Ohio/London)
-  
-    - [Notary Public in Lorain, Ohio](https://www.notarydepot.com/notary-near-me/Ohio/Lorain)
   
     - [Notary Public in Loveland, Ohio](https://www.notarydepot.com/notary-near-me/Ohio/Loveland)
   
@@ -7346,8 +7344,6 @@ Updated at 2020-09-29 07:48am
   - [Notary Public in Vista, CA: David Hendron](https://www.notarydepot.com/dhendron)
 
   - [Notary Public in Hilmar, CA: Delia Hidalgo](https://www.notarydepot.com/dhidalgo)
-
-  - [Notary Public in Lorain, OH: Devon Hinds](https://www.notarydepot.com/dhinds)
 
   - [Notary Public in Orlando, FL: Dionne Holloway (Eclosings)](https://www.notarydepot.com/dholloway)
 
