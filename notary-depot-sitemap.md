@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-10-01 06:48pm
+Updated at 2020-10-01 07:08pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -14451,7 +14451,7 @@ Updated at 2020-10-01 06:48pm
 
   - [Notary Public in Atlanta, GA: Georgia Attorney Closers](https://www.notarydepot.com/signingatlanta)
 
-  - [Notary Public in Los Angeles, CA: signingondemand](https://www.notarydepot.com/signingondemand)
+  - [Notary Public in Los Angeles, CA: Renea Dentman](https://www.notarydepot.com/signingondemand)
 
   - [Notary Public in Irvine, CA: Bosha Dorman](https://www.notarydepot.com/signingpros)
 
