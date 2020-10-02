@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-10-01 09:28pm
+Updated at 2020-10-01 09:48pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -11256,8 +11256,6 @@ Updated at 2020-10-01 09:28pm
   - [Notary Public in Berkeley, CA: Marlo Davis](https://www.notarydepot.com/marlod)
 
   - [Notary Public in Berlin, NJ: Marnee S. Cinelli](https://www.notarydepot.com/marnee)
-
-  - [Notary Public in Sedro-Woolley, WA: Brittany Marquis](https://www.notarydepot.com/marquisnotary)
 
   - [Notary Public in Las Vegas, NV: Susan Marsian-Bolduc](https://www.notarydepot.com/marsian)
 
