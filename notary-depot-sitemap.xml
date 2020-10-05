@@ -4679,6 +4679,8 @@
   
     <url><loc>https://www.notarydepot.com/notary-near-me/Wisconsin/Stevens-Point</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   
+    <url><loc>https://www.notarydepot.com/notary-near-me/Wisconsin/Superior</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  
     <url><loc>https://www.notarydepot.com/notary-near-me/Wisconsin/Waukesha</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   
     <url><loc>https://www.notarydepot.com/notary-near-me/Wisconsin/Wausau</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
@@ -6655,6 +6657,8 @@
   <url><loc>https://www.notarydepot.com/clomack</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
 
   <url><loc>https://www.notarydepot.com/closingpro</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+
+  <url><loc>https://www.notarydepot.com/closings1216</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
 
   <url><loc>https://www.notarydepot.com/closings4hire</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
 

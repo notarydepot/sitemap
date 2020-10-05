@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-10-04 06:49pm
+Updated at 2020-10-04 07:09pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -4679,6 +4679,8 @@ Updated at 2020-10-04 06:49pm
   
     - [Notary Public in Stevens Point, Wisconsin](https://www.notarydepot.com/notary-near-me/Wisconsin/Stevens-Point)
   
+    - [Notary Public in Superior, Wisconsin](https://www.notarydepot.com/notary-near-me/Wisconsin/Superior)
+  
     - [Notary Public in Waukesha, Wisconsin](https://www.notarydepot.com/notary-near-me/Wisconsin/Waukesha)
   
     - [Notary Public in Wausau, Wisconsin](https://www.notarydepot.com/notary-near-me/Wisconsin/Wausau)
@@ -6656,6 +6658,8 @@ Updated at 2020-10-04 06:49pm
   - [Notary Public in Orange Park, FL: Carla Lomack](https://www.notarydepot.com/clomack)
 
   - [Notary Public in Decatur, AL: Angela C. Griffin](https://www.notarydepot.com/closingpro)
+
+  - [Notary Public in Superior, WI: Nicole](https://www.notarydepot.com/closings1216)
 
   - [Notary Public in Memphis, TN: Tarsha Moore](https://www.notarydepot.com/closings4hire)
 
