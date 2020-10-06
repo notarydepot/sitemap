@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-10-06 10:28am
+Updated at 2020-10-06 10:48am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -5766,8 +5766,6 @@ Updated at 2020-10-06 10:28am
   - [Notary Public in Belen, NM: Pamela Brownlee](https://www.notarydepot.com/belovedelf)
 
   - [Notary Public in New Haven, CT: Benjamin Greene](https://www.notarydepot.com/bengreene53)
-
-  - [Notary Public in Ladson, SC: Benita Bradley](https://www.notarydepot.com/benitabradley)
 
   - [Notary Public in Troy, MO: Benita K. Cottrell](https://www.notarydepot.com/benitakay)
 
