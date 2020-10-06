@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-10-06 02:28pm
+Updated at 2020-10-06 02:48pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -13280,8 +13280,6 @@ Updated at 2020-10-06 02:28pm
   - [Notary Public in Huntingtown, MD: Carolyn Sherwood](https://www.notarydepot.com/prissyhoney760)
 
   - [Notary Public in NY: Prity Rawat](https://www.notarydepot.com/prity1203)
-
-  - [Notary Public in Pueblo, CO: Herbert Myers](https://www.notarydepot.com/proactiveaccountingservices)
 
   - [Notary Public in Tallahassee, FL: Beth Nelson](https://www.notarydepot.com/proctor63)
 
