@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-10-06 08:08am
+Updated at 2020-10-06 08:28am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -15821,7 +15821,7 @@ Updated at 2020-10-06 08:08am
 
   - [Notary Public in Turtletown, TN: Victoria Sue Ledford](https://www.notarydepot.com/vsmcl)
 
-  - [Notary Public in Rockledge, FL: Valamere](https://www.notarydepot.com/vsmprosvcs)
+  - [Notary Public in Rockledge, FL: This service no longer exist ](https://www.notarydepot.com/vsmprosvcs)
 
   - [Notary Public in Boynton Beach, FL: Venus Scott](https://www.notarydepot.com/vsnotaryservicesgmailcom)
 
