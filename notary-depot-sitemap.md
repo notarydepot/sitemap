@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-10-07 07:28am
+Updated at 2020-10-07 07:48am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -1322,6 +1322,8 @@ Updated at 2020-10-07 07:28am
     - [Notary Public in Leesburg, Florida](https://www.notarydepot.com/notary-near-me/Florida/Leesburg)
   
     - [Notary Public in Lehigh Acres, Florida](https://www.notarydepot.com/notary-near-me/Florida/Lehigh-Acres)
+  
+    - [Notary Public in Leisure City, Florida](https://www.notarydepot.com/notary-near-me/Florida/Leisure-City)
   
     - [Notary Public in Longwood, Florida](https://www.notarydepot.com/notary-near-me/Florida/Longwood)
   
@@ -9039,7 +9041,7 @@ Updated at 2020-10-07 07:28am
 
   - [Notary Public in Rochester, MI: Janet Lee Angi](https://www.notarydepot.com/janetangi)
 
-  - [Notary Public in Lehigh Acres, FL: Janet Boffill](https://www.notarydepot.com/janetboffill)
+  - [Notary Public in Leisure City, FL: Janet Boffill](https://www.notarydepot.com/janetboffill)
 
   - [Notary Public in Mount Vernon, OH: Janet Houseberg](https://www.notarydepot.com/janeth)
 
