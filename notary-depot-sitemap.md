@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-10-07 12:48am
+Updated at 2020-10-07 01:08am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -13674,6 +13674,8 @@ Updated at 2020-10-07 12:48am
   - [Notary Public in Charlotte, NC: Raymon Hunt](https://www.notarydepot.com/rjoyassociatesnotary)
 
   - [Notary Public in Lakewood, CA: R J Vincent](https://www.notarydepot.com/rjvincent)
+
+  - [Notary Public in Joplin, MO: Rebecca Wright](https://www.notarydepot.com/rjwright)
 
   - [Notary Public in Ponca City, OK: Robin Abshire](https://www.notarydepot.com/rkabshire)
 
