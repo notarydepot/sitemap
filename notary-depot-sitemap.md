@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-10-08 12:48pm
+Updated at 2020-10-08 01:08pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -13754,6 +13754,8 @@ Updated at 2020-10-08 12:48pm
   - [Notary Public in Coarsegold, CA: Robin Cahill](https://www.notarydepot.com/robinann)
 
   - [Notary Public in Port Royal, SC: Robin L. Dudley](https://www.notarydepot.com/robindudley)
+
+  - [Notary Public in Palmyra, VA: Robin Hardy-Small](https://www.notarydepot.com/robinhardysmall)
 
   - [Notary Public in Knoxville, TN: Robin Sands](https://www.notarydepot.com/robinsands)
 
