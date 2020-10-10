@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-10-09 08:08pm
+Updated at 2020-10-09 08:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -15100,8 +15100,6 @@ Updated at 2020-10-09 08:08pm
   - [Notary Public in Garner, NC: Theresa Dotson](https://www.notarydepot.com/tdotson)
 
   - [Notary Public in Quincy, CA: Traci M. Downey](https://www.notarydepot.com/tdowney)
-
-  - [Notary Public in Newport News, VA: Trudy Williams ](https://www.notarydepot.com/tdwdemp)
 
   - [Notary Public in Hartford, KY: Tracye Westerfield](https://www.notarydepot.com/tdwester)
 
