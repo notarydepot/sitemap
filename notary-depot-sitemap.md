@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-10-12 08:08am
+Updated at 2020-10-12 08:28am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -6194,8 +6194,6 @@ Updated at 2020-10-12 08:08am
   - [Notary Public in Houston, TX: Dominique Johnson](https://www.notarydepot.com/cahlaiyla23)
 
   - [Notary Public in Milton, FL: Terry & Chyril Zale](https://www.notarydepot.com/caileenz49)
-
-  - [Notary Public in Homestead, FL: Calvin](https://www.notarydepot.com/cal15)
 
   - [Notary Public in Scotts Valley, CA: Rebecca Arndt](https://www.notarydepot.com/calcoastss)
 
@@ -14456,6 +14454,8 @@ Updated at 2020-10-12 08:08am
   - [Notary Public in New York, NY: Christine M Thierry](https://www.notarydepot.com/signingagentpa)
 
   - [Notary Public in Atlanta, GA: Georgia Attorney Closers](https://www.notarydepot.com/signingatlanta)
+
+  - [Notary Public in Homestead, FL: moseic](https://www.notarydepot.com/signing.inc)
 
   - [Notary Public in Los Angeles, CA: Renea Dentman](https://www.notarydepot.com/signingondemand)
 
