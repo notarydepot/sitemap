@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-10-14 07:48pm
+Updated at 2020-10-14 08:08pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -9788,6 +9788,8 @@ Updated at 2020-10-14 07:48pm
   - [Notary Public in Garland, TX: Jules Lasater](https://www.notarydepot.com/jules88notary)
 
   - [Notary Public in Garland, TX: Julia Lasater](https://www.notarydepot.com/julessigns)
+
+  - [Notary Public in Los Angeles, CA: Julin Geba](https://www.notarydepot.com/julgeba)
 
   - [Notary Public in New York, NY: Julian L Cole](https://www.notarydepot.com/julianlenworthcole)
 
