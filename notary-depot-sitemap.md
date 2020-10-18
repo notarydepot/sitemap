@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-10-17 04:48pm
+Updated at 2020-10-17 05:08pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -15929,7 +15929,7 @@ Updated at 2020-10-17 04:48pm
 
   - [Notary Public in Stewartstown, NH: Cindy M. Dorman](https://www.notarydepot.com/whistlingbrz)
 
-  - [Notary Public in Princeton, IL: A Notary Direct 2 U](https://www.notarydepot.com/whitestache)
+  - [Notary Public in Traverse City, MI: A Notary Direct 2 U](https://www.notarydepot.com/whitestache)
 
   - [Notary Public in Lake Charles, LA: Candice Menard](https://www.notarydepot.com/whodat)
 
