@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-10-19 06:48pm
+Updated at 2020-10-19 07:08pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -9816,8 +9816,6 @@ Updated at 2020-10-19 06:48pm
   - [Notary Public in Las Vegas, NV: Justine ](https://www.notarydepot.com/jusbae86)
 
   - [Notary Public in Casselberry, FL: Lucille O'Reilly](https://www.notarydepot.com/justclosings)
-
-  - [Notary Public in CA: Julin Geba](https://www.notarydepot.com/justdeed)
 
   - [Notary Public in Mission Viejo, CA: Justin Yagher](https://www.notarydepot.com/justinyagher)
 
