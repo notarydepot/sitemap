@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-10-21 07:48am
+Updated at 2020-10-21 08:08am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -2947,6 +2947,8 @@ Updated at 2020-10-21 07:48am
     - [Notary Public in West Caldwell, New Jersey](https://www.notarydepot.com/notary-near-me/New-Jersey/West-Caldwell)
   
     - [Notary Public in West New York, New Jersey](https://www.notarydepot.com/notary-near-me/New-Jersey/West-New-York)
+  
+    - [Notary Public in West Orange, New Jersey](https://www.notarydepot.com/notary-near-me/New-Jersey/West-Orange)
   
     - [Notary Public in Westville, New Jersey](https://www.notarydepot.com/notary-near-me/New-Jersey/Westville)
   
@@ -15214,6 +15216,8 @@ Updated at 2020-10-21 07:48am
   - [Notary Public in West Haverstraw, NY: Helen Hardeen](https://www.notarydepot.com/themobilenotary)
 
   - [Notary Public in Los Angeles, CA: Michelle Morgan](https://www.notarydepot.com/themorganstandard)
+
+  - [Notary Public in West Orange, NJ: Michelle McCrea](https://www.notarydepot.com/thenextdoornotary)
 
   - [Notary Public in Chester, NJ: Melanie B. Heit Rivellese](https://www.notarydepot.com/thenoblenotary)
 

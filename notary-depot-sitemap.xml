@@ -2948,6 +2948,8 @@
   
     <url><loc>https://www.notarydepot.com/notary-near-me/New-Jersey/West-New-York</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   
+    <url><loc>https://www.notarydepot.com/notary-near-me/New-Jersey/West-Orange</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  
     <url><loc>https://www.notarydepot.com/notary-near-me/New-Jersey/Westville</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   
     <url><loc>https://www.notarydepot.com/notary-near-me/New-Jersey/Wharton</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
@@ -15213,6 +15215,8 @@
   <url><loc>https://www.notarydepot.com/themobilenotary</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
 
   <url><loc>https://www.notarydepot.com/themorganstandard</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+
+  <url><loc>https://www.notarydepot.com/thenextdoornotary</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
 
   <url><loc>https://www.notarydepot.com/thenoblenotary</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
 
