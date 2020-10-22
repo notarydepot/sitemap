@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-10-22 12:08pm
+Updated at 2020-10-22 12:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -14169,7 +14169,7 @@ Updated at 2020-10-22 12:08pm
 
   - [Notary Public in Bradenton, FL: Scott Lindsay](https://www.notarydepot.com/scotlind12)
 
-  - [Notary Public in Bethesda, MD: Scott Blumenfeld](https://www.notarydepot.com/scottblu)
+  - [Notary Public in Rockville, MD: Scott Blu](https://www.notarydepot.com/scottblu)
 
   - [Notary Public in Pembroke Pines, FL: Scott Cutler](https://www.notarydepot.com/scottcutler)
 
