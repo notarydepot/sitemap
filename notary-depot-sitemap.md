@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-10-25 12:28pm
+Updated at 2020-10-25 12:48pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -15664,6 +15664,8 @@ Updated at 2020-10-25 12:28pm
   - [Notary Public in Lodi, CA: Valerie Hernandez](https://www.notarydepot.com/valerieh)
 
   - [Notary Public in Boynton Beach, FL: Valerie Doornbos](https://www.notarydepot.com/valeriekay27)
+
+  - [Notary Public in Jackson, TN: Valerie Mack](https://www.notarydepot.com/valeriem%2420)
 
   - [Notary Public in Chicago, IL: Valerie Natasha Freeman](https://www.notarydepot.com/valerienfreeman)
 
