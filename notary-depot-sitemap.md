@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-10-26 02:08pm
+Updated at 2020-10-26 02:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -2506,6 +2506,8 @@ Updated at 2020-10-26 02:08pm
     - [Notary Public in Saint Paul, Minnesota](https://www.notarydepot.com/notary-near-me/Minnesota/Saint-Paul)
   
     - [Notary Public in Savage, Minnesota](https://www.notarydepot.com/notary-near-me/Minnesota/Savage)
+  
+    - [Notary Public in St. Cloud, Minnesota](https://www.notarydepot.com/notary-near-me/Minnesota/St-Cloud)
   
     - [Notary Public in Stillwater, Minnesota](https://www.notarydepot.com/notary-near-me/Minnesota/Stillwater)
   
@@ -8974,6 +8976,8 @@ Updated at 2020-10-26 02:08pm
   - [Notary Public in Hayward, CA: James H Baqleh](https://www.notarydepot.com/james300haha)
 
   - [Notary Public in New York, NY: James David WilliamsII](https://www.notarydepot.com/james36)
+
+  - [Notary Public in St. Cloud, MN: James Alexander ](https://www.notarydepot.com/jamesalexander)
 
   - [Notary Public in Murrieta, CA: Cynthia/Ca](https://www.notarydepot.com/jamescy)
 
