@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-10-26 08:08am
+Updated at 2020-10-26 08:28am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -10690,8 +10690,6 @@ Updated at 2020-10-26 08:08am
   - [Notary Public in Matthews, NC: Lynne T Guist](https://www.notarydepot.com/lguist)
 
   - [Notary Public in Parkton, NC: Linda R Gurnee](https://www.notarydepot.com/lgurnee)
-
-  - [Notary Public in Hoover, AL: Lanetta Harper ALC, NCC,TCH,CATP](https://www.notarydepot.com/lharper2020)
 
   - [Notary Public in Oxon Hill, MD: Lawanna Harrod](https://www.notarydepot.com/lharrod)
 
