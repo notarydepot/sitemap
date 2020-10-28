@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-10-28 12:08pm
+Updated at 2020-10-28 12:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -6858,6 +6858,8 @@ Updated at 2020-10-28 12:08pm
   - [Notary Public in Redmond, WA: Cristal D. Southerland](https://www.notarydepot.com/cristalsoutherland)
 
   - [Notary Public in Suwanee, GA: Trinity Unlimited Resources](https://www.notarydepot.com/cristian343)
+
+  - [Notary Public in Kansas City, MO: Cristina Menard](https://www.notarydepot.com/cristina)
 
   - [Notary Public in Miami, FL: Cristina Paredes](https://www.notarydepot.com/cristinap)
 
