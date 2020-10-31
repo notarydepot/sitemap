@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-10-31 01:08pm
+Updated at 2020-10-31 01:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -5384,6 +5384,8 @@ Updated at 2020-10-31 01:08pm
   - [Notary Public in Chula Vista, CA: Lisa D. Pippen](https://www.notarydepot.com/anotaryonthego)
 
   - [Notary Public in Morgan City, LA: Rebecca L. Adams, CNSA](https://www.notarydepot.com/anotarytogo)
+
+  - [Notary Public in Everett, WA: Julie Smith](https://www.notarydepot.com/anotherjuliesmith)
 
   - [Notary Public in Bellmawr, NJ: Reginald Achilles](https://www.notarydepot.com/ans)
 
