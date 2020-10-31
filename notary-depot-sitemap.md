@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-10-31 02:28pm
+Updated at 2020-10-31 02:48pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -11479,7 +11479,7 @@ Updated at 2020-10-31 02:28pm
 
   - [Notary Public in Westminster, CO: Melissa](https://www.notarydepot.com/melissalynn)
 
-  - [Notary Public in Durham, NC: Melissa Ortega](https://www.notarydepot.com/melissaortega8)
+  - [Notary Public in Cary, NC: Melissa Ortega](https://www.notarydepot.com/melissaortega8)
 
   - [Notary Public in Southbridge, MA: Melody Beach](https://www.notarydepot.com/melody)
 
