@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-11-04 04:08pm
+Updated at 2020-11-04 04:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -8422,6 +8422,8 @@ Updated at 2020-11-04 04:08pm
   - [Notary Public in Oakland Park, FL: Gloriaivette Melendez](https://www.notarydepot.com/gmelendez)
 
   - [Notary Public in Marcus Hook, PA: Gerald M Geimer](https://www.notarydepot.com/gmgeimer)
+
+  - [Notary Public in Seattle, WA: Gabriel McTigue](https://www.notarydepot.com/gmnotary)
 
   - [Notary Public in Sarasota, FL: Yolanda Gaines](https://www.notarydepot.com/gmobilenotary)
 
