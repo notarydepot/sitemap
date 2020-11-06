@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-11-05 06:48pm
+Updated at 2020-11-05 07:08pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -6012,8 +6012,6 @@ Updated at 2020-11-05 06:48pm
   - [Notary Public in Riverside, CA: Cindy D. Hamilton](https://www.notarydepot.com/bootrell)
 
   - [Notary Public in Deltona, FL: Sarina Kelly](https://www.notarydepot.com/bosslady)
-
-  - [Notary Public in Nashville, TN: Lynn E Slusher](https://www.notarydepot.com/bossladynotary)
 
   - [Notary Public in La Marque, TX: Ceratha Henderson](https://www.notarydepot.com/bottomlinenotary)
 
