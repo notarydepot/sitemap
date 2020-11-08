@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-11-08 02:08pm
+Updated at 2020-11-08 02:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -15448,8 +15448,6 @@ Updated at 2020-11-08 02:08pm
   - [Notary Public in New Britain, CT: Antonio](https://www.notarydepot.com/torriola07)
 
   - [Notary Public in Casper, WY: Tosca Jones](https://www.notarydepot.com/toscab)
-
-  - [Notary Public in McDonough, GA: Jasmine Alexander](https://www.notarydepot.com/totalnotaryservices)
 
   - [Notary Public in Fishkill, NY: Trenton P Hall](https://www.notarydepot.com/tphall)
 
