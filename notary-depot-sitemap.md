@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-11-11 12:48am
+Updated at 2020-11-11 01:08am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -829,8 +829,6 @@ Updated at 2020-11-11 12:48am
     - [Notary Public in San Fernando, California](https://www.notarydepot.com/notary-near-me/California/San-Fernando)
   
     - [Notary Public in San Francisco, California](https://www.notarydepot.com/notary-near-me/California/San-Francisco)
-  
-    - [Notary Public in San Gabriel, California](https://www.notarydepot.com/notary-near-me/California/San-Gabriel)
   
     - [Notary Public in Sanger, California](https://www.notarydepot.com/notary-near-me/California/Sanger)
   
@@ -6317,7 +6315,7 @@ Updated at 2020-11-11 12:48am
 
   - [Notary Public in Wills Point, TX: Cathi Woods](https://www.notarydepot.com/cathiwoods)
 
-  - [Notary Public in San Gabriel, CA: Cathleen Mendoza](https://www.notarydepot.com/cathleennotary)
+  - [Notary Public in Whittier, CA: Cathleen Mendoza](https://www.notarydepot.com/cathleenthenotary)
 
   - [Notary Public in Lewiston, ID: Cathy D Choate](https://www.notarydepot.com/cathydcid)
 

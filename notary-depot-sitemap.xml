@@ -830,8 +830,6 @@
   
     <url><loc>https://www.notarydepot.com/notary-near-me/California/San-Francisco</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   
-    <url><loc>https://www.notarydepot.com/notary-near-me/California/San-Gabriel</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  
     <url><loc>https://www.notarydepot.com/notary-near-me/California/Sanger</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   
     <url><loc>https://www.notarydepot.com/notary-near-me/California/San-Jacinto</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
@@ -6316,7 +6314,7 @@
 
   <url><loc>https://www.notarydepot.com/cathiwoods</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
 
-  <url><loc>https://www.notarydepot.com/cathleennotary</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.notarydepot.com/cathleenthenotary</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
 
   <url><loc>https://www.notarydepot.com/cathydcid</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
 
