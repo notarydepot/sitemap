@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-11-13 06:08am
+Updated at 2020-11-13 06:28am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -8175,7 +8175,7 @@ Updated at 2020-11-13 06:08am
 
   - [Notary Public in Naples, FL: Debra Bondi](https://www.notarydepot.com/fourteenkarat)
 
-  - [Notary Public in Livermore, CA: Tawny Kotla](https://www.notarydepot.com/foxytk30)
+  - [Notary Public in Fort Worth, TX: Tawny Lara](https://www.notarydepot.com/foxytk30)
 
   - [Notary Public in San Diego, CA: Franklin Price](https://www.notarydepot.com/fprice1)
 
