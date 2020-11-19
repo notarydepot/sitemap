@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-11-18 05:08pm
+Updated at 2020-11-18 05:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -5008,8 +5008,6 @@ Updated at 2020-11-18 05:08pm
   - [Notary Public in Redlands, CA: Angela Frame](https://www.notarydepot.com/ajframe)
 
   - [Notary Public in Corpus Christi, TX: Alfred Garza Jr](https://www.notarydepot.com/ajgarza)
-
-  - [Notary Public in Southfield, MI: Amanda Horne](https://www.notarydepot.com/ajhorne)
 
   - [Notary Public in Bedford, OH: Amanda Kashery](https://www.notarydepot.com/ajkashery)
 
