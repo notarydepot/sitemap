@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-11-19 05:28pm
+Updated at 2020-11-19 05:48pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -8773,7 +8773,7 @@ Updated at 2020-11-19 05:28pm
 
   - [Notary Public in Pleasanton, CA: Helen Wardale](https://www.notarydepot.com/hwardale)
 
-  - [Notary Public in Stockbridge, GA: Brandi Hyche ](https://www.notarydepot.com/hychemobilenotary)
+  - [Notary Public in Washington, DC: Diana Lane](https://www.notarydepot.com/hychemobilenotary)
 
   - [Notary Public in Lincolnton, NC: Casey Hylton](https://www.notarydepot.com/hyltoncasey)
 
