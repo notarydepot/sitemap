@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-11-19 06:48pm
+Updated at 2020-11-19 07:08pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -11972,8 +11972,6 @@ Updated at 2020-11-19 06:48pm
   - [Notary Public in Houston, TX: Marie Deal](https://www.notarydepot.com/mrguidry)
 
   - [Notary Public in Atlanta, GA: Dayle A Hazel](https://www.notarydepot.com/mrhazel)
-
-  - [Notary Public in Milford Mill, MD: Michael T Rice Jr](https://www.notarydepot.com/mrice)
 
   - [Notary Public in Glendale, AZ: Mary Riley](https://www.notarydepot.com/mriley55)
 
