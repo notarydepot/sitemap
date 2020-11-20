@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-11-20 02:48pm
+Updated at 2020-11-20 03:08pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -10198,8 +10198,6 @@ Updated at 2020-11-20 02:48pm
   - [Notary Public in Bakersfield, CA: Kindra Hill](https://www.notarydepot.com/kindra79)
 
   - [Notary Public in Bowie, MD: Kelly Gates](https://www.notarydepot.com/kingdomcare)
-
-  - [Notary Public in Damascus, OR: Andrea L. Kinkead](https://www.notarydepot.com/kinkeadla)
 
   - [Notary Public in Bellwood, IL: Michael R. Smith](https://www.notarydepot.com/kipniss)
 
