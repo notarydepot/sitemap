@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-11-24 04:28pm
+Updated at 2020-11-24 04:48pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -9566,8 +9566,6 @@ Updated at 2020-11-24 04:28pm
   - [Notary Public in Canby, OR: Jennie Schroder](https://www.notarydepot.com/joelle98)
 
   - [Notary Public in North Wildwood, NJ: Joel Rivera](https://www.notarydepot.com/joelnotary)
-
-  - [Notary Public in Harrisburg, PA: Joel Vargas](https://www.notarydepot.com/joelvargaspanotary)
 
   - [Notary Public in Anaheim, CA: Johanna DeWitt](https://www.notarydepot.com/johannadewitt)
 
