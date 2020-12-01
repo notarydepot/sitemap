@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-12-01 03:48am
+Updated at 2020-12-01 04:08am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -2318,6 +2318,8 @@ Updated at 2020-12-01 03:48am
     - [Notary Public in Weymouth, Massachusetts](https://www.notarydepot.com/notary-near-me/Massachusetts/Weymouth)
   
     - [Notary Public in Wilbraham, Massachusetts](https://www.notarydepot.com/notary-near-me/Massachusetts/Wilbraham)
+  
+    - [Notary Public in Williamstown, Massachusetts](https://www.notarydepot.com/notary-near-me/Massachusetts/Williamstown)
   
     - [Notary Public in Worcester, Massachusetts](https://www.notarydepot.com/notary-near-me/Massachusetts/Worcester)
   
@@ -14777,7 +14779,7 @@ Updated at 2020-12-01 03:48am
 
   - [Notary Public in Malaga, WA: Stacey Richard ](https://www.notarydepot.com/staceyrichard2323)
 
-  - [Notary Public in MA: Stacey Elin Rossi, Esq.](https://www.notarydepot.com/staceyrossi)
+  - [Notary Public in Williamstown, MA: Stacey Elin Rossi, Esq.](https://www.notarydepot.com/staceyrossi)
 
   - [Notary Public in Palm Desert, CA: Staci Kolbeck](https://www.notarydepot.com/stacikolbeck)
 
