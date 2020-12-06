@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-12-06 03:28pm
+Updated at 2020-12-06 03:48pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -73,6 +73,8 @@ Updated at 2020-12-06 03:28pm
     - [Notary Public in Arab, Alabama](https://www.notarydepot.com/notary-near-me/Alabama/Arab)
   
     - [Notary Public in Attalla, Alabama](https://www.notarydepot.com/notary-near-me/Alabama/Attalla)
+  
+    - [Notary Public in Bay Minette, Alabama](https://www.notarydepot.com/notary-near-me/Alabama/Bay-Minette)
   
     - [Notary Public in Bessemer, Alabama](https://www.notarydepot.com/notary-near-me/Alabama/Bessemer)
   
@@ -9996,6 +9998,8 @@ Updated at 2020-12-06 03:28pm
   - [Notary Public in Pembroke Pines, FL: Kay L. Lilly, Cert. Notary Signing Agent](https://www.notarydepot.com/kayllillycnsa)
 
   - [Notary Public in Eagle Point, OR: Kayla Renfro](https://www.notarydepot.com/kayrenfro)
+
+  - [Notary Public in Bay Minette, AL: Kayla Combs](https://www.notarydepot.com/kaysnotary)
 
   - [Notary Public in Jacksonville, FL: Kutera Lavette Smith](https://www.notarydepot.com/kaythenotary)
 
