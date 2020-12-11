@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-12-10 08:08pm
+Updated at 2020-12-10 08:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -15190,6 +15190,8 @@ Updated at 2020-12-10 08:08pm
   - [Notary Public in Mobile, AL: Carol Steele ](https://www.notarydepot.com/thebamanotary)
 
   - [Notary Public in Long Beach, CA: Ray Rothwell](https://www.notarydepot.com/thebeardednotary)
+
+  - [Notary Public in Phoenix, AZ: Beau Rightler](https://www.notarydepot.com/thebeardnotary)
 
   - [Notary Public in Moreno Valley, CA: Rita Bryan](https://www.notarydepot.com/thebestnotary)
 
