@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-12-24 05:48am
+Updated at 2020-12-24 06:08am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -6705,7 +6705,7 @@ Updated at 2020-12-24 05:48am
 
   - [Notary Public in Orangeburg, SC: Connie N. Portee](https://www.notarydepot.com/cnportee)
 
-  - [Notary Public in Broken Arrow, OK: Ms. Christine Oldham, BS, PMP](https://www.notarydepot.com/cnsa12)
+  - [Notary Public in Broken Arrow, OK: Ms. Christine Oldham, BS, PMPr](https://www.notarydepot.com/cnsa12)
 
   - [Notary Public in NY: Christina Giallombardo](https://www.notarydepot.com/cnsa215)
 
