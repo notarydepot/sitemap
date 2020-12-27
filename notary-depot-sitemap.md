@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-12-27 05:08am
+Updated at 2020-12-27 05:28am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -11955,7 +11955,7 @@ Updated at 2020-12-27 05:08am
 
   - [Notary Public in Los Angeles, CA: Maria Primushko](https://www.notarydepot.com/mprimushko)
 
-  - [Notary Public in Bay City, MI: Mary Jackson](https://www.notarydepot.com/mpsnotary)
+  - [Notary Public in Saginaw, MI: Mary Jackson](https://www.notarydepot.com/mpsnotary)
 
   - [Notary Public in Abingdon, MD: Mary P. Staron ~ Ltp](https://www.notarydepot.com/mpstaron)
 
