@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-12-27 12:08pm
+Updated at 2020-12-27 12:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -11580,6 +11580,8 @@ Updated at 2020-12-27 12:08pm
   - [Notary Public in Citrus Heights, CA: Michele Avila](https://www.notarydepot.com/micheleavila)
 
   - [Notary Public in Sharon, CT: Michele W. Pastre](https://www.notarydepot.com/michelect)
+
+  - [Notary Public in Grapevine, TX: Michele Daaé](https://www.notarydepot.com/micheled)
 
   - [Notary Public in Greencastle, PA: Michele Ellis](https://www.notarydepot.com/micheleellis)
 
