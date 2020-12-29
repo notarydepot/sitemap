@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2020-12-28 04:08pm
+Updated at 2020-12-28 04:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -11386,8 +11386,6 @@ Updated at 2020-12-28 04:08pm
   - [Notary Public in Olanta, SC: Melissa Capers, Certifed Notary](https://www.notarydepot.com/mcbless27)
 
   - [Notary Public in Limington, ME: Bonnie McCarthy](https://www.notarydepot.com/mccarthynotary)
-
-  - [Notary Public in Conroe, TX: John McDougall](https://www.notarydepot.com/mcdougallj)
 
   - [Notary Public in Los Angeles, CA: Keith McGruder](https://www.notarydepot.com/mcgruder)
 
