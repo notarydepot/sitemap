@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-01-06 01:28pm
+Updated at 2021-01-06 01:48pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -3141,6 +3141,8 @@ Updated at 2021-01-06 01:28pm
     - [Notary Public in Plainview, New York](https://www.notarydepot.com/notary-near-me/New-York/Plainview)
   
     - [Notary Public in Port Byron, New York](https://www.notarydepot.com/notary-near-me/New-York/Port-Byron)
+  
+    - [Notary Public in Poughkeepsie, New York](https://www.notarydepot.com/notary-near-me/New-York/Poughkeepsie)
   
     - [Notary Public in Randolph, New York](https://www.notarydepot.com/notary-near-me/New-York/Randolph)
   
@@ -11584,6 +11586,8 @@ Updated at 2021-01-06 01:28pm
   - [Notary Public in Greencastle, PA: Michele Ellis](https://www.notarydepot.com/micheleellis)
 
   - [Notary Public in Moss Beach, CA: Irina Bates](https://www.notarydepot.com/michelle)
+
+  - [Notary Public in Poughkeepsie, NY: Michelle Paolicelli](https://www.notarydepot.com/michelle2427)
 
   - [Notary Public in Hammonton, NJ: Michelle Morris](https://www.notarydepot.com/michelle9120)
 
