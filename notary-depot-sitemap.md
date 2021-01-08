@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-01-08 06:48am
+Updated at 2021-01-08 07:08am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -4680,8 +4680,6 @@ Updated at 2021-01-08 06:48am
     - [Notary Public in Norwalk, Wisconsin](https://www.notarydepot.com/notary-near-me/Wisconsin/Norwalk)
   
     - [Notary Public in Oshkosh, Wisconsin](https://www.notarydepot.com/notary-near-me/Wisconsin/Oshkosh)
-  
-    - [Notary Public in Reedsburg, Wisconsin](https://www.notarydepot.com/notary-near-me/Wisconsin/Reedsburg)
   
     - [Notary Public in River Falls, Wisconsin](https://www.notarydepot.com/notary-near-me/Wisconsin/River-Falls)
   
@@ -10298,8 +10296,6 @@ Updated at 2021-01-08 06:48am
   - [Notary Public in Noblesville, IN: Kerri Officer-Young](https://www.notarydepot.com/kofficer)
 
   - [Notary Public in Wenatchee, WA: Kori Stuber](https://www.notarydepot.com/kori)
-
-  - [Notary Public in Reedsburg, WI: Kara Olson Sullivan](https://www.notarydepot.com/kosullivanaway)
 
   - [Notary Public in Piqua, OH: Kristine Pence](https://www.notarydepot.com/kpence70)
 
