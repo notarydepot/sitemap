@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-01-10 08:28am
+Updated at 2021-01-10 08:48am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -12721,7 +12721,7 @@ Updated at 2021-01-10 08:28am
 
   - [Notary Public in San Juan Capistrano, CA: Sonja Varese](https://www.notarydepot.com/notarysonja)
 
-  - [Notary Public in Pelion, SC: Chadwick Moore](https://www.notarydepot.com/notarystation)
+  - [Notary Public in Vidalia, GA: Chadwick Moore](https://www.notarydepot.com/notarystation)
 
   - [Notary Public in Walnut, CA: Alyssia Grigsby](https://www.notarydepot.com/notarystogo)
 
