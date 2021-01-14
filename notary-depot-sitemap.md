@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-01-13 05:48pm
+Updated at 2021-01-13 06:08pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -12734,6 +12734,8 @@ Updated at 2021-01-13 05:48pm
   - [Notary Public in Loveland, OH: Tina Butler](https://www.notarydepot.com/notarytb)
 
   - [Notary Public in San Antonio, TX: Altan Kartaltepe](https://www.notarydepot.com/notarytexas911notarycom)
+
+  - [Notary Public in Jacksonville, FL: Ashley Postell](https://www.notarydepot.com/notaryties%40gmail.com)
 
   - [Notary Public in Clarksville, TN: Laticia Orocio](https://www.notarydepot.com/notarytish)
 
