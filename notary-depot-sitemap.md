@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-01-21 12:08pm
+Updated at 2021-01-21 12:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -11438,6 +11438,8 @@ Updated at 2021-01-21 12:08pm
   - [Notary Public in Fresno, CA: Andrea Medina](https://www.notarydepot.com/medinanotary)
 
   - [Notary Public in Santa Clara, CA: Meenakshi Certified Signing Agent    ](https://www.notarydepot.com/meenakshicertifiedloansigning)
+
+  - [Notary Public in Nashville, TN: Megan Phillips](https://www.notarydepot.com/megan)
 
   - [Notary Public in Fresno, CA: Jamie Davis](https://www.notarydepot.com/megan1)
 
