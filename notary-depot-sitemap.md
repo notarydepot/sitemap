@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-01-22 08:48pm
+Updated at 2021-01-22 09:08pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -4081,6 +4081,8 @@ Updated at 2021-01-22 08:48pm
   
     - [Notary Public in Hitchcock, Texas](https://www.notarydepot.com/notary-near-me/Texas/Hitchcock)
   
+    - [Notary Public in Hockley, Texas](https://www.notarydepot.com/notary-near-me/Texas/Hockley)
+  
     - [Notary Public in Houston, Texas](https://www.notarydepot.com/notary-near-me/Texas/Houston)
   
     - [Notary Public in Huffman, Texas](https://www.notarydepot.com/notary-near-me/Texas/Huffman)
@@ -7180,6 +7182,8 @@ Updated at 2021-01-22 08:48pm
   - [Notary Public in Phoenix, AZ: Deana Lowrance, Professional "Mobile" Signing Agent & Notary](https://www.notarydepot.com/deanaj)
 
   - [Notary Public in Hampton, VA: David E. Dean](https://www.notarydepot.com/deande)
+
+  - [Notary Public in Hockley, TX: DeAngela Scottt](https://www.notarydepot.com/deangela.notary)
 
   - [Notary Public in Rocky Point, NC: Deborah A. Newkirk](https://www.notarydepot.com/deb)
 
