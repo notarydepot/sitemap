@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-01-22 09:08pm
+Updated at 2021-01-22 09:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -7183,7 +7183,7 @@ Updated at 2021-01-22 09:08pm
 
   - [Notary Public in Hampton, VA: David E. Dean](https://www.notarydepot.com/deande)
 
-  - [Notary Public in Hockley, TX: DeAngela Scottt](https://www.notarydepot.com/deangela.notary)
+  - [Notary Public in Hockley, TX: DeAngela Scott](https://www.notarydepot.com/deangela.notary)
 
   - [Notary Public in Rocky Point, NC: Deborah A. Newkirk](https://www.notarydepot.com/deb)
 
