@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-01-23 10:08am
+Updated at 2021-01-23 10:28am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -6901,6 +6901,8 @@ Updated at 2021-01-23 10:08am
 
   - [Notary Public in Killeen, TX: Cynthia Smalls](https://www.notarydepot.com/csmallsnotary)
 
+  - [Notary Public in Austin, TX: Cruz S. Ornelas Jr.](https://www.notarydepot.com/csojr)
+
   - [Notary Public in San Jose, CA: Cheryl Staat](https://www.notarydepot.com/cstaat)
 
   - [Notary Public in Moreno Valley, CA: Charles G. Steinway](https://www.notarydepot.com/csteinway)
@@ -12924,8 +12926,6 @@ Updated at 2021-01-23 10:08am
   - [Notary Public in Lebanon, OR: Julia Harmon](https://www.notarydepot.com/oregonassistant2u)
 
   - [Notary Public in Half Moon Bay, CA: Mrs.Bates](https://www.notarydepot.com/orion)
-
-  - [Notary Public in Austin, TX: CS. Ornelas Jr.](https://www.notarydepot.com/ornelasnotaryservices)
 
   - [Notary Public in Kissimmee, FL: Robert L. Loos](https://www.notarydepot.com/orostar)
 
