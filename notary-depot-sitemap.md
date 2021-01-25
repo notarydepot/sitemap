@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-01-25 12:08am
+Updated at 2021-01-25 12:28am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -7046,6 +7046,8 @@ Updated at 2021-01-25 12:08am
   - [Notary Public in North Aurora, IL: Deborah Ann Otero](https://www.notarydepot.com/daotero)
 
   - [Notary Public in Fenton, MO: Deborah A Petersen](https://www.notarydepot.com/dar273)
+
+  - [Notary Public in Jacksonville, FL: dario michel](https://www.notarydepot.com/dariomichdba)
 
   - [Notary Public in La Vergne, TN: Angelique](https://www.notarydepot.com/darkangel75)
 
