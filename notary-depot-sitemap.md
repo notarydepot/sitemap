@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-01-27 07:48pm
+Updated at 2021-01-27 08:08pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -2587,6 +2587,8 @@ Updated at 2021-01-27 07:48pm
   
     - [Notary Public in Blue Springs, Missouri](https://www.notarydepot.com/notary-near-me/Missouri/Blue-Springs)
   
+    - [Notary Public in Butler, Missouri](https://www.notarydepot.com/notary-near-me/Missouri/Butler)
+  
     - [Notary Public in Cameron, Missouri](https://www.notarydepot.com/notary-near-me/Missouri/Cameron)
   
     - [Notary Public in Cape Girardeau, Missouri](https://www.notarydepot.com/notary-near-me/Missouri/Cape-Girardeau)
@@ -3856,8 +3858,6 @@ Updated at 2021-01-27 07:48pm
     - [Notary Public in Huron, South Dakota](https://www.notarydepot.com/notary-near-me/South-Dakota/Huron)
   
     - [Notary Public in Mount Vernon, South Dakota](https://www.notarydepot.com/notary-near-me/South-Dakota/Mount-Vernon)
-  
-    - [Notary Public in Sisseton, South Dakota](https://www.notarydepot.com/notary-near-me/South-Dakota/Sisseton)
   
     - [Notary Public in Wakonda, South Dakota](https://www.notarydepot.com/notary-near-me/South-Dakota/Wakonda)
   
@@ -8533,7 +8533,7 @@ Updated at 2021-01-27 07:48pm
 
   - [Notary Public in Grass Valley, CA: Anna M. Limme](https://www.notarydepot.com/gvnotary)
 
-  - [Notary Public in Sisseton, SD: Greg Weaver](https://www.notarydepot.com/gwemtp)
+  - [Notary Public in Butler, MO: Greg Weaver](https://www.notarydepot.com/gwemtp)
 
   - [Notary Public in Murrieta, CA: Karissa](https://www.notarydepot.com/g_w_loan_services)
 
