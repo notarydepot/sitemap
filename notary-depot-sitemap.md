@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-01-28 11:28am
+Updated at 2021-01-28 11:48am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -2523,6 +2523,8 @@ Updated at 2021-01-28 11:28am
     - [Notary Public in Brookhaven, Mississippi](https://www.notarydepot.com/notary-near-me/Mississippi/Brookhaven)
   
     - [Notary Public in Byram, Mississippi](https://www.notarydepot.com/notary-near-me/Mississippi/Byram)
+  
+    - [Notary Public in Canton, Mississippi](https://www.notarydepot.com/notary-near-me/Mississippi/Canton)
   
     - [Notary Public in Carriere, Mississippi](https://www.notarydepot.com/notary-near-me/Mississippi/Carriere)
   
@@ -12028,6 +12030,8 @@ Updated at 2021-01-28 11:28am
   - [Notary Public in Anaheim, CA: Natalie Draffen](https://www.notarydepot.com/msdraffen)
 
   - [Notary Public in New York, NY: Michael Senz](https://www.notarydepot.com/msenz)
+
+  - [Notary Public in Canton, MS: Ericka Travis](https://www.notarydepot.com/msetravis1%20)
 
   - [Notary Public in Beverly Hills, CA: Matthew Shamooil](https://www.notarydepot.com/mshamooil)
 
