@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-01-28 10:28pm
+Updated at 2021-01-28 10:48pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -8642,8 +8642,6 @@ Updated at 2021-01-28 10:28pm
   - [Notary Public in Cantonment, FL: Beverly Nichols](https://www.notarydepot.com/hcampers)
 
   - [Notary Public in Doerun, GA: Heidi Cannon](https://www.notarydepot.com/hcannonr)
-
-  - [Notary Public in Jonestown, TX: Trish Aikman](https://www.notarydepot.com/hcmn)
 
   - [Notary Public in Cedar Park, TX: Carlene Foley](https://www.notarydepot.com/hcnotary)
 
