@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-02-07 03:28pm
+Updated at 2021-02-07 03:48pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -6482,8 +6482,6 @@ Updated at 2021-02-07 03:28pm
   - [Notary Public in Waxhaw, NC: Chasity C Lee](https://www.notarydepot.com/chaschey)
 
   - [Notary Public in Saco, ME: Meissa Chason](https://www.notarydepot.com/chasonpaper)
-
-  - [Notary Public in Pittsburg, CA: Sindy Hatch](https://www.notarydepot.com/chatch)
 
   - [Notary Public in Upper Darby, PA: Crystal Hatcher-Edwards](https://www.notarydepot.com/chatcheredwards)
 
