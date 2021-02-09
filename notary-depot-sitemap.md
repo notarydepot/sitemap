@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-02-09 01:48pm
+Updated at 2021-02-09 02:08pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -1428,6 +1428,8 @@ Updated at 2021-02-09 01:48pm
     - [Notary Public in Poinciana, Florida](https://www.notarydepot.com/notary-near-me/Florida/Poinciana)
   
     - [Notary Public in Pompano Beach, Florida](https://www.notarydepot.com/notary-near-me/Florida/Pompano-Beach)
+  
+    - [Notary Public in Ponte Vedra Beach, Florida](https://www.notarydepot.com/notary-near-me/Florida/Ponte-Vedra-Beach)
   
     - [Notary Public in Port Charlotte, Florida](https://www.notarydepot.com/notary-near-me/Florida/Port-Charlotte)
   
@@ -14976,6 +14978,8 @@ Updated at 2021-02-09 01:48pm
   - [Notary Public in Knoxville, TN: Gregory A Swafford](https://www.notarydepot.com/swafford7)
 
   - [Notary Public in Williamson, NY: Shelley L. Walters](https://www.notarydepot.com/swalters2112)
+
+  - [Notary Public in Ponte Vedra Beach, FL: Thomas Swanson](https://www.notarydepot.com/swandog5890)
 
   - [Notary Public in Livermore, CA: Shahid E. Waseem](https://www.notarydepot.com/swaseem77)
 
