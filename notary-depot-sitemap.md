@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-02-08 04:48pm
+Updated at 2021-02-08 05:08pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -10168,8 +10168,6 @@ Updated at 2021-02-08 04:48pm
   - [Notary Public in Rifle, CO: Kim Baldwin NSA](https://www.notarydepot.com/kim)
 
   - [Notary Public in Ormond Beach, FL: Kim Bell](https://www.notarydepot.com/kimbellnotary)
-
-  - [Notary Public in Vacaville, CA: Kimberly Bell](https://www.notarydepot.com/kimberlybell)
 
   - [Notary Public in North Myrtle Beach, SC: Kimberly Paul](https://www.notarydepot.com/kimberlyp6)
 
