@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-02-10 03:08pm
+Updated at 2021-02-10 03:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -12639,7 +12639,7 @@ Updated at 2021-02-10 03:08pm
 
   - [Notary Public in Houston, TX: Meredith Beck](https://www.notarydepot.com/notarymeredith)
 
-  - [Notary Public in Tampa, FL: Vanessa White](https://www.notarydepot.com/notarymeservices)
+  - [Notary Public in Tampa, FL: Vanessa C](https://www.notarydepot.com/notarymeservices)
 
   - [Notary Public in Madison, WI: Michelle Kern](https://www.notarydepot.com/notarymichelle)
 
