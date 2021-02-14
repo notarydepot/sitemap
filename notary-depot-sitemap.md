@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-02-14 04:28am
+Updated at 2021-02-14 04:48am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -6907,7 +6907,7 @@ Updated at 2021-02-14 04:28am
 
   - [Notary Public in Killeen, TX: Cynthia Smalls](https://www.notarydepot.com/csmallsnotary)
 
-  - [Notary Public in Austin, TX: Cruz S. Ornelas Jr.](https://www.notarydepot.com/csojr)
+  - [Notary Public in Austin, TX: Cruz S Ornelas Jr](https://www.notarydepot.com/csojr)
 
   - [Notary Public in San Jose, CA: Cheryl Staat](https://www.notarydepot.com/cstaat)
 
