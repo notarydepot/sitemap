@@ -2790,8 +2790,6 @@
   
     <url><loc>https://www.notarydepot.com/notary-near-me/New-Jersey/Bound-Brook</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   
-    <url><loc>https://www.notarydepot.com/notary-near-me/New-Jersey/Bradley-Beach</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  
     <url><loc>https://www.notarydepot.com/notary-near-me/New-Jersey/Bridgeton</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   
     <url><loc>https://www.notarydepot.com/notary-near-me/New-Jersey/Bridgewater</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
@@ -2883,6 +2881,8 @@
     <url><loc>https://www.notarydepot.com/notary-near-me/New-Jersey/Mount-Holly</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   
     <url><loc>https://www.notarydepot.com/notary-near-me/New-Jersey/Mount-Olive-Township</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  
+    <url><loc>https://www.notarydepot.com/notary-near-me/New-Jersey/Neptune-City</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   
     <url><loc>https://www.notarydepot.com/notary-near-me/New-Jersey/Newark</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   

@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-02-16 04:48pm
+Updated at 2021-02-16 05:08pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -2790,8 +2790,6 @@ Updated at 2021-02-16 04:48pm
   
     - [Notary Public in Bound Brook, New Jersey](https://www.notarydepot.com/notary-near-me/New-Jersey/Bound-Brook)
   
-    - [Notary Public in Bradley Beach, New Jersey](https://www.notarydepot.com/notary-near-me/New-Jersey/Bradley-Beach)
-  
     - [Notary Public in Bridgeton, New Jersey](https://www.notarydepot.com/notary-near-me/New-Jersey/Bridgeton)
   
     - [Notary Public in Bridgewater, New Jersey](https://www.notarydepot.com/notary-near-me/New-Jersey/Bridgewater)
@@ -2883,6 +2881,8 @@ Updated at 2021-02-16 04:48pm
     - [Notary Public in Mount Holly, New Jersey](https://www.notarydepot.com/notary-near-me/New-Jersey/Mount-Holly)
   
     - [Notary Public in Mount Olive Township, New Jersey](https://www.notarydepot.com/notary-near-me/New-Jersey/Mount-Olive-Township)
+  
+    - [Notary Public in Neptune City, New Jersey](https://www.notarydepot.com/notary-near-me/New-Jersey/Neptune-City)
   
     - [Notary Public in Newark, New Jersey](https://www.notarydepot.com/notary-near-me/New-Jersey/Newark)
   
@@ -12877,7 +12877,7 @@ Updated at 2021-02-16 04:48pm
 
   - [Notary Public in Hallandale Beach, FL: Dimitri Burunchenko](https://www.notarydepot.com/odessit771)
 
-  - [Notary Public in Bradley Beach, NJ: Raymond Bowman](https://www.notarydepot.com/officerbman209)
+  - [Notary Public in Neptune City, NJ: Raymond Bowman](https://www.notarydepot.com/officerbman209)
 
   - [Notary Public in Midlothian, VA: Oscar Glover](https://www.notarydepot.com/ogcheckmate)
 
