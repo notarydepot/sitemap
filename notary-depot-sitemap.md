@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-02-17 08:28am
+Updated at 2021-02-17 08:48am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -14366,8 +14366,6 @@ Updated at 2021-02-17 08:28am
   - [Notary Public in Kansas City, MO: Sheila Gissentoner](https://www.notarydepot.com/sheelafox)
 
   - [Notary Public in Los Angeles, CA: Alex Mazahri](https://www.notarydepot.com/sheen69)
-
-  - [Notary Public in Los Angeles, CA: Alex Mazahri](https://www.notarydepot.com/sheen969)
 
   - [Notary Public in Des Moines, IA: Omar Colwell](https://www.notarydepot.com/sheiklic)
 
