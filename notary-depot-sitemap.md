@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-02-22 09:48pm
+Updated at 2021-02-22 10:08pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -13446,8 +13446,6 @@ Updated at 2021-02-22 09:48pm
   - [Notary Public in Grand Prairie, TX: Rachael Howell](https://www.notarydepot.com/raehowell)
 
   - [Notary Public in Miami, FL: Ashley Ragin](https://www.notarydepot.com/ragin84)
-
-  - [Notary Public in Fort Lauderdale, FL: T. Viena](https://www.notarydepot.com/rainbow1300)
 
   - [Notary Public in Las Vegas, NV: Reza S. Akhavan](https://www.notarydepot.com/rakhavan)
 
