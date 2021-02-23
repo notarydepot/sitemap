@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-02-23 10:28am
+Updated at 2021-02-23 10:48am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -3829,8 +3829,6 @@ Updated at 2021-02-23 10:28am
     - [Notary Public in Olanta, South Carolina](https://www.notarydepot.com/notary-near-me/South-Carolina/Olanta)
   
     - [Notary Public in Orangeburg, South Carolina](https://www.notarydepot.com/notary-near-me/South-Carolina/Orangeburg)
-  
-    - [Notary Public in Pageland, South Carolina](https://www.notarydepot.com/notary-near-me/South-Carolina/Pageland)
   
     - [Notary Public in Pawleys Island, South Carolina](https://www.notarydepot.com/notary-near-me/South-Carolina/Pawleys-Island)
   
@@ -9738,8 +9736,6 @@ Updated at 2021-02-23 10:28am
   - [Notary Public in Newburgh, NY: joanne Debellis](https://www.notarydepot.com/jsartoris)
 
   - [Notary Public in Valley Stream, NY: Jatanya Belnavis](https://www.notarydepot.com/jsbelnavis)
-
-  - [Notary Public in Pageland, SC: Jessica Blakeney](https://www.notarydepot.com/jsbnotarypublic90)
 
   - [Notary Public in Redding, CA: Jeff Scaggs](https://www.notarydepot.com/jscaggs)
 
