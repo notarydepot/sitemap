@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-02-28 02:08pm
+Updated at 2021-02-28 02:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -14880,8 +14880,6 @@ Updated at 2021-02-28 02:08pm
   - [Notary Public in La Vergne, TN: Sheila Thatcher](https://www.notarydepot.com/stnotary)
 
   - [Notary Public in West Chazy, NY: Carrie H. Stone](https://www.notarydepot.com/stoner)
-
-  - [Notary Public in Albany, OR: Dave Reddington](https://www.notarydepot.com/store3044)
 
   - [Notary Public in Chester, NJ: The Ups Store](https://www.notarydepot.com/store5497)
 
