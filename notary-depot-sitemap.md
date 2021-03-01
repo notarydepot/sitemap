@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-03-01 07:08am
+Updated at 2021-03-01 07:28am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -5227,7 +5227,7 @@ Updated at 2021-03-01 07:08am
 
   - [Notary Public in Spring Branch, TX: Anglenette Monroe](https://www.notarydepot.com/amonroe)
 
-  - [Notary Public in Seal Beach, CA: Angela Stuart](https://www.notarydepot.com/amstuart)
+  - [Notary Public in Huntington Beach, CA: Angela Stuart](https://www.notarydepot.com/amstuart)
 
   - [Notary Public in Pompano Beach, FL: Pamela Green](https://www.notarydepot.com/amtitlerep)
 
