@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-03-03 10:48am
+Updated at 2021-03-03 11:08am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -10600,8 +10600,6 @@ Updated at 2021-03-03 10:48am
   - [Notary Public in Woodville, FL: Lydia F. Burns, Cpa Cfe Cbm](https://www.notarydepot.com/lburns)
 
   - [Notary Public in Springfield, OR: Lee Caldwell](https://www.notarydepot.com/lcaldwell0320)
-
-  - [Notary Public in Southaven, MS: Laniese Clayton](https://www.notarydepot.com/lclayton)
 
   - [Notary Public in Tomball, TX: Lisa Cooper](https://www.notarydepot.com/lcooper)
 
