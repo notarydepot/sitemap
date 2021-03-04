@@ -9,6 +9,8 @@
 <url><loc>https://www.notarydepot.com/about</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
 <url><loc>https://www.notarydepot.com/contact</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
 
+  <url><loc>https://www.notarydepot.com/blog/judge-orders-new-election-after-78-percent-of-mail-in-ballots-found-invalid-notary-arrested</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+
   <url><loc>https://www.notarydepot.com/blog/coronavirus-covid-19-tips-for-notaries-public</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
 
   <url><loc>https://www.notarydepot.com/blog/marketing-your-notary-business-enter-the-digital-realm-2020-full-guide</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>

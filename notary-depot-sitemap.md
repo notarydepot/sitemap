@@ -1,12 +1,14 @@
 # Sitemap
 
-Updated at 2021-03-04 03:08pm
+Updated at 2021-03-04 03:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
 - [Notary Blog](https://www.notarydepot.com/blog)
 - [About Notary Depot](https://www.notarydepot.com/about)
 - [Contact Notary Depot](https://www.notarydepot.com/contact)
+
+  - [Judge Orders New Election After 78 Percent of Mail-In Ballots Found Invalid, Notary Arrested](https://www.notarydepot.com/blog/judge-orders-new-election-after-78-percent-of-mail-in-ballots-found-invalid-notary-arrested)
 
   - [COVID-19: Tips for Notaries Public](https://www.notarydepot.com/blog/coronavirus-covid-19-tips-for-notaries-public)
 
