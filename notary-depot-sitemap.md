@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-03-07 09:28pm
+Updated at 2021-03-07 09:48pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -14100,8 +14100,6 @@ Updated at 2021-03-07 09:28pm
   - [Notary Public in Temple City, CA: Sarah Spina](https://www.notarydepot.com/sarahjohn11)
 
   - [Notary Public in Mount Vernon, NY: Sarah Rushing](https://www.notarydepot.com/sarahrus)
-
-  - [Notary Public in Columbus, GA: Sarah Tindall](https://www.notarydepot.com/sarahtindall)
 
   - [Notary Public in Minneapolis, MN: Sara Shaw](https://www.notarydepot.com/sarashaw)
 
