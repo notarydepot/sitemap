@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-03-07 06:08pm
+Updated at 2021-03-07 06:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -2471,6 +2471,8 @@ Updated at 2021-03-07 06:08pm
     - [Notary Public in West Bloomfield Township, Michigan](https://www.notarydepot.com/notary-near-me/Michigan/West-Bloomfield-Township)
   
     - [Notary Public in Westland, Michigan](https://www.notarydepot.com/notary-near-me/Michigan/Westland)
+  
+    - [Notary Public in White Lake charter Township, Michigan](https://www.notarydepot.com/notary-near-me/Michigan/White-Lake-charter-Township)
   
     - [Notary Public in Whitmore Lake, Michigan](https://www.notarydepot.com/notary-near-me/Michigan/Whitmore-Lake)
   
@@ -15979,7 +15981,7 @@ Updated at 2021-03-07 06:08pm
 
   - [Notary Public in Crestview, FL: Adrian Winstead](https://www.notarydepot.com/winsteaa)
 
-  - [Notary Public in MI: Bonnie Jo Miller](https://www.notarydepot.com/wiseowl2111)
+  - [Notary Public in White Lake charter Township, MI: Bonnie Jo Miller](https://www.notarydepot.com/wiseowl)
 
   - [Notary Public in Worcester, MA: Adam P Pasquale](https://www.notarydepot.com/witnesspro)
 
