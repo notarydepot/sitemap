@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-03-11 10:28am
+Updated at 2021-03-11 10:48am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -5044,8 +5044,6 @@ Updated at 2021-03-11 10:28am
   - [Notary Public in San Antonio, TX: Texas 911 Notary.com](https://www.notarydepot.com/akartaltepe)
 
   - [Notary Public in Vallejo, CA: Akindele Carter](https://www.notarydepot.com/akindelec)
-
-  - [Notary Public in Hyattsville, MD: Olayinka Akinnagbe](https://www.notarydepot.com/akinnagbeyinka)
 
   - [Notary Public in Tucson, AZ: Audra Koerber](https://www.notarydepot.com/akoerber)
 
