@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-03-12 09:08am
+Updated at 2021-03-12 09:28am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -4554,8 +4554,6 @@ Updated at 2021-03-12 09:08am
     - [Notary Public in Lacey, Washington](https://www.notarydepot.com/notary-near-me/Washington/Lacey)
   
     - [Notary Public in Longview, Washington](https://www.notarydepot.com/notary-near-me/Washington/Longview)
-  
-    - [Notary Public in Lynden, Washington](https://www.notarydepot.com/notary-near-me/Washington/Lynden)
   
     - [Notary Public in Lynnwood, Washington](https://www.notarydepot.com/notary-near-me/Washington/Lynnwood)
   
@@ -15562,8 +15560,6 @@ Updated at 2021-03-12 09:08am
   - [Notary Public in NY: Gershom Mahon](https://www.notarydepot.com/turkey)
 
   - [Notary Public in NY: Gershom Mahon](https://www.notarydepot.com/turkeyne)
-
-  - [Notary Public in Lynden, WA: Evelyn M Turner](https://www.notarydepot.com/turnerevelyn)
 
   - [Notary Public in Shingle Springs, CA: Melissa Anne Billups](https://www.notarydepot.com/tvlmom1971)
 
