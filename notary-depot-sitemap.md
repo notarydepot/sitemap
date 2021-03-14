@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-03-13 10:08pm
+Updated at 2021-03-13 10:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -4175,6 +4175,8 @@ Updated at 2021-03-13 10:08pm
   
     - [Notary Public in North Richland Hills, Texas](https://www.notarydepot.com/notary-near-me/Texas/North-Richland-Hills)
   
+    - [Notary Public in Odessa, Texas](https://www.notarydepot.com/notary-near-me/Texas/Odessa)
+  
     - [Notary Public in Orange, Texas](https://www.notarydepot.com/notary-near-me/Texas/Orange)
   
     - [Notary Public in Palestine, Texas](https://www.notarydepot.com/notary-near-me/Texas/Palestine)
@@ -8238,6 +8240,8 @@ Updated at 2021-03-13 10:08pm
   - [Notary Public in Fort Stockton, TX: Michael Luna](https://www.notarydepot.com/fsnotary432)
 
   - [Notary Public in Lehigh Acres, FL: Gabriela Fuster](https://www.notarydepot.com/fustergabriela7)
+
+  - [Notary Public in Odessa, TX: Shelby Haynes](https://www.notarydepot.com/g6notaries)
 
   - [Notary Public in Amelia Court House, VA: Georgia Banks](https://www.notarydepot.com/gabanks2)
 
