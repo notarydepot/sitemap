@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-03-17 10:48am
+Updated at 2021-03-17 11:08am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -13707,7 +13707,7 @@ Updated at 2021-03-17 10:48am
 
   - [Notary Public in Ponca City, OK: Robin Abshire](https://www.notarydepot.com/rkabshire)
 
-  - [Notary Public in Fort Worth, TX: Regina Kennedy](https://www.notarydepot.com/rkennedy39)
+  - [Notary Public in Dallas, TX: Regina Kennedy](https://www.notarydepot.com/rkennedy39)
 
   - [Notary Public in Lynchburg, VA: Richard Kevin Paul](https://www.notarydepot.com/rkevinpaul)
 
