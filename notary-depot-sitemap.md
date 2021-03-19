@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-03-19 10:28am
+Updated at 2021-03-19 10:48am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -15,6 +15,8 @@ Updated at 2021-03-19 10:28am
   - [Marketing Your Notary Business [Enter The Digital Realm] 2020 Full Guide](https://www.notarydepot.com/blog/marketing-your-notary-business-enter-the-digital-realm-2020-full-guide)
 
   - [Notary Advice Part 2: Online Presence](https://www.notarydepot.com/blog/notary-advice-part-2-online-presence)
+
+  - [Why You Need to Hire an Appellate Specialist for Your Appeal](https://www.notarydepot.com/blog/why-you-need-to-hire-an-appellate-specialist-for-your-appeal)
 
   - [5 Powerful Tools to Grow Your Notary Business (2020 Digital Secrets)](https://www.notarydepot.com/blog/5-powerful-tools-to-grow-your-notary-business-2020-digital-secrets)
 
