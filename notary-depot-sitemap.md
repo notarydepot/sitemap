@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-03-19 04:28pm
+Updated at 2021-03-19 04:48pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -7776,8 +7776,6 @@ Updated at 2021-03-19 04:28pm
   - [Notary Public in Grayson, KY: Ralph Justice](https://www.notarydepot.com/ed41143)
 
   - [Notary Public in Broken Arrow, OK: Eddy Seabolt](https://www.notarydepot.com/eddy1)
-
-  - [Notary Public in Henrico, VA: Ebony DeLoatch](https://www.notarydepot.com/edeloatch23)
 
   - [Notary Public in Pompano Beach, FL: Edward Farlow](https://www.notarydepot.com/edfarlow)
 
