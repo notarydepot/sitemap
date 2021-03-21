@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-03-21 07:28am
+Updated at 2021-03-21 07:48am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -15240,8 +15240,6 @@ Updated at 2021-03-21 07:28am
   - [Notary Public in West Haverstraw, NY: Helen Hardeen](https://www.notarydepot.com/themobilenotary)
 
   - [Notary Public in Los Angeles, CA: Michelle Morgan](https://www.notarydepot.com/themorganstandard)
-
-  - [Notary Public in West Orange, NJ: Michelle McCrea](https://www.notarydepot.com/thenextdoornotary)
 
   - [Notary Public in Chester, NJ: Melanie B. Heit Rivellese](https://www.notarydepot.com/thenoblenotary)
 
