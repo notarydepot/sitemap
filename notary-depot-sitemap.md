@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-03-23 08:28am
+Updated at 2021-03-23 08:48am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -9078,8 +9078,6 @@ Updated at 2021-03-23 08:28am
   - [Notary Public in Pomona, CA: Janet Avila](https://www.notarydepot.com/jangris)
 
   - [Notary Public in Bernalillo, NM: Janice Dudley](https://www.notarydepot.com/janiced111)
-
-  - [Notary Public in Los Angeles, CA: Janice Ross](https://www.notarydepot.com/janicer)
 
   - [Notary Public in Goldendale, WA: Janine Overlie](https://www.notarydepot.com/janine2566)
 
