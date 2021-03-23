@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-03-22 11:08pm
+Updated at 2021-03-22 11:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -7196,8 +7196,6 @@ Updated at 2021-03-22 11:08pm
   - [Notary Public in Phoenix, AZ: Deana Lowrance, Professional "Mobile" Signing Agent & Notary](https://www.notarydepot.com/deanaj)
 
   - [Notary Public in Hampton, VA: David E. Dean](https://www.notarydepot.com/deande)
-
-  - [Notary Public in Hockley, TX: DeAngela Scott](https://www.notarydepot.com/deangela.notary)
 
   - [Notary Public in Rocky Point, NC: Deborah A. Newkirk](https://www.notarydepot.com/deb)
 
