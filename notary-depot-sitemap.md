@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-03-25 07:28am
+Updated at 2021-03-25 07:48am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -2571,8 +2571,6 @@ Updated at 2021-03-25 07:28am
     - [Notary Public in Ocean Springs, Mississippi](https://www.notarydepot.com/notary-near-me/Mississippi/Ocean-Springs)
   
     - [Notary Public in Olive Branch, Mississippi](https://www.notarydepot.com/notary-near-me/Mississippi/Olive-Branch)
-  
-    - [Notary Public in Pass Christian, Mississippi](https://www.notarydepot.com/notary-near-me/Mississippi/Pass-Christian)
   
     - [Notary Public in Pearl, Mississippi](https://www.notarydepot.com/notary-near-me/Mississippi/Pearl)
   
@@ -14462,8 +14460,6 @@ Updated at 2021-03-25 07:28am
   - [Notary Public in Sacramento, CA: Patricia Noren](https://www.notarydepot.com/signhere)
 
   - [Notary Public in San Antonio, TX: Hector G. Garza](https://www.notarydepot.com/signhere1)
-
-  - [Notary Public in Pass Christian, MS: Gayle Allen](https://www.notarydepot.com/signing4u)
 
   - [Notary Public in Alabaster, AL: Kimberly DeFilippis](https://www.notarydepot.com/signingagent2002)
 
