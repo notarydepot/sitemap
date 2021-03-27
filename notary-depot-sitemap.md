@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-03-27 10:08am
+Updated at 2021-03-27 10:28am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -4840,8 +4840,6 @@ Updated at 2021-03-27 10:08am
   - [Notary Public in Sterling, VA: Amy Tatusko](https://www.notarydepot.com/aatatusko)
 
   - [Notary Public in Gainesville, VA: Aatika Khattak](https://www.notarydepot.com/aatika)
-
-  - [Notary Public in Detroit, MI: Asia Wilson](https://www.notarydepot.com/aawn)
 
   - [Notary Public in Corona, CA: Glenda E. Finley](https://www.notarydepot.com/abacusaya)
 
