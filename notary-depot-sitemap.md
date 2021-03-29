@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-03-28 07:48pm
+Updated at 2021-03-28 08:08pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -3523,6 +3523,8 @@ Updated at 2021-03-28 07:48pm
   
     - [Notary Public in Union, Oregon](https://www.notarydepot.com/notary-near-me/Oregon/Union)
   
+    - [Notary Public in Vernonia, Oregon](https://www.notarydepot.com/notary-near-me/Oregon/Vernonia)
+  
     - [Notary Public in Woodburn, Oregon](https://www.notarydepot.com/notary-near-me/Oregon/Woodburn)
   
 
@@ -6100,6 +6102,8 @@ Updated at 2021-03-28 07:48pm
   - [Notary Public in North Port, FL: Bridget Bergeron](https://www.notarydepot.com/bridget50)
 
   - [Notary Public in Palmdale, CA: Bridgett Jones](https://www.notarydepot.com/bridgettsnotary)
+
+  - [Notary Public in Vernonia, OR: Heather Briggs](https://www.notarydepot.com/briggsthenotary)
 
   - [Notary Public in Ruskin, FL: Brigitte Roberts](https://www.notarydepot.com/brigitte7)
 
