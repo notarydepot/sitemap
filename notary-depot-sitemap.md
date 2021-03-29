@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-03-29 12:28pm
+Updated at 2021-03-29 12:48pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -10004,6 +10004,8 @@ Updated at 2021-03-29 12:28pm
   - [Notary Public in Chesapeake, VA: Karen D. Brown](https://www.notarydepot.com/kaybizz)
 
   - [Notary Public in Lowell, AR: Sharon Kay Gilzow](https://www.notarydepot.com/kaye08)
+
+  - [Notary Public in Margate, FL: Kevin Ellis](https://www.notarydepot.com/kaye11226)
 
   - [Notary Public in Pembroke Pines, FL: Kay L. Lilly, Cert. Notary Signing Agent](https://www.notarydepot.com/kayllillycnsa)
 
