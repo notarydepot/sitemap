@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-04-02 09:48am
+Updated at 2021-04-02 10:08am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -9718,6 +9718,8 @@ Updated at 2021-04-02 09:48am
   - [Notary Public in Cooper, TX: Jeannette Malburg](https://www.notarydepot.com/jrmalburg)
 
   - [Notary Public in Tenafly, NJ: Jack Roditi](https://www.notarydepot.com/jroditi)
+
+  - [Notary Public in Chapel Hill, NC: Joseph Ormond](https://www.notarydepot.com/jrormond)
 
   - [Notary Public in New Philadelphia, OH: Jason Rose](https://www.notarydepot.com/jrose77)
 
