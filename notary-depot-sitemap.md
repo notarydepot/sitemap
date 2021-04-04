@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-04-04 01:28pm
+Updated at 2021-04-04 01:48pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -11204,6 +11204,8 @@ Updated at 2021-04-04 01:28pm
   - [Notary Public in Fort Myers, FL: Mara L. Ramirez](https://www.notarydepot.com/maranotary)
 
   - [Notary Public in El Paso, TX: Gloria Gonzalez](https://www.notarydepot.com/maraygg)
+
+  - [Notary Public in Kissimmee, FL: Marcelino Montes](https://www.notarydepot.com/marcelino20)
 
   - [Notary Public in Lakewood, CA: Marcia Lewis](https://www.notarydepot.com/marcia)
 
