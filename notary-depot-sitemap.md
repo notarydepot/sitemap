@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-04-05 04:28pm
+Updated at 2021-04-05 04:48pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -11134,6 +11134,8 @@ Updated at 2021-04-05 04:28pm
   - [Notary Public in Titusville, FL: Maggie Ostergard](https://www.notarydepot.com/maggieost2)
 
   - [Notary Public in Titusville, FL: Maggie Ostergard](https://www.notarydepot.com/maggieost4428)
+
+  - [Notary Public in Seattle, WA: luizmaggiojr@gmail.com](https://www.notarydepot.com/maggiojr)
 
   - [Notary Public in DeLand, FL: Herbert L. Becker](https://www.notarydepot.com/magicweb)
 
