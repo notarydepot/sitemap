@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-04-05 06:08pm
+Updated at 2021-04-05 06:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -5140,8 +5140,6 @@ Updated at 2021-04-05 06:08pm
   - [Notary Public in Copiague, NY: Alan Murray](https://www.notarydepot.com/alnmurray)
 
   - [Notary Public in Beaverton, OR: Stephanie Belle](https://www.notarydepot.com/alohanotary)
-
-  - [Notary Public in Newport News, VA: Fatima Jones](https://www.notarydepot.com/alovelynotary)
 
   - [Notary Public in NY: Andrew Golub](https://www.notarydepot.com/alphabroker)
 
