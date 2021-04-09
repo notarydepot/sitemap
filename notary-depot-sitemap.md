@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-04-09 02:48pm
+Updated at 2021-04-09 03:08pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -14972,8 +14972,6 @@ Updated at 2021-04-09 02:48pm
   - [Notary Public in Knoxville, TN: Gregory A Swafford](https://www.notarydepot.com/swafford7)
 
   - [Notary Public in Williamson, NY: Shelley L. Walters](https://www.notarydepot.com/swalters2112)
-
-  - [Notary Public in Ponte Vedra Beach, FL: Thomas Swanson](https://www.notarydepot.com/swandog5890)
 
   - [Notary Public in Livermore, CA: Shahid E. Waseem](https://www.notarydepot.com/swaseem77)
 
