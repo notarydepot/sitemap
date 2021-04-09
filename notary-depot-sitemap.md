@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-04-09 03:08pm
+Updated at 2021-04-09 03:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -11952,6 +11952,8 @@ Updated at 2021-04-09 03:08pm
   - [Notary Public in Parsippany-Troy Hills, NJ: Luke Pernotto](https://www.notarydepot.com/mounttabornotary)
 
   - [Notary Public in Clearwater, FL: Donna J Moore, CNSA](https://www.notarydepot.com/mouseketeer53)
+
+  - [Notary Public in Melrose Park, IL: Sandra Gates](https://www.notarydepot.com/movilnotary)
 
   - [Notary Public in Fort Washington, MD: Maggie O. Westfield](https://www.notarydepot.com/mowest)
 
