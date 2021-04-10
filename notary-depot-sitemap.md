@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-04-10 12:28pm
+Updated at 2021-04-10 12:48pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -5456,8 +5456,6 @@ Updated at 2021-04-10 12:28pm
   - [Notary Public in Hattiesburg, MS: April ](https://www.notarydepot.com/arbnotary)
 
   - [Notary Public in Duncanville, TX: Angelita Haddock](https://www.notarydepot.com/arecoleh)
-
-  - [Notary Public in Downey, CA: Robert Pryor](https://www.notarydepot.com/aredubb)
 
   - [Notary Public in Nipomo, CA: Obdulia Arevalo](https://www.notarydepot.com/arevalo)
 
