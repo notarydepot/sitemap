@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-04-15 05:28pm
+Updated at 2021-04-15 05:48pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -8836,8 +8836,6 @@ Updated at 2021-04-15 05:28pm
   - [Notary Public in Granger, IN: Thomas J. Clemans](https://www.notarydepot.com/indiananotary)
 
   - [Notary Public in Port Hueneme, CA: Simone E Lewis](https://www.notarydepot.com/indianqueen)
-
-  - [Notary Public in Indianapolis, IN: Christine Bolanis Garner](https://www.notarydepot.com/indybeacon)
 
   - [Notary Public in Indianapolis, IN: Kristy Hensley](https://www.notarydepot.com/indynotary)
 
