@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-04-25 01:28pm
+Updated at 2021-04-25 01:48pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -6102,8 +6102,6 @@ Updated at 2021-04-25 01:28pm
   - [Notary Public in Ruskin, FL: Brigitte Roberts](https://www.notarydepot.com/brigitte7)
 
   - [Notary Public in Spokane, WA: Brian Brake](https://www.notarydepot.com/brijoe00)
-
-  - [Notary Public in Jacksonville, FL: Brittany V. Maye](https://www.notarydepot.com/brittanygrey)
 
   - [Notary Public in Kissimmee, FL: Denise Mclean](https://www.notarydepot.com/brmdjm)
 
