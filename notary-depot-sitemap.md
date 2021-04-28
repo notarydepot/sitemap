@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-04-28 08:08am
+Updated at 2021-04-28 08:28am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -8904,6 +8904,8 @@ Updated at 2021-04-28 08:08am
   - [Notary Public in Vista, CA: Annette Webb](https://www.notarydepot.com/itsawebb)
 
   - [Notary Public in Phoenix, AZ: Jennifer Hayes](https://www.notarydepot.com/itsnatalieanouk)
+
+  - [Notary Public in Chicago, IL: Brittany Abrams](https://www.notarydepot.com/itsnoted%20)
 
   - [Notary Public in Philadelphia, PA: Kim French](https://www.notarydepot.com/itspossible)
 
