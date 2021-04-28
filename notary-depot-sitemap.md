@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-04-28 08:48am
+Updated at 2021-04-28 09:08am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -12376,8 +12376,6 @@ Updated at 2021-04-28 08:48am
   - [Notary Public in Chesapeake, VA: Naté Spivey](https://www.notarydepot.com/nlsnotary)
 
   - [Notary Public in Glendale, AZ: Nancy Lopez](https://www.notarydepot.com/nltays)
-
-  - [Notary Public in Miami, FL: Nancy Mayea](https://www.notarydepot.com/nmayea)
 
   - [Notary Public in New London, CT: Niecy McCoy](https://www.notarydepot.com/nmccoy317)
 
