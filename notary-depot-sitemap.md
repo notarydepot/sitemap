@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-04-30 05:08am
+Updated at 2021-04-30 05:28am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -7949,7 +7949,7 @@ Updated at 2021-04-30 05:08am
 
   - [Notary Public in Los Angeles, CA: Erika D Colins](https://www.notarydepot.com/erikanotary)
 
-  - [Notary Public in Middletown, NY: Erika Rodriguez](https://www.notarydepot.com/erikaro27)
+  - [Notary Public in Middletown, NY: Erika C. Rodriguez](https://www.notarydepot.com/erikaro27)
 
   - [Notary Public in Arlington, TN: Erik Fischer](https://www.notarydepot.com/erikfischer)
 
