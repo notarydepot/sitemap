@@ -1686,6 +1686,8 @@
   
     <url><loc>https://www.notarydepot.com/notary-near-me/Idaho/Caldwell</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   
+    <url><loc>https://www.notarydepot.com/notary-near-me/Idaho/Eagle</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  
     <url><loc>https://www.notarydepot.com/notary-near-me/Idaho/Hayden</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   
     <url><loc>https://www.notarydepot.com/notary-near-me/Idaho/Idaho-Falls</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
@@ -15637,6 +15639,8 @@
   <url><loc>https://www.notarydepot.com/upstatenotaryservice</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
 
   <url><loc>https://www.notarydepot.com/urban</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+
+  <url><loc>https://www.notarydepot.com/ursula.morris</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
 
   <url><loc>https://www.notarydepot.com/us1notary</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
 
