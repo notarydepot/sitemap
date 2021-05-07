@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-05-07 08:08am
+Updated at 2021-05-07 08:28am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -15638,8 +15638,6 @@ Updated at 2021-05-07 08:08am
   - [Notary Public in Greenville, SC: Michael Breisch](https://www.notarydepot.com/upstatenotaryservice)
 
   - [Notary Public in Phoenixville, PA: Pamela Knight](https://www.notarydepot.com/urban)
-
-  - [Notary Public in Eagle, ID: Ursula Morris](https://www.notarydepot.com/ursula.morris)
 
   - [Notary Public in Boca Raton, FL: Daniel Lee ,NSA](https://www.notarydepot.com/us1notary)
 
