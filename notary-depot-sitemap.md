@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-05-11 04:49am
+Updated at 2021-05-11 05:08am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -2885,6 +2885,8 @@ Updated at 2021-05-11 04:49am
     - [Notary Public in Morristown, New Jersey](https://www.notarydepot.com/notary-near-me/New-Jersey/Morristown)
   
     - [Notary Public in Mount Holly, New Jersey](https://www.notarydepot.com/notary-near-me/New-Jersey/Mount-Holly)
+  
+    - [Notary Public in Mount Laurel Township, New Jersey](https://www.notarydepot.com/notary-near-me/New-Jersey/Mount-Laurel-Township)
   
     - [Notary Public in Mount Olive Township, New Jersey](https://www.notarydepot.com/notary-near-me/New-Jersey/Mount-Olive-Township)
   
@@ -6253,7 +6255,7 @@ Updated at 2021-05-11 04:49am
 
   - [Notary Public in Los Angeles, CA: Richard M Kentz](https://www.notarydepot.com/canyoucount123)
 
-  - [Notary Public in Washington Township, NJ: Capri Scott-Williams](https://www.notarydepot.com/capriwms1)
+  - [Notary Public in Mount Laurel Township, NJ: Capri Scott-Williams](https://www.notarydepot.com/capriwms1)
 
   - [Notary Public in Pomeroy, IA: Cara S. Rungo](https://www.notarydepot.com/cararungo)
 
