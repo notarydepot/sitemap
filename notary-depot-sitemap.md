@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-05-15 09:08am
+Updated at 2021-05-15 09:28am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -1202,6 +1202,8 @@ Updated at 2021-05-15 09:08am
     - [Notary Public in Cape Coral, Florida](https://www.notarydepot.com/notary-near-me/Florida/Cape-Coral)
   
     - [Notary Public in Casselberry, Florida](https://www.notarydepot.com/notary-near-me/Florida/Casselberry)
+  
+    - [Notary Public in Citra, Florida](https://www.notarydepot.com/notary-near-me/Florida/Citra)
   
     - [Notary Public in Clearwater, Florida](https://www.notarydepot.com/notary-near-me/Florida/Clearwater)
   
@@ -13008,8 +13010,6 @@ Updated at 2021-05-15 09:08am
   - [Notary Public in Jacksonville, FL: Elizabeth A. Bowen](https://www.notarydepot.com/paralegaletc)
 
   - [Notary Public in Orange, CA: Paramount Global Enterprises](https://www.notarydepot.com/paramo17)
-
-  - [Notary Public in Miami, FL: Marlene Gonzalez Pardo](https://www.notarydepot.com/pardwulf11)
 
   - [Notary Public in Orlando, FL: Angela Parker-Smith](https://www.notarydepot.com/parkertaxes)
 
