@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-05-18 04:08pm
+Updated at 2021-05-18 04:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -8792,8 +8792,6 @@ Updated at 2021-05-18 04:08pm
   - [Notary Public in Rushland, PA: Joy N Morgan](https://www.notarydepot.com/iamhappyjoy)
 
   - [Notary Public in Moreno Valley, CA: Irene Anderson](https://www.notarydepot.com/ianders411)
-
-  - [Notary Public in Urbandale, IA: Julie Sleep](https://www.notarydepot.com/ianotary)
 
   - [Notary Public in Laguna Vista, TX: Amy E. Robinson](https://www.notarydepot.com/ibisamy)
 
