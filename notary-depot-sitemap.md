@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-05-19 05:28pm
+Updated at 2021-05-19 05:48pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -15261,7 +15261,7 @@ Updated at 2021-05-19 05:28pm
 
   - [Notary Public in Clarendon, NC: Angela Thompson](https://www.notarydepot.com/thopson7285)
 
-  - [Notary Public in Houston, TX: Jaime Thomas](https://www.notarydepot.com/thr4ve)
+  - [Notary Public in Bryan, TX: Jaime Thomas](https://www.notarydepot.com/thr4ve)
 
   - [Notary Public in Roxboro, NC: Tiffany Yarboro](https://www.notarydepot.com/threewingedfury)
 
