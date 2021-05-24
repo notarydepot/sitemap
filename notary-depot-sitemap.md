@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-05-24 11:08am
+Updated at 2021-05-24 11:28am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -12602,6 +12602,8 @@ Updated at 2021-05-24 11:08am
   - [Notary Public in Jacksonville, FL: Joe Antonucci, CNSA](https://www.notarydepot.com/notaryjoe)
 
   - [Notary Public in Pembroke Pines, FL: Ukeme Ekpo-Hagewood](https://www.notarydepot.com/notarykeme)
+
+  - [Notary Public in Portsmouth, VA: KEESHA GILES-JONES](https://www.notarydepot.com/notarykgj)
 
   - [Notary Public in Los Angeles, CA: Howard K. Lee](https://www.notarydepot.com/notarykorean)
 
