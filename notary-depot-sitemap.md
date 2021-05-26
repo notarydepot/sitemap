@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-05-25 10:28pm
+Updated at 2021-05-25 10:48pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -15142,6 +15142,8 @@ Updated at 2021-05-25 10:28pm
   - [Notary Public in Charlotte, NC: Teresa E Samaniego](https://www.notarydepot.com/teresa2779)
 
   - [Notary Public in Greensboro, NC: Teresa Rowe - Certified, E & O Insurance](https://www.notarydepot.com/teresarowe)
+
+  - [Notary Public in Pueblo, CO: Teresa Villa](https://www.notarydepot.com/teresavia)
 
   - [Notary Public in Salem, OR: Teri Finch](https://www.notarydepot.com/terifinch)
 
