@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-05-26 10:28am
+Updated at 2021-05-26 10:48am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -8440,8 +8440,6 @@ Updated at 2021-05-26 10:28am
   - [Notary Public in Fremont, CA: S Gokalgandhi](https://www.notarydepot.com/gokalgandhi)
 
   - [Notary Public in NY: Dmitriy Pagul](https://www.notarydepot.com/goldenapplerealty)
-
-  - [Notary Public in Boynton Beach, FL: Terri T Golden](https://www.notarydepot.com/goldennotary)
 
   - [Notary Public in Lafayette, IN: KaSheena Wilbur](https://www.notarydepot.com/goldlinenotary)
 
