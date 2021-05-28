@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-05-28 01:08pm
+Updated at 2021-05-28 01:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -8235,6 +8235,8 @@ Updated at 2021-05-28 01:08pm
 
   - [Notary Public in Fort Stockton, TX: Michael Luna](https://www.notarydepot.com/fsnotary432)
 
+  - [Notary Public in San Ramon, CA: Yip Fun Lau](https://www.notarydepot.com/fun3048%40gmail.com)
+
   - [Notary Public in Lehigh Acres, FL: Gabriela Fuster](https://www.notarydepot.com/fustergabriela7)
 
   - [Notary Public in Amelia Court House, VA: Georgia Banks](https://www.notarydepot.com/gabanks2)
@@ -14498,8 +14500,6 @@ Updated at 2021-05-28 01:08pm
   - [Notary Public in Firebaugh, CA: Silvia Goodall](https://www.notarydepot.com/silviagoodall)
 
   - [Notary Public in Jacksonville, FL: William Simons](https://www.notarydepot.com/simons1953)
-
-  - [Notary Public in San Ramon, CA: Yip Fun Lau](https://www.notarydepot.com/simple8348gmailcom)
 
   - [Notary Public in Cadiz, KY: Karen Randels](https://www.notarydepot.com/simplelife2000)
 
