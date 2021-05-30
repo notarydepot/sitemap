@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-05-30 08:48am
+Updated at 2021-05-30 09:08am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -2518,6 +2518,8 @@ Updated at 2021-05-30 08:48am
     - [Notary Public in Moorhead, Minnesota](https://www.notarydepot.com/notary-near-me/Minnesota/Moorhead)
   
     - [Notary Public in Osseo, Minnesota](https://www.notarydepot.com/notary-near-me/Minnesota/Osseo)
+  
+    - [Notary Public in Ramsey, Minnesota](https://www.notarydepot.com/notary-near-me/Minnesota/Ramsey)
   
     - [Notary Public in Saint Paul, Minnesota](https://www.notarydepot.com/notary-near-me/Minnesota/Saint-Paul)
   
@@ -14002,6 +14004,8 @@ Updated at 2021-05-30 08:48am
   - [Notary Public in Houston, TX: Felicia Evans](https://www.notarydepot.com/salter123)
 
   - [Notary Public in Corpus Christi, TX: Zenaida Alvarez (Sandy)](https://www.notarydepot.com/salvarez)
+
+  - [Notary Public in Ramsey, MN: Samantha Long](https://www.notarydepot.com/samantha9532)
 
   - [Notary Public in South Portland, ME: Eva C. Sommer](https://www.notarydepot.com/samantha99)
 
