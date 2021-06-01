@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-05-31 07:08pm
+Updated at 2021-05-31 07:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -8571,7 +8571,7 @@ Updated at 2021-05-31 07:08pm
 
   - [Notary Public in West Melbourne, FL: Heather Sandvick](https://www.notarydepot.com/hambamcam)
 
-  - [Notary Public in Roanoke, VA: Byron Lee Hamlar](https://www.notarydepot.com/hamlarorg)
+  - [Notary Public in Roanoke, VA: Byron Hamlar](https://www.notarydepot.com/hamlarorg)
 
   - [Notary Public in Sapulpa, OK: Taylor ](https://www.notarydepot.com/hamm)
 
