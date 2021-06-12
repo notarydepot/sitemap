@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-06-12 07:48am
+Updated at 2021-06-12 08:08am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -7805,8 +7805,6 @@ Updated at 2021-06-12 07:48am
 
   - [Notary Public in Tucson, AZ: Enrique A. Gonzalez](https://www.notarydepot.com/egnotary)
 
-  - [Notary Public in Redford Charter Township, MI: Elizabeth Gilmore](https://www.notarydepot.com/egwalker)
-
   - [Notary Public in Acworth, GA: ERH-Rachele Harlin](https://www.notarydepot.com/eharlin)
 
   - [Notary Public in Germantown, MD: Evay Harvey](https://www.notarydepot.com/eharvey301)
@@ -8382,6 +8380,8 @@ Updated at 2021-06-12 07:48am
   - [Notary Public in Saddle Brook, NJ: Gilbert Haggar](https://www.notarydepot.com/gilgar2005)
 
   - [Notary Public in Chandlersville, OH: Sherry Gilkerson](https://www.notarydepot.com/gilkersonc)
+
+  - [Notary Public in Redford Charter Township, MI: Elizabeth Gilmore](https://www.notarydepot.com/gilmorens)
 
   - [Notary Public in De Leon Springs, FL: Linda Gilstrap](https://www.notarydepot.com/gilstrapls)
 
