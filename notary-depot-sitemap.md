@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-06-12 08:08am
+Updated at 2021-06-12 08:28am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -8381,8 +8381,6 @@ Updated at 2021-06-12 08:08am
 
   - [Notary Public in Chandlersville, OH: Sherry Gilkerson](https://www.notarydepot.com/gilkersonc)
 
-  - [Notary Public in Redford Charter Township, MI: Elizabeth Gilmore](https://www.notarydepot.com/gilmorens)
-
   - [Notary Public in De Leon Springs, FL: Linda Gilstrap](https://www.notarydepot.com/gilstrapls)
 
   - [Notary Public in New Lenox, IL: Gina Pettit](https://www.notarydepot.com/gina2404)
@@ -12410,6 +12408,8 @@ Updated at 2021-06-12 08:08am
   - [Notary Public in Piedmont, AL: Twyla Baggett](https://www.notarydepot.com/nokisi)
 
   - [Notary Public in Montclair, VA: Nolita Long](https://www.notarydepot.com/nolitanotary)
+
+  - [Notary Public in Detroit, MI: Elizabeth Gilmore](https://www.notarydepot.com/nomich)
 
   - [Notary Public in Woodland, CA: Deanna Petersen](https://www.notarydepot.com/norcalnsa)
 
