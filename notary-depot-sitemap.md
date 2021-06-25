@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-06-24 11:48pm
+Updated at 2021-06-25 12:08am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -9136,8 +9136,6 @@ Updated at 2021-06-24 11:48pm
   - [Notary Public in Arkadelphia, AR: Johnnie Dunn](https://www.notarydepot.com/jbdunn1)
 
   - [Notary Public in Cape Coral, FL: Julie A Bensel](https://www.notarydepot.com/jbensel)
-
-  - [Notary Public in Cape Coral, FL: Julie Anne Bensel](https://www.notarydepot.com/jbensel77)
 
   - [Notary Public in Batavia, OH: Jason Best](https://www.notarydepot.com/jbestcmn)
 
