@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-06-28 10:48am
+Updated at 2021-06-28 11:08am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -11410,6 +11410,8 @@ Updated at 2021-06-28 10:48am
   - [Notary Public in Rainbow City, AL: Miranda Kelley](https://www.notarydepot.com/mchurchill)
 
   - [Notary Public in Tulsa, OK: Douglas Mcgehee](https://www.notarydepot.com/mcnotary)
+
+  - [Notary Public in Lawrence, MA: Monique Cropper](https://www.notarydepot.com/mcropper)
 
   - [Notary Public in Mesa, AZ: Michael Cummings](https://www.notarydepot.com/mcummings0922)
 
