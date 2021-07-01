@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-07-01 01:28pm
+Updated at 2021-07-01 01:48pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -14081,7 +14081,7 @@ Updated at 2021-07-01 01:28pm
 
   - [Notary Public in Irvine, CA: Sandy Yuen](https://www.notarydepot.com/sannotaryirvine)
 
-  - [Notary Public in Santa Clara, CA: Dmitriy Skornyakov Certified Signing Agent](https://www.notarydepot.com/santaclaranotary)
+  - [Notary Public in Santa Clara, CA: Business closed ](https://www.notarydepot.com/santaclaranotary)
 
   - [Notary Public in Santa Rosa, CA: Michael Boler](https://www.notarydepot.com/santarosamobilenotary)
 
