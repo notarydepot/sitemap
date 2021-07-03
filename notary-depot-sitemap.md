@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-07-03 12:48pm
+Updated at 2021-07-03 01:08pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -12834,8 +12834,6 @@ Updated at 2021-07-03 12:48pm
   - [Notary Public in Plano, TX: Kimberly D. Murray](https://www.notarydepot.com/ntxmobilenotary)
 
   - [Notary Public in Richmond, VA: Shauna J Murrell](https://www.notarydepot.com/nuattitude)
-
-  - [Notary Public in Austin, TX: Denell Henefield](https://www.notarydepot.com/nubiannotary)
 
   - [Notary Public in San Antonio, TX: Sonja S. Koenig](https://www.notarydepot.com/nubianqueen08)
 
