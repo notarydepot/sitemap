@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-07-12 10:48pm
+Updated at 2021-07-12 11:08pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -10690,6 +10690,8 @@ Updated at 2021-07-12 10:48pm
   - [Notary Public in Summerville, SC: Leverne Palmer ](https://www.notarydepot.com/levernepalmer)
 
   - [Notary Public in Rochester Hills, MI: LaVerne Farmer](https://www.notarydepot.com/lfarmer100)
+
+  - [Notary Public in Arlington, VA: Lytanja Fields](https://www.notarydepot.com/lfields81)
 
   - [Notary Public in Saint Martinville, LA: Lisa](https://www.notarydepot.com/lgeorge)
 
