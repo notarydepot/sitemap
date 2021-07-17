@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-07-17 08:08am
+Updated at 2021-07-17 08:28am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -10388,6 +10388,8 @@ Updated at 2021-07-17 08:08am
   - [Notary Public in Chicago, IL: Kuldeep Awasthi](https://www.notarydepot.com/kuldeep)
 
   - [Notary Public in Kennedale, TX: Kathy Wade](https://www.notarydepot.com/kvwade)
+
+  - [Notary Public in Rock Hill, SC: Kwantina Hunter](https://www.notarydepot.com/kwantinah)
 
   - [Notary Public in Greensboro, NC: Kim W Case](https://www.notarydepot.com/kwcase)
 
