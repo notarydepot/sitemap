@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-07-25 10:08am
+Updated at 2021-07-25 10:28am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -6836,8 +6836,6 @@ Updated at 2021-07-25 10:08am
   - [Notary Public in Mililani, HI: Claire Pilar](https://www.notarydepot.com/cpilar6789)
 
   - [Notary Public in Los Angeles, CA: Catherine Pitman](https://www.notarydepot.com/cpitman)
-
-  - [Notary Public in Chicago, IL: Carrie Rivera](https://www.notarydepot.com/cpns5865)
 
   - [Notary Public in Katy, TX: Carolyn A. Powell](https://www.notarydepot.com/cpowell12)
 
