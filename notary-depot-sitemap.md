@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-07-29 03:48am
+Updated at 2021-07-29 04:08am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -6135,7 +6135,7 @@ Updated at 2021-07-29 03:48am
 
   - [Notary Public in Cañon City, CO: Bruce M. Buffington](https://www.notarydepot.com/brucebuffington)
 
-  - [Notary Public in Scottsdale, AZ: Barbara Rusden, Certified w/Passing Background Screening](https://www.notarydepot.com/brusden)
+  - [Notary Public in Phoenix, AZ: Barbara Rusden, Certified w/Passing Background Screening](https://www.notarydepot.com/brusden)
 
   - [Notary Public in Richmond, VA: Sherri L. Bryant](https://www.notarydepot.com/bryntstoys)
 
