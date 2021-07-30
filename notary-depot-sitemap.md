@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-07-30 08:08am
+Updated at 2021-07-30 08:28am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -14004,8 +14004,6 @@ Updated at 2021-07-30 08:08am
   - [Notary Public in Houston, TX: Felicia Evans](https://www.notarydepot.com/salter123)
 
   - [Notary Public in Corpus Christi, TX: Zenaida Alvarez (Sandy)](https://www.notarydepot.com/salvarez)
-
-  - [Notary Public in Ramsey, MN: Samantha Long](https://www.notarydepot.com/samantha9532)
 
   - [Notary Public in South Portland, ME: Eva C. Sommer](https://www.notarydepot.com/samantha99)
 
