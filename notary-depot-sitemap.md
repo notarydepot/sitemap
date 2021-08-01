@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-08-01 01:48pm
+Updated at 2021-08-01 02:08pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -1966,8 +1966,6 @@ Updated at 2021-08-01 01:48pm
     - [Notary Public in Charles City, Iowa](https://www.notarydepot.com/notary-near-me/Iowa/Charles-City)
   
     - [Notary Public in Clive, Iowa](https://www.notarydepot.com/notary-near-me/Iowa/Clive)
-  
-    - [Notary Public in Coralville, Iowa](https://www.notarydepot.com/notary-near-me/Iowa/Coralville)
   
     - [Notary Public in Davenport, Iowa](https://www.notarydepot.com/notary-near-me/Iowa/Davenport)
   
@@ -14570,8 +14568,6 @@ Updated at 2021-08-01 01:48pm
   - [Notary Public in Clarkdale, AZ: Stephanie Ferguson](https://www.notarydepot.com/skferguson)
 
   - [Notary Public in Las Vegas, NV: Anna](https://www.notarydepot.com/skittlebadu)
-
-  - [Notary Public in Coralville, IA: Robby Elgin](https://www.notarydepot.com/skoool)
 
   - [Notary Public in Riverbank, CA: Skp & Company](https://www.notarydepot.com/skpcompany)
 
