@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-08-04 03:48pm
+Updated at 2021-08-04 04:08pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -7968,8 +7968,6 @@ Updated at 2021-08-04 03:48pm
   - [Notary Public in El Paso, TX: Wanda Sanchez](https://www.notarydepot.com/erqueenwanda)
 
   - [Notary Public in Tulsa, OK: Eryn Strapac](https://www.notarydepot.com/erynstrapac)
-
-  - [Notary Public in Wellington, CO: Nathan Josey](https://www.notarydepot.com/esa2020)
 
   - [Notary Public in Fort Lauderdale, FL: Elvira Santana](https://www.notarydepot.com/esantana)
 
