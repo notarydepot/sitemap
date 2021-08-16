@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-08-16 11:48am
+Updated at 2021-08-16 12:08pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -1629,6 +1629,8 @@ Updated at 2021-08-16 11:48am
     - [Notary Public in McDonough, Georgia](https://www.notarydepot.com/notary-near-me/Georgia/McDonough)
   
     - [Notary Public in Milledgeville, Georgia](https://www.notarydepot.com/notary-near-me/Georgia/Milledgeville)
+  
+    - [Notary Public in Monroe, Georgia](https://www.notarydepot.com/notary-near-me/Georgia/Monroe)
   
     - [Notary Public in Newnan, Georgia](https://www.notarydepot.com/notary-near-me/Georgia/Newnan)
   
@@ -7176,6 +7178,8 @@ Updated at 2021-08-16 11:48am
   - [Notary Public in Locust Grove, VA: Diane Nichols](https://www.notarydepot.com/dcnichols15)
 
   - [Notary Public in San Marcos, CA: Deanna Console](https://www.notarydepot.com/dconsole)
+
+  - [Notary Public in Monroe, GA: LaVivian Bridges](https://www.notarydepot.com/dcs)
 
   - [Notary Public in Portsmouth, VA: Don Cuffy Ii](https://www.notarydepot.com/dcuffy)
 
