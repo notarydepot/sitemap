@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-08-16 05:08pm
+Updated at 2021-08-16 05:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -6098,8 +6098,6 @@ Updated at 2021-08-16 05:08pm
   - [Notary Public in Fairburn, GA: Georgia Attorney Closers](https://www.notarydepot.com/briandpoe)
 
   - [Notary Public in Tavares, FL: Brian Gruss](https://www.notarydepot.com/briangruss)
-
-  - [Notary Public in Philadelphia, PA: Brianna Ramsey ](https://www.notarydepot.com/briannaj)
 
   - [Notary Public in Miami, FL: brickell notary](https://www.notarydepot.com/brickell_notary)
 
