@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-08-18 05:08am
+Updated at 2021-08-18 05:28am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -8543,7 +8543,7 @@ Updated at 2021-08-18 05:08am
 
   - [Notary Public in Richardson, TX: Glenda Y. Roberts](https://www.notarydepot.com/gyroberts)
 
-  - [Notary Public in DeLand, FL: Diana Lynn Tafoya](https://www.notarydepot.com/h1962)
+  - [Notary Public in DeLand, FL: Diana Lynn Tafoya(MobileNotary)](https://www.notarydepot.com/h1962)
 
   - [Notary Public in Pasadena, CA: Hauoli Smith](https://www.notarydepot.com/h20kanewa)
 
