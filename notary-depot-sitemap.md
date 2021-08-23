@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-08-23 11:28am
+Updated at 2021-08-23 11:48am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -165,6 +165,8 @@ Updated at 2021-08-23 11:28am
     - [Notary Public in Springville, Alabama](https://www.notarydepot.com/notary-near-me/Alabama/Springville)
   
     - [Notary Public in Sterrett, Alabama](https://www.notarydepot.com/notary-near-me/Alabama/Sterrett)
+  
+    - [Notary Public in Trinity, Alabama](https://www.notarydepot.com/notary-near-me/Alabama/Trinity)
   
     - [Notary Public in Tuscaloosa, Alabama](https://www.notarydepot.com/notary-near-me/Alabama/Tuscaloosa)
   
@@ -6958,6 +6960,8 @@ Updated at 2021-08-23 11:28am
   - [Notary Public in Park Hills, MO: Candice Weedman](https://www.notarydepot.com/cweedman)
 
   - [Notary Public in Rathdrum, ID: Candee Wilfong](https://www.notarydepot.com/cwilfong)
+
+  - [Notary Public in Trinity, AL: Candace Winchester ](https://www.notarydepot.com/cwinchesteralnotary)
 
   - [Notary Public in St. Petersburg, FL: Charlene Worrell](https://www.notarydepot.com/cwnotary)
 
