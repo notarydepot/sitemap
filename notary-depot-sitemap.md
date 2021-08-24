@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-08-24 09:08am
+Updated at 2021-08-24 09:28am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -12828,8 +12828,6 @@ Updated at 2021-08-24 09:08am
   - [Notary Public in Montrose, AL: Necole Snider](https://www.notarydepot.com/nsnider1970)
 
   - [Notary Public in San Jose, CA: Kim Nguyen, Certified Signing Agent/Mobile Notary](https://www.notarydepot.com/nstenterprises)
-
-  - [Notary Public in Houston, TX: Natasha Walker](https://www.notarydepot.com/nswalker)
 
   - [Notary Public in Plano, TX: Kimberly D. Murray](https://www.notarydepot.com/ntxmobilenotary)
 
