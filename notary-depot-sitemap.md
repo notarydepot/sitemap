@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-08-25 07:08am
+Updated at 2021-08-25 07:28am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -4356,8 +4356,6 @@ Updated at 2021-08-25 07:08am
   
     - [Notary Public in Blue Ridge, Virginia](https://www.notarydepot.com/notary-near-me/Virginia/Blue-Ridge)
   
-    - [Notary Public in Bracey, Virginia](https://www.notarydepot.com/notary-near-me/Virginia/Bracey)
-  
     - [Notary Public in Bristol, Virginia](https://www.notarydepot.com/notary-near-me/Virginia/Bristol)
   
     - [Notary Public in Bristow, Virginia](https://www.notarydepot.com/notary-near-me/Virginia/Bristow)
@@ -7277,8 +7275,6 @@ Updated at 2021-08-25 07:08am
 
   - [Notary Public in Madison, WI: Frank Pabon](https://www.notarydepot.com/defroady)
 
-  - [Notary Public in Bracey, VA: Denise Johnson](https://www.notarydepot.com/dej)
-
   - [Notary Public in North Royalton, OH: Duane Lewis](https://www.notarydepot.com/delewis2)
 
   - [Notary Public in Troy, TX: Delia Driscoll](https://www.notarydepot.com/deliadri)
@@ -7454,8 +7450,6 @@ Updated at 2021-08-25 07:08am
   - [Notary Public in New Castle, PA: Dennis L. Thompson](https://www.notarydepot.com/djdennist)
 
   - [Notary Public in Saint Cloud, FL: Deborah Haughton](https://www.notarydepot.com/djhaughton)
-
-  - [Notary Public in Bracey, VA: Denise Johnson, Notary Public](https://www.notarydepot.com/djmobilenotary)
 
   - [Notary Public in Galt, CA: Denise Mulhern](https://www.notarydepot.com/djmulhern09)
 
