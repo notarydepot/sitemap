@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-09-02 10:08am
+Updated at 2021-09-02 10:28am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -12139,7 +12139,7 @@ Updated at 2021-09-02 10:08am
 
   - [Notary Public in Jacksonville, NC: Tia L LaRock](https://www.notarydepot.com/mynotarybusiness)
 
-  - [Notary Public in Huntington Beach, CA: Mary Elton](https://www.notarydepot.com/mynotarypro)
+  - [Notary Public in Huntington Beach, CA: Mary Pronotary](https://www.notarydepot.com/mynotarypro)
 
   - [Notary Public in Raleigh, NC: Sonya Lassiter](https://www.notarydepot.com/myonlynotary)
 
