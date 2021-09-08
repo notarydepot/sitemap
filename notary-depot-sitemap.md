@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-09-08 08:28am
+Updated at 2021-09-08 08:48am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -11123,7 +11123,7 @@ Updated at 2021-09-08 08:28am
 
   - [Notary Public in West Babylon, NY: Margaret A. Barker](https://www.notarydepot.com/maggie628)
 
-  - [Notary Public in West Fargo, ND: Kosak Mobile Notary & Loan Signing](https://www.notarydepot.com/maggiemae)
+  - [Notary Public in West Fargo, ND: Myra A. Kosak](https://www.notarydepot.com/maggiemae)
 
   - [Notary Public in Titusville, FL: Maggie Ostergard](https://www.notarydepot.com/maggieost2)
 
