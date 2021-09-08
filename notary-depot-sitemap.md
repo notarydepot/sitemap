@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-09-07 07:28pm
+Updated at 2021-09-07 07:48pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -8606,6 +8606,8 @@ Updated at 2021-09-07 07:28pm
   - [Notary Public in Rock Hill, SC: Harry Mahan](https://www.notarydepot.com/harry13)
 
   - [Notary Public in Cleveland, TN: Harry D Williams](https://www.notarydepot.com/harryd)
+
+  - [Notary Public in Vallejo, CA: Robin Harvey](https://www.notarydepot.com/harveymn21)
 
   - [Notary Public in Los Angeles, CA: Hasmik Kanataryan](https://www.notarydepot.com/hasmik)
 
