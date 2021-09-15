@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-09-14 05:08pm
+Updated at 2021-09-14 05:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -757,8 +757,6 @@ Updated at 2021-09-14 05:08pm
     - [Notary Public in Petaluma, California](https://www.notarydepot.com/notary-near-me/California/Petaluma)
   
     - [Notary Public in Phelan, California](https://www.notarydepot.com/notary-near-me/California/Phelan)
-  
-    - [Notary Public in Pinole, California](https://www.notarydepot.com/notary-near-me/California/Pinole)
   
     - [Notary Public in Pittsburg, California](https://www.notarydepot.com/notary-near-me/California/Pittsburg)
   
@@ -14813,7 +14811,7 @@ Updated at 2021-09-14 05:08pm
 
   - [Notary Public in Berkley, MI: Wanda Faye Tolbert](https://www.notarydepot.com/starnotary)
 
-  - [Notary Public in Pinole, CA: Claudia Horton](https://www.notarydepot.com/starservicenotary)
+  - [Notary Public in Austin, TX: Claudia Horton](https://www.notarydepot.com/starservicenotary)
 
   - [Notary Public in Oklahoma City, OK: Peggy Brown](https://www.notarydepot.com/starz)
 
