@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-09-15 07:48pm
+Updated at 2021-09-15 08:08pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -14810,8 +14810,6 @@ Updated at 2021-09-15 07:48pm
   - [Notary Public in Oakland, CA: Sandra Tarango](https://www.notarydepot.com/starango)
 
   - [Notary Public in Berkley, MI: Wanda Faye Tolbert](https://www.notarydepot.com/starnotary)
-
-  - [Notary Public in Austin, TX: Claudia Horton](https://www.notarydepot.com/starservicenotary)
 
   - [Notary Public in Oklahoma City, OK: Peggy Brown](https://www.notarydepot.com/starz)
 
