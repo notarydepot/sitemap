@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-09-26 10:48am
+Updated at 2021-09-26 11:08am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -15932,8 +15932,6 @@ Updated at 2021-09-26 10:48am
   - [Notary Public in Stewartstown, NH: Cindy M. Dorman](https://www.notarydepot.com/whistlingbrz)
 
   - [Notary Public in Traverse City, MI: A Notary Direct 2 U](https://www.notarydepot.com/whitestache)
-
-  - [Notary Public in Morristown, TN: Whitney Macaulay](https://www.notarydepot.com/whitney)
 
   - [Notary Public in Lake Charles, LA: Candice Menard](https://www.notarydepot.com/whodat)
 
