@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-09-27 06:08am
+Updated at 2021-09-27 06:28am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -12108,8 +12108,6 @@ Updated at 2021-09-27 06:08am
   - [Notary Public in Pensacola, FL: Mary D Weaver](https://www.notarydepot.com/mweaver1131)
 
   - [Notary Public in St. Augustine, FL: Melissa Weekley](https://www.notarydepot.com/mweek01)
-
-  - [Notary Public in Fort Mitchell, AL: Millicent Whyte](https://www.notarydepot.com/mwhyte)
 
   - [Notary Public in Rohnert Park, CA: Mel Wilemon](https://www.notarydepot.com/mwilemon)
 
