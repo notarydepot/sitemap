@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-10-02 05:28am
+Updated at 2021-10-02 05:48am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -4826,6 +4826,8 @@ Updated at 2021-10-02 05:28am
   - [Notary Public in San Mateo, CA: Henry Him](https://www.notarydepot.com/88yenom88)
 
   - [Notary Public in Colton, CA: Javier Gomez](https://www.notarydepot.com/909notary)
+
+  - [Notary Public in Clarksville, TN: Kinshasa Burgess, Notary Public](https://www.notarydepot.com/931notary)
 
   - [Notary Public in Saranac Lake, NY: Joanne Bevilacqua](https://www.notarydepot.com/93corvette)
 
