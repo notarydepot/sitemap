@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-10-03 02:08pm
+Updated at 2021-10-03 02:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -15440,8 +15440,6 @@ Updated at 2021-10-03 02:08pm
   - [Notary Public in Lafayette, IN: Latauria Wardell](https://www.notarydepot.com/torinotary)
 
   - [Notary Public in Norfolk, VA: Toronicia Woods,CSA Title Producer](https://www.notarydepot.com/toronicia)
-
-  - [Notary Public in Albany, OR: Perla A. Torres](https://www.notarydepot.com/torresnsa)
 
   - [Notary Public in New Britain, CT: Antonio](https://www.notarydepot.com/torriola07)
 
