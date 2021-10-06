@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-10-06 10:28am
+Updated at 2021-10-06 10:48am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -8296,6 +8296,8 @@ Updated at 2021-10-06 10:28am
   - [Notary Public in Tampa, FL: Mobile Notary Solutions - Ginger](https://www.notarydepot.com/gbibiloni)
 
   - [Notary Public in Humble, TX: Gisele Boudreaux](https://www.notarydepot.com/gboudro)
+
+  - [Notary Public in Indianapolis, IN: Gordon Chube](https://www.notarydepot.com/gchube%20)
 
   - [Notary Public in Rock Hill, SC: Gloria C. Jones](https://www.notarydepot.com/gcjones)
 
