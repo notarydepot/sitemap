@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-10-06 12:28pm
+Updated at 2021-10-06 12:48pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -4510,8 +4510,6 @@ Updated at 2021-10-06 12:28pm
   - [Notaries Public in Washington](https://www.notarydepot.com/notary-near-me/Washington)
   
     - [Notary Public in Anacortes, Washington](https://www.notarydepot.com/notary-near-me/Washington/Anacortes)
-  
-    - [Notary Public in Arlington, Washington](https://www.notarydepot.com/notary-near-me/Washington/Arlington)
   
     - [Notary Public in Auburn, Washington](https://www.notarydepot.com/notary-near-me/Washington/Auburn)
   
@@ -14439,7 +14437,7 @@ Updated at 2021-10-06 12:28pm
 
   - [Notary Public in San Bernardino, CA: Sidney Findley](https://www.notarydepot.com/sidfindley)
 
-  - [Notary Public in Arlington, WA: Lourea Garka](https://www.notarydepot.com/sign)
+  - [Notary Public in Maricopa, AZ: Lourea Garka](https://www.notarydepot.com/sign)
 
   - [Notary Public in San Diego, CA: Christian Jeter](https://www.notarydepot.com/signaturenotarysd)
 
