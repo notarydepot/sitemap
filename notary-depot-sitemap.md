@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-10-07 09:28am
+Updated at 2021-10-07 09:48am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -11324,8 +11324,6 @@ Updated at 2021-10-07 09:28am
   - [Notary Public in Boise, ID: Mason Winder](https://www.notarydepot.com/masonwinder)
 
   - [Notary Public in Fall River, MA: Joseph F. Botelho](https://www.notarydepot.com/masslawya)
-
-  - [Notary Public in Charleston, SC: Derrick L. Reese](https://www.notarydepot.com/master33)
 
   - [Notary Public in Williams, AZ: Williams Mobile Notary](https://www.notarydepot.com/mastromatto)
 
