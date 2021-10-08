@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-10-08 11:08am
+Updated at 2021-10-08 11:28am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -10299,7 +10299,7 @@ Updated at 2021-10-08 11:08am
 
   - [Notary Public in Piqua, OH: Kristine Pence](https://www.notarydepot.com/kpence70)
 
-  - [Notary Public in Jacksonville, FL: Kiala Pigott](https://www.notarydepot.com/kpnotary_)
+  - [Notary Public in Jacksonville, FL: K P](https://www.notarydepot.com/kpnotary_)
 
   - [Notary Public in San Antonio, FL: Kelly Carroll](https://www.notarydepot.com/kpondillo)
 
