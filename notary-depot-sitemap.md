@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-10-10 08:28am
+Updated at 2021-10-10 08:48am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -11718,8 +11718,6 @@ Updated at 2021-10-10 08:28am
   - [Notary Public in Narberth, PA: Mary Jane Mac Rae](https://www.notarydepot.com/mjm3458)
 
   - [Notary Public in Millersville, MO: Maria Moore](https://www.notarydepot.com/mjmmobilenotary)
-
-  - [Notary Public in Ladson, SC: Michael Johnson](https://www.notarydepot.com/mjskilz1)
 
   - [Notary Public in Jacksonville, FL: Monika Campbell](https://www.notarydepot.com/mka322)
 
