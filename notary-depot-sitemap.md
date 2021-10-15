@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-10-15 02:28pm
+Updated at 2021-10-15 02:48pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -15854,8 +15854,6 @@ Updated at 2021-10-15 02:28pm
   - [Notary Public in Waco, TX: Wanda J Green](https://www.notarydepot.com/wangreenyahoocom)
 
   - [Notary Public in Lancaster, CA: Wanda Smith](https://www.notarydepot.com/wansmobilenotary)
-
-  - [Notary Public in Union City, CA: Sukhvinder S Waraich](https://www.notarydepot.com/waraichnotary)
 
   - [Notary Public in Falls Church, VA: Mary E. Warren](https://www.notarydepot.com/warren1721)
 
