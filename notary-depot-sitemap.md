@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-10-23 08:48am
+Updated at 2021-10-23 09:08am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -13422,8 +13422,6 @@ Updated at 2021-10-23 08:48am
   - [Notary Public in Palmdale, CA: Rachel Pena](https://www.notarydepot.com/rachelpena)
 
   - [Notary Public in Avondale, AZ: Rachel Cruz](https://www.notarydepot.com/rachelstellarnotaryandloansigningcom)
-
-  - [Notary Public in Wallingford, CT: My Name](https://www.notarydepot.com/raclaxton1)
 
   - [Notary Public in Santa Ana, CA: Elizabeth Torres](https://www.notarydepot.com/radicalnetworksmobilenotary)
 
