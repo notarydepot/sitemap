@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-10-22 06:28pm
+Updated at 2021-10-22 06:48pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -13423,7 +13423,7 @@ Updated at 2021-10-22 06:28pm
 
   - [Notary Public in Avondale, AZ: Rachel Cruz](https://www.notarydepot.com/rachelstellarnotaryandloansigningcom)
 
-  - [Notary Public in Wallingford, CT: Richard Claxton](https://www.notarydepot.com/raclaxton1)
+  - [Notary Public in Wallingford, CT: My Name](https://www.notarydepot.com/raclaxton1)
 
   - [Notary Public in Santa Ana, CA: Elizabeth Torres](https://www.notarydepot.com/radicalnetworksmobilenotary)
 
