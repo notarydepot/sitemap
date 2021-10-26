@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-10-26 07:08am
+Updated at 2021-10-26 07:28am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -11338,6 +11338,8 @@ Updated at 2021-10-26 07:08am
   - [Notary Public in Vallejo, CA: Matt Reustle](https://www.notarydepot.com/matt)
 
   - [Notary Public in Atlanta, GA: Matthew Dickason](https://www.notarydepot.com/mattdickason)
+
+  - [Notary Public in Chesapeake, VA: Michelle Augustus](https://www.notarydepot.com/maugustus)
 
   - [Notary Public in Wailuku, HI: Christine Ortiz](https://www.notarydepot.com/mauiskater)
 
