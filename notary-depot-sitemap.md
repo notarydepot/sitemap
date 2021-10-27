@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-10-26 08:28pm
+Updated at 2021-10-26 08:48pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -10118,6 +10118,8 @@ Updated at 2021-10-26 08:28pm
   - [Notary Public in Cordele, GA: kenya L Williamson](https://www.notarydepot.com/kenya952001)
 
   - [Notary Public in Palm City, FL: Kerry Webster](https://www.notarydepot.com/kerrywebster)
+
+  - [Notary Public in Seattle, WA: Robert T Cloud](https://www.notarydepot.com/keshihua)
 
   - [Notary Public in Stamford, CT: Youssef Khammouch](https://www.notarydepot.com/kettou2000)
 
