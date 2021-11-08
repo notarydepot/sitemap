@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-11-08 03:08pm
+Updated at 2021-11-08 03:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -7050,6 +7050,8 @@ Updated at 2021-11-08 03:08pm
   - [Notary Public in Westbury, NY: Daniel C. Jaipaul](https://www.notarydepot.com/danita46)
 
   - [Notary Public in Mahopac, NY: Dan Pearsall](https://www.notarydepot.com/danpearsall)
+
+  - [Notary Public in Oceanside, CA: Daniel Sullivan](https://www.notarydepot.com/dansullivan)
 
   - [Notary Public in Las Vegas, NV: Dante Thompson](https://www.notarydepot.com/dantethompson)
 
