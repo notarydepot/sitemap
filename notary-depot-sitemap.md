@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-11-22 06:48am
+Updated at 2021-11-22 07:08am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -12206,8 +12206,6 @@ Updated at 2021-11-22 06:48am
   - [Notary Public in Homestead, FL: Naecovia Davis](https://www.notarydepot.com/naranjanotary)
 
   - [Notary Public in Chester, VA: Betty Raymond](https://www.notarydepot.com/nascar20186)
-
-  - [Notary Public in Victoria, TX: Bobbi Brown](https://www.notarydepot.com/nascr03)
 
   - [Notary Public in Englishtown, NJ: Natalie Boss](https://www.notarydepot.com/nat0001)
 
