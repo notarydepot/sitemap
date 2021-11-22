@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-11-21 05:28pm
+Updated at 2021-11-21 05:48pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -2539,6 +2539,8 @@ Updated at 2021-11-21 05:28pm
     - [Notary Public in Aberdeen, Mississippi](https://www.notarydepot.com/notary-near-me/Mississippi/Aberdeen)
   
     - [Notary Public in Biloxi, Mississippi](https://www.notarydepot.com/notary-near-me/Mississippi/Biloxi)
+  
+    - [Notary Public in Brandon, Mississippi](https://www.notarydepot.com/notary-near-me/Mississippi/Brandon)
   
     - [Notary Public in Brookhaven, Mississippi](https://www.notarydepot.com/notary-near-me/Mississippi/Brookhaven)
   
@@ -12970,6 +12972,8 @@ Updated at 2021-11-21 05:28pm
   - [Notary Public in Casper, WY: Pamela Rw Kandt](https://www.notarydepot.com/pamelagrw)
 
   - [Notary Public in Paramount, CA: Pamela Hancock](https://www.notarydepot.com/pamelahancock)
+
+  - [Notary Public in Brandon, MS: Pamela P. Keys](https://www.notarydepot.com/pamelakeys)
 
   - [Notary Public in NJ: Pamela Van Brackle](https://www.notarydepot.com/pamh5)
 
