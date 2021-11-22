@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-11-21 04:28pm
+Updated at 2021-11-21 04:48pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -10618,6 +10618,8 @@ Updated at 2021-11-21 04:28pm
   - [Notary Public in Collinsville, MS: Leandra C. Marable](https://www.notarydepot.com/leandra)
 
   - [Notary Public in Tulsa, OK: Rebeka L Smith](https://www.notarydepot.com/leannsmith)
+
+  - [Notary Public in Plymouth, MI: Sherylette Humphrey](https://www.notarydepot.com/lea-notary)
 
   - [Notary Public in Hillside, NJ: Lemard](https://www.notarydepot.com/leclarke)
 
