@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-11-21 10:28pm
+Updated at 2021-11-21 10:48pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -19,6 +19,10 @@ Updated at 2021-11-21 10:28pm
   - [Why You Need to Hire an Appellate Specialist for Your Appeal](https://www.notarydepot.com/blog/why-you-need-to-hire-an-appellate-specialist-for-your-appeal)
 
   - [5 Powerful Tools to Grow Your Notary Business (2020 Digital Secrets)](https://www.notarydepot.com/blog/5-powerful-tools-to-grow-your-notary-business-2020-digital-secrets)
+
+  - [Important Things to Consider Before Investing in Commercial Real Estate](https://www.notarydepot.com/blog/important-things-to-consider-before-investing-in-commercial-real-estate)
+
+  - [4 Steps to Take If You’re Unhappy with a Doctor](https://www.notarydepot.com/blog/4-steps-to-take-if-youre-unhappy-with-a-doctor)
 
   - [Notary Advice Part 1: Ground Game](https://www.notarydepot.com/blog/notary-advice-part-1-ground-game)
 
