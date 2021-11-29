@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-11-29 01:48pm
+Updated at 2021-11-29 02:08pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -10471,7 +10471,7 @@ Updated at 2021-11-29 01:48pm
 
   - [Notary Public in Starke, FL: Robert William Rehberg](https://www.notarydepot.com/lakebutler52)
 
-  - [Notary Public in Lakeport, CA: Julie Richardson](https://www.notarydepot.com/lakecountynotary)
+  - [Notary Public in Lakeport, CA: Julia Richardson](https://www.notarydepot.com/lakecountynotary)
 
   - [Notary Public in Lakeland, FL: Louis](https://www.notarydepot.com/lakelandnotary)
 
