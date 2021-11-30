@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-11-30 02:08pm
+Updated at 2021-11-30 02:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -4075,8 +4075,6 @@ Updated at 2021-11-30 02:08pm
   
     - [Notary Public in El Paso, Texas](https://www.notarydepot.com/notary-near-me/Texas/El-Paso)
   
-    - [Notary Public in Floresville, Texas](https://www.notarydepot.com/notary-near-me/Texas/Floresville)
-  
     - [Notary Public in Flower Mound, Texas](https://www.notarydepot.com/notary-near-me/Texas/Flower-Mound)
   
     - [Notary Public in Fort Stockton, Texas](https://www.notarydepot.com/notary-near-me/Texas/Fort-Stockton)
@@ -5491,7 +5489,7 @@ Updated at 2021-11-30 02:08pm
 
   - [Notary Public in Atlanta, GA: Bruce Wayne Anderson](https://www.notarydepot.com/armyvet)
 
-  - [Notary Public in Floresville, TX: Faye Taylor](https://www.notarydepot.com/arnionmobile)
+  - [Notary Public in San Antonio, TX: No longer in Notary Business](https://www.notarydepot.com/arnionmobile)
 
   - [Notary Public in La Mirada, CA: Alma Rosales](https://www.notarydepot.com/arnotary77)
 
