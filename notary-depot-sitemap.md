@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-12-02 07:28am
+Updated at 2021-12-02 07:48am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -2249,6 +2249,8 @@ Updated at 2021-12-02 07:28am
     - [Notary Public in Milford Mill, Maryland](https://www.notarydepot.com/notary-near-me/Maryland/Milford-Mill)
   
     - [Notary Public in North East, Maryland](https://www.notarydepot.com/notary-near-me/Maryland/North-East)
+  
+    - [Notary Public in North Potomac, Maryland](https://www.notarydepot.com/notary-near-me/Maryland/North-Potomac)
   
     - [Notary Public in Nottingham, Maryland](https://www.notarydepot.com/notary-near-me/Maryland/Nottingham)
   
@@ -7661,7 +7663,7 @@ Updated at 2021-12-02 07:28am
 
   - [Notary Public in Maquoketa, IA: Dean Schauf](https://www.notarydepot.com/dschauf)
 
-  - [Notary Public in Gaithersburg, MD: Derek Colen](https://www.notarydepot.com/dscolen)
+  - [Notary Public in North Potomac, MD: MoCo Mobile Notary](https://www.notarydepot.com/dscolen)
 
   - [Notary Public in Castro Valley, CA: Denise Seymour](https://www.notarydepot.com/dseymour)
 
