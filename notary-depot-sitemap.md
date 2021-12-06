@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-12-06 03:28pm
+Updated at 2021-12-06 03:48pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -4625,6 +4625,8 @@ Updated at 2021-12-06 03:28pm
   
     - [Notary Public in Spokane, Washington](https://www.notarydepot.com/notary-near-me/Washington/Spokane)
   
+    - [Notary Public in Sumner, Washington](https://www.notarydepot.com/notary-near-me/Washington/Sumner)
+  
     - [Notary Public in Tacoma, Washington](https://www.notarydepot.com/notary-near-me/Washington/Tacoma)
   
     - [Notary Public in Tenino, Washington](https://www.notarydepot.com/notary-near-me/Washington/Tenino)
@@ -5291,7 +5293,7 @@ Updated at 2021-12-06 03:28pm
 
   - [Notary Public in Sarasota, FL: Andrew B. Bittle Sr.](https://www.notarydepot.com/andybittle)
 
-  - [Notary Public in Fox Island, WA: Stephanie Rowland](https://www.notarydepot.com/anewbeginningsnotary)
+  - [Notary Public in Sumner, WA: Stephanie Rowland](https://www.notarydepot.com/anewbeginningsnotary)
 
   - [Notary Public in NY: Angela Vellano](https://www.notarydepot.com/angedale)
 
