@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-12-07 01:28pm
+Updated at 2021-12-07 01:48pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -7164,8 +7164,6 @@ Updated at 2021-12-07 01:28pm
   - [Notary Public in Sunbury, PA: Denise Billow](https://www.notarydepot.com/dbillow)
 
   - [Notary Public in Waxahachie, TX: Dianna Birge](https://www.notarydepot.com/dbirge)
-
-  - [Notary Public in Carmel, IN: David Blind](https://www.notarydepot.com/dblind53)
 
   - [Notary Public in Houston, TX: DBSolutions](https://www.notarydepot.com/dbsolutions)
 
