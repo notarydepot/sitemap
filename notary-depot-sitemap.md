@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-12-07 04:08pm
+Updated at 2021-12-07 04:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -5276,6 +5276,8 @@ Updated at 2021-12-07 04:08pm
   - [Notary Public in Diamond Bar, CA: J. Bennett](https://www.notarydepot.com/anan)
 
   - [Notary Public in Anaheim, CA: Charlene Ortiz](https://www.notarydepot.com/ananotary)
+
+  - [Notary Public in Independence, MO: Ana Lopez](https://www.notarydepot.com/anasnotaryservice)
 
   - [Notary Public in Vienna, VA: Ancilma J. Peters](https://www.notarydepot.com/ancilma)
 
