@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-12-09 05:28am
+Updated at 2021-12-09 05:48am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -10434,8 +10434,6 @@ Updated at 2021-12-09 05:28am
   - [Notary Public in New Brunswick, NJ: LaChelle L. Wong](https://www.notarydepot.com/lachellew)
 
   - [Notary Public in Muncie, IN: Lacie L Marshall](https://www.notarydepot.com/laciemarshall)
-
-  - [Notary Public in Gaston, SC: Lacole Jenkins](https://www.notarydepot.com/lacole)
 
   - [Notary Public in Sterling Heights, MI: Andrea Barnes-Smith](https://www.notarydepot.com/ladiann2006)
 
