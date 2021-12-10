@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-12-09 08:48pm
+Updated at 2021-12-09 09:08pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -11094,8 +11094,6 @@ Updated at 2021-12-09 08:48pm
   - [Notary Public in Elko, NV: R. A. Lyons](https://www.notarydepot.com/lyonsent)
 
   - [Notary Public in Manchester, CT: Long Notary Services llc](https://www.notarydepot.com/lyse0822)
-
-  - [Notary Public in Detroit, MI: Latoshia Patterson](https://www.notarydepot.com/lyvettpatterson)
 
   - [Notary Public in San Fernando, CA: Maria Diaz](https://www.notarydepot.com/m1970da)
 
