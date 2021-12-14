@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-12-13 10:28pm
+Updated at 2021-12-13 10:48pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -6825,7 +6825,7 @@ Updated at 2021-12-13 10:28pm
 
   - [Notary Public in Yuba City, CA: Kandi Murray](https://www.notarydepot.com/countrysidemobile)
 
-  - [Notary Public in Beaumont, TX: Courtney M Cesear-Hite](https://www.notarydepot.com/courtneycesear-hite)
+  - [Notary Public in Beaumont, TX: Courtney M Cesear](https://www.notarydepot.com/courtneymcesear)
 
   - [Notary Public in Madison, MS: Courtney Sanders](https://www.notarydepot.com/courtneysanders)
 
