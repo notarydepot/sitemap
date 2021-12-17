@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-12-16 04:08pm
+Updated at 2021-12-16 04:28pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -14136,6 +14136,8 @@ Updated at 2021-12-16 04:08pm
   - [Notary Public in Fayette, MS: La Tonya Muhammad](https://www.notarydepot.com/sbsnotary)
 
   - [Notary Public in Houston, TX: Shari Burke](https://www.notarydepot.com/sburke)
+
+  - [Notary Public in Argyle, TX: Sylvia Burkhart](https://www.notarydepot.com/sburkhart)
 
   - [Notary Public in Minneapolis, MN: Sheena Linnea Butler](https://www.notarydepot.com/sbutler1982)
 
