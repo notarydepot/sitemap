@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-12-17 06:48am
+Updated at 2021-12-17 07:08am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -14648,8 +14648,6 @@ Updated at 2021-12-17 06:48am
   - [Notary Public in Mesa, AZ: Carl Snow](https://www.notarydepot.com/snowfire)
 
   - [Notary Public in Williamsburg, VA: Vivian Prescott](https://www.notarydepot.com/snowy6246)
-
-  - [Notary Public in Tallahassee, FL: Sharee N. Ross](https://www.notarydepot.com/snrservices)
 
   - [Notary Public in Chicago, IL: Syreeta Talbert](https://www.notarydepot.com/sntalbert)
 
