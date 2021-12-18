@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-12-18 05:48am
+Updated at 2021-12-18 06:08am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -13504,6 +13504,8 @@ Updated at 2021-12-18 05:48am
   - [Notary Public in Birdsboro, PA: Mary Walters](https://www.notarydepot.com/realestatemom2450)
 
   - [Notary Public in Austin, TX: Peter Prescott](https://www.notarydepot.com/realestatenotary)
+
+  - [Notary Public in Jackson, MS: Tami L Defrancesco](https://www.notarydepot.com/real%20estate%20notary)
 
   - [Notary Public in Los Angeles, CA: Annie](https://www.notarydepot.com/realtorex)
 
