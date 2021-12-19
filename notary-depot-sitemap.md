@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-12-19 01:08am
+Updated at 2021-12-19 01:28am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -12578,8 +12578,6 @@ Updated at 2021-12-19 01:08am
   - [Notary Public in Longview, WA: Teresa Spain](https://www.notarydepot.com/notarygal1)
 
   - [Notary Public in Anaheim, CA: Geoff H](https://www.notarydepot.com/notarygift1)
-
-  - [Notary Public in Bellevue, WA: Desiree A York ](https://www.notarydepot.com/notarygirlllc)
 
   - [Notary Public in Richmond, VA: Alicia DiMartino](https://www.notarydepot.com/notarygo2)
 
