@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-12-20 10:48am
+Updated at 2021-12-20 11:08am
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -14596,8 +14596,6 @@ Updated at 2021-12-20 10:48am
   - [Notary Public in Sacramento, CA: Shonja D Mainor](https://www.notarydepot.com/smainor)
 
   - [Notary Public in Davenport, FL: Cassandre Martin](https://www.notarydepot.com/smart1249)
-
-  - [Notary Public in Redlands, CA: Anna Zavaletta](https://www.notarydepot.com/smartchoice)
 
   - [Notary Public in Fernandina Beach, FL: Sylvie McCann](https://www.notarydepot.com/smccann)
 
