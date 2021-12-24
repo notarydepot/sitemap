@@ -1,6 +1,6 @@
 # Sitemap
 
-Updated at 2021-12-23 11:28pm
+Updated at 2021-12-23 11:48pm
 
 - [Notary Depot Sitemap on GitHub](https://github.com/notarydepot/sitemap/blob/master/notary-depot-sitemap.md)
 - [Find a Notary Public](https://www.notarydepot.com/)
@@ -12018,8 +12018,6 @@ Updated at 2021-12-23 11:28pm
   - [Notary Public in Los Angeles, CA: Yvonne Key](https://www.notarydepot.com/msbelle51)
 
   - [Notary Public in Elkton, FL: Beatrice Murray](https://www.notarydepot.com/msbnotary)
-
-  - [Notary Public in Jersey City, NJ: Earthie Daniels-Franklin](https://www.notarydepot.com/msbuddacup)
 
   - [Notary Public in Portsmouth, VA: Delores Shepherd](https://www.notarydepot.com/mscab1099)
 
